@@ -13,12 +13,12 @@ permalink: /homepage/
  
 ### Professional Profile
  
-| <br>**Yalin Liu** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks. <br> <br> **Email:** <yalin_liu0@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks. <br> <br> **Email:** <yalin_liu0@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
 
-* Jan. 2020: **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
+* Jan. 2020: **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](/homepage/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
 
 ---
 
@@ -40,27 +40,45 @@ permalink: /homepage/
 
 
 #### Journal Articles
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Teng-Yu Ji, Tian-Hui Ma, Ting-Zhu Huang, "Low-rank tensor train for tensor robust principal component
-analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 124783, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20AMC_JHYang_PCA.pdf)
+* **Y. Liu**, H. N. Dai, Q. Wang, M. K. Shukla, & M. Imran, ``Unmanned aerial vehicle for internet of everything: Opportunities and challenges,'' Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20JCAM_JHYang_RS.pdf)
+*  **Y. Liu**, H. N. Dai, H. Wang, M. Imran, X. Wang, & M. Shoaib, ``UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things,'' Computer Communications, vol. 155, pp. 184-196, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Total variation and high-order total variation adaptive model for restoring blurred images with Cauchy noise", _Journal of Computers and Mathematics with Applications_, vol. 77, pp. 1255-1272, 2019. [[PDF]](https://Jinghua-Yang.github.io/papers/19CMA_JHYang_Cauchy.pdf)[[Code]](https://github.com/uestctensorgroup/Cauchy_HTVAM)
+*  **Y. Liu**, H. N. Dai, & Q. Wang,, `` Unmanned aerial vehicle enabled communication technologies and applications for Internet of things,'' Chinese Journal on Internet of Things (Chinese), vol. 3, no. 4, pp. 48-55, December 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/China-UAVIOT.pdf)
 
-* Meng Ding, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, **Jing-Hua Yang**, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[Code]](https://MengDing56.gitHub.io/codes/GBLR.rar)
-
-* Meng Ding, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, **Jing-Hua Yang**, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation", _Journal of Scientific Computing_, vol. 81, pp. 941–964, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) [[Code]](https://MengDing56.gitHub.io/codes/MF-TTTV.rar)
-
-
-
+*  **Y. Liu**, H. N. Dai, H. Wang, M. Imran, & N. Guizani, ``Wireless Powering Internet of Things with UAVs: Challenges and Opportunities,'' IEEE Networks, Accepted in 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
 
 
 
 #### Conference Papers
 
- 
+* **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, ``Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis,'' IEEE International Conference of Communications (ICC), Montreal, Quebec, Canada, virtual conference, June 14-23, 2021.[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+
+* **Y. Liu**, H. N. Dai, Y. Peng, & H. Wang, ``Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer,'' International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]]()
+
+
+### Professional Activities
+
+#### Reviewing Activities for International Journals
+
+* 02/2021 Elsevier The Journal of the Franklin Institute 
+* 12/2020 Elsevier Ad Hoc Networks
+* 03/2020 IEEE Communication Magazine
+* 12/2019 IEEE Access
+* 08/2018 IEEE Communication Magazine
+
+#### Reviewing Activities for International Conferences
+
+* 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
+* 12/2020 IEEE Vehicular Technology Conference (VTC)
+* 04/2020 IEEE Vehicular Technology Conference (VTC)
+* 10/2019 IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
+
+
+
+
+
 ---
 
 ### Awards and Honors
@@ -69,5 +87,3 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 *  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ present
 
 ---
-
-### Reports
