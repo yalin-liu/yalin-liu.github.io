@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jinghua Yang
+title: Yalin Liu
 comments: true
 permalink: /homepage/
 
@@ -11,18 +11,28 @@ permalink: /homepage/
 
 
  
-### Biography
+### Professional Profile
  
-| <br>**Jinghua Yang** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-CN&user=LarvIwUAAAAJ)  &emsp;
+| <br>**Yalin Liu** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks. <br> <br> **Email:** <yalin_liu0@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
 
 * Jan. 2020: **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
 
+---
 
+
+### Education 
+* 09/2019-Current: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
+
+* 09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT))
+
+* 09/2013-06/2017: Bachelor of Arts in Engineering, Telecommunication Engineering, ChongQing University of Post and Telecommunications, ChongQing, China (Thesis: Research on the Affine Projection-type Adaptive Filtering Algorithms and Applications)
 
 ---
+
+
 
 ### Publications
 
@@ -53,20 +63,10 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
  
 ---
 
-### Education 
-* 09/2020-Current: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
-
-* 09/2019-06/2020: Chengdu College of University of Electronic Science and Technology of China; Teaching assistant in College of Arts and Sciences
-
-* 09/2016-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Xi-Le Zhao](https://zhaoxile.github.io/) 
-
-* 09/2012-06/2016: Taiyuan Normal University; Bachelor student in Mathematics and Applied Mathematics
-
----
-
 ### Awards and Honors
-*  First-class academic scholarship, UESTC, 2018
-*  First-class academic scholarship, UESTC, 2017
+*  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
+*  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
+*  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ present
 
 ---
 
