@@ -18,7 +18,7 @@ permalink: /homepage/
 ### News
 
 
-* Jan. 2020: **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](/homepage/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
+* Jan. 26, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, ``Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis,'' has been accepted by 2021 IEEE International Conference of Communications (ICC).[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 ---
 
@@ -83,7 +83,7 @@ permalink: /homepage/
 
 ### Awards and Honors
 *  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
-*  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
 *  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ present
+*  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
 
 ---
