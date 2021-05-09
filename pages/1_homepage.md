@@ -13,7 +13,7 @@ permalink: /homepage/
  
 ### Professional Profile
  
-<br>**Yalin Liu** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks. <br> <br> **Email:** <yalin_liu0@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
@@ -55,7 +55,7 @@ permalink: /homepage/
 
 * **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, ``Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis,'' IEEE International Conference of Communications (ICC), Montreal, Quebec, Canada, virtual conference, June 14-23, 2021.[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
-* **Y. Liu**, H. N. Dai, Y. Peng, & H. Wang, ``Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer,'' International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]]()
+* **Y. Liu**, H. N. Dai, Y. Peng, & H. Wang, ``Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer,'' International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
 
 ### Professional Activities
