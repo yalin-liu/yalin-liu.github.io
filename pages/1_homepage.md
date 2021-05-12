@@ -22,7 +22,6 @@ permalink: /homepage/
 
 ---
 
-
 ### Education 
 * 09/2019-Current: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
 
@@ -35,10 +34,6 @@ permalink: /homepage/
 
 
 ### Publications
-
-
-
-
 #### Journal Articles
 
 * **Y. Liu**, H. N. Dai, Q. Wang, M. K. Shukla, & M. Imran, ``Unmanned aerial vehicle for internet of everything: Opportunities and challenges,'' Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
