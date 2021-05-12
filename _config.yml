@@ -11,12 +11,11 @@ description: Yalin Liu
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: yalin-liu
-# permalink: /:year/:month/:day/:title/
-permalink: https://github.com/yalin-liu/yalin-academic/blob/5c18175407ea851814cd7f6d95a0a042b13068d5/pages/1_homepage.md
+permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/yalin-liu/yalin-academic/blob/5c18175407ea851814cd7f6d95a0a042b13068d5/pages/1_homepage.md
+viewsourceroot: https://github.com/yalin-liu/yalin-academic/blob/5c18175407ea851814cd7f6d95a0a042b13068d5/
 # this is the url root of the create page link on the footer page.
-# newsourceroot: https://github.com/yalin-liu/yalin-academic.gitHub.io/
+newsourceroot: https://github.com/yalin-liu/yalin-academic.gitHub.io/
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 # duoshuo_shortname: mengding
