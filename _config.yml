@@ -13,13 +13,13 @@ description: Yalin Liu
 github_username: yalin-liu
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/yalin-liu/yalin-academic/blob/64fc51f91a5656f345ad439dfdc1ae372610e231/pages/1_homepage.md
+viewsourceroot: https://github.com/yalin-liu/yalin-academic.gitHub.io/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/yangjinghua94/yangjinghua94.gitHub.io/
+newsourceroot: https://github.com/yalin-liu/yalin-academic.gitHub.io/
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-duoshuo_shortname: mengding
-duoshuo_url: "https://github.com/yangjinghua94/"
+# duoshuo_shortname: mengding
+# duoshuo_url: "https://github.com/yangjinghua94/"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 #disqus_shortname: pfzuo
 #disqus_url: "http://pfzuo.github.io"
