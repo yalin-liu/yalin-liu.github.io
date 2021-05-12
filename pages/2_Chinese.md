@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 杨晶华
+title: 刘亚林
 comments: true
 permalink: /Chinese/
 
@@ -13,14 +13,21 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**杨晶华**，2020级人工智能博士生， 资讯科技学院，澳门科技大学，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)和[陈川副教授](https://www.researchgate.net/profile/Chuan_Chen5)。 硕士就读于电子科技大学数学科学学院。目前研究方向包括数据挖掘，图像处理、张量分析，深度学习。 <br> <br> **邮箱:** <yangjinghua110@126.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp;  |
+| <br>**刘亚林**，2019级电子资讯科技博士生，资讯科技学院，澳门科技大学，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。 硕士就读于澳门科技大学资讯科技学院。目前研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络。 <br> <br> **邮箱:** <yalin_liu@foxmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  |
 
 ### 消息
 
 
-* 2020.01: 文章 **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被期刊 _**Applied Mathematical Modelling**_ 接受.
+* 2021.01: 文章 **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, [``Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis,''](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf) 被会议 2021 IEEE International Conference of Communications (ICC)接收.
 
+---
+### 教育背景
 
+* 09/2019-至今: 博士, 澳门科技大学 电子资讯科技专业 (导师: [戴宏宁教授](https://www.henrylab.net/pubtype/journal/))
+
+* 09/2017-06/2019: 硕士, 澳门科技大学 电子资讯科技专业 (导师: [戴宏宁教授](https://www.henrylab.net/pubtype/journal/)) 
+
+* 09/2013-06/2017: 本科, 重庆邮电大学 通信工程专业
 
 ---
 
@@ -28,42 +35,46 @@ permalink: /Chinese/
 
 
 #### 期刊 (发表)
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[全文]](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Teng-Yu Ji, Tian-Hui Ma, Ting-Zhu Huang, "Low-rank tensor train for tensor robust principal component analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 124783, 2020. [[全文]](https://Jinghua-Yang.github.io/papers/20AMC_JHYang_PCA.pdf)
+* **Y. Liu**, H. N. Dai, Q. Wang, M. K. Shukla, & M. Imran, ``Unmanned aerial vehicle for internet of everything: Opportunities and challenges,'' Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[全文]](https://Jinghua-Yang.github.io/papers/20JCAM_JHYang_RS.pdf)
+*  **Y. Liu**, H. N. Dai, H. Wang, M. Imran, X. Wang, & M. Shoaib, ``UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things,'' Computer Communications, vol. 155, pp. 184-196, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Total variation and high-order total variation adaptive model for restoring blurred images with Cauchy noise", _Journal of Computers and Mathematics with Applications_, vol. 77, pp. 1255-1272, 2019. [[全文]](https://Jinghua-Yang.github.io/papers/19CMA_JHYang_Cauchy.pdf)
+*  **刘亚林**, 戴弘宁, & 王曲北剑, `` 无人机辅助的物联网通信技术及其应用,'' 物联网学报（中国）, 第3卷, 第四期, pp. 48-55, 2019年12月. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/China-UAVIOT.pdf)
 
-* Meng Ding, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, **Jing-Hua Yang**, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[全文] (https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[代码]](https://MengDing56.gitHub.io/codes/GBLR.rar)
-
-* Meng Ding, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, **Jing-Hua Yang**, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation", _Journal of Scientific Computing_, vol. 81, pp. 941–964, 2020. [[全文]](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) [[代码]](https://MengDing56.gitHub.io/codes/MF-TTTV.rar)
-
-
-
-
-
+*  **Y. Liu**, H. N. Dai, H. Wang, M. Imran, & N. Guizani, ``Wireless Powering Internet of Things with UAVs: Challenges and Opportunities,'' IEEE Networks, Accepted in 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
  
 ---
 
-### 教育背景
+#### 会议文章
 
-* 09/2020-至今: 博士, 澳门科技大学 人工智能专业 (导师: [戴宏宁教授](https://www.henrylab.net/pubtype/journal/))
+* **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, ``Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis,'' IEEE International Conference of Communications (ICC), Montreal, Quebec, Canada, virtual conference, June 14-23, 2021.[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
-* 09/2019-06/2020: 助教, 电子科技大学成都学院 
+* **Y. Liu**, H. N. Dai, Y. Peng, & H. Wang, ``Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer,'' International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
-* 09/2016-06/2019: 硕士, 电子科技大学 数学专业 (导师: [赵熙乐教授](https://zhaoxile.github.io/))
 
-* 09/2012-06/2016: 本科, 太原师范学院 数学与应用数学专业
+### 学术活动
+
+#### 国际期刊审稿
+
+* 02/2021 Elsevier The Journal of the Franklin Institute 
+* 12/2020 Elsevier Ad Hoc Networks
+* 03/2020 IEEE Communication Magazine
+* 12/2019 IEEE Access
+* 08/2018 IEEE Communication Magazine
+
+#### 国际会议审稿
+
+* 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
+* 12/2020 IEEE Vehicular Technology Conference (VTC)
+* 04/2020 IEEE Vehicular Technology Conference (VTC)
+* 10/2019 IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
 
 ---
 
-### 获奖情况
-
-*  一等学业奖学金  电子科技大学  2018
-
-*  一等学业奖学金  电子科技大学  2017
+### 荣誉获奖
+*  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
+*  博士全额奖学金, 澳门科技大学, 2019年9月 ~ 现在
+*  硕士全额讲学近, 澳门科技大学, 2017年9月 ~ 2019年6月
 
 ---
-
