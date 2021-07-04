@@ -13,7 +13,7 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**刘亚林**，2019级电子资讯科技博士生，资讯科技学院，澳门科技大学，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。 硕士就读于澳门科技大学资讯科技学院。目前研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络。 <br> <br> **邮箱:** <yalin_liu@foxmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
+| <br>**刘亚林**，本科毕业于重庆邮电大学，2017届通信工程专业毕业生；硕士毕业于澳门科技大学，2019届电子资讯科技专业毕业生；现为2019级澳门科技大学资讯科技学院的电子资讯科技专业博士生，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。目前研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络。 <br> <br> **邮箱:** <yalin_liu@foxmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
 
 ### 消息
 
