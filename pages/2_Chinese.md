@@ -21,9 +21,9 @@ permalink: /Chinese/
 
 * 2021.08: 文章 王曲北剑，**刘亚林**，戴弘宁，M. Imran，和 N. Nasser，[“空中之耳：防止空中窃听的地面移动干扰（英文版）”] 被会议 2021 IEEE Global Communications Conference (GlobeCom)接收. 
 
-* 06/2021 被邀请成为IEEE国际会议(WCNC)的TPC chair
+* 2021.06: 被邀请成为IEEE国际会议(WCNC)的TPC chair
 
-* 06/2021 被邀请成为IEEE国际会议(VTC)的TPC chair
+* 2021.06: 被邀请成为IEEE国际会议(VTC)的TPC chair
 
 * 2021.01：文章 **刘亚林**，戴弘宁，M. Imran，和 N. Nasser，[“地对无人机通信网络：基于随机几何的性能分析（英文版）”](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf) 被会议 2021 IEEE International Conference of Communications (ICC)接收.
 
