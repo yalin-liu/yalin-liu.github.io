@@ -15,8 +15,15 @@ permalink: /Chinese/
  
 | <br>**刘亚林**，本科毕业于重庆邮电大学，2017届通信工程专业毕业生；硕士毕业于澳门科技大学，2019届电子资讯科技专业毕业生；现为2019级澳门科技大学资讯科技学院的电子资讯科技专业博士生，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。目前研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络。 <br> <br> **邮箱:** <yalin_liu@foxmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
 
-### 消息
+### 最新动态
 
+* 2021.08: 文章 **刘亚林**，戴弘宁，和 N. zhang，[“非地面网络中无人机对卫星通信的连接性分析（英文版）”] 被会议 2021 IEEE Global Communications Conference (GlobeCom)接收. 
+
+* 2021.08: 文章 王曲北剑，**刘亚林**，戴弘宁，M. Imran，和 N. Nasser，[“空中之耳：防止空中窃听的地面移动干扰（英文版）”] 被会议 2021 IEEE Global Communications Conference (GlobeCom)接收. 
+
+* 06/2021 被邀请成为IEEE国际会议(WCNC)的TPC chair
+
+* 06/2021 被邀请成为IEEE国际会议(VTC)的TPC chair
 
 * 2021.01：文章 **刘亚林**，戴弘宁，M. Imran，和 N. Nasser，[“地对无人机通信网络：基于随机几何的性能分析（英文版）”](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf) 被会议 2021 IEEE International Conference of Communications (ICC)接收.
 
@@ -47,6 +54,10 @@ permalink: /Chinese/
 ---
 
 #### 会议文章
+
+* **刘亚林**，戴弘宁，和 N. zhang，“非地面网络中无人机对卫星通信的连接性分析（英文版），” IEEE国际通信会议（GlobeCom），西班牙马德里，在线会议，2021年12月7日至11日。
+
+* 王曲北剑，**刘亚林**，戴弘宁，M. Imran，和 N. Nasser，“空中之耳：防止空中窃听的地面移动干扰（英文版），” IEEE国际通信会议（GlobeCom），西班牙马德里，在线会议，2021年12月7日至11日。
 
 * **刘亚林**，戴弘宁，M. Imran，和 N. Nasser，“地对无人机通信网络：基于随机几何的性能分析（英文版），” IEEE国际通信会议（ICC），加拿大魁北克蒙特利尔，在线会议，2021年6月14日至23日。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
