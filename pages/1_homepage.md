@@ -17,11 +17,15 @@ permalink: /homepage/
 
 ### News
 
-* August 17, **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Selected Areas in Communications: Aerial Communications.
+* August 17, 2021, **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Selected Areas in Communications: Aerial Communications.
 
-* August 17, Q. Wang, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Communication QoS, Reliability and Modeling - Communication QoS, Reliability and Modeling.
+* August 17, 2021, Q. Wang, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Communication QoS, Reliability and Modeling - Communication QoS, Reliability and Modeling.
 
-* Jan. 26, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis," has been accepted by 2021 IEEE International Conference of Communications (ICC).[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* June 2021, Served as the TPC chair of IEEE Wireless Communications and Networking Conference (WCNC)
+
+* June 2021, Served as the TPC chair of IEEE Vehicular Technology Conference (VTC)
+
+* Jan. 26, 2021, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis," has been accepted by 2021 IEEE International Conference of Communications (ICC).[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 ---
 
