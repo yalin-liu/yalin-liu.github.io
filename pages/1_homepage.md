@@ -68,6 +68,7 @@ permalink: /homepage/
 
 #### Reviewing Activities for International Journals
 
+* 10/2021 IEEE Internet of Things Journal
 * 02/2021 Elsevier The Journal of the Franklin Institute 
 * 12/2020 Elsevier Ad Hoc Networks
 * 03/2020 IEEE Communication Magazine
