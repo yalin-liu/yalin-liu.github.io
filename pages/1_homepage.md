@@ -17,7 +17,7 @@ permalink: /homepage/
 
 ### News
 
-* Jan. 3, 2022, Working as research assistant at the Education University of Hong Kong. 
+* Jan. 3, 2022, Working as a **research assistant** at the Education University of Hong Kong, responsible for parameter adjustment and implementation of a DNN-based Emotion Classification project. 
 
 * August 17, 2021, **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Selected Areas in Communications: Aerial Communications.
 
@@ -40,14 +40,19 @@ permalink: /homepage/
 
 ---
 
+### Research Projects
 
-
+* 09/2017 - 10/2017, **Master Student**\\
+		PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund,	"Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", under Project Reference No.: 0096/2013/A3.
+* 10/2018 - present, **Ph.D. Student**\\
+		PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund,	"Key Technologies to Enable Ultra Dense Wireless Networks", under Project Reference No.: 0026/2018/A1.
+		
 
 
 ### Publications
 #### Journal Articles
 
-* **Y. Liu**, Q, Wang, H. N. Dai, Y. Fu, & N. Zhang, ''UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions,'' submitted to IEEE Transaction on Wireless Communications, 2022.
+* **Y. Liu**, Q, Wang, H. N. Dai, Y. Fu, & N. Zhang, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," submitted to IEEE Transaction on Wireless Communications, 2022.
 
 * **Y. Liu**, H. N. Dai, Q. Wang, M. K. Shukla, & M. Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
 
