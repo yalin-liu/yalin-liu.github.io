@@ -13,9 +13,11 @@ permalink: /homepage/
  
 ### Professional Profile
  
-<br>**Yalin Liu** received the B.S. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** received the B.S. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. She also works as a research assistant at the Education University of Hong Kong. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
+
+* Jan. 3, 2022, Working as research assistant at the Education University of Hong Kong. 
 
 * August 17, 2021, **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Selected Areas in Communications: Aerial Communications.
 
@@ -30,7 +32,7 @@ permalink: /homepage/
 ---
 
 ### Education 
-* 09/2019-Current: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
+* 09/2019-Present: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
 
 * 09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
 
@@ -40,8 +42,12 @@ permalink: /homepage/
 
 
 
+
+
 ### Publications
 #### Journal Articles
+
+* **Y. Liu**, Q, Wang, H. N. Dai, Y. Fu, & N. Zhang, ''UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions,'' submitted to IEEE Transaction on Wireless Communications, 2022.
 
 * **Y. Liu**, H. N. Dai, Q. Wang, M. K. Shukla, & M. Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
 
@@ -55,9 +61,9 @@ permalink: /homepage/
 
 #### Conference Papers
 
-* **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.
+* **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.
 
-* Q. Wang, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.
+* Q. Wang, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.
 
 * **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis," IEEE International Conference of Communications (ICC), Montreal, Quebec, Canada, virtual conference, June 14-23, 2021.[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
