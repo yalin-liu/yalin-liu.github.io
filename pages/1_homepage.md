@@ -47,7 +47,7 @@ permalink: /homepage/
 * 10/2018 - present, **Ph.D. Student**\\
 		PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund,	"Key Technologies to Enable Ultra Dense Wireless Networks", under Project Reference No.: 0026/2018/A1.
 		
-
+---
 
 ### Publications
 #### Journal Articles
