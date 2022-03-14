@@ -66,7 +66,7 @@ permalink: /homepage/
 
 #### Conference Papers
 
-* **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.[[PDF]](papers/A2S GloCom.pdf)
+* **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
 * Q. Wang, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.
 
