@@ -86,8 +86,8 @@ permalink: /Chinese/
 
 #### 国际会议审稿
 
-* 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC chair
-* 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC chair
+* 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
+* 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
 * 12/2020 IEEE Vehicular Technology Conference (VTC)
 * 04/2020 IEEE Vehicular Technology Conference (VTC)
