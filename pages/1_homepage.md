@@ -13,9 +13,11 @@ permalink: /homepage/
  
 ### Professional Profile
  
-<br>**Yalin Liu** received the B.S. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. She also works as a research assistant at the Education University of Hong Kong. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** received the B.S. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as a lecturer at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
+
+* June 20, 2022, Working as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
 
 * Jan. 3, 2022, Working as a **research assistant** at the Education University of Hong Kong, responsible for parameter adjustment and implementation of a DNN-based Emotion Classification project. 
 
@@ -32,6 +34,7 @@ permalink: /homepage/
 ---
 
 ### Education 
+
 * 09/2019-Present: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
 
 * 09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
