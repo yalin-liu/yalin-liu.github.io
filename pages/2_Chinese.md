@@ -13,9 +13,11 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**刘亚林**，本科毕业于重庆邮电大学，2017届通信工程专业毕业生；硕士毕业于澳门科技大学，2019届电子资讯科技专业毕业生；现为2019级澳门科技大学资讯科技学院的电子资讯科技专业博士生，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。她现在也是香港教育大学的一名科研助理，负责基于DNN的情感分类项目的模型训练和实现。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <yalin_liu@foxmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
+| <br>**刘亚林**，本科毕业于重庆邮电大学，2017届通信工程专业毕业生；硕士毕业于澳门科技大学，2019届电子资讯科技专业毕业生；现为2019级澳门科技大学资讯科技学院的电子资讯科技专业博士生，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。2021年1月至2021年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2021年6月起任香港都会大学科技学院讲师。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <yalin_liu@foxmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
 
 ### 最新动态
+
+* 2022.06, 入职香港都会大学的讲师. 
 
 * 2022.01, 入职香港教育大学的科研助理，负责基于DNN的情感分类项目的模型训练和实现. 
 
