@@ -22,11 +22,11 @@ permalink: /Chinese/
 ---
 ### 教育背景
 
-* 09/2019-至今：博士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/))；毕业论文：无人机辅助远程物联网的通信。
+* 09/2019-至今：理学博士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/))；毕业论文：无人机辅助远程物联网的通信。
 
-* 09/2017-06/2019：硕士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)) ；毕业论文：无人机赋能物联网 (UeIoT))。 [[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
+* 09/2017-06/2019：理学硕士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)) ；毕业论文：无人机赋能物联网 (UeIoT))。 [[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
 
-* 09/2013-06/2017：本科, 重庆邮电大学 通信工程专业；毕业论文：关于投影仿射自适应滤波算法的设计和应用研究。[[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
+* 09/2013-06/2017：工学学士, 重庆邮电大学 通信工程专业；毕业论文：关于投影仿射自适应滤波算法的设计和应用研究。[[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
 
 ---
 
