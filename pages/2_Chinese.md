@@ -13,28 +13,16 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**刘亚林**，本科毕业于重庆邮电大学，2017届通信工程专业毕业生；硕士毕业于澳门科技大学，2019届电子资讯科技专业毕业生；现为2019级澳门科技大学资讯科技学院的电子资讯科技专业博士生，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。2021年1月至2021年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2021年6月起任香港都会大学科技学院讲师。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <yalin_liu@foxmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
+| <br>**刘亚林**，本科毕业于重庆邮电大学，2017届通信工程专业毕业生；硕士毕业于澳门科技大学，2019届电子资讯科技专业毕业生；现为2019级澳门科技大学资讯科技学院的电子资讯科技专业博士生，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。2021年1月至2021年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2022年6月起任香港都会大学科技学院讲师。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <yalinliuliuliu@gmail.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
 
 ### 最新动态
 
 * 2022.06, 入职香港都会大学的讲师. 
 
-* 2022.01, 入职香港教育大学的科研助理，负责基于DNN的情感分类项目的模型训练和实现. 
-
-* 2021.08: 文章 **刘亚林**，戴弘宁，和 N. zhang，[“非地面网络中无人机对卫星通信的连接性分析（英文版）”] 被会议 2021 IEEE Global Communications Conference (GlobeCom)接收. 
-
-* 2021.08: 文章 王曲北剑，**刘亚林**，戴弘宁，M. Imran，和 N. Nasser，[“空中之耳：防止空中窃听的地面移动干扰（英文版）”] 被会议 2021 IEEE Global Communications Conference (GlobeCom)接收. 
-
-* 2021.06: 被邀请成为IEEE国际会议(WCNC)的TPC chair
-
-* 2021.06: 被邀请成为IEEE国际会议(VTC)的TPC chair
-
-* 2021.01：文章 **刘亚林**，戴弘宁，M. Imran，和 N. Nasser，[“地对无人机通信网络：基于随机几何的性能分析（英文版）”](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf) 被会议 2021 IEEE International Conference of Communications (ICC)接收.
-
 ---
 ### 教育背景
 
-* 09/2019-至今：博士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/))
+* 09/2019-至今：博士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/))；毕业论文：无人机辅助远程物联网的通信。
 
 * 09/2017-06/2019：硕士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)) ；毕业论文：无人机赋能物联网 (UeIoT))。 [[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
 
@@ -44,6 +32,7 @@ permalink: /Chinese/
 
 ### 研究项目
 
+* 2022.01 - 2022.05， **科研助理**，参与香港教育大学技术转移项目2021/22，“通过深度神经网络促进基于非侵入式学习器的情绪分类”。
 * 2017.09 - 2017.10, **硕士研究生**，参与澳门科技发展基金项目，“大型无线自组网：性能分析与性能改进”，项目编号：0096/2013/A3。
 * 10/2018 - 现在, **博士研究生**，参与澳门科技发展基金项目，“实现超密集无线网络的关键技术”，项目编号：0026/2018/A1。
 
@@ -54,31 +43,33 @@ permalink: /Chinese/
 
 #### 期刊 (发表)
 
-* **刘亚林**，戴弘宁，王曲北剑，M. K. Shukla，和 M. Imran，“无人机赋能万物互联：机遇和挑战（英文），” 计算机通信（Computer Communications），第155卷，pp. 66-83，2020年3月。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
+*  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，“基于无人机的无线供能式物联网：机遇和挑战（英文），” IEEE Networks (SCI IF=10.692 in 2020, JCR Q1 in 2021)，第36卷，第2期，pp. 146-152，2022年三月/四月, doi: 10.1109/MNET.013.2000385。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
 
-*  **刘亚林**，戴弘宁，王皓, M. Imran，X. Wang，和 M. Shoaib，“面对物联网场景下基于无人机的无线供能式数据采集方案（英文），” 计算机通信（Computer Communications），第155卷，pp. 184-196，2020年3月。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
+* 车奥林， **刘亚林**, Hong Xiao, 王皓, Ke Zhang, 和 戴弘宁，“增强数据选择器发起基于文本的验证码攻击（英文）”，Security and Communication Networks, 卷 2021，2021年, doi：10.1155/2021/9930608。
+* 
+* **刘亚林**，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，“无人机赋能万物互联：机遇和挑战（英文），” 计算机通信（Computer Communications），第155卷，pp. 66-83，2020年3月。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
+
+*  **刘亚林**，戴弘宁，王皓, Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，“面对物联网场景下基于无人机的无线供能式数据采集方案（英文），” 计算机通信（Computer Communications），第155卷，pp. 184-196，2020年3月, doi: 10.1016/j.comcom.2020.03.020。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
 
 *  **刘亚林**，戴弘宁，和 王曲北剑，“无人机辅助的物联网通信技术及其应用，” 物联网学报（中国），第3卷，第四期，pp. 48-55，2019年12月。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/China-UAVIOT.pdf)
-
-*  **刘亚林**，戴弘宁，王皓，M. Imran，和 N. Guizani，“基于无人机的无线供能式物联网：机遇和挑战（英文），” IEEE Networks，于2020年接收。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
  
 ---
 
 #### 会议文章
 
-* **刘亚林**，戴弘宁，和 N. zhang，“非地面网络中无人机对卫星通信的连接性分析（英文版），” IEEE国际通信会议（GlobeCom），西班牙马德里，在线会议，2021年12月7日至11日。[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **刘亚林**，戴弘宁，和 Ning zhang，“非地面网络中无人机对卫星通信的连接性分析（英文版），” IEEE国际通信会议（GlobeCom），西班牙马德里，在线会议，2021年12月7日至11日, doi: 10.1109/GLOBECOM46510.2021.9685811。[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
-* 王曲北剑，**刘亚林**，戴弘宁，M. Imran，和 N. Nasser，“空中之耳：防止空中窃听的地面移动干扰（英文版），” IEEE国际通信会议（GlobeCom），西班牙马德里，在线会议，2021年12月7日至11日。
+* 王曲北剑，**刘亚林**，戴弘宁，Muhammad Imran，和 Nidal Nasser，“空中之耳：防止空中窃听的地面移动干扰（英文版），” IEEE国际通信会议（GlobeCom），西班牙马德里，在线会议，2021年12月7日至11日, doi: 10.1109/GLOBE-COM46510.2021.9685471。
 
-* **刘亚林**，戴弘宁，M. Imran，和 N. Nasser，“地对无人机通信网络：基于随机几何的性能分析（英文版），” IEEE国际通信会议（ICC），加拿大魁北克蒙特利尔，在线会议，2021年6月14日至23日。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **刘亚林**，戴弘宁，Muhammad Imran，和 Nidal Nasser，“地对无人机通信网络：基于随机几何的性能分析（英文版），” IEEE国际通信会议（ICC），加拿大魁北克蒙特利尔，在线会议，2021年6月14日至23日, doi: 10.1109/ICC42927.2021.9500746。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 * **刘亚林**，戴弘宁，彭宇阳，和 王皓，“海报：带定向无线能量传输的支持无人机的数据采集方案”，嵌入式无线系统和网络国际会议（EWSN），中国北京，2019年2月25日至27日。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
-
 
 ### 学术活动
 
 #### 国际期刊审稿
 
+* 05/2022 Information Processing and Management
 * 10/2021 IEEE Internet of Things Journal
 * 02/2021 Elsevier The Journal of the Franklin Institute 
 * 12/2020 Elsevier Ad Hoc Networks
