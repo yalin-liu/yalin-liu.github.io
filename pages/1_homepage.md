@@ -13,17 +13,17 @@ permalink: /homepage/
  
 ### Professional Profile
  
-<br>**Yalin Liu** received the B.S. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as a lecturer at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as a lecturer at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
-* June 20, 2022, Working as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
+* June 20, 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
 
 ---
 
 ### Education 
 
-* 09/2019-Present: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
+* 09/2019-Present: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/)); Thesis: Unmanned Aerial Vehicle-assisted Communications for Internet of Remote Things. 
 
 * 09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
 
@@ -32,6 +32,9 @@ permalink: /homepage/
 ---
 
 ### Research Projects
+
+* 01/2022 - 5/2022, **Research Assistant**\\
+		PI is Dr. ZOU Di, the Education University of Hong Kong, Konwledge Transfer Funds 2021/22, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks".
 
 * 09/2017 - 10/2017, **Master Student**\\
 		PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund,	"Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", under Project Reference No.: 0096/2013/A3.
@@ -43,33 +46,33 @@ permalink: /homepage/
 ### Publications
 #### Journal Articles
 
-* **Y. Liu**, Q, Wang, H. N. Dai, Y. Fu, & N. Zhang, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," submitted to IEEE Transaction on Wireless Communications, 2022.
+* **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1 in 2021), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
 
-* **Y. Liu**, H. N. Dai, Q. Wang, M. K. Shukla, & M. Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
+* Aolin Che, **Yalin Liu**, Hong Xiao, Hao Wang, Ke Zhang, & Hong-Ning Dai, "Augmented data selector to initiate text-based CAPTCHA attack", Security and Communication Networks (SCI IF=1.791 in 2020, JCR Q4 in 2021), vol. 2021, 2021, doi: 10.1155/2021/9930608.
 
-*  **Y. Liu**, H. N. Dai, H. Wang, M. Imran, X. Wang, & M. Shoaib, "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things," Computer Communications, vol. 155, pp. 184-196, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
+* **Yalin Liu**, HongNing. Dai, Qubeijian Wang, Mahendra K. Shukla, & Muhammad Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
 
-*  **Y. Liu**, H. N. Dai, & Q. Wang,, "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things," Chinese Journal on Internet of Things (Chinese), vol. 3, no. 4, pp. 48-55, December 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/China-UAVIOT.pdf)
+*  **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, Xiaofen. Wang, & Muhammad Shoaib, "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things," Computer Communications, vol. 155, pp. 184-196, March 2020, doi: 10.1016/j.comcom.2020.03.020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
 
-*  **Y. Liu**, H. N. Dai, H. Wang, M. Imran, & N. Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Networks, Accepted in 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
-
+*  **Yalin Liu**, HongNing Dai, & Qubeijian Wang, "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things," Chinese Journal on Internet of Things (Chinese), vol. 3, no. 4, pp. 48-55, December 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/China-UAVIOT.pdf)
 
 
 #### Conference Papers
 
-* **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **Yalin Liu**, HongNing Dai, & Ning Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (GlobeCom) **(EI and CCF C conference)**, Madrid, Spain, virtual conference, 7-11 December 2021, doi: 10.1109/GLOBECOM46510.2021.9685811..[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
-* Q. Wang, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," IEEE Global Communications Conference (GlobeCom), Madrid, Spain, virtual conference, 7-11 December 2021.
+* Qubeijian Wang, **Yalin Liu**, HongNing Dai, Muhammad Imran, & Nidal Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," IEEE Global Communications Conference (GlobeCom) **(EI and CCF C conference)**, Madrid, Spain, virtual conference, 7-11 December 2021, doi: 10.1109/GLOBE-COM46510.2021.9685471..
 
-* **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis," IEEE International Conference of Communications (ICC), Montreal, Quebec, Canada, virtual conference, June 14-23, 2021.[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **Yalin Liu**, HongNing Dai, Muhammad Imran, & Nidal Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis," IEEE International Conference of Communications (ICC) **(EI and CCF C conference)**, Montreal, Quebec, Canada, virtual conference, June 14-23, 2021, doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
-* **Y. Liu**, H. N. Dai, Y. Peng, & H. Wang, "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer," International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
+* **Yalin Liu**, HongNing Dai, Yuyang Peng, & Hao Wang, "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer," International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
 
 ### Professional Activities
 
 #### Reviewing Activities for International Journals
 
+* 05/2022 Information Processing and Management
 * 10/2021 IEEE Internet of Things Journal
 * 02/2021 Elsevier The Journal of the Franklin Institute 
 * 12/2020 Elsevier Ad Hoc Networks
