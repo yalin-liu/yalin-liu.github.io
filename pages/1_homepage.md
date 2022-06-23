@@ -13,23 +13,11 @@ permalink: /homepage/
  
 ### Professional Profile
  
-<br>**Yalin Liu** received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as a lecturer at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** received the B.S. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as a lecturer at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalin_liu@foxmail.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
 * June 20, 2022, Working as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
-
-* Jan. 3, 2022, Working as a **research assistant** at the Education University of Hong Kong, responsible for parameter adjustment and implementation of a DNN-based Emotion Classification project. 
-
-* August 17, 2021, **Y. Liu**, H. N. Dai, & N. Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Selected Areas in Communications: Aerial Communications.
-
-* August 17, 2021, Q. Wang, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," has been accepted by 2021 IEEE Global Communications Conference (GlobeCom), Communication QoS, Reliability and Modeling - Communication QoS, Reliability and Modeling.
-
-* June, 2021, Served as the TPC chair of IEEE Wireless Communications and Networking Conference (WCNC)
-
-* June, 2021, Served as the TPC chair of IEEE Vehicular Technology Conference (VTC)
-
-* Jan. 26, 2021, **Y. Liu**, H. N. Dai, M. Imran, & N. Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis," has been accepted by 2021 IEEE International Conference of Communications (ICC).[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 ---
 
