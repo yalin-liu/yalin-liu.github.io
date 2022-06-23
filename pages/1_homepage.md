@@ -48,7 +48,7 @@ permalink: /homepage/
 
 * **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1 in 2021), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
 
-* Aolin Che, **Yalin Liu**, Hong Xiao, Hao Wang, Ke Zhang, & Hong-Ning Dai, "Augmented data selector to initiate text-based CAPTCHA attack", Security and Communication Networks (SCI IF=1.791 in 2020, JCR Q4 in 2021), vol. 2021, 2021, doi: 10.1155/2021/9930608.
+* Aolin Che, **Yalin Liu**, Hong Xiao, Hao Wang, Ke Zhang, & Hong-Ning Dai, "Augmented data selector to initiate text-based CAPTCHA attack", Security and Communication Networks, vol. 2021, 2021, doi: 10.1155/2021/9930608.
 
 * **Yalin Liu**, HongNing. Dai, Qubeijian Wang, Mahendra K. Shukla, & Muhammad Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
 
