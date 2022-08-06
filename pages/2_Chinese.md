@@ -46,7 +46,7 @@ permalink: /Chinese/
 *  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，“基于无人机的无线供能式物联网：机遇和挑战（英文），” IEEE Networks (SCI IF=10.692 in 2020, JCR Q1 in 2021)，第36卷，第2期，pp. 146-152，2022年三月/四月, doi: 10.1109/MNET.013.2000385。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
 
 * 车奥林， **刘亚林**, Hong Xiao, 王皓, Ke Zhang, 和 戴弘宁，“增强数据选择器发起基于文本的验证码攻击（英文）”，Security and Communication Networks, 卷 2021，2021年, doi：10.1155/2021/9930608。
-* 
+
 * **刘亚林**，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，“无人机赋能万物互联：机遇和挑战（英文），” 计算机通信（Computer Communications），第155卷，pp. 66-83，2020年3月。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
 
 *  **刘亚林**，戴弘宁，王皓, Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，“面对物联网场景下基于无人机的无线供能式数据采集方案（英文），” 计算机通信（Computer Communications），第155卷，pp. 184-196，2020年3月, doi: 10.1016/j.comcom.2020.03.020。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
