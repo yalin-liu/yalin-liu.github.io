@@ -81,6 +81,7 @@ permalink: /Chinese/
 
 * 08/2022 2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
+* 08/2022 The 9th International Conference on Behavioural and Social Computing - PC member
 * 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
