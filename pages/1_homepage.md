@@ -17,6 +17,7 @@ permalink: /homepage/
 
 ### News
 
+* 30 Aug., 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invertion "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
 * June 20, 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
 
 ---
@@ -85,7 +86,7 @@ permalink: /homepage/
 
 * 08/2022 2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
-* 08/2022 The 9th International Conference on Behavioural and Social Computing - PC member
+* 08/2022 The 9th International Conference on Behavioural and Social Computing
 * 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
@@ -97,6 +98,7 @@ permalink: /homepage/
 ---
 
 ### Awards and Honors
+*  Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", Gold Medal/Jury's Choice Award/Special Award, the 7th International Invention Innovation Competition in Canada (iCAN 2022), 2022.
 *  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
 *  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ present
 *  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
