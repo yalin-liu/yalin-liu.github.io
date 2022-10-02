@@ -17,6 +17,7 @@ permalink: /Chinese/
 
 ### 最新动态
 
+* 2022 年 8 月 30 日，荣获金奖/评审团选择奖/特别奖，获奖作品为“Dr Zou Di （香港教育大学教授）、刘亚林（香港教育大学科研助理），基于非侵入式学习者数据促进情绪分类”，加拿大第七届国际发明创新大赛（iCAN 2022）.
 * 2022.06, 入职香港都会大学的讲师. 
 
 ---
@@ -81,7 +82,7 @@ permalink: /Chinese/
 
 * 08/2022 2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
-* 08/2022 The 9th International Conference on Behavioural and Social Computing - PC member
+* 08/2022 The 9th International Conference on Behavioural and Social Computing
 * 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
@@ -92,6 +93,7 @@ permalink: /Chinese/
 ---
 
 ### 荣誉获奖
+*  Dr Zou Di（香港教育大学教授）、刘亚林（香港教育大学科研助理），“通过深度神经网络促进基于非侵入性学习者数据的情绪分类”，金奖/评审团选择奖/特别奖，第七届国际发明加拿大创新大赛 (iCAN 2022)， 2022
 *  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
 *  博士全额奖学金，澳门科技大学，2019年9月 ~ 现在
 *  硕士全额奖学金，澳门科技大学，2017年9月 ~ 2019年6月
