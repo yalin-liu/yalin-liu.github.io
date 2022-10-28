@@ -13,19 +13,20 @@ permalink: /Chinese/
  
 ### 简介
  
-<br>**刘亚林**，本科毕业于重庆邮电大学，2017届通信工程专业毕业生；硕士毕业于澳门科技大学，2019届电子资讯科技专业毕业生；现为2019级澳门科技大学资讯科技学院的电子资讯科技专业博士生，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)。2021年1月至2021年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2022年6月起任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <yalinliuliuliu@gmail.com> / <ylliu@hkmu.edu.hk> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
+<br>**刘亚林**，本科（通信工程）毕业于重庆邮电大学，2017；硕士（资讯科技）毕业于澳门科技大学，2019；博士（电子资讯科技）毕业于澳门科技大学，2022。2022年1月至2022年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2022年6月起任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <yalinliuliuliu@gmail.com> / <ylliu@hkmu.edu.hk> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;  
 
 ### 最新动态
 
+* 2022 年 10 月 20 日，获澳门科技大学博士毕业证书.
 * 2022 年 8 月 30 日，荣获金奖/评审团选择奖/特别奖，获奖作品为“Dr Zou Di （香港教育大学教授）、刘亚林（香港教育大学科研助理），基于非侵入式学习者数据促进情绪分类”，加拿大第七届国际发明创新大赛（iCAN 2022）.
 * 2022.06, 入职香港都会大学的讲师. 
 
 ---
 ### 教育背景
 
-* 09/2019-至今：理学博士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/))；毕业论文：无人机辅助远程物联网的通信。
+* 09/2019-10/2022：理学博士，澳门科技大学, 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/))；毕业论文：无人机辅助远程物联网的通信。
 
-* 09/2017-06/2019：理学硕士，澳门科技大学 电子资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)) ；毕业论文：无人机赋能物联网 (UeIoT))。 [[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
+* 09/2017-06/2019：理学硕士，澳门科技大学, 资讯科技专业 (导师：[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)) ；毕业论文：无人机赋能物联网 (UeIoT))。 [[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
 
 * 09/2013-06/2017：工学学士, 重庆邮电大学 通信工程专业；毕业论文：关于投影仿射自适应滤波算法的设计和应用研究。[[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
 
