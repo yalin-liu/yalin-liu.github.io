@@ -9,11 +9,20 @@ permalink: /homepage/
 * content
 {:toc}
 
+### Contact
 
+- A0923
+- Department of Electronic Engineering and Computer Science
+- School of Science and Technology
+- Hong Kong Metropolitan University
+- Ho Man Tin, Kowloon, Hong Kong
+- Tel: (+852) 27686812
+- Fax: (+852) 27891170
+- Email: ylliu@hkmu.edu.hk
  
 ### Professional Profile
  
-<br>**Yalin Liu** received the Ph.d. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. She received the M.S. degree in Information Technology from Macau University of Science and Technology, Macau, China, in 2019. She received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalinliuliuliu@gmail.com> / <ylliu@hkmu.edu.hk>  &emsp; <br>  **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017. She received the M.S. degree in Information Technology from Macau University of Science and Technology, Macau, China, in 2019. She received the Ph.d. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalinliuliuliu@gmail.com> / <ylliu@hkmu.edu.hk>  &emsp; <br>  **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
