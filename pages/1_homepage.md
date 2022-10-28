@@ -13,18 +13,19 @@ permalink: /homepage/
  
 ### Professional Profile
  
-<br>**Yalin Liu** received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017 and the M.S. degree in Information and Communication Technology from the Faculty of Information Technology, Macau University of Science and Technology, Macau, China, in 2019. She is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/)) with the Faculty of Information Technology, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalinliuliuliu@gmail.com> / <ylliu@hkmu.edu.hk>  &emsp; <br>  **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
+<br>**Yalin Liu** received the Ph.d. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. She received the M.S. degree in Information Technology from Macau University of Science and Technology, Macau, China, in 2019. She received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017. From Jan. 2021 to May 2021, she has worked as a research assistant at the Education University of Hong Kong. From June 2021, she works as [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. <br> <br> **Email:** <yalinliuliuliu@gmail.com> / <ylliu@hkmu.edu.hk>  &emsp; <br>  **Follow me:** [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) / [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
-* 30 Aug., 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invertion "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
-* June 20, 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
+* 20 Oct. 2022, receive the Ph.D. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China.
+* 30 Aug. 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invertion "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
+* 20 June 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
 
 ---
 
 ### Education 
 
-* 09/2019-Present: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/)); Thesis: Unmanned Aerial Vehicle-assisted Communications for Internet of Remote Things. 
+* 09/2019-10/2022: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/)); Thesis: Unmanned Aerial Vehicle-assisted Communications for Internet of Remote Things. 
 
 * 09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
 
@@ -39,7 +40,7 @@ permalink: /homepage/
 
 * 09/2017 - 10/2017, **Master Student**\\
 		PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund,	"Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", under Project Reference No.: 0096/2013/A3.
-* 10/2018 - present, **Ph.D. Student**\\
+* 10/2018 - 10/2022, **Ph.D. Student**\\
 		PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund,	"Key Technologies to Enable Ultra Dense Wireless Networks", under Project Reference No.: 0026/2018/A1.
 		
 ---
