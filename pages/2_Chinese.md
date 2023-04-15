@@ -22,6 +22,7 @@ permalink: /Chinese/
 
 ### 最新动态
 
+* 2023 年 4 月，论文"无人机辅助无线回程网络：上行链路传输的连通性分析" 被IEEE Transactions on Vehicular Technology接收.
 * 2022 年 10 月 20 日，获澳门科技大学博士毕业证书.
 * 2022 年 8 月 30 日，荣获金奖/评审团选择奖/特别奖，获奖作品为“Dr Zou Di （香港教育大学教授）、刘亚林（香港教育大学科研助理），基于非侵入式学习者数据促进情绪分类”，加拿大第七届国际发明创新大赛（iCAN 2022）.
 * 2022.06, 入职香港都会大学的讲师. 
@@ -41,7 +42,7 @@ permalink: /Chinese/
 
 * 2022.01 - 2022.05， **科研助理**，参与香港教育大学技术转移项目2021/22，“通过深度神经网络促进基于非侵入式学习器的情绪分类”。
 * 2017.09 - 2017.10, **硕士研究生**，参与澳门科技发展基金项目，“大型无线自组网：性能分析与性能改进”，项目编号：0096/2013/A3。
-* 10/2018 - 现在, **博士研究生**，参与澳门科技发展基金项目，“实现超密集无线网络的关键技术”，项目编号：0026/2018/A1。
+* 10/2018 - 2022.10, **博士研究生**，参与澳门科技发展基金项目，“实现超密集无线网络的关键技术”，项目编号：0026/2018/A1。
 
 ---
 
@@ -49,6 +50,8 @@ permalink: /Chinese/
 ### 学术论文
 
 #### 期刊 (发表)
+
+* **刘亚林**, 王秋, 戴弘宁, 付雅茹, Ning Zhang, & 李至冲, "无人机辅助无线回程网络：上行链路传输的连通性分析," 被IEEE Transactions on Vehicular Technology接收 (SCI IF=6.239 in 2021, JCR Q1), April 2023. [[PDF]]()
 
 *  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，“基于无人机的无线供能式物联网：机遇和挑战（英文），” IEEE Networks (SCI IF=10.692 in 2020, JCR Q1 in 2021)，第36卷，第2期，pp. 146-152，2022年三月/四月, doi: 10.1109/MNET.013.2000385。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
 
@@ -76,6 +79,10 @@ permalink: /Chinese/
 
 #### 国际期刊审稿
 
+* 04/2022 IEEE Wireless Communications Letters
+* 03/2022 Elsevier Ad Hoc Networks
+* 01/2022 IEEE Internet of Things Journal
+* 07/2022 Information Processing and Management
 * 05/2022 Information Processing and Management
 * 10/2021 IEEE Internet of Things Journal
 * 02/2021 Elsevier The Journal of the Franklin Institute 
