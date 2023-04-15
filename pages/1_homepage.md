@@ -22,6 +22,7 @@ Address: A0923, Department of Electronic Engineering and Computer Science, Schoo
 
 ### News
 
+* April 2023，the paper "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions" was accepted by IEEE Transactions on Vehicular Technology.
 * 20 Oct. 2022, receive the Ph.D. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China.
 * 30 Aug. 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invertion "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
 * 20 June 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
@@ -53,7 +54,9 @@ Address: A0923, Department of Electronic Engineering and Computer Science, Schoo
 ### Publications
 #### Journal Articles
 
-* **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1 in 2021), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
+* **Yalin Liu**, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, & Chi Chung Lee, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," accepted by IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021, JCR Q1), April 2023, doi: 10.1109/TVT.2023.3268025. [[PDF]]()
+
+* **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
 
 * Aolin Che, **Yalin Liu**, Hong Xiao, Hao Wang, Ke Zhang, & Hong-Ning Dai, "Augmented data selector to initiate text-based CAPTCHA attack", Security and Communication Networks, vol. 2021, 2021, doi: 10.1155/2021/9930608.
 
@@ -78,7 +81,9 @@ Address: A0923, Department of Electronic Engineering and Computer Science, Schoo
 ### Professional Activities
 
 #### Reviewing Activities for International Journals
-
+* 04/2022 IEEE Wireless Communications Letters
+* 03/2022 Elsevier Ad Hoc Networks
+* 01/2022 IEEE Internet of Things Journal
 * 07/2022 Information Processing and Management
 * 05/2022 Information Processing and Management
 * 10/2021 IEEE Internet of Things Journal
