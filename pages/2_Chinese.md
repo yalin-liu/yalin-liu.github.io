@@ -6,6 +6,8 @@ permalink: /Chinese/
 
 ---
 
+![image](https://user-images.githubusercontent.com/42903384/233035892-e1066cfc-e093-4e86-a75b-2d8910b31998.png)
+
 * 目录
 {:toc}
 
