@@ -11,8 +11,6 @@ permalink: /homepage/
 
 ### Contact
 
-Photo: ![photo](images/yalin_photo.jpg)
-
 Tel: (+852) 31202622<br> 
 Fax: (+852) 27891170<br> 
 Email: ylliu@hkmu.edu.hk<br> 
