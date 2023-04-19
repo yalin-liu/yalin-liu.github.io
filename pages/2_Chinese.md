@@ -11,7 +11,7 @@ permalink: /Chinese/
 
 ### 联系方式
 
-电话：(+852) 27686812<br>
+电话：(+852) 31202622<br>
 传真：(+852) 27891170<br>
 电邮：ylliu@hkmu.edu.hk<br>
 地址：香港九龙何文田香港都会大学科技学院电子工程及计算机科学系A0923
@@ -51,17 +51,17 @@ permalink: /Chinese/
 
 #### 期刊 (发表)
 
-* **刘亚林**, 王秋, 戴弘宁, 付雅茹, Ning Zhang, & 李至冲, "无人机辅助无线回程网络：上行链路传输的连通性分析," 被IEEE Transactions on Vehicular Technology接收 (SCI IF=6.239 in 2021, JCR Q1), April 2023. [[PDF]]()
+* **刘亚林**, 王秋, 戴弘宁, 付雅茹, Ning Zhang, & 李至冲, "无人机辅助无线回程网络：上行链路传输的连通性分析," 被IEEE Transactions on Vehicular Technology接收 (SCI IF=6.239 in 2021, JCR Q1), April 2023. [[链接]](https://ieeexplore.ieee.org/document/10104142)
 
-*  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，“基于无人机的无线供能式物联网：机遇和挑战（英文），” IEEE Networks (SCI IF=10.692 in 2020, JCR Q1 in 2021)，第36卷，第2期，pp. 146-152，2022年三月/四月, doi: 10.1109/MNET.013.2000385。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
+*  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，“基于无人机的无线供能式物联网：机遇和挑战（英文），” IEEE Networks (SCI IF=10.692 in 2020, JCR Q1 in 2021)，第36卷，第2期，pp. 146-152，2022年三月/四月, doi: 10.1109/MNET.013.2000385。[[链接]](https://ieeexplore.ieee.org/document/9762455)
 
-* 车奥林， **刘亚林**, Hong Xiao, 王皓, Ke Zhang, 和 戴弘宁，“增强数据选择器发起基于文本的验证码攻击（英文）”，Security and Communication Networks, 卷 2021，2021年, doi：10.1155/2021/9930608。
+* 车奥林， **刘亚林**, Hong Xiao, 王皓, Ke Zhang, 和 戴弘宁，“增强数据选择器发起基于文本的验证码攻击（英文）”，Security and Communication Networks, 卷 2021，2021年, doi：10.1155/2021/9930608。[[链接]](https://www.hindawi.com/journals/scn/2021/9930608/)
 
-* **刘亚林**，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，“无人机赋能万物互联：机遇和挑战（英文），” 计算机通信（Computer Communications），第155卷，pp. 66-83，2020年3月。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
+* **刘亚林**，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，“无人机赋能万物互联：机遇和挑战（英文），” 计算机通信（Computer Communications），第155卷，pp. 66-83，2020年3月。[[链接]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
 
-*  **刘亚林**，戴弘宁，王皓, Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，“面对物联网场景下基于无人机的无线供能式数据采集方案（英文），” 计算机通信（Computer Communications），第155卷，pp. 184-196，2020年3月, doi: 10.1016/j.comcom.2020.03.020。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
+*  **刘亚林**，戴弘宁，王皓, Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，“面对物联网场景下基于无人机的无线供能式数据采集方案（英文），” 计算机通信（Computer Communications），第155卷，pp. 184-196，2020年3月, doi: 10.1016/j.comcom.2020.03.020。[[链接]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
 
-*  **刘亚林**，戴弘宁，和 王曲北剑，“无人机辅助的物联网通信技术及其应用，” 物联网学报（中国），第3卷，第四期，pp. 48-55，2019年12月。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/China-UAVIOT.pdf)
+*  **刘亚林**，戴弘宁，和 王曲北剑，“无人机辅助的物联网通信技术及其应用，” 物联网学报（中国），第3卷，第四期，pp. 48-55，2019年12月。[[原文]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
  
 ---
 
