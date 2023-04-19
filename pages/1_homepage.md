@@ -54,17 +54,17 @@ Address: A0923, Department of Electronic Engineering and Computer Science, Schoo
 ### Publications
 #### Journal Articles
 
-* **Yalin Liu**, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, & Chi Chung Lee, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," accepted by IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021, JCR Q1), April 2023, doi: 10.1109/TVT.2023.3268025. [[PDF]]()
+* **Yalin Liu**, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, & Chi Chung Lee, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," accepted by IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021, JCR Q1), April 2023, doi: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
 
-* **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UWPIOT.pdf)
+* **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[Link]](https://ieeexplore.ieee.org/document/9762455)
 
-* Aolin Che, **Yalin Liu**, Hong Xiao, Hao Wang, Ke Zhang, & Hong-Ning Dai, "Augmented data selector to initiate text-based CAPTCHA attack", Security and Communication Networks, vol. 2021, 2021, doi: 10.1155/2021/9930608.
+* Aolin Che, **Yalin Liu**, Hong Xiao, Hao Wang, Ke Zhang, & Hong-Ning Dai, "Augmented data selector to initiate text-based CAPTCHA attack", Security and Communication Networks, vol. 2021, 2021, doi: 10.1155/2021/9930608.[[Link]](https://www.hindawi.com/journals/scn/2021/9930608/)
 
-* **Yalin Liu**, HongNing. Dai, Qubeijian Wang, Mahendra K. Shukla, & Muhammad Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVIOE.pdf)
+* **Yalin Liu**, HongNing. Dai, Qubeijian Wang, Mahendra K. Shukla, & Muhammad Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
 
-*  **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, Xiaofen. Wang, & Muhammad Shoaib, "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things," Computer Communications, vol. 155, pp. 184-196, March 2020, doi: 10.1016/j.comcom.2020.03.020. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/UAVWET.pdf)
+*  **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, Xiaofen. Wang, & Muhammad Shoaib, "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things," Computer Communications, vol. 155, pp. 184-196, March 2020, doi: 10.1016/j.comcom.2020.03.020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
 
-*  **Yalin Liu**, HongNing Dai, & Qubeijian Wang, "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things," Chinese Journal on Internet of Things (Chinese), vol. 3, no. 4, pp. 48-55, December 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/China-UAVIOT.pdf)
+*  **Yalin Liu**, HongNing Dai, & Qubeijian Wang, "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things," Chinese Journal on Internet of Things (Chinese), vol. 3, no. 4, pp. 48-55, December 2019. [[PDF]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
 
 
 #### Conference Papers
