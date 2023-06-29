@@ -6,8 +6,6 @@ permalink: /Chinese/
 
 ---
 
-![image](https://user-images.githubusercontent.com/42903384/233035892-e1066cfc-e093-4e86-a75b-2d8910b31998.png)
-
 * 目录
 {:toc}
 
@@ -16,7 +14,7 @@ permalink: /Chinese/
 电话：(+852) 31202622<br>
 传真：(+852) 27891170<br>
 电邮：ylliu@hkmu.edu.hk<br>
-地址：香港九龙何文田香港都会大学科技学院电子工程及计算机科学系A0923
+地址：香港九龙何文田香港都会大学科技学院电子工程及计算机科学系D1126
  
 ### 简介
  
