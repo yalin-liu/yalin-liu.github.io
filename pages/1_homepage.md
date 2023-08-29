@@ -117,7 +117,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ### Awards and Honors
 *  Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", Gold Medal/Jury's Choice Award/Special Award, the 7th International Invention Innovation Competition in Canada (iCAN 2022), 2022.
 *  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
-*  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ present
+*  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ 06/2022
 *  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
 
 ---
