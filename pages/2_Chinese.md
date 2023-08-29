@@ -79,6 +79,12 @@ permalink: /Chinese/
 
 #### 国际期刊审稿
 
+* 08/2023 IEEE Wireless Communications Letters
+* 08/2023 IEEE Internet of Things Journal
+* 07/2023 IEEE Transactions on Network and Service Management
+* 03/2023 IEEE Wireless Communications Letters
+* 03/2023 Elsevier Ad Hoc Networks
+* 01/2023 IEEE Internet of Things Journal
 * 04/2022 IEEE Wireless Communications Letters
 * 03/2022 Elsevier Ad Hoc Networks
 * 01/2022 IEEE Internet of Things Journal
@@ -93,7 +99,8 @@ permalink: /Chinese/
 
 #### 国际会议审稿
 
-* 08/2022 2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
+* 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
+* 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
 * 08/2022 The 9th International Conference on Behavioural and Social Computing
 * 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
