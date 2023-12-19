@@ -18,7 +18,7 @@ permalink: /Chinese/
  
 ### 简介
  
-<br>**刘亚林**，本科（通信工程）毕业于重庆邮电大学，2017；硕士（资讯科技）毕业于澳门科技大学，2019；博士（电子资讯科技）毕业于澳门科技大学，2022。2022年1月至2022年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2022年6月起任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <ylliu@hkmu.edu.hk> 
+<br>**刘亚林**，2017年本科（通信工程）毕业于重庆邮电大学；2019年硕士（资讯科技）毕业于澳门科技大学；2022年博士（电子资讯科技）毕业于澳门科技大学。2022年1月至2022年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2022年6月起任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 <br> <br> **邮箱:** <ylliu@hkmu.edu.hk> 
 <br> **链接:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) &emsp;  
 
 ### 最新动态
