@@ -88,6 +88,8 @@ permalink: /Chinese/
 
 #### 国际期刊审稿
 
+* 10/2023 IEEE Internet of Things Journal
+* 09/2023 IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
 * 08/2023 IEEE Wireless Communications Letters
 * 08/2023 IEEE Internet of Things Journal
 * 07/2023 IEEE Transactions on Network and Service Management
@@ -108,6 +110,7 @@ permalink: /Chinese/
 
 #### 国际会议审稿
 
+* 12/2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
