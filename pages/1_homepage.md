@@ -22,11 +22,12 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 ### News
 
-* 15 December 2023, the paper "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis" was accepred by IEEE Journal on Selected Areas in Communications.
+* 15 December 2023, the paper "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis" was accepted by IEEE Journal on Selected Areas in Communications.
+* 21 November 2023, the project "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design" of the HKMU University R\&D funding (under the reference no. RD/2023/2.22) was approved by the University Research Committee (URC).
 
 <!-- * April 2023，the paper "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions" was accepted by IEEE Transactions on Vehicular Technology.
 * 20 Oct. 2022, receive the Ph.D. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China.
-* 30 Aug. 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invertion "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
+* 30 Aug. 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invention "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
 * 20 June 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University.  --> 
 
 ---
@@ -71,11 +72,11 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 #### Conference Papers
 
-* **Yalin Liu**, HongNing Dai, & Ning Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (GlobeCom) **(EI and CCF C conference)**, Madrid, Spain, virtual conference, 7-11 December 2021, doi: 10.1109/GLOBECOM46510.2021.9685811..[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **Yalin Liu**, HongNing Dai, & Ning Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (Globecom) **(EI and CCF C conference)**, Madrid, Spain, virtual conference, 7-11 December 2021, doi: 10.1109/GLOBECOM46510.2021.9685811..[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
 * Qubeijian Wang, **Yalin Liu**, HongNing Dai, Muhammad Imran, & Nidal Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," IEEE Global Communications Conference (GlobeCom) **(EI and CCF C conference)**, Madrid, Spain, virtual conference, 7-11 December 2021, doi: 10.1109/GLOBE-COM46510.2021.9685471..
 
-* **Yalin Liu**, HongNing Dai, Muhammad Imran, & Nidal Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Anaysis," IEEE International Conference of Communications (ICC) **(EI and CCF C conference)**, Montreal, Quebec, Canada, virtual conference, June 14-23, 2021, doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **Yalin Liu**, HongNing Dai, Muhammad Imran, & Nidal Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis," IEEE International Conference of Communications (ICC) **(EI and CCF C conference)**, Montreal, Quebec, Canada, virtual conference, June 14-23, 2021, doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 * **Yalin Liu**, HongNing Dai, Yuyang Peng, & Hao Wang, "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer," International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
@@ -117,7 +118,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ---
 
 ### Awards and Honors
-*  Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", Gold Medal/Jury's Choice Award/Special Award, the 7th International Invention Innovation Competition in Canada (iCAN 2022), 2022.
+*  Dr. Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", Gold Medal/Jury's Choice Award/Special Award, the 7th International Invention Innovation Competition in Canada (iCAN 2022), 2022.
 *  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
 *  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ 06/2022
 *  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
