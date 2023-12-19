@@ -22,10 +22,12 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 ### News
 
-* April 2023，the paper "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions" was accepted by IEEE Transactions on Vehicular Technology.
+* 15 December 2023, the paper "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis" was accepred by IEEE Journal on Selected Areas in Communications.
+
+<--! * April 2023，the paper "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions" was accepted by IEEE Transactions on Vehicular Technology.
 * 20 Oct. 2022, receive the Ph.D. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China.
 * 30 Aug. 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invertion "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
-* 20 June 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University. 
+* 20 June 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University.  --> 
 
 ---
 
