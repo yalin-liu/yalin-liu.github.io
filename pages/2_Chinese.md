@@ -18,9 +18,8 @@ permalink: /Chinese/
  
 ### 简介
  
-<br>**刘亚林**，2022年于中国澳门[澳门科技大学](https://www.must.edu.mo/)获得博士学位。2022年1月至2022年5月在香港教育大学担任研究助理。 2022年6月起任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。 她的研究兴趣包括物联网、无人机网络和天地一体化网络。 她曾担任一些会议的 TPC 成员，比如 IEEE WCNC 和 IEEE VTC。 她目前担任MDPI Electronics的特刊联合客座编辑。
+<br>**刘亚林**，2022年于中国澳门[澳门科技大学](https://www.must.edu.mo/)获得博士学位。2022年1月至2022年5月在香港教育大学担任研究助理。 2022年6月起任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。 她的研究兴趣包括物联网、无人机网络和天地一体化网络。 她曾担任一些会议的 TPC 成员，比如 IEEE WCNC 和 IEEE VTC。 她目前担任MDPI Electronics的特刊联合客座编辑。<br> 
 <!-- 2017年本科（通信工程）毕业于重庆邮电大学；2019年硕士（资讯科技）毕业于澳门科技大学；2022年博士（电子资讯科技）毕业于澳门科技大学。2022年1月至2022年5月在香港教育大学担任研究助理，负责基于DNN的情感分类项目的模型训练和实现。 2022年6月起任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。她的研究方向包括物联网，无人机、基于随机几何的性能分析，空天地一体网络，强化学习，和基于AI的通信网络。 -->
-<br> 
 <br> **邮箱:** <ylliu@hkmu.edu.hk> 
 <br> **链接:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) &emsp;  
 
@@ -28,7 +27,7 @@ permalink: /Chinese/
 
 * 2023年12月15日，论文"空天地一体化网络：基于球面随机几何的上行链路连通性分析"被IEEE Journal on Selected Areas in Communications接收。
 * 2023年11月21日，香港都会大学研发项目"SAGIN Empowered Web 3.0：可扩展的去中心化网络设计"（参考编号RD/2023/2.22）获得大学研究委员会（URC）批准。
-<!-- * 2023 年 4 月，论文"无人机辅助无线回程网络：上行链路传输的连通性分析" 被IEEE Transactions on Vehicular Technology接收.
+<!-- * 2023 年 4 月，论文"无人机辅助无线回程网络：上行链路传输的连通性分析" 被IEEE Transactions on Vehicular Technology接收.-->
 * 2022 年 10 月 20 日，获澳门科技大学博士毕业证书.
 * 2022 年 8 月 30 日，荣获金奖/评审团选择奖/特别奖，获奖作品为“Dr Zou Di （香港教育大学教授）、刘亚林（香港教育大学科研助理），基于非侵入式学习者数据促进情绪分类”，加拿大第七届国际发明创新大赛（iCAN 2022）.
 * 2022.06, 入职香港都会大学的讲师. -->
