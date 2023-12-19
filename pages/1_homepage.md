@@ -19,18 +19,15 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ### Professional Profile
  
 <br>**Yalin Liu** received her Ph.D degree from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. From Jan. 2022 to May 2022, she has worked as a research assistant at the Education University of Hong Kong. She is currently [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, Hong Kong Metropolitan University. Her research interests include the Internet of Things, Unmanned Aerial Vehicles Networks, and Space-Air-Terrestrial Integrated Networks. She has served as a TPC member for some conferences, such as IEEE WCNC and IEEE VTC. She is currently serving as a Co-guest Editor for a special issue of MDPI Electronics. 
-
 <!--received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017. She received the M.S. degree in Information Technology from Macau University of Science and Technology, Macau, China, in 2019. She received the Ph.d. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. From Jan. 2022 to May 2022, she has worked as a research assistant at the Education University of Hong Kong. From June 2022, she works as [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. -->
-
 <br>
-
 <br> **Email:** <ylliu@hkmu.edu.hk>  &emsp; 
 <br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  &emsp;
 
 ### News
 
 * 15 December 2023, the paper "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis" was accepted by IEEE Journal on Selected Areas in Communications.
-* 21 November 2023, the project "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design" of the HKMU University R\&D funding (under the reference no. RD/2023/2.22) was approved by the University Research Committee (URC).
+* 21 November 2023, the project "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design" of the HKMU University R&D funding (under the reference no. RD/2023/2.22) was approved by the University Research Committee (URC).
 
 <!-- * April 2023，the paper "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions" was accepted by IEEE Transactions on Vehicular Technology.
 * 20 Oct. 2022, receive the Ph.D. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China.
@@ -52,7 +49,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ### Research Projects
 
 * 12/2023 - 4/2025, **Principal Investigator**\\
-		HKMU University R\&D Fund, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design", under Project Reference No.: RD/2023/2.22.
+		HKMU University R&D Fund, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design", under Project Reference No.: RD/2023/2.22.
 
 * 01/2022 - 5/2022, **Research Assistant**\\
 		PI is Dr. ZOU Di, the Education University of Hong Kong, Konwledge Transfer Funds 2021/22, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks".
@@ -67,7 +64,9 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ### Publications
 #### Journal Articles
 
-* **Yalin Liu**, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, & Chi Chung Lee, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," accepted by IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021, JCR Q1), April 2023, doi: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
+* **Yalin Liu**, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, & Chi Chung Lee, "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis," accepted by IEEE Journal on Selected Areas in Communications (SCI IF=13.081 in 2023, JCR Q1), December 2023. 
+
+* **Yalin Liu**, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, & Chi Chung Lee, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," accepted by IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021, JCR Q1), vol. 72, no. 9, pp. 12195-12207, Sept. 2023, doi: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
 
 * **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[Link]](https://ieeexplore.ieee.org/document/9762455)
 
