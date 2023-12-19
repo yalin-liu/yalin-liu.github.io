@@ -18,7 +18,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 ### Professional Profile
  
-<br>**Yalin Liu** received her Ph.D degree from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. She is currently [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, Hong Kong Metropolitan University. Her research interests include the Internet of Things, Unmanned Aerial Vehicles Networks, and Space-Air-Terrestrial Integrated Networks. She has served as a TPC member for some conferences, including IEEE WCNC and IEEE VTC. She is currently serving as a Co-guest Editor for the {\scshape MDPI Electronics}. 
+<br>**Yalin Liu** received her Ph.D degree from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. From Jan. 2022 to May 2022, she has worked as a research assistant at the Education University of Hong Kong. She is currently [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, Hong Kong Metropolitan University. Her research interests include the Internet of Things, Unmanned Aerial Vehicles Networks, and Space-Air-Terrestrial Integrated Networks. She has served as a TPC member for some conferences, such as IEEE WCNC and IEEE VTC. She is currently serving as a Co-guest Editor for MDPI Electronics. 
 
 <!--received the B.Eng. degree in Telecommunication Engineering from ChongQing University of Post and Technology, ChongQing, China, in 2017. She received the M.S. degree in Information Technology from Macau University of Science and Technology, Macau, China, in 2019. She received the Ph.d. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in 2022. From Jan. 2022 to May 2022, she has worked as a research assistant at the Education University of Hong Kong. From June 2022, she works as [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, HongKong Metropolitan University. Her research interests include Internet of Things, Unmanned Aerial Vehicles, Stochastic Geometry based Performance Analysis, Space-Air-Terrestrial Networks, Reinforcement Leanring, and AI-enabled Communication Networks. -->
 
@@ -94,6 +94,9 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ### Professional Activities
 
 #### Reviewing Activities for International Journals
+
+* 10/2023 IEEE Internet of Things Journal
+* 09/2023 IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
 * 08/2023 IEEE Wireless Communications Letters
 * 08/2023 IEEE Internet of Things Journal
 * 07/2023 IEEE Transactions on Network and Service Management
@@ -113,6 +116,8 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 * 08/2018 IEEE Communication Magazine
 
 #### Reviewing Activities for International Conferences
+
+* 12/2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
