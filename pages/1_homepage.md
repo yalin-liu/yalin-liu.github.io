@@ -54,9 +54,9 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 * 01/2022 - 5/2022, **Research Assistant**, PI is Dr. ZOU Di, the Education University of Hong Kong, Knowledge Transfer Funds 2021/22, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks".
 
-* 10/2018 - 10/2022, **Ph.D. Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Key Technologies to Enable Ultra Dense Wireless Networks", HK$ 1,000,000, under Project Reference No.: 0026/2018/A1.
+* 10/2018 - 10/2022, **Ph.D. Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Key Technologies to Enable Ultra Dense Wireless Networks", under Project Reference No.: 0026/2018/A1.
 
-* 09/2017 - 10/2017, **Master Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", HK$ 1,356,100, under Project Reference No.: 0096/2013/A3.
+* 09/2017 - 10/2017, **Master Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", under Project Reference No.: 0096/2013/A3.
   
 ---
 
