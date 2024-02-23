@@ -38,7 +38,7 @@ permalink: /Chinese/
 
 * 2022.1 - 2022.5: **科研助理**, 香港教育大学
   
-* 2022.6 - 现在: **讲师**, 科技学院, 香港都会大学
+* 2022.6 - 现在: [**讲师**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N), 科技学院, 香港都会大学
   
 ---
 
