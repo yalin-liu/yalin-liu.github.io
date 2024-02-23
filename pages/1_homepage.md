@@ -86,7 +86,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 ### Patents
 
-* 2023, Inventor of the patent “Emotion recognition system and method”, The Education University of Hong Kong, under patent No. HK30074872
+* 2023, “Emotion recognition system and method”, The Education University of Hong Kong, under patent No. HK30074872
 
 ### Professional Qualifications and Activities
 
