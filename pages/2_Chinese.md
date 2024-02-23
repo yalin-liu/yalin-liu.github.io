@@ -23,15 +23,6 @@ permalink: /Chinese/
 <br> **邮箱:** <ylliu@hkmu.edu.hk> 
 <br> **链接:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;  
 
-### 最新动态
-
-* 2023年12月15日，论文"空天地一体化网络：基于球面随机几何的上行链路连通性分析"被IEEE Journal on Selected Areas in Communications接收。
-* 2023年11月21日，香港都会大学研发项目"SAGIN Empowered Web 3.0：可扩展的去中心化网络设计"（参考编号RD/2023/2.22）获得大学研究委员会（URC）批准。
-<!-- * 2023 年 4 月，论文"无人机辅助无线回程网络：上行链路传输的连通性分析" 被IEEE Transactions on Vehicular Technology接收.-->
-<!-- * 2022 年 10 月 20 日，获澳门科技大学博士毕业证书.-->
-<!-- * 2022 年 8 月 30 日，荣获金奖/评审团选择奖/特别奖，获奖作品为“Dr Zou Di （香港教育大学教授）、刘亚林（香港教育大学科研助理），基于非侵入式学习者数据促进情绪分类”，加拿大第七届国际发明创新大赛（iCAN 2022）.-->
-<!-- * 2022.06, 入职香港都会大学的讲师. -->
-
 ---
 ### 教育背景
 
@@ -41,6 +32,12 @@ permalink: /Chinese/
 
 * 09/2013-06/2017：工学学士, 重庆邮电大学 通信工程专业；毕业论文：关于投影仿射自适应滤波算法的设计和应用研究。[[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
 
+---
+
+### 工作经验
+
+* 2022.1 - 2022.5: **科研助理**, 香港教育大学 
+* 2022.6 - 现在: **讲师**, 科技学院, 香港都会大学
 ---
 
 ### 研究项目
@@ -57,7 +54,7 @@ permalink: /Chinese/
 
 #### 期刊 (发表)
 
-* **刘亚林**, 戴弘宁, 王曲北剑, Om Jee Pandey, 付雅茹，Ning Zhang, Dusit Niyato, & 李至冲, "空天地一体化网络：基于球面随机几何的上行链路连通性分析"被IEEE Journal on Selected Areas in Communications(SCI IF=13.081 in 2023, JCR Q1)接收, 2023年12月.
+* **刘亚林**, 戴弘宁, 王曲北剑, Om Jee Pandey, 付雅茹，Ning Zhang, Dusit Niyato, & 李至冲, "空天地一体化网络：基于球面随机几何的上行链路连通性分析", IEEE Journal on Selected Areas in Communications(SCI IF=13.081 in 2023, JCR Q1), 2024, DOI: 10.1109/JSAC.2024.3365891. [[链接]](https://ieeexplore.ieee.org/document/10438999).
 
 * **刘亚林**, 王秋, 戴弘宁, 付雅茹, Ning Zhang, & 李至冲, "无人机辅助无线回程网络：上行链路传输的连通性分析," 被IEEE Transactions on Vehicular Technology接收 (SCI IF=6.239 in 2021, JCR Q1), vol. 72, no. 9, pp. 12195-12207, Sept. 2023, doi: 10.1109/TVT.2023.3268025. [[链接]](https://ieeexplore.ieee.org/document/10104142)
 
@@ -82,6 +79,10 @@ permalink: /Chinese/
 * **刘亚林**，戴弘宁，Muhammad Imran，和 Nidal Nasser，“地对无人机通信网络：基于随机几何的性能分析（英文版），” IEEE国际通信会议（ICC），加拿大魁北克蒙特利尔，在线会议，2021年6月14日至23日, doi: 10.1109/ICC42927.2021.9500746。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 * **刘亚林**，戴弘宁，彭宇阳，和 王皓，“海报：带定向无线能量传输的支持无人机的数据采集方案”，嵌入式无线系统和网络国际会议（EWSN），中国北京，2019年2月25日至27日。[[原文]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
+
+### 专利
+
+* 2023, 专利发明人, “情绪识别系统及方法”, 香港教育大学, 专利号：HK30074872
 
 ### 学术活动
 
@@ -124,7 +125,7 @@ permalink: /Chinese/
 ---
 
 ### 荣誉获奖
-*  Dr Zou Di（香港教育大学教授）、刘亚林（香港教育大学科研助理），“通过深度神经网络促进基于非侵入性学习者数据的情绪分类”，金奖/评审团选择奖/特别奖，第七届国际发明加拿大创新大赛 (iCAN 2022)， 2022
+* 金奖/评审团选择奖/特别奖, “通过深度神经网络促进基于非侵入性学习者数据的情绪分类”, 第七届国际发明加拿大创新大赛 (iCAN 2022), 2022
 *  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
 *  博士全额奖学金，澳门科技大学，2019年9月 ~ 2022年6月
 *  硕士全额奖学金，澳门科技大学，2017年9月 ~ 2019年6月
