@@ -60,7 +60,7 @@ permalink: /Chinese/
 
 * **刘亚林**, 戴弘宁, 王曲北剑, Om Jee Pandey, 付雅茹，Ning Zhang, Dusit Niyato, & 李至冲, "空天地一体化网络：基于球面随机几何的上行链路连通性分析", IEEE Journal on Selected Areas in Communications(SCI IF=13.081 in 2023, JCR Q1), 2024, DOI: 10.1109/JSAC.2024.3365891. [[链接]](https://ieeexplore.ieee.org/document/10438999).
 
-* **刘亚林**, 王秋, 戴弘宁, 付雅茹, Ning Zhang, & 李至冲, "无人机辅助无线回程网络：上行链路传输的连通性分析," 被IEEE Transactions on Vehicular Technology接收 (SCI IF=6.239 in 2021, JCR Q1), vol. 72, no. 9, pp. 12195-12207, Sept. 2023, doi: 10.1109/TVT.2023.3268025. [[链接]](https://ieeexplore.ieee.org/document/10104142)
+* **刘亚林**, 王秋, 戴弘宁, 付雅茹, Ning Zhang, & 李至冲, "无人机辅助无线回程网络：上行链路传输的连通性分析," IEEE Transactions on Vehicular Technology(SCI IF=6.239 in 2021, JCR Q1), vol. 72, no. 9, pp. 12195-12207, Sept. 2023, doi: 10.1109/TVT.2023.3268025. [[链接]](https://ieeexplore.ieee.org/document/10104142)
 
 *  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，“基于无人机的无线供能式物联网：机遇和挑战（英文），” IEEE Networks (SCI IF=10.692 in 2020, JCR Q1 in 2021)，第36卷，第2期，pp. 146-152，2022年三月/四月, doi: 10.1109/MNET.013.2000385。[[链接]](https://ieeexplore.ieee.org/document/9762455)
 
