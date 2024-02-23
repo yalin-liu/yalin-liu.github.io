@@ -40,7 +40,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 * 01/2022-05/2022: **Research Assistant**, the Education University of Hong Kong
   
-* 06/2022-present: **Lecturer**, School of Science and Technology, Hong Kong Metropolitan University
+* 06/2022-present: [**Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N), School of Science and Technology, Hong Kong Metropolitan University
   
 ---
 
