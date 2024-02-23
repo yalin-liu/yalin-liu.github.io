@@ -24,16 +24,6 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 <br> **Email:** <ylliu@hkmu.edu.hk>  &emsp; 
 <br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;
 
-### News
-
-* 15 December 2023, the paper "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis" was accepted by IEEE Journal on Selected Areas in Communications.
-* 21 November 2023, the project "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design" of the HKMU University R&D funding (under the reference no. RD/2023/2.22) was approved by the University Research Committee (URC).
-
-<!-- * April 2023，the paper "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions" was accepted by IEEE Transactions on Vehicular Technology.
-* 20 Oct. 2022, receive the Ph.D. degree in Electronic Information Technology from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China.
-* 30 Aug. 2022, awarded Gold Medal/Jury's Choice Award/Special Award, with the invention "Dr Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", in the 7th International Invention Innovation Competition in Canada (iCAN 2022).
-* 20 June 2022, work as a **lecturer** at the School of Science and Technology, HongKong Metropolitan University.  --> 
-
 ---
 
 ### Education 
@@ -46,11 +36,17 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 ---
 
+### Working Experience 
+
+* 01/2022-05/2022: **Research Assistant**, the Education University of Hong Kong 
+* 06/2022-present: **Lecturer**, School of Science and Technology, Hong Kong Metropolitan University
+---
+
 ### Research Projects
 
 * 12/2023 - 4/2025, **Principal Investigator**, HKMU University R&D Fund, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design", under Project Reference No.: RD/2023/2.22.
 
-* 01/2022 - 5/2022, **Research Assistant**, PI is Dr. ZOU Di, the Education University of Hong Kong, Konwledge Transfer Funds 2021/22, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks".
+* 01/2022 - 5/2022, **Research Assistant**, PI is Dr. ZOU Di, the Education University of Hong Kong, Knowledge Transfer Funds 2021/22, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks".
 
 * 10/2018 - 10/2022, **Ph.D. Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Key Technologies to Enable Ultra Dense Wireless Networks", under Project Reference No.: 0026/2018/A1.
 
@@ -61,7 +57,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ### Publications
 #### Journal Articles
 
-* **Yalin Liu**, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, & Chi Chung Lee, "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis," accepted by IEEE Journal on Selected Areas in Communications (SCI IF=13.081 in 2023, JCR Q1), December 2023. 
+* **Yalin Liu**, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, & Chi Chung Lee, "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis," to appear in IEEE Journal on Selected Areas in Communications (SCI IF=13.081 in 2023, JCR Q1), 2024, DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
 
 * **Yalin Liu**, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, & Chi Chung Lee, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," accepted by IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021, JCR Q1), vol. 72, no. 9, pp. 12195-12207, Sept. 2023, doi: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
 
@@ -86,8 +82,16 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 * **Yalin Liu**, HongNing Dai, Yuyang Peng, & Hao Wang, "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer," International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
+### Patents
 
-### Professional Activities
+* 2023, Inventor of the patent “Emotion recognition system and method”, The Education University of Hong Kong, under patent No. HK30074872
+
+### Professional Qualifications and Activities
+
+
+#### Editor Activities for International Journals
+
+* 2023 Co-guest Editor for MDPI Electronics
 
 #### Reviewing Activities for International Journals
 
@@ -125,11 +129,10 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 * 04/2020 IEEE Vehicular Technology Conference (VTC)
 * 10/2019 IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
 
-
 ---
 
 ### Awards and Honors
-*  Dr. Zou Di (Prof. of EdUHK), Miss Liu Yalin (RA of EdUHK), "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks", Gold Medal/Jury's Choice Award/Special Award, the 7th International Invention Innovation Competition in Canada (iCAN 2022), 2022.
+*  Gold Medal/Jury’s Choice Award/Special Award, the invention “Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks”, iCAN 2022.
 *  TRAVEL AWARD IN SENSORS NETWORKS WINNER, Sensors, MDPI, 2021
 *  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ 06/2022
 *  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
