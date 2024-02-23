@@ -46,13 +46,17 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 ### Research Projects
 
-* 12/2023 - 4/2025, **Principal Investigator**, HKMU University R&D Fund, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design", under Project Reference No.: RD/2023/2.22.
+* 12/2023 - 4/2025, **Principal Investigator (PI)**, HKMU University R&D Fund, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design", HK$ 200,000, under Project Reference No.: RD/2023/2.22.
+
+* 01/2023 - 06/2025, **Co-I**, “Intelligent Data-driven Wireless Networks,” HKMU R&D Fund, HK$ 1,480,566.
+
+* 10/2023 - 03/2025, **Co-I**, “Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization,” HKMU R&D Fund, HK$ 200,000.
 
 * 01/2022 - 5/2022, **Research Assistant**, PI is Dr. ZOU Di, the Education University of Hong Kong, Knowledge Transfer Funds 2021/22, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks".
 
-* 10/2018 - 10/2022, **Ph.D. Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Key Technologies to Enable Ultra Dense Wireless Networks", under Project Reference No.: 0026/2018/A1.
+* 10/2018 - 10/2022, **Ph.D. Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Key Technologies to Enable Ultra Dense Wireless Networks", HK$ 1,000,000, under Project Reference No.: 0026/2018/A1.
 
-* 09/2017 - 10/2017, **Master Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", under Project Reference No.: 0096/2013/A3.
+* 09/2017 - 10/2017, **Master Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", HK$ 1,356,100, under Project Reference No.: 0096/2013/A3.
   
 ---
 
