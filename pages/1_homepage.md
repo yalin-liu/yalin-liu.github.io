@@ -41,6 +41,7 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 * 01/2022-05/2022: **Research Assistant**, the Education University of Hong Kong
   
 * 06/2022-present: **Lecturer**, School of Science and Technology, Hong Kong Metropolitan University
+  
 ---
 
 ### Research Projects
