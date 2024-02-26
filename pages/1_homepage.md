@@ -14,11 +14,11 @@ permalink: /homepage/
 Tel: (+852) 31202622<br> 
 Fax: (+852) 27891170<br> 
 Email: ylliu@hkmu.edu.hk<br> 
-Address: D1126, Department of Electronic Engineering and Computer Science, School of Science and Technology, Hong Kong Metropolitan University, Ho Man Tin, Kowloon, Hong Kong
+Address: D1126,  Department of Electronic Engineering and Computer Science,  School of Science and Technology,  Hong Kong Metropolitan University,  Ho Man Tin,  Kowloon,  Hong Kong
 
 ### Professional Profile
  
-<br>**Yalin Liu** is currently [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, Hong Kong Metropolitan University. She received her Ph.D degree from Macau University of Science and Technology in 2022. From Jan. 2022 to May 2022, she worked as a research assistant at the Education University of Hong Kong. Her research interests include Wireless Communications, Non-terrestrial Networks, Stochastic Geometry, Network Modeling, and Network Optimization. She has served as a TPC member for some conferences (such as *IEEE WCNC* and *IEEE VTC*) and a reviewer for various IEEE journals. She is currently serving as a Co-guest Editor for a special issue of *MDPI Electronics*. <br>
+<br>**Yalin Liu** is currently [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology,  Hong Kong Metropolitan University. She received her Ph.D degree from Macau University of Science and Technology in 2022. From Jan. 2022 to May 2022,  she worked as a research assistant at the Education University of Hong Kong. Her research interests include Wireless Communications,  Non-terrestrial Networks,  Stochastic Geometry,  Network Modeling,  and Network Optimization. She has served as a TPC member for some conferences (such as *IEEE WCNC* and *IEEE VTC*) and a reviewer for various IEEE journals. She is currently serving as a Co-guest Editor for a special issue of *MDPI Electronics*. <br>
 
 
 <br> **Email:** <ylliu@hkmu.edu.hk>  &emsp; 
@@ -30,67 +30,67 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 
 * 09/2019-10/2022: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/)); Thesis: Unmanned Aerial Vehicle-assisted Communications for Internet of Remote Things. 
 
-* 09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
+* 09/2017-06/2019: Master of Science in Information Technology,  Telecommunication Engineering,  Macau University of Science and Technology,  Macau,  China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
 
-* 09/2013-06/2017: Bachelor of Engineering, Telecommunication Engineering, ChongQing University of Post and Telecommunications, ChongQing, China; Thesis: Research on the Affine Projection-type Adaptive Filtering Algorithms and Applications. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
+* 09/2013-06/2017: Bachelor of Engineering,  Telecommunication Engineering,  ChongQing University of Post and Telecommunications,  ChongQing,  China; Thesis: Research on the Affine Projection-type Adaptive Filtering Algorithms and Applications. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
 
 ---
 
 ### Working Experience 
 
-* 01/2022-05/2022: **Research Assistant**, the Education University of Hong Kong
+* 01/2022-05/2022: **Research Assistant**,  the Education University of Hong Kong
   
-* 06/2022-present: [**Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N), School of Science and Technology, Hong Kong Metropolitan University
+* 06/2022-present: [**Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
   
 ---
 
 ### Research Projects
 
-* 12/2023 - 4/2025, **Principal Investigator (PI)**, HKMU University R&D Fund, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design", HK$ 200,000, under Project Reference No.: RD/2023/2.22.
+* 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200, 000,  under Project Reference No.: RD/2023/2.22.
 
-* 01/2023 - 06/2025, **Co-I**, “Intelligent Data-driven Wireless Networks,” HKMU R&D Fund, HK$ 1,480,566.
+* 01/2023-06/2025,  **Co-I**,  “Intelligent Data-driven Wireless Networks, ” HKMU R&D Fund,  HK$ 1, 480, 566.
 
-* 10/2023 - 03/2025, **Co-I**, “Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization,” HKMU R&D Fund, HK$ 200,000.
+* 10/2023-03/2025,  **Co-I**,  “Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization, ” HKMU R&D Fund,  HK$ 200, 000.
 
-* 01/2022 - 5/2022, **Research Assistant**, PI is Dr. ZOU Di, the Education University of Hong Kong, Knowledge Transfer Funds 2021/22, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks".
+* 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds 2021/22.
 
-* 10/2018 - 10/2022, **Ph.D. Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Key Technologies to Enable Ultra Dense Wireless Networks", under Project Reference No.: 0026/2018/A1.
+* 10/2018-10/2022,  **participant**,  "Key Technologies to Enable Ultra Dense Wireless Networks, " Macao Science and Technology Development Fund,  under Project Reference No.: 0026/2018/A1.
 
-* 09/2017 - 10/2017, **Master Student**, PI is my supervisor Hong-Ning Dai, Macao Science and Technology Development Fund, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement", under Project Reference No.: 0096/2013/A3.
+* 09/2017-10/2017,  **participant**,  "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement, " Macao Science and Technology Development Fund,  under Project Reference No.: 0096/2013/A3.
   
 ---
 
 ### Publications
 #### Journal Articles
 
-* **Yalin Liu**, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, & Chi Chung Lee, "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis," to appear in IEEE Journal on Selected Areas in Communications (SCI IF=13.081 in 2023, JCR Q1), 2024, DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
+* **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  & Chi Chung Lee,  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis, " to appear in IEEE Journal on Selected Areas in Communications (SCI IF=13.081 in 2023,  JCR Q1),  2024,  DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
 
-* **Yalin Liu**, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, & Chi Chung Lee, "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021, JCR Q1), vol. 72, no. 9, pp. 12195-12207, Sept. 2023, doi: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
+* **Yalin Liu**,  Qiu Wang,  Hong-Ning Dai,  Yaru Fu,  Ning Zhang,  & Chi Chung Lee,  "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions, " IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021,  JCR Q1),  vol. 72,  no. 9,  pp. 12195-12207,  Sept. 2023,  doi: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
 
-* **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, & Nadra Guizani, "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," IEEE Network (SCI IF=10.692 in 2020, JCR Q1), vol. 36, no. 2, pp. 146-152, March/April 2022, doi: 10.1109/MNET.013.2000385. [[Link]](https://ieeexplore.ieee.org/document/9762455)
+* **Yalin Liu**,  HongNing Dai,  Hao Wang,  Muhammad Imran,  & Nadra Guizani,  "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities, " IEEE Network (SCI IF=10.692 in 2020,  JCR Q1),  vol. 36,  no. 2,  pp. 146-152,  March/April 2022,  doi: 10.1109/MNET.013.2000385. [[Link]](https://ieeexplore.ieee.org/document/9762455)
 
-* Aolin Che, **Yalin Liu**, Hong Xiao, Hao Wang, Ke Zhang, & Hong-Ning Dai, "Augmented data selector to initiate text-based CAPTCHA attack", Security and Communication Networks, vol. 2021, 2021, doi: 10.1155/2021/9930608.[[Link]](https://www.hindawi.com/journals/scn/2021/9930608/)
+* Aolin Che,  **Yalin Liu**,  Hong Xiao,  Hao Wang,  Ke Zhang,  & Hong-Ning Dai,  "Augmented data selector to initiate text-based CAPTCHA attack",  Security and Communication Networks,  vol. 2021,  2021,  doi: 10.1155/2021/9930608.[[Link]](https://www.hindawi.com/journals/scn/2021/9930608/)
 
-* **Yalin Liu**, HongNing. Dai, Qubeijian Wang, Mahendra K. Shukla, & Muhammad Imran, "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," Computer communications, vol. 155, pp. 66-83, March 2020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
+* **Yalin Liu**,  HongNing. Dai,  Qubeijian Wang,  Mahendra K. Shukla,  & Muhammad Imran,  "Unmanned aerial vehicle for internet of everything: Opportunities and challenges, " Computer communications,  vol. 155,  pp. 66-83,  March 2020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
 
-*  **Yalin Liu**, HongNing Dai, Hao Wang, Muhammad Imran, Xiaofen. Wang, & Muhammad Shoaib, "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things," Computer Communications, vol. 155, pp. 184-196, March 2020, doi: 10.1016/j.comcom.2020.03.020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
+*  **Yalin Liu**,  HongNing Dai,  Hao Wang,  Muhammad Imran,  Xiaofen. Wang,  & Muhammad Shoaib,  "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things, " Computer Communications,  vol. 155,  pp. 184-196,  March 2020,  doi: 10.1016/j.comcom.2020.03.020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
 
-*  **Yalin Liu**, HongNing Dai, & Qubeijian Wang, "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things," Chinese Journal on Internet of Things (Chinese), vol. 3, no. 4, pp. 48-55, December 2019. [[PDF]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
+*  **Yalin Liu**,  HongNing Dai,  & Qubeijian Wang,  "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things, " Chinese Journal on Internet of Things (Chinese),  vol. 3,  no. 4,  pp. 48-55,  December 2019. [[PDF]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
 
 
 #### Conference Papers
 
-* **Yalin Liu**, HongNing Dai, & Ning Zhang, "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," IEEE Global Communications Conference (Globecom) **(EI and CCF C conference)**, Madrid, Spain, virtual conference, 7-11 December 2021, doi: 10.1109/GLOBECOM46510.2021.9685811..[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **Yalin Liu**,  HongNing Dai,  & Ning Zhang,  "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks, " IEEE Global Communications Conference (Globecom) **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBECOM46510.2021.9685811..[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
-* Qubeijian Wang, **Yalin Liu**, HongNing Dai, Muhammad Imran, & Nidal Nasser, "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," IEEE Global Communications Conference (GlobeCom) **(EI and CCF C conference)**, Madrid, Spain, virtual conference, 7-11 December 2021, doi: 10.1109/GLOBE-COM46510.2021.9685471..
+* Qubeijian Wang,  **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping, " IEEE Global Communications Conference (GlobeCom) **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471..
 
-* **Yalin Liu**, HongNing Dai, Muhammad Imran, & Nidal Nasser, "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis," IEEE International Conference of Communications (ICC) **(EI and CCF C conference)**, Montreal, Quebec, Canada, virtual conference, June 14-23, 2021, doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis, " IEEE International Conference of Communications (ICC) **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
-* **Yalin Liu**, HongNing Dai, Yuyang Peng, & Hao Wang, "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer," International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, February 25-27, 2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
+* **Yalin Liu**,  HongNing Dai,  Yuyang Peng,  & Hao Wang,  "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer, " International Conference on Embedded Wireless Systems and Networks (EWSN),  Beijing,  China,  February 25-27,  2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
 ### Patents
 
-* 2023, “Emotion recognition system and method”, The Education University of Hong Kong, under patent No. HK30074872
+* 2023,  “Emotion recognition system and method”,  The Education University of Hong Kong,  under patent No. HK30074872
 
 ### Professional Qualifications and Activities
 
@@ -138,9 +138,9 @@ Address: D1126, Department of Electronic Engineering and Computer Science, Schoo
 ---
 
 ### Awards and Honors
-*  Gold Medal/Jury’s Choice Award/Special Award, the invention “Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks”, iCAN 2022.
-*  Travel Award In Sensors Networks Winner, Sensors, MDPI, 2021
-*  Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ 06/2022
-*  Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019
+*  Gold Medal/Jury’s Choice Award/Special Award,  the invention “Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks”,  iCAN 2022.
+*  Travel Award In Sensors Networks Winner,  Sensors,  MDPI,  2021
+*  Full Scholarship Grants for PhD Students,  MUST,  09/2019 ~ 06/2022
+*  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 06/2019
 
 ---
