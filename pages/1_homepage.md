@@ -63,7 +63,7 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
 ### Publications
 #### Journal Articles
 
-* **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  & Chi Chung Lee,  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis, " to appear in IEEE Journal on Selected Areas in Communications (SCI IF=13.081 in 2023,  JCR Q1),  2024,  DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
+* **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  & Chi Chung Lee,  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis, " IEEE Journal on Selected Areas in Communications (SCI IF=13.081 in 2023,  JCR Q1),  2024,  DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
 
 * **Yalin Liu**,  Qiu Wang,  Hong-Ning Dai,  Yaru Fu,  Ning Zhang,  & Chi Chung Lee,  "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions, " IEEE Transactions on Vehicular Technology (SCI IF=6.239 in 2021,  JCR Q1),  vol. 72,  no. 9,  pp. 12195-12207,  Sept. 2023,  doi: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
 
