@@ -74,7 +74,9 @@ permalink: /Chinese/
 ---
 
 #### 会议文章
-* **Yalin Liu**,  付雅茹,  王曲北剑, & 戴弘宁,  "跨地面、空中和太空的上行链路覆盖：基于球形几何的建模方法, " 提交到 *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 2024年
+* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "跨地面、空中和太空的上行链路覆盖：基于球形几何的建模方法, " 提交到 *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 2024年
+
+* 付雅茹, Yue Zhang, Zheng Shi, Hong Wang, 和 **刘亚林**,  "下一代移动群智感知网络的子带和感知任务分配：最优框架, " *IEEE 无线通信和网络会议 (WCNC)* **(EI and CCF C conference)**,  康莱德酒店, 迪拜,  2024年4月21日至24日.
 
 * **刘亚林**, 戴弘宁, 和 Ning zhang, “非地面网络中无人机对卫星通信的连接性分析（英文版）, ” *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  doi: 10.1109/GLOBECOM46510.2021.9685811. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
