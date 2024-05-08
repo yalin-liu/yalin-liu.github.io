@@ -81,6 +81,8 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
 #### Conference Papers
 * **Yalin Liu**,  Yaru Fu,  Qubeijian Wang, & Hong-Ning Dai,  "Uplink Coverage Cross Ground, Air, and Space: A Spherical Geometry-based Modeling Approach, " submitted to *IEEE Global Communications Conference (GLEBECOM)* **(EI and CCF C conference)**, 2024
 
+* Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, & **Yalin Liu**,  "Subband and Sensing Task Allocation for Next-Generation Mobile Crowdsensing Networks: An Optimal Framework, " *IEEE Wireless Communications and Networking Conference (WCNC)* **(EI and CCF C conference)**,  Conrad, Dubai,  21-24 April 2024.
+
 * **Yalin Liu**,  Hong-Ning Dai,  & Ning Zhang,  "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks, " *IEEE Global Communications Conference (GLEBECOM)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBECOM46510.2021.9685811..[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
 * Qubeijian Wang,  **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  & Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping, " *IEEE Global Communications Conference (GLEBECOM)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471..
