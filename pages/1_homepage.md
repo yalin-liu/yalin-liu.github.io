@@ -54,9 +54,9 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
 
 * 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds 2021/22.
 
-* 10/2018-10/2022,  **participant**,  "Key Technologies to Enable Ultra Dense Wireless Networks, " Macao Science and Technology Development Fund,  under Project Reference No.: 0026/2018/A1.
+* 12/2018-12/2020,  **participant**,  "Key Technologies to Enable Ultra Dense Wireless Networks, " Macao Science and Technology Development Fund,  under Project Reference No.: 0026/2018/A1.
 
-* 09/2017-10/2017,  **participant**,  "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement, " Macao Science and Technology Development Fund,  under Project Reference No.: 0096/2013/A3.
+* 09/2017-11/2017,  **participant**,  "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement, " Macao Science and Technology Development Fund,  under Project Reference No.: 0096/2013/A3.
   
 ---
 
