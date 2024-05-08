@@ -74,15 +74,15 @@ permalink: /Chinese/
 ---
 
 #### 会议文章
-* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "跨地面、空中和太空的上行链路覆盖：基于球形几何的建模方法, " 提交到 *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 2024年
+* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "跨地面、空中和太空的上行链路覆盖：基于球形几何的建模方法, " 提交到 *IEEE全球通信会议(Globecom)* **(EI and CCF C conference)**, 2024年
 
 * 付雅茹, Yue Zhang, Zheng Shi, Hong Wang, 和 **刘亚林**,  "下一代移动群智感知网络的子带和感知任务分配：最优框架, " *IEEE 无线通信和网络会议 (WCNC)* **(EI and CCF C conference)**,  康莱德酒店, 迪拜,  2024年4月21日至24日.
 
 * **刘亚林**, 戴弘宁, 和 Ning zhang, “非地面网络中无人机对卫星通信的连接性分析（英文版）, ” *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  doi: 10.1109/GLOBECOM46510.2021.9685811. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
-* 王曲北剑, **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “空中之耳：防止空中窃听的地面移动干扰（英文版）, ” *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  doi: 10.1109/GLOBE-COM46510.2021.9685471. 
+* 王曲北剑, **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “空中之耳：防止空中窃听的地面移动干扰（英文版）, ” *IEEE全球通信会议(Globecom)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  doi: 10.1109/GLOBE-COM46510.2021.9685471. 
 
-* **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “地对无人机通信网络：基于随机几何的性能分析（英文版）, ” *IEEE国际通信会议(GLEBECOM)* **(EI and CCF C conference)**, 加拿大魁北克蒙特利尔, 在线会议, 2021年6月14日至23日,  doi: 10.1109/ICC42927.2021.9500746. [[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “地对无人机通信网络：基于随机几何的性能分析（英文版）, ” *IEEE国际通信会议(Globecom)* **(EI and CCF C conference)**, 加拿大魁北克蒙特利尔, 在线会议, 2021年6月14日至23日,  doi: 10.1109/ICC42927.2021.9500746. [[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 * **刘亚林**, 戴弘宁, 彭宇阳, 和 王皓, “海报：带定向无线能量传输的支持无人机的数据采集方案”, *嵌入式无线系统和网络国际会议（EWSN）*, 中国北京, 2019年2月25日至27日. [[原文]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
