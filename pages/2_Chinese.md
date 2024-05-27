@@ -93,7 +93,14 @@ permalink: /Chinese/
 ### 学术活动
 
 #### 国际期刊审稿
-
+* 05/2024 IEEE Networking Letters
+* 04/2024 IEEE Communications Magazine
+* 04/2024 IEEE Internet of Things Journal
+* 03/2024 IEEE Networking Letters
+* 02/2024 IEEE Transactions on Intelligent Transportation Systems
+* 02/2024 IEEE Wireless Communications Letters
+* 02/2024 IEEE Transactions on Communications
+* 01/2024 IEEE Internet of Things Journal
 * 10/2023 IEEE Internet of Things Journal
 * 09/2023 IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
 * 08/2023 IEEE Wireless Communications Letters
