@@ -122,7 +122,7 @@ permalink: /Chinese/
 * 08/2018 IEEE Communication Magazine
 
 #### 国际会议审稿
-
+* 04/2024 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 12/2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
 * 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
 * 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
