@@ -45,6 +45,7 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
 ---
 
 ### Research Projects
+* 1/1/2025-31/12/2027,  **PI**,  "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization, " HK FDS Fund,  HK$ 776, 810,  under Project Reference No.: UGC/FDS16/E15/24.
 
 * 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200, 000,  under Project Reference No.: RD/2023/2.22.
 
