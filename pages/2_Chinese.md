@@ -19,8 +19,10 @@ permalink: /Chinese/
 ### 简介
  
 <br>**刘亚林**目前任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N). 2022年于澳门科技大学获得博士学位. 2022年1月至2022年5月在香港教育大学担任研究助理.  她的研究兴趣包括无线通信、非地面网络、Web 3.0, 随机几何、网络建模和网络优化.  她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊的评审人. 她目前担任MDPI Electronics的特刊联合客座编辑. <br> 
-<br> **邮箱:** <ylliu@hkmu.edu.hk> 
+
+
 <br> **链接:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;  
+<br> **招聘:** 本人长期需要研究助理，有相关研究经验和兴趣者可以邮件联系，硕士以上学历，发表过期刊论文者优先。
 
 ---
 ### 教育背景
