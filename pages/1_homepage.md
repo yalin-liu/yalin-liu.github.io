@@ -28,15 +28,14 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 <br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;
 
-<br> **Research Team Member (with HKMU S&T) Wanted:** 
-- You are desired/interested in doing research related to AI, 6G, Blockchain, Web3, and SAGIN. <br>
+<br> **Research Team Member (with HKMU S&T) Wanted:** You are desired/interested in doing research related to AI, 6G, Blockchain, Web3, and SAGIN. <br>
  - *Full-time PhD and MPhil students*<br>
-  - You need to pass TOEFL test or IELTS test.<br>
-  - The excellent students may get PGS: HK$18,500 per month.<br>
+  You need to pass TOEFL test or IELTS test.<br>
+  The excellent students may get PGS: HK$18,500 per month.<br>
  - *Research Assistants (RA)*<br>
-  - You are familiar with the basic academic tools, including Latex, Overleaf, MATLAB, etc. <br>
-  - You are familiar with basic knowledge of information theory, federated learning, reinforcement learning, etc. <br>
-  - Those with a master's degree or above and published journal papers are preferred. <br>
+  You are familiar with the basic academic tools, including Latex, Overleaf, MATLAB, etc. <br>
+  You are familiar with basic knowledge of information theory, federated learning, reinforcement learning, etc. <br>
+  Those with a master's degree or above and published journal papers are preferred. <br>
 - Those interested can contact me via email. <br>&emsp; 
 
 ---
