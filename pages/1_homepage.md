@@ -28,7 +28,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 <br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;
 
-<br> **Research Team Member Wanted:** You are desired/interested in doing research related to AI, 6G, Blockchain, Web3, and SAGIN. <br>
+<br> **Wanted:** You are desired/interested in doing research related to AI, 6G, Blockchain, Web3, and SAGIN. <br>
  - *PhD and MPhil students*<br>
   You need to pass the TOEFL test or IELTS test.<br>
   The excellent students may get PGS: HK$18,500 per month.<br>
