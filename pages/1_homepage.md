@@ -33,6 +33,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 - The excellent students may get PGS: HK$18,500 per month.<br>
 - For admission application procedures, please refer to this website: 
 https://admissions.hkmu.edu.hk/rpg/submit-application/&emsp; <br>
+
 <br> **Research Assistant Wanted:** I am in need of research assistants for a long time. Those with relevant research experience and interests can contact me via email. Those with a master's degree or above and published journal papers are preferred. &emsp; 
 
 ---
