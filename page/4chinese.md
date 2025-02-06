@@ -1,9 +1,9 @@
 ---
-layout: page
-title: 刘亚林
-comments: true
-permalink: /Chinese/
-
+layout: default
+title: 简介
+permalink: /chinese/
+icon: archive
+type: page
 ---
 
 * 目录
