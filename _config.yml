@@ -26,8 +26,6 @@ permalink: /:year/:month/:day/:title/
 # this is the url root of the create page link on the footer page.
 # newsourceroot: https://github.com/yalin-liu/Yalin_Liu.gitHub.io/
 
-# description_footer: 本站记录我前端之旅的沿途风景！
-
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
@@ -37,7 +35,7 @@ duoshuo_shortname: #yalin-liu
 # Build settings
 markdown: kramdown
 
-# port: 4001
+port: 4001
 
 # url
 category_dir: category/
@@ -50,5 +48,5 @@ excerpt_separator: "\n\n\n\n"
 gems: [jekyll-paginate]
 paginate: 10
 
-plugins:
-  - jekyll-paginate
+# plugins:
+#   - jekyll-paginate
