@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Yalin Liu
-comments: true
+layout: default
+title: Resume
 permalink: /homepage/
-
+icon: archive
+type: page
 ---
 
 * content
