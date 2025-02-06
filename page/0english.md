@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: LIU Yalin (Alin)
 permalink: /homepage/
 icon: archive
 type: page
