@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Resume
 permalink: /homepage/
 icon: archive
@@ -22,7 +22,9 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
 
 Dr. Liu is currently the principal investigator (PI) of two research grants (funded by HKMU R&D and HK RGC FDS). She has published some papers in top-tier journals and conferences including IEEE Journal on Selected Areas in Communications (JCR Q1, IF: 16.4), IEEE Transactions on Vehicular Technology (JCR Q1, IF: 6.8), IEEE Network (JCR Q1, IF: 9.3), IEEE ICC (EI and CCF C conference), and IEEE GLOBECOM (EI and CCF C conference). One of her papers, “Unmanned Aerial Vehicle for Internet of Everything: Opportunities and Challenges,” has received a high citation rate of 243 on Google Scholar as of November 4, 2024. 
 
-Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals including IEEE IoT and IEEE Communication Magazine. She is also serving as a Co-guest Editor for MDPI Electronics. <be>
+Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals including IEEE IoT and IEEE Communication Magazine. She is also serving as a Co-guest Editor for MDPI Electronics. <br>
+
+---
 
 <br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;  
 
