@@ -9,6 +9,8 @@ type: page
 * 目录
 {:toc}
 
+![](https://github.com/yalin-liu/yalin-liu.github.io/blob/master/images/yl_liu.jpg)
+
 ### 联系方式
 
 电话：(+852) 31202622<br>
