@@ -24,7 +24,10 @@ Dr. Liu is currently the principal investigator (PI) of two research grants (fun
 
 Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals including IEEE IoT and IEEE Communication Magazine. She is also serving as a Co-guest Editor for MDPI Electronics. <br>
 
-<br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;  
+**Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) 
+| [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) 
+| [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) 
+| [ORCID](https://orcid.org/0000-0003-2870-4598)  
 
 ---
 
