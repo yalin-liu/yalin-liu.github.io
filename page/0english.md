@@ -11,6 +11,8 @@ type: page
 
 ### Contact
 
+![](https://github.com/yalin-liu/yalin-liu.github.io/blob/master/images/yl_liu.jpg)
+
 Tel: (+852) 31202622<br> 
 Fax: (+852) 27891170<br> 
 Email: ylliu@hkmu.edu.hk<br> 
