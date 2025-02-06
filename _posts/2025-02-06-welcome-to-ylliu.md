@@ -1,38 +1,23 @@
 ---
 layout: post
-title:  "hello you!"
-date:   2025-02-06 18:32
-categories: ylliu
-tags: ylliu
-excerpt: For testing.
-mathjax: true
+title:  "Research Staff/Student Wanted"
+categories: Wanted
+tags:  Wanted
+author: Yalin
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+* content
+{:toc}
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-
-Block Mathjax 
-
-$$
-f(x) = ax + b
-$$
-
-Inline Mathjax $a \neq b$
+<br> **Wanted:** You are desired/interested in doing research related to AI-enabled networks, 6G, Blockchain, Web3, and SAGIN. <br>
+ - *PhD and MPhil students*<br>
+  You need to pass the TOEFL test or IELTS test.<br>
+  The excellent students may get PGS: HK$18,500 per month.<br>
+  [Click for admission application procedures of HKMU.](https://admissions.hkmu.edu.hk/rpg/submit-application/)<br>
+ - *Research Assistants (RA)*<br>
+  You are familiar with the basic academic tools, including Latex, Overleaf, MATLAB, etc. <br>
+  You are familiar with basic knowledge of information theory, federated learning, reinforcement learning, etc. <br>
+  Those with a master's degree or above and published journal papers are preferred. <br>
+- Those interested can contact me via email. <br>&emsp; 
 
