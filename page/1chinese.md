@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简介
+title: 刘亚林
 permalink: /chinese/
 icon: archive
 type: page
