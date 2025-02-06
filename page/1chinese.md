@@ -22,16 +22,6 @@ type: page
 
 
 <br> **链接:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;  
-<br> **招聘:** 有意/希望从事与AI-enabled networks、6G、区块链、Web3和SAGIN相关的研究学者/同学。
--  *博士和硕士研究生*<br>
-您需要通过托福或雅思考试。<br>
-优秀学生可获得PGS：每月18,500港币。<br>
-[点击查看香港都会大学入学申请程序。](https://admissions.hkmu.edu.hk/rpg/submit-application/)<br>
-- *研究助理（RA）*<br>
-您熟悉基本的学术工具，包括Latex，Overleaf，MATLAB等。<br>
-您熟悉信息论，联邦学习，强化学习等基础知识。<br>
-具有硕士或以上学位并发表过期刊论文者优先考虑。<br>
-- 有兴趣者可以通过电子邮件与我联系。
 
 ---
 ### 教育背景
