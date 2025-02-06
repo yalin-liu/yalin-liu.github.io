@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resume
+title: Biography
 permalink: /homepage/
 icon: archive
 type: page
@@ -23,20 +23,6 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
 Dr. Liu is currently the principal investigator (PI) of two research grants (funded by HKMU R&D and HK RGC FDS). She has published some papers in top-tier journals and conferences including IEEE Journal on Selected Areas in Communications (JCR Q1, IF: 16.4), IEEE Transactions on Vehicular Technology (JCR Q1, IF: 6.8), IEEE Network (JCR Q1, IF: 9.3), IEEE ICC (EI and CCF C conference), and IEEE GLOBECOM (EI and CCF C conference). One of her papers, “Unmanned Aerial Vehicle for Internet of Everything: Opportunities and Challenges,” has received a high citation rate of 243 on Google Scholar as of November 4, 2024. 
 
 Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals including IEEE IoT and IEEE Communication Magazine. She is also serving as a Co-guest Editor for MDPI Electronics. <be>
-
-
-
-<br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;  
-<br> **Wanted:** You are desired/interested in doing research related to AI-enabled networks, 6G, Blockchain, Web3, and SAGIN. <br>
- - *PhD and MPhil students*<br>
-  You need to pass the TOEFL test or IELTS test.<br>
-  The excellent students may get PGS: HK$18,500 per month.<br>
-  [Click for admission application procedures of HKMU.](https://admissions.hkmu.edu.hk/rpg/submit-application/)<br>
- - *Research Assistants (RA)*<br>
-  You are familiar with the basic academic tools, including Latex, Overleaf, MATLAB, etc. <br>
-  You are familiar with basic knowledge of information theory, federated learning, reinforcement learning, etc. <br>
-  Those with a master's degree or above and published journal papers are preferred. <br>
-- Those interested can contact me via email. <br>&emsp; 
 
 ---
 
