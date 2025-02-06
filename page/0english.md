@@ -22,7 +22,7 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
 
 Dr. Liu is currently the principal investigator (PI) of two research grants (funded by HKMU R&D and HK RGC FDS). She has published some papers in top-tier journals and conferences including IEEE Journal on Selected Areas in Communications (JCR Q1, IF: 16.4), IEEE Transactions on Vehicular Technology (JCR Q1, IF: 6.8), IEEE Network (JCR Q1, IF: 9.3), IEEE ICC (EI and CCF C conference), and IEEE GLOBECOM (EI and CCF C conference). One of her papers, “Unmanned Aerial Vehicle for Internet of Everything: Opportunities and Challenges,” has received a high citation rate of 243 on Google Scholar as of November 4, 2024. 
 
-Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals including IEEE IoT and IEEE Communication Magazine. She is also serving as a Co-guest Editor for MDPI Electronics. <br>
+Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals including IEEE IoT and IEEE Communication Magazine. She is also serving as a Co-guest Editor for MDPI Electronics. 
 
 **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) 
 | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) 
@@ -45,7 +45,9 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 * 01/2022-05/2022: **Research Assistant**,  the Education University of Hong Kong
   
-* 06/2022-present: [**Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
+* 06/2022-12/2024: [**Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
+
+* 01/2025-present: [**Senior Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
   
 ---
 
