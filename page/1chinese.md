@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 简介
 permalink: /chinese/
 icon: archive
