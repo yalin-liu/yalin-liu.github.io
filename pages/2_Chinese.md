@@ -85,7 +85,7 @@ permalink: /Chinese/
 ---
 
 #### 会议文章
-* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "跨地面、空中和太空的上行链路覆盖：基于球形几何的建模方法, " 提交到 *IEEE全球通信会议(Globecom)* **(EI and CCF C conference)**, 2024年
+* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "天空地一体化网络中六种跨层场景的统一网络建模, " 已被接收在 *IEEE国际通信会议(ICC)* **(EI and CCF C conference)**, 2025年
 
 * 付雅茹, Yue Zhang, Zheng Shi, Hong Wang, 和 **刘亚林**,  "下一代移动群智感知网络的子带和感知任务分配：最优框架, " *IEEE 无线通信和网络会议 (WCNC)* **(EI and CCF C conference)**,  康莱德酒店, 迪拜,  2024年4月21日至24日.
 
