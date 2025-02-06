@@ -30,4 +30,23 @@ duoshuo_url: "https://github.com/yalin-liu/"
 # Build settings
 markdown: kramdown
 
-port: 4001
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 10
+
+plugins:
+  - jekyll-paginate
