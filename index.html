@@ -5,7 +5,7 @@ layout: default
 <div class="page clearfix" index>
     <div class="left">
         <h1>Welcome to Yalin's Blog!</h1>
-        <!--<small>这里记录着我的科研之路</small>-->
+        <small>Here is my research journey!</small>        
         <hr>
         <ul>
             {% for post in paginator.posts %}
@@ -26,15 +26,11 @@ layout: default
                     </div>
 
                     <div class="label-card">
-                    {% include 1_homepage.md %}
+                    {% include category.html %}
                     </div>
 
                     <div class="label-card">
-                    {% include 2_Chinese.md %}
-                    </div>
-
-                    <div class="label-card">
-                    {% include 3_about.md %}
+                    {% include tag.html %}
                     </div>
                 </div>
                 <div class="excerpt">
