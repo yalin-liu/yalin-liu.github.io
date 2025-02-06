@@ -26,6 +26,7 @@ viewsourceroot: https://github.com/yalin-liu/Yalin_Liu.gitHub.io/blob/main/
 # this is the url root of the create page link on the footer page.
 newsourceroot: https://github.com/yalin-liu/Yalin_Liu.gitHub.io/
 
+description_footer: 本站记录我前端之旅的沿途风景！
 
 # Build settings
 markdown: kramdown
