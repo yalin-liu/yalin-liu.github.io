@@ -64,6 +64,8 @@ type: page
 
 #### 期刊 (发表)
 
+* 王玉磊、Li Feng、**刘亚林** 和 Zhongjie Li，“蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析”，*计算机网络* **（2023 年 SCI IF=4.4，JCR Q1）**，2024 年，DOI：10.1016/j.comnet.2025.111126。[[链接]]（https://www.sciencedirect.com/science/article/pii/S1389128625000945）
+
 * **刘亚林**,  戴弘宁,  王曲北剑,  Om Jee Pandey,  付雅茹, Ning Zhang,  Dusit Niyato,  & 李至冲,  "空天地一体化网络：基于球面随机几何的上行链路连通性分析",  *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**,  2024,  DOI: 10.1109/JSAC.2024.3365891. [[链接]](https://ieeexplore.ieee.org/document/10438999).
 
 * **刘亚林**,  王秋,  戴弘宁,  付雅茹,  Ning Zhang,  & 李至冲,  "无人机辅助无线回程网络：上行链路传输的连通性分析, " *IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022, JCR Q1)**,  vol. 72,  no. 9,  pp. 12195-12207,  Sept. 2023,  doi: 10.1109/TVT.2023.3268025. [[链接]](https://ieeexplore.ieee.org/document/10104142)
