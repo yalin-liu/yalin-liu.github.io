@@ -91,6 +91,9 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 
 #### Conference Papers
+
+* Yulei Wang, **Yalin Liu**, Yaru Fu, Yujie Qin, & Zhontgjie Li, "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, 2025
+
 * **Yalin Liu**,  Yaru Fu,  Qubeijian Wang, & Hong-Ning Dai,  "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks, " accepted by *IEEE International Conference on Communications (ICC)* **(EI and CCF C conference)**, 2025
 
 * Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, & **Yalin Liu**,  "Subband and Sensing Task Allocation for Next-Generation Mobile Crowdsensing Networks: An Optimal Framework, " *IEEE Wireless Communications and Networking Conference (WCNC)* **(EI and CCF C conference)**,  Conrad, Dubai,  21-24 April 2024.
