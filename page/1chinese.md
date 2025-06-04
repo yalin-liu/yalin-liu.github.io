@@ -20,7 +20,7 @@ type: page
  
 ### 简介
  
-<br>**刘亚林**目前任香港都会大学科技学院[高级讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。2022年于澳门科技大学获得博士学位。 2022年1月至2022年5月在香港教育大学担任研究助理。2022年6月至2025年12月在香港都会大学担任讲师。她的研究兴趣包括天地一体化网络、AI赋能网络、IoT、大规模网络建模和网络优化。**刘亚林**目前是两个研究项目（HKMU R&D Funding and HK RGC FDS Funding）的负责人。她在顶级期刊和会议上发表了一些论文，包括 IEEE Journal on Selected Areas in Communications（JCR Q1，影响因子：16.4）、IEEE Transactions on Vehicular Technology（JCR Q1，影响因子：6.8）、IEEE Network（JCR Q1，影响因子：9.3）、IEEE ICC（EI 和 CCF C 会议）和 IEEE GLOBECOM（EI 和 CCF C 会议）。她的一篇论文“无人驾驶飞行器实现万物互联：机遇与挑战”截至 2024 年 11 月 4 日在 Google Scholar 上的引用率高达 243。她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊（比如IEEE IoT 和 IEEE Communication Magazine）的评审人. 她目前担任MDPI Electronics的特刊联合客座编辑. <br> 
+<br>**刘亚林**目前任香港都会大学科技学院[高级讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。2022年于澳门科技大学获得博士学位。 2022年1月至2022年5月在香港教育大学担任研究助理。2022年6月至2025年12月在香港都会大学担任讲师。她的研究兴趣包括天地一体化网络、AI赋能网络、IoT、大规模网络建模和网络优化。**刘亚林**目前是两个研究项目（HKMU R&D Funding and HK RGC FDS Funding）的负责人。她在顶级期刊和会议上发表了一些论文，包括 IEEE Journal on Selected Areas in Communications（JCR Q1，影响因子：16.4）、IEEE Transactions on Vehicular Technology（JCR Q1，影响因子：6.8）、IEEE Network（JCR Q1，影响因子：9.3）、IEEE ICC（EI 和 CCF C 会议）和 IEEE GLOBECOM（EI 和 CCF C 会议）。她的一篇论文“无人驾驶飞行器实现万物互联：机遇与挑战”截至 2025 年 6 月 4 日在 Google Scholar 上的引用率高达 269。她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊（比如IEEE IoT 和 IEEE Communication Magazine）的评审人. 她目前担任[MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34) 和 [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH)的特刊联合客座编辑。<br> 
 
 **链接:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/),
 [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN),
@@ -83,9 +83,9 @@ type: page
 ---
 
 #### 会议文章
-* 王玉磊, **刘亚林**, 付雅茹, Yujie Qin, & Zhontgjie Li, “用于飞行器中继地空卫星连接的 3D 随机几何模型,” accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, 2025
+* 王玉磊, **刘亚林**, 付雅茹, Yujie Qin, & Zhontgjie Li, “用于飞行器中继地空卫星连接的 3D 随机几何模型,” accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, 2025. [[PDF]](https://arxiv.org/abs/2503.16202)
 
-* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "天空地一体化网络中六种跨层场景的统一网络建模, " 已被接收在 *IEEE国际通信会议(ICC)* **(EI and CCF C conference)**, 2025年
+* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "天空地一体化网络中六种跨层场景的统一网络建模, " 已被接收在 *IEEE国际通信会议(ICC)* **(EI and CCF C conference)**, 2025年. [[PDF]](https://arxiv.org/abs/2504.21284)
 
 * 付雅茹, Yue Zhang, Zheng Shi, Hong Wang, 和 **刘亚林**,  "下一代移动群智感知网络的子带和感知任务分配：最优框架, " *IEEE 无线通信和网络会议 (WCNC)* **(EI and CCF C conference)**,  康莱德酒店, 迪拜,  2024年4月21日至24日.
 
@@ -107,48 +107,21 @@ type: page
 
 ### 学术活动
 
+#### 国际期刊编辑
+
+* 2023 ~ now 特刊联合客座编辑, [MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34)
+* 2025 ~ now 特刊联合客座编辑, [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH).
+
 #### 国际期刊审稿
-* 05/2024 IEEE Networking Letters
-* 04/2024 IEEE Communications Magazine
-* 04/2024 IEEE Internet of Things Journal
-* 03/2024 IEEE Networking Letters
-* 02/2024 IEEE Transactions on Intelligent Transportation Systems
-* 02/2024 IEEE Wireless Communications Letters
-* 02/2024 IEEE Transactions on Communications
-* 01/2024 IEEE Internet of Things Journal
-* 10/2023 IEEE Internet of Things Journal
-* 09/2023 IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
-* 08/2023 IEEE Wireless Communications Letters
-* 08/2023 IEEE Internet of Things Journal
-* 07/2023 IEEE Transactions on Network and Service Management
-* 03/2023 IEEE Wireless Communications Letters
-* 03/2023 Elsevier Ad Hoc Networks
-* 01/2023 IEEE Internet of Things Journal
-* 04/2022 IEEE Wireless Communications Letters
-* 03/2022 Elsevier Ad Hoc Networks
-* 01/2022 IEEE Internet of Things Journal
-* 07/2022 Information Processing and Management
-* 05/2022 Information Processing and Management
-* 10/2021 IEEE Internet of Things Journal
-* 02/2021 Elsevier The Journal of the Franklin Institute 
-* 12/2020 Elsevier Ad Hoc Networks
-* 03/2020 IEEE Communication Magazine
-* 12/2019 IEEE Access
-* 08/2018 IEEE Communication Magazine
+* 2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
+* 2018 ~ now Reviewer for IEEE Magazines: Communications Magazine
+* 2019 ~ now Reviewer for IEEE Journals: Transactions on Green Communications and Networking, Transactions on Cognitive Communications and Networking, Internet of Things Journal, Transactions on Intelligent Transportation Systems, Transactions on Communications, Transactions on Network and Service Management, Access
+* 2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
 
 #### 国际会议审稿
-* 04/2024 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 12/2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
-* 08/2022 The 9th International Conference on Behavioural and Social Computing
-* 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
-* 12/2020 IEEE Vehicular Technology Conference (VTC)
-* 04/2020 IEEE Vehicular Technology Conference (VTC)
-* 10/2019 IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
+* 2025 Session chair for [WOCC 2025](https://wocc.org/wocc2025/special-session/)
+* 2021 ~ now TPC member for Conferences: IEEE Vehicular Technology Conference (VTC), IEEE Wireless Communications and Networking Conference (WCNC), IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD)
+* 2019 ~ 2022 Reviewer for Conferences: The 9th International Conference on Behavioural and Social Computing, IEEE Wireless Communications and Networking Conference (WCNC), IEEE Vehicular Technology Conference (VTC), IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
 
 ---
 
