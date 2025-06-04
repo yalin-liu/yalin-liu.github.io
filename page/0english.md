@@ -121,7 +121,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 * 2023 ~ now Special Issue Editor for [MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34)
 * 2025 ~ now Special Issue Editor for [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH).
-* 
+
 
 #### Reviewing Activities for International Journals
 * 2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
