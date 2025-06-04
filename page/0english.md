@@ -22,9 +22,9 @@ Address: D1126,  Department of Electronic Engineering and Computer Science,  Sch
  
 <br>**Yalin Liu** is currently [a senior lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology, Hong Kong Metropolitan University. She received her Ph.D degree from Macau University of Science and Technology in 2022. From Jan. 2022 to May 2022, she worked as a research assistant at the Education University of Hong Kong. From June 2022 to Dec. 2024, she worked as a Lecturer at Hong Kong Metropolitan University. Her research interests include Space-Air-Ground Integrated Networks, AI-enabled Networks, IoT, and Large-scale Network Modeling and Optimization. 
 
-Dr. Liu is currently the principal investigator (PI) of two research grants (funded by HKMU R&D and HK RGC FDS). She has published some papers in top-tier journals and conferences including IEEE Journal on Selected Areas in Communications (JCR Q1, IF: 16.4), IEEE Transactions on Vehicular Technology (JCR Q1, IF: 6.8), IEEE Network (JCR Q1, IF: 9.3), IEEE ICC (EI and CCF C conference), and IEEE GLOBECOM (EI and CCF C conference). One of her papers, “Unmanned Aerial Vehicle for Internet of Everything: Opportunities and Challenges,” has received a high citation rate of 243 on Google Scholar as of November 4, 2024. 
+Dr. Liu is currently the principal investigator (PI) of two research grants (funded by HKMU R&D and HK RGC FDS). She has published some papers in top-tier journals and conferences including IEEE Journal on Selected Areas in Communications (JCR Q1, IF: 16.4), IEEE Transactions on Vehicular Technology (JCR Q1, IF: 6.8), IEEE Network (JCR Q1, IF: 9.3), IEEE ICC (EI and CCF C conference), and IEEE GLOBECOM (EI and CCF C conference). One of her papers, “Unmanned Aerial Vehicle for Internet of Everything: Opportunities and Challenges,” has received a high citation rate of 269 on Google Scholar as of June 4, 2025. 
 
-Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals including IEEE IoT and IEEE Communication Magazine. She is also serving as a Co-guest Editor for MDPI Electronics. 
+Dr. Liu has served as a Technical Program Committee (TPC) member for conferences such as IEEE WCNC and IEEE VTC, and as a reviewer for various IEEE journals, including IEEE IoT and IEEE Communication Magazine. She is also serving as a Special Issue Editor for [MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34) and [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH). 
 
 **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/), 
 [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN), 
@@ -92,17 +92,17 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 #### Conference Papers
 
-* Yulei Wang, **Yalin Liu**, Yaru Fu, Yujie Qin, & Zhontgjie Li, "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, 2025
+* Yulei Wang, **Yalin Liu**, Yaru Fu, Yujie Qin, & Zhontgjie Li, "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, 2025. [[PDF]](https://arxiv.org/abs/2503.16202)
 
-* **Yalin Liu**,  Yaru Fu,  Qubeijian Wang, & Hong-Ning Dai,  "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks, " accepted by *IEEE International Conference on Communications (ICC)* **(EI and CCF C conference)**, 2025
+* **Yalin Liu**,  Yaru Fu,  Qubeijian Wang, & Hong-Ning Dai,  "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks, " accepted by *IEEE International Conference on Communications (ICC)* **(EI and CCF C conference)**, 2025. [[PDF]](https://arxiv.org/abs/2504.21284)
 
 * Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, & **Yalin Liu**,  "Subband and Sensing Task Allocation for Next-Generation Mobile Crowdsensing Networks: An Optimal Framework, " *IEEE Wireless Communications and Networking Conference (WCNC)* **(EI and CCF C conference)**,  Conrad, Dubai,  21-24 April 2024.
 
-* **Yalin Liu**,  Hong-Ning Dai,  & Ning Zhang,  "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks, " *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBECOM46510.2021.9685811..[[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **Yalin Liu**,  Hong-Ning Dai,  & Ning Zhang,  "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks, " *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBECOM46510.2021.9685811. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
-* Qubeijian Wang,  **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  & Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping, " *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471..
+* Qubeijian Wang,  **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  & Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping, " *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471.
 
-* **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  & Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis, " *IEEE International Conference of Communications (ICC)* **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  & Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis, " *IEEE International Conference of Communications (ICC)* **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  doi: 10.1109/ICC42927.2021.9500746. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
 * **Yalin Liu**,  Hong-Ning Dai,  Yuyang Peng,  & Hao Wang,  "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer, " *International Conference on Embedded Wireless Systems and Networks (EWSN)*,  Beijing,  China,  February 25-27,  2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
@@ -119,50 +119,20 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 #### Editor Activities for International Journals
 
-* 2023 Co-guest Editor for MDPI Electronics
+* 2023 ~ now Special Issue Editor for [MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34)
+* 2025 ~ now Special Issue Editor for [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH).
+* 
 
 #### Reviewing Activities for International Journals
-* 05/2024 IEEE Networking Letters
-* 04/2024 IEEE Communications Magazine
-* 04/2024 IEEE Internet of Things Journal
-* 03/2024 IEEE Networking Letters
-* 02/2024 IEEE Transactions on Intelligent Transportation Systems
-* 02/2024 IEEE Wireless Communications Letters
-* 02/2024 IEEE Transactions on Communications
-* 01/2024 IEEE Internet of Things Journal
-* 10/2023 IEEE Internet of Things Journal
-* 09/2023 IEEE Transactions on Network and Service Management
-* 08/2023 IEEE Wireless Communications Letters
-* 08/2023 IEEE Internet of Things Journal
-* 07/2023 IEEE Transactions on Network and Service Management
-* 03/2023 IEEE Wireless Communications Letters
-* 03/2023 Elsevier Ad Hoc Networks
-* 01/2023 IEEE Internet of Things Journal
-* 04/2022 IEEE Wireless Communications Letters
-* 03/2022 Elsevier Ad Hoc Networks
-* 01/2022 IEEE Internet of Things Journal
-* 07/2022 Information Processing and Management
-* 05/2022 Information Processing and Management
-* 10/2021 IEEE Internet of Things Journal
-* 02/2021 Elsevier The Journal of the Franklin Institute 
-* 12/2020 Elsevier Ad Hoc Networks
-* 03/2020 IEEE Communication Magazine
-* 12/2019 IEEE Access
-* 08/2018 IEEE Communication Magazine
+* 2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
+* 2018 ~ now Reviewer for IEEE Magazines: Communications Magazine
+* 2019 ~ now Reviewer for IEEE Journals: Transactions on Green Communications and Networking, Transactions on Cognitive Communications and Networking, Internet of Things Journal, Transactions on Intelligent Transportation Systems, Transactions on Communications, Transactions on Network and Service Management, Access
+* 2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
 
 #### Reviewing Activities for International Conferences
-* 04/2024 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 12/2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
-* 08/2022 The 9th International Conference on Behavioural and Social Computing
-* 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
-* 12/2020 IEEE Vehicular Technology Conference (VTC)
-* 04/2020 IEEE Vehicular Technology Conference (VTC)
-* 10/2019 IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
+* 2025 Session chair for [WOCC 2025](https://wocc.org/wocc2025/special-session/)
+* 2021 ~ now TPC member for Conferences: IEEE Vehicular Technology Conference (VTC), IEEE Wireless Communications and Networking Conference (WCNC), IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD)
+* 2019 ~ 2022 Reviewer for Conferences: The 9th International Conference on Behavioural and Social Computing, IEEE Wireless Communications and Networking Conference (WCNC), IEEE Vehicular Technology Conference (VTC), IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
 
 ---
 
