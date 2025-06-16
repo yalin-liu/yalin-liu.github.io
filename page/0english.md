@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LIU Yalin (Alin)
+title: LIU Yalin (CV)
 permalink: /homepage/
 icon: archive
 type: page
