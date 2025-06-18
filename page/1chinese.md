@@ -63,6 +63,7 @@ type: page
 ### 学术论文
 
 #### 期刊 (发表)
+* 王玉磊、**刘亚林**、付雅茹 和 Zhuguo Ding，“用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析”，arXiv:2506.07771，2026 年。[[链接]](https://arxiv.org/pdf/2506.07771)
 
 * 王玉磊、Li Feng、**刘亚林** 和 Zhongjie Li，“蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析”，*计算机网络* **（2023 年 SCI IF=4.4，JCR Q1）**，2024 年，DOI：10.1016/j.comnet.2025.111126。[[链接]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
 
