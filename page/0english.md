@@ -73,6 +73,8 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 ### Publications
 #### Journal Articles
 
+* Yulei Wang, **Yalin Liu**, Yaru Fu, and Zhuguo Ding,  "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis, " arXiv preprint arXiv:2506.07771,  2026. [[Link]](https://arxiv.org/pdf/2506.07771)
+
 * Yulei Wang, Li Feng, **Yalin Liu**, and Zhongjie Li,  "Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT, " *Computer Networks* **(SCI IF=4.4 in 2023, JCR Q1)**,  2024,  DOI: 10.1016/j.comnet.2025.111126. [[Link]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
 
 * **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  & Chi Chung Lee,  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis, " *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**,  2024,  DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
