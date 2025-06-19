@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 刘亚林(简介)
 permalink: /chinese/
 icon: archive
