@@ -55,7 +55,10 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 ---
 
 ### Research Projects
-* 1/1/2025-31/12/2027,  **PI**,  "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization, " HK FDS Fund,  HK$ 776, 810,  under Project Reference No.: UGC/FDS16/E15/24.
+
+* 1/1/2025-31/12/2027,  **PI**,  "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization, " HK FDS Fund,  HK$ 776, 810, under Project Reference No.: UGC/FDS16/E15/24.
+
+* 1/12/2024-31/11/2027,  **Co-I**,  "Multi-layer intelligent medical network system, " In-kind donation to HKMU 6,180,000 HKD, UGC Research Matching Grant Scheme, 1,545,000, under Project Reference No.: 2024/3003.
 
 * 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200, 000,  under Project Reference No.: RD/2023/2.22.
 
