@@ -28,7 +28,8 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/), 
 [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN), 
-[Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act), 
+[Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act),
+[LinkedIn](www.linkedin.com/in/alin-yalin-liu),
 [ORCID](https://orcid.org/0000-0003-2870-4598)  
 
 ---
