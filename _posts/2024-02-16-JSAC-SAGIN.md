@@ -3,7 +3,7 @@ layout: post
 title:  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis"
 categories: Research-Work
 tags:  Study-Intro
-author: **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  and Chi Chung Lee
+author: Yalin
 ---
 
 * content
