@@ -56,17 +56,17 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 ### Research Projects
 
-* 1/1/2025-31/12/2027,  **PI**,  "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization, " HK FDS Fund,  HK$ 776, 810, under Project Reference No.: UGC/FDS16/E15/24.
+* 1/1/2025-31/12/2027,  **PI**,  "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization, " HK FDS Fund,  HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24.
 
-* 1/12/2024-31/11/2027,  **Co-I**,  "Multi-layer intelligent medical network system, " In-kind donation to HKMU 6,180,000 HKD, UGC Research Matching Grant Scheme, 1,545,000, under Project Reference No.: 2024/3003.
+* 1/12/2024-31/11/2027,  **Co-I**,  "Multi-layer intelligent medical network system, " In-kind donation to HKMU,  HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003.
 
-* 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200, 000,  under Project Reference No.: RD/2023/2.22.
+* 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200,000,  under Project Reference No.: RD/2023/2.22.
 
-* 01/2023-06/2025,  **Co-I**,  “Intelligent Data-driven Wireless Networks, ” HKMU R&D Fund,  HK$ 1, 480, 566.
+* 10/2023-03/2025,  **Co-I**,  “Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization, ” HKMU R&D Fund,  HK$ 200, 000, under Project Reference No.: RD/2023/1.8.
 
-* 10/2023-03/2025,  **Co-I**,  “Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization, ” HKMU R&D Fund,  HK$ 200, 000.
+* 01/2023-06/2025,  **Co-I**,  “Intelligent Data-driven Wireless Networks, ” HKMU R&D Fund,  HK$ 1,480,566, under Project Reference No.: CP/2022/2.1.
 
-* 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds 2021/22.
+* 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds, under Project Reference No.: 2021/22.
 
 * 12/2018-12/2020,  **participant**,  "Key Technologies to Enable Ultra Dense Wireless Networks, " Macao Science and Technology Development Fund,  under Project Reference No.: 0026/2018/A1.
 
