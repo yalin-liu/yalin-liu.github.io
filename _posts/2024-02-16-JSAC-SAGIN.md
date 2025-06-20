@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis"
-categories: Research-Work
-tags:  Study-Intro
+categories: Study-Intro
+tags:  SAGIN Spherical-Stochastic-Geometry Uplink-Connectivity Network-Modeling
 author: Yalin
 ---
 
