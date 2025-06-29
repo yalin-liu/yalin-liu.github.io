@@ -125,7 +125,7 @@ type: page
 * 2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
 
 #### 国际会议审稿
-* 2025 Workshop Chair for [NCIC] (https://www.icncic.org/workshops/)
+* 2025 Workshop Chair for [NCIC](https://www.icncic.org/workshops/)
 * 2025 Session chair for [WOCC 2025](https://wocc.org/wocc2025/special-session/)
 * 2021 ~ now TPC member for Conferences: IEEE Vehicular Technology Conference (VTC), IEEE Wireless Communications and Networking Conference (WCNC), IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD)
 * 2019 ~ 2022 Reviewer for Conferences: The 9th International Conference on Behavioural and Social Computing, IEEE Wireless Communications and Networking Conference (WCNC), IEEE Vehicular Technology Conference (VTC), IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
