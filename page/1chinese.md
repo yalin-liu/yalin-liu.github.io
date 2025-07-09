@@ -44,23 +44,23 @@ type: page
 
 ### 工作经验
 
-* 2022.1 - 2022.5: **科研助理**，  香港教育大学
+* 2025.1 - 现在: [**高级讲师**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N)，  科技学院，  香港都会大学
   
 * 2022.6 - 2024.12: [**讲师**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N)，  科技学院，  香港都会大学
-
-* 2025.1 - 现在: [**高级讲师**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N)，  科技学院，  香港都会大学
+  
+* 2022.1 - 2022.5: **科研助理**，  香港教育大学
   
 ---
 
 ### 研究项目
-* 2025.1 - 2027.12，  **项目负责人**，  「空地一体化网络：系统建模与性能优化」， 香港本地自资院校研究资助计划，  HK$ 776，810，  项目编号: UGC/FDS16/E15/24。
-* 2024.12 - 2027.11，  **合作项目负责人**，  「多层智能医疗网络系统」， 捐赠实物 to HKMU，  HK$ 6，180，000， UGC 研究配套补助金计划， HK$ 1，545，000，  项目编号: 2024/3003。
-* 2023.12 - 2025.04， **项目负责人**，  「空地一体化网络赋能 Web 3.0：可扩展的去中心化网络设计」， 香港都会大学研发项目，  HK$ 200，000，  项目编号: RD/2023/2.22。
-* 2023.10 - 2025.03，  **合作项目负责人**，  「开发实时智能视频监控系统: 从算法设计到性能优化」， 香港都会大学研发项目，  HK$ 200， 000， 项目编号: RD/2023/1.8。
-* 2023.01 - 2025.06，  **合作项目负责人**，  「智能数据驱动的无线网络」， 香港都会大学研发项目，  HK$ 1，480，566，  项目编号: CP/2022/2.1。
-* 2022.01 - 2022.05，  **科研助理**，  「通过深度神经网络促进基于非侵入式学习器的情绪分类」， 香港教育大学技术转移项目，  项目编号: 2021/22。
-* 2018.12 - 2020.12，  **博士研究生**，  「实现超密集无线网络的关键技术」， 澳门科技发展基金项目，  项目编号: 0026/2018/A1。
-* 2017.09 - 2017.11，  **硕士研究生**，  「大型无线自组网：性能分析与性能改进」， 澳门科技发展基金项目， 项目编号: 0096/2013/A3。
+* 2025.1 - 2027.12，  **项目负责人**，  「空地一体化网络：系统建模与性能优化，」香港本地自资院校研究资助计划，  HK$ 776，810，  项目编号： UGC/FDS16/E15/24。
+* 2024.12 - 2027.11，  **合作项目负责人**，  「多层智能医疗网络系统，」捐赠实物 to HKMU，  HK$ 6，180，000， UGC 研究配套补助金计划， HK$ 1，545，000，  项目编号： 2024/3003。
+* 2023.12 - 2025.04， **项目负责人**，  「空地一体化网络赋能 Web 3.0：可扩展的去中心化网络设计，」香港都会大学研发项目，  HK$ 200，000，  项目编号： RD/2023/2.22。
+* 2023.10 - 2025.03，  **合作项目负责人**，  「开发实时智能视频监控系统：从算法设计到性能优化，」香港都会大学研发项目，  HK$ 200， 000， 项目编号：RD/2023/1.8。
+* 2023.01 - 2025.06，  **合作项目负责人**，  「智能数据驱动的无线网络，」香港都会大学研发项目，  HK$ 1，480，566，  项目编号：CP/2022/2.1。
+* 2022.01 - 2022.05，  **科研助理**，  「通过深度神经网络促进基于非侵入式学习器的情绪分类，」香港教育大学技术转移项目，  项目编号：2021/22。
+* 2018.12 - 2020.12，  **博士研究生**，  「实现超密集无线网络的关键技术，」澳门科技发展基金项目，  项目编号： 0026/2018/A1。
+* 2017.09 - 2017.11，  **硕士研究生**，  「大型无线自组网：性能分析与性能改进，」澳门科技发展基金项目， 项目编号： 0096/2013/A3。
 
 ---
 
@@ -68,48 +68,48 @@ type: page
 ### 学术论文
 
 #### 期刊 (发表)
-* 王玉磊、**刘亚林**、付雅茹 和 Zhuguo Ding，“用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析”，arXiv:2506.07771，2026 年。[[链接]](https://arxiv.org/pdf/2506.07771)
+* 王玉磊，**刘亚林**，付雅茹 和 Zhuguo Ding，「用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析，」arXiv：2506.07771，2026 年。[[原文]](https：//arxiv.org/pdf/2506.07771)
 
-* 王玉磊、Li Feng、**刘亚林** 和 Zhongjie Li，“蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析”，*计算机网络* **（2023 年 SCI IF=4.4，JCR Q1）**，2024 年，DOI：10.1016/j.comnet.2025.111126。[[链接]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
+* 王玉磊，Li Feng，**刘亚林** 和 Zhongjie Li，「蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析，」*计算机网络* **（2023 年 SCI IF=4.4，JCR Q1）**，2024 年，DOI：10.1016/j.comnet.2025.111126。[[原文]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
 
-* **刘亚林**,  戴弘宁,  王曲北剑,  Om Jee Pandey,  付雅茹, Ning Zhang,  Dusit Niyato,  和 李至冲,  "空天地一体化网络：基于球面随机几何的上行链路连通性分析",  *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**,  2024,  DOI: 10.1109/JSAC.2024.3365891。 [[链接]](https://ieeexplore.ieee.org/document/10438999)
+* **刘亚林**， 戴弘宁， 王曲北剑， Om Jee Pandey， 付雅茹，Ning Zhang， Dusit Niyato， 和 李至冲， 「空天地一体化网络：基于球面随机几何的上行链路连通性分析，」 *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**， 2024， DOI： 10.1109/JSAC.2024.3365891。 [[原文]](https://ieeexplore.ieee.org/document/10438999)
 
-* **刘亚林**,  王秋,  戴弘宁,  付雅茹,  Ning Zhang,  和 李至冲,  "无人机辅助无线回程网络：上行链路传输的连通性分析, " *IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022, JCR Q1)**,  vol. 72,  no. 9,  pp. 12195-12207,  Sept. 2023,  DOI: 10.1109/TVT.2023.3268025。 [[链接]](https://ieeexplore.ieee.org/document/10104142)
+* **刘亚林**， 王秋， 戴弘宁， 付雅茹， Ning Zhang， 和 李至冲，「无人机辅助无线回程网络：上行链路传输的连通性分析，」*IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022，JCR Q1)**， vol. 72， no. 9， pp. 12195-12207， Sept. 2023， DOI： 10.1109/TVT.2023.3268025。 [[原文]](https://ieeexplore.ieee.org/document/10104142)
 
-*  **刘亚林**, 戴弘宁, 王皓, Muhammad Imran, 和 Nadra Guizani, “基于无人机的无线供能式物联网：机遇和挑战（英文）, ” *IEEE Network* **(SCI IF=9.3 in 2022, JCR Q1)**, 第36卷, 第2期, pp. 146-152, 2022年三月/四月,  DOI: 10.1109/MNET.013.2000385。 [[链接]](https://ieeexplore.ieee.org/document/9762455)
+*  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，「基于无人机的无线供能式物联网：机遇和挑战（英文），」*IEEE Network* **(SCI IF=9.3 in 2022，JCR Q1)**，第36卷，第2期，pp. 146-152，2022年三月/四月， DOI： 10.1109/MNET.013.2000385。 [[原文]](https://ieeexplore.ieee.org/document/9762455)
 
-* 车奥林,  **刘亚林**,  Hong Xiao,  王皓,  Ke Zhang,  和 戴弘宁, “增强数据选择器发起基于文本的验证码攻击（英文）”, *Security and Communication Networks*,  卷 2021, 2021年,  DOI：10.1155/2021/9930608。 [[链接]](https://www.hindawi.com/journals/scn/2021/9930608/)
+* 车奥林， **刘亚林**， Hong Xiao， 王皓， Ke Zhang， 和 戴弘宁，「增强数据选择器发起基于文本的验证码攻击（英文），」*Security and Communication Networks*， 卷 2021，2021年， DOI：10.1155/2021/9930608。 [[原文]](https://www.hindawi.com/journals/scn/2021/9930608/)
 
-* **刘亚林**, 戴弘宁, 王曲北剑, Mahendra K. Shukla, 和 Muhammad Imran, “无人机赋能万物互联：机遇和挑战（英文）, ” *计算机通信(Computer communications)* **(SCI IF=6 in 2022, JCR Q1)**, 第155卷, pp. 66-83, 2020年3月。 [[链接]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
+* **刘亚林**，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，「无人机赋能万物互联：机遇和挑战（英文），」*计算机通信(Computer communications)* **(SCI IF=6 in 2022，JCR Q1)**，第155卷，pp. 66-83，2020年3月。 [[原文]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
 
-*  **刘亚林**, 戴弘宁, 王皓,  Muhammad Imran, Xiaofen Wang, 和 Muhammad Shoaib, “面对物联网场景下基于无人机的无线供能式数据采集方案（英文）, ” *计算机通信(Computer communications)* **(SCI IF=6 in 2022, JCR Q1)**, 第155卷, pp. 184-196, 2020年3月,  DOI: 10.1016/j.comcom.2020.03.020。 [[链接]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
+*  **刘亚林**，戴弘宁，王皓， Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，「面对物联网场景下基于无人机的无线供能式数据采集方案（英文），」*计算机通信(Computer communications)* **(SCI IF=6 in 2022，JCR Q1)**，第155卷，pp. 184-196，2020年3月， DOI：10.1016/j.comcom.2020.03.020。 [[原文]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
 
-*  **刘亚林**, 戴弘宁, 和 王曲北剑, “无人机辅助的物联网通信技术及其应用, ” *物联网学报（中国）*, 第3卷, 第四期, pp. 48-55, 2019年12月。 [[原文]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
+*  **刘亚林**，戴弘宁，和 王曲北剑，「无人机辅助的物联网通信技术及其应用，」*物联网学报（中国）*，第3卷，第四期，pp. 48-55，2019年12月。 [[原文]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
  
 ---
 
 #### 会议文章
-* **刘亚林**, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, 戴弘宁, 付雅茹, 陶畢生輝, 歐陽兆基, “Web3 DID 的混合衛星-地面部署： 系統設計與效能分析,” accepted by *IEEE MetaCom 2025*。 [[PDF]](https://arxiv.org/pdf/2507.02305)
+* **刘亚林**，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘宁，付雅茹，陶畢生輝，歐陽兆基，「Web3 DID 的混合衛星-地面部署： 系統設計與效能分析，」accepted by *IEEE MetaCom 2025*。 [[原文]](https://arxiv.org/pdf/2507.02305)
 
-* 王玉磊, **刘亚林**, 付雅茹, Yujie Qin, 和 Zhontgjie Li, “用于飞行器中继地空卫星连接的 3D 随机几何模型,” accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, 2025。 [[PDF]](https://arxiv.org/abs/2503.16202)
+* 王玉磊，**刘亚林**，付雅茹，Yujie Qin，和 Zhontgjie Li，「用于飞行器中继地空卫星连接的 3D 随机几何模型，」accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*，2025。 [[原文]](https://arxiv.org/abs/2503.16202)
 
-* **刘亚林**,  付雅茹,  王曲北剑, 和 戴弘宁,  "天空地一体化网络中六种跨层场景的统一网络建模, " 已被接收在 *IEEE国际通信会议(ICC)* **(EI and CCF C conference)**, 2025年。 [[PDF]](https://arxiv.org/abs/2504.21284)
+* **刘亚林**， 付雅茹， 王曲北剑，和 戴弘宁， 「天空地一体化网络中六种跨层场景的统一网络建模，」已被接收在 *IEEE国际通信会议(ICC)* **(EI and CCF C conference)**，2025年。 [[原文]](https://arxiv.org/abs/2504.21284)
 
-* 付雅茹, Yue Zhang, Zheng Shi, Hong Wang, 和 **刘亚林**,  "下一代移动群智感知网络的子带和感知任务分配：最优框架, " *IEEE 无线通信和网络会议 (WCNC)* **(EI and CCF C conference)**,  康莱德酒店, 迪拜,  2024年4月21日至24日。
+* 付雅茹，Yue Zhang，Zheng Shi，Hong Wang，和 **刘亚林**，「下一代移动群智感知网络的子带和感知任务分配：最优框架，」*IEEE 无线通信和网络会议 (WCNC)* **(EI and CCF C conference)**， 康莱德酒店，迪拜， 2024年4月21日至24日。
 
-* **刘亚林**, 戴弘宁, 和 Ning zhang, “非地面网络中无人机对卫星通信的连接性分析（英文版）, ” *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  DOI: 10.1109/GLOBECOM46510.2021.9685811。 [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **刘亚林**，戴弘宁，和 Ning zhang，「非地面网络中无人机对卫星通信的连接性分析（英文版），」*IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**，西班牙马德里，在线会议，2021年12月7日至11日， DOI：10.1109/GLOBECOM46510.2021.9685811。 [[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
-* 王曲北剑, **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “空中之耳：防止空中窃听的地面移动干扰（英文版）, ” *IEEE全球通信会议(Globecom)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  DOI: 10.1109/GLOBE-COM46510.2021.9685471。
+* 王曲北剑，**刘亚林**，戴弘宁，Muhammad Imran，和 Nidal Nasser，「空中之耳：防止空中窃听的地面移动干扰（英文版），」*IEEE全球通信会议(Globecom)* **(EI and CCF C conference)**，西班牙马德里，在线会议，2021年12月7日至11日， DOI：10.1109/GLOBE-COM46510.2021.9685471。
 
-* **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “地对无人机通信网络：基于随机几何的性能分析（英文版）, ” *IEEE国际通信会议(Globecom)* **(EI and CCF C conference)**, 加拿大魁北克蒙特利尔, 在线会议, 2021年6月14日至23日,  DOI: 10.1109/ICC42927.2021.9500746。 [[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **刘亚林**，戴弘宁，Muhammad Imran，和 Nidal Nasser，「地对无人机通信网络：基于随机几何的性能分析（英文版），」*IEEE国际通信会议(Globecom)* **(EI and CCF C conference)**，加拿大魁北克蒙特利尔，在线会议，2021年6月14日至23日， DOI：10.1109/ICC42927.2021.9500746。 [[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
-* **刘亚林**, 戴弘宁, 彭宇阳, 和 王皓, “海报：带定向无线能量传输的支持无人机的数据采集方案”, *嵌入式无线系统和网络国际会议（EWSN）*, 中国北京, 2019年2月25日至27日。 [[原文]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
+* **刘亚林**，戴弘宁，彭宇阳，和 王皓，「海报：带定向无线能量传输的支持无人机的数据采集方案，」*嵌入式无线系统和网络国际会议（EWSN）*，中国北京， 2019年2月25日至27日。 [[原文]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
 ---
 
 ### 专利
 
-* 2023,  “情绪识别系统及方法”,  香港教育大学,  专利号：HK30074872
+* 2023，「情绪识别系统及方法，」香港教育大学，专利号：HK30074872
 
 ---
 
@@ -117,8 +117,8 @@ type: page
 
 #### 国际期刊编辑
 
-* 2023 ~ now 特刊联合客座编辑, [MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34)
-* 2025 ~ now 特刊联合客座编辑, [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH)
+* 2025 ~ now 特刊联合客座编辑，[MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH)
+* 2023 ~ now 特刊联合客座编辑，[MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34)
 
 #### 国际期刊审稿
 * 2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
@@ -135,9 +135,9 @@ type: page
 ---
 
 ### 荣誉获奖
-*  金奖/评审团选择奖/特别奖,  “通过深度神经网络促进基于非侵入性学习者数据的情绪分类”,  第七届国际发明加拿大创新大赛 (iCAN 2022),  2022
-*  旅行奖获奖者,  Sensors Networks,  Sensors,  MDPI,  2021
-*  博士全额奖学金, 澳门科技大学, 2019年9月 ~ 2022年6月
-*  硕士全额奖学金, 澳门科技大学, 2017年9月 ~ 2019年6月
+*  金奖/评审团选择奖/特别奖，「通过深度神经网络促进基于非侵入性学习者数据的情绪分类，」第七届国际发明加拿大创新大赛 (iCAN 2022)，  2022
+*  旅行奖获奖者，  Sensors Networks，  Sensors，  MDPI，  2021
+*  博士全额奖学金， 澳门科技大学， 2019年9月 ~ 2022年6月
+*  硕士全额奖学金， 澳门科技大学， 2017年9月 ~ 2019年6月
 
 ---

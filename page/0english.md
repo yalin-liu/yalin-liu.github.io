@@ -62,9 +62,9 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 * 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200,000,  under Project Reference No.: RD/2023/2.22.
 
-* 10/2023-03/2025,  **Co-I**,  “Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization, ” HKMU R&D Fund,  HK$ 200, 000, under Project Reference No.: RD/2023/1.8.
+* 10/2023-03/2025,  **Co-I**,  "Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization, ” HKMU R&D Fund,  HK$ 200, 000, under Project Reference No.: RD/2023/1.8.
 
-* 01/2023-06/2025,  **Co-I**,  “Intelligent Data-driven Wireless Networks, ” HKMU R&D Fund,  HK$ 1,480,566, under Project Reference No.: CP/2022/2.1.
+* 01/2023-06/2025,  **Co-I**,  "Intelligent Data-driven Wireless Networks, " HKMU R&D Fund,  HK$ 1,480,566, under Project Reference No.: CP/2022/2.1.
 
 * 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds, under Project Reference No.: 2021/22.
 
@@ -118,7 +118,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 ### Patents
 
-* 2023,  “Emotion recognition system and method”,  The Education University of Hong Kong,  under patent No. HK30074872
+* 2023,  "Emotion recognition system and method, "  The Education University of Hong Kong,  under patent No. HK30074872
 
 ---
 
@@ -146,7 +146,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 ---
 
 ### Awards and Honors
-*  Gold Medal/Jury’s Choice Award/Special Award,  the invention “Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks”,  iCAN 2022.
+*  Gold Medal/Jury’s Choice Award/Special Award,  the invention "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks",  iCAN 2022.
 *  Travel Award In Sensors Networks Winner,  Sensors,  MDPI,  2021
 *  Full Scholarship Grants for PhD Students,  MUST,  09/2019 ~ 06/2022
 *  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 06/2019
