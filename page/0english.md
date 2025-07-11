@@ -104,7 +104,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 * **Yalin Liu**,  Yaru Fu,  Qubeijian Wang, and Hong-Ning Dai,  "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks," accepted by *IEEE International Conference on Communications (ICC)* **(EI and CCF C conference)**, 2025. [[PDF]](https://arxiv.org/abs/2504.21284)
 
-* Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, and **Yalin Liu**,  "Subband and Sensing Task Allocation for Next-Generation Mobile Crowdsensing Networks: An Optimal Framework, " *IEEE Wireless Communications and Networking Conference (WCNC)* **(EI and CCF C conference)**,  Conrad, Dubai,  21-24 April 2024.
+* Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, and **Yalin Liu**,  "Subband and Sensing Task Allocation for Next-Generation Mobile Crowdsensing Networks: An Optimal Framework," *IEEE Wireless Communications and Networking Conference (WCNC)* **(EI and CCF C conference)**,  Conrad, Dubai,  21-24 April 2024.
 
 * **Yalin Liu**,  Hong-Ning Dai,  and Ning Zhang,  "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  DOI: 10.1109/GLOBECOM46510.2021.9685811. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
