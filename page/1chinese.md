@@ -23,7 +23,7 @@ type: page
 <br>
 **刘亚林**目前任香港都会大学科技学院[高级讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N)。2022年于澳门科技大学获得博士学位。 2022年1月至2022年5月在香港教育大学担任研究助理。2022年6月至2025年12月在香港都会大学担任讲师。她的研究兴趣包括空天地一体化网络、物联网、区块链赋能无线网络、Web 3.0、可移动天线系统、ISAC 和 AI赋能网络解决方案等。
 
-**刘亚林**目前是两个研究项目（HKMU R&D Funding and HK RGC FDS Funding）的负责人。她在顶级期刊和会议上发表了一些论文，包括 IEEE Journal on Selected Areas in Communications（JCR Q1，影响因子：16.4）、IEEE Transactions on Vehicular Technology（JCR Q1，影响因子：6.8）、IEEE Network（JCR Q1，影响因子：9.3）、IEEE ICC（EI 和 CCF C 会议）和 IEEE GLOBECOM（EI 和 CCF C 会议）。她的一篇论文“无人驾驶飞行器实现万物互联：机遇与挑战”截至 2025 年 6 月 20 日在 Google Scholar 上的引用率高达 272。她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊（比如IEEE IoT 和 IEEE Communication Magazine）的评审人. 她目前担任[MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34) 和 [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH)的特刊联合客座编辑。<br> 
+**刘亚林**目前是两个研究项目（HKMU R&D Funding and HK RGC FDS Funding）的负责人。她在顶级期刊和会议上发表了一些论文，包括 IEEE Journal on Selected Areas in Communications（JCR Q1，影响因子：16.4）、IEEE Transactions on Vehicular Technology（JCR Q1，影响因子：6.8）、IEEE Network（JCR Q1，影响因子：9.3）、IEEE ICC（EI 和 CCF C 会议）和 IEEE GLOBECOM（EI 和 CCF C 会议）。她的一篇论文“无人驾驶飞行器实现万物互联：机遇与挑战”截至 2025 年 6 月 20 日在 Google Scholar 上的引用率高达 272。她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊（比如IEEE IoT 和 IEEE Communication Magazine）的评审人。她目前担任[MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34) 和 [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH)的特刊联合客座编辑。<br> 
 
 **关注我:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/)，
 [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN)，
@@ -122,9 +122,9 @@ type: page
 
 #### 国际期刊审稿
 * 2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
+* 2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
 * 2018 ~ now Reviewer for IEEE Magazines: Communications Magazine
 * 2019 ~ now Reviewer for IEEE Journals: Transactions on Green Communications and Networking, Transactions on Cognitive Communications and Networking, Internet of Things Journal, Transactions on Intelligent Transportation Systems, Transactions on Communications, Transactions on Network and Service Management, Access
-* 2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
 
 #### 国际会议审稿
 * 2025 Workshop Chair for [NCIC](https://www.icncic.org/workshops/) 
