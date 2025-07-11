@@ -118,7 +118,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 ### Patents
 
-* 2023,  "Emotion recognition system and method, "  The Education University of Hong Kong,  under patent No. HK30074872
+* 2023,  "Emotion recognition system and method,"  The Education University of Hong Kong,  under patent No. HK30074872
 
 ---
 
@@ -127,15 +127,15 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 #### Editor Activities for International Journals
 
+* 2025 ~ now Special Issue Editor for [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH)
 * 2023 ~ now Special Issue Editor for [MDPI Electronics](https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34)
-* 2025 ~ now Special Issue Editor for [MDPI Network](https://www.mdpi.com/journal/network/special_issues/DCLNS956JH).
 
 
 #### Reviewing Activities for International Journals
 * 2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
+* 2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
 * 2018 ~ now Reviewer for IEEE Magazines: Communications Magazine
 * 2019 ~ now Reviewer for IEEE Journals: Transactions on Green Communications and Networking, Transactions on Cognitive Communications and Networking, Internet of Things Journal, Transactions on Intelligent Transportation Systems, Transactions on Communications, Transactions on Network and Service Management, Access
-* 2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
 
 #### Reviewing Activities for International Conferences
 * 2025 Workshop Chair for [NCIC](https://www.icncic.org/workshops/) 
@@ -146,7 +146,7 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 ---
 
 ### Awards and Honors
-*  Gold Medal/Jury’s Choice Award/Special Award,  the invention "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks",  iCAN 2022.
+*  Gold Medal/Jury’s Choice Award/Special Award,  the invention "Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks",  iCAN 2022
 *  Travel Award In Sensors Networks Winner,  Sensors,  MDPI,  2021
 *  Full Scholarship Grants for PhD Students,  MUST,  09/2019 ~ 06/2022
 *  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 06/2019
