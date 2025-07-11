@@ -46,54 +46,54 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 ### Working Experience 
 
-* 01/2022-05/2022: **Research Assistant**,  the Education University of Hong Kong
+* 01/2025-present: [**Senior Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
   
 * 06/2022-12/2024: [**Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
 
-* 01/2025-present: [**Senior Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
+* 01/2022-05/2022: **Research Assistant**,  the Education University of Hong Kong
   
 ---
 
 ### Research Projects
 
-* 1/1/2025-31/12/2027,  **PI**,  "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization, " HK FDS Fund,  HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24.
+* 1/1/2025-31/12/2027,  **PI**,  "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund,  HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24.
 
-* 1/12/2024-31/11/2027,  **Co-I**,  "Multi-layer intelligent medical network system, " In-kind donation to HKMU,  HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003.
+* 1/12/2024-31/11/2027,  **Co-I**,  "Multi-layer intelligent medical network system," In-kind donation to HKMU,  HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003.
 
-* 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200,000,  under Project Reference No.: RD/2023/2.22.
+* 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund,  HK$ 200,000,  under Project Reference No.: RD/2023/2.22.
 
-* 10/2023-03/2025,  **Co-I**,  "Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization, ” HKMU R&D Fund,  HK$ 200, 000, under Project Reference No.: RD/2023/1.8.
+* 10/2023-03/2025,  **Co-I**,  "Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization,” HKMU R&D Fund,  HK$ 200, 000, under Project Reference No.: RD/2023/1.8.
 
-* 01/2023-06/2025,  **Co-I**,  "Intelligent Data-driven Wireless Networks, " HKMU R&D Fund,  HK$ 1,480,566, under Project Reference No.: CP/2022/2.1.
+* 01/2023-06/2025,  **Co-I**,  "Intelligent Data-driven Wireless Networks," HKMU R&D Fund,  HK$ 1,480,566, under Project Reference No.: CP/2022/2.1.
 
-* 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds, under Project Reference No.: 2021/22.
+* 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks," the Education University of Hong Kong,  Knowledge Transfer Funds, under Project Reference No.: 2021/22.
 
-* 12/2018-12/2020,  **participant**,  "Key Technologies to Enable Ultra Dense Wireless Networks, " Macao Science and Technology Development Fund,  under Project Reference No.: 0026/2018/A1.
+* 12/2018-12/2020,  **participant**,  "Key Technologies to Enable Ultra Dense Wireless Networks," Macao Science and Technology Development Fund,  under Project Reference No.: 0026/2018/A1.
 
-* 09/2017-11/2017,  **participant**,  "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement, " Macao Science and Technology Development Fund,  under Project Reference No.: 0096/2013/A3.
+* 09/2017-11/2017,  **participant**,  "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement," Macao Science and Technology Development Fund,  under Project Reference No.: 0096/2013/A3.
   
 ---
 
 ### Publications
 #### Journal Articles
 
-* Yulei Wang, **Yalin Liu**, Yaru Fu, and Zhuguo Ding,  "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis, " arXiv preprint arXiv:2506.07771,  2026. [[Link]](https://arxiv.org/pdf/2506.07771)
+* Yulei Wang, **Yalin Liu**, Yaru Fu, and Zhuguo Ding,  "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis," arXiv preprint arXiv:2506.07771,  2026. [[Link]](https://arxiv.org/pdf/2506.07771)
 
-* Yulei Wang, Li Feng, **Yalin Liu**, and Zhongjie Li,  "Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT, " *Computer Networks* **(SCI IF=4.4 in 2023, JCR Q1)**,  2024,  DOI: 10.1016/j.comnet.2025.111126. [[Link]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
+* Yulei Wang, Li Feng, **Yalin Liu**, and Zhongjie Li,  "Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT," *Computer Networks* **(SCI IF=4.4 in 2023, JCR Q1)**,  2024,  DOI: 10.1016/j.comnet.2025.111126. [[Link]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
 
-* **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  & Chi Chung Lee,  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis, " *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**,  2024,  DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
+* **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Om Jee Pandey,  Yaru Fu,  Ning Zhang,  Dusit Niyato,  & Chi Chung Lee,  "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis," *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**,  2024,  DOI: 10.1109/JSAC.2024.3365891. [[Link]](https://ieeexplore.ieee.org/document/10438999)
 
-* **Yalin Liu**,  Qiu Wang,  Hong-Ning Dai,  Yaru Fu,  Ning Zhang,  and Chi Chung Lee,  "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions, " *IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022, JCR Q1)**,  vol. 72,  no. 9,  pp. 12195-12207,  Sept. 2023,  DOI: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
+* **Yalin Liu**,  Qiu Wang,  Hong-Ning Dai,  Yaru Fu,  Ning Zhang,  and Chi Chung Lee,  "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions," *IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022, JCR Q1)**,  vol. 72,  no. 9,  pp. 12195-12207,  Sept. 2023,  DOI: 10.1109/TVT.2023.3268025. [[Link]](https://ieeexplore.ieee.org/document/10104142)
 
-* **Yalin Liu**,  Hong-Ning Dai,  Hao Wang,  Muhammad Imran,  and Nadra Guizani,  "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities, " *IEEE Network* **(SCI IF=9.3 in 2022, JCR Q1)**,  vol. 36,  no. 2,  pp. 146-152,  March/April 2022,  DOI: 10.1109/MNET.013.2000385. [[Link]](https://ieeexplore.ieee.org/document/9762455)
+* **Yalin Liu**,  Hong-Ning Dai,  Hao Wang,  Muhammad Imran,  and Nadra Guizani,  "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities," *IEEE Network* **(SCI IF=9.3 in 2022, JCR Q1)**,  vol. 36,  no. 2,  pp. 146-152,  March/April 2022,  DOI: 10.1109/MNET.013.2000385. [[Link]](https://ieeexplore.ieee.org/document/9762455)
 
 * Aolin Che,  **Yalin Liu**,  Hong Xiao,  Hao Wang,  Ke Zhang,  and Hong-Ning Dai,  "Augmented data selector to initiate text-based CAPTCHA attack",  *Security and Communication Networks*,  vol. 2021,  2021,  DOI: 10.1155/2021/9930608.[[Link]](https://www.hindawi.com/journals/scn/2021/9930608/)
 
-* **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Mahendra K. Shukla,  and Muhammad Imran,  "Unmanned aerial vehicle for internet of everything: Opportunities and challenges, " *Computer communications* **(SCI IF=6 in 2022, JCR Q1)**,  vol. 155,  pp. 66-83,  March 2020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
+* **Yalin Liu**,  Hong-Ning Dai,  Qubeijian Wang,  Mahendra K. Shukla,  and Muhammad Imran,  "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," *Computer communications* **(SCI IF=6 in 2022, JCR Q1)**,  vol. 155,  pp. 66-83,  March 2020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
 
-*  **Yalin Liu**,  Hong-Ning Dai,  Hao Wang,  Muhammad Imran,  Xiaofen. Wang,  and Muhammad Shoaib,  "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things, " *Computer Communications* **(SCI IF=6 in 2022, JCR Q1)**,  vol. 155,  pp. 184-196,  March 2020,  DOI: 10.1016/j.comcom.2020.03.020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
+*  **Yalin Liu**,  Hong-Ning Dai,  Hao Wang,  Muhammad Imran,  Xiaofen. Wang,  and Muhammad Shoaib,  "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things," *Computer Communications* **(SCI IF=6 in 2022, JCR Q1)**,  vol. 155,  pp. 184-196,  March 2020,  DOI: 10.1016/j.comcom.2020.03.020. [[Link]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
 
-*  **Yalin Liu**,  Hong-Ning Dai,  and Qubeijian Wang,  "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things, " *Chinese Journal on Internet of Things (Chinese)*,  vol. 3,  no. 4,  pp. 48-55,  December 2019. [[PDF]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
+*  **Yalin Liu**,  Hong-Ning Dai,  and Qubeijian Wang,  "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things," *Chinese Journal on Internet of Things (Chinese)*,  vol. 3,  no. 4,  pp. 48-55,  December 2019. [[PDF]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
 
 
 #### Conference Papers
@@ -102,17 +102,17 @@ Dr. Liu has served as a Technical Program Committee (TPC) member for conferences
 
 * Yulei Wang, **Yalin Liu**, Yaru Fu, Yujie Qin, and Zhontgjie Li, "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, 2025. [[PDF]](https://arxiv.org/abs/2503.16202)
 
-* **Yalin Liu**,  Yaru Fu,  Qubeijian Wang, and Hong-Ning Dai,  "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks, " accepted by *IEEE International Conference on Communications (ICC)* **(EI and CCF C conference)**, 2025. [[PDF]](https://arxiv.org/abs/2504.21284)
+* **Yalin Liu**,  Yaru Fu,  Qubeijian Wang, and Hong-Ning Dai,  "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks," accepted by *IEEE International Conference on Communications (ICC)* **(EI and CCF C conference)**, 2025. [[PDF]](https://arxiv.org/abs/2504.21284)
 
 * Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, and **Yalin Liu**,  "Subband and Sensing Task Allocation for Next-Generation Mobile Crowdsensing Networks: An Optimal Framework, " *IEEE Wireless Communications and Networking Conference (WCNC)* **(EI and CCF C conference)**,  Conrad, Dubai,  21-24 April 2024.
 
-* **Yalin Liu**,  Hong-Ning Dai,  and Ning Zhang,  "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks, " *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  DOI: 10.1109/GLOBECOM46510.2021.9685811. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **Yalin Liu**,  Hong-Ning Dai,  and Ning Zhang,  "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  DOI: 10.1109/GLOBECOM46510.2021.9685811. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
 
-* Qubeijian Wang,  **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  and Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping, " *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  DOI: 10.1109/GLOBE-COM46510.2021.9685471.
+* Qubeijian Wang,  **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  and Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping," *IEEE Global Communications Conference (Globecom)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  DOI: 10.1109/GLOBE-COM46510.2021.9685471.
 
-* **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  and Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis, " *IEEE International Conference of Communications (ICC)* **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  DOI: 10.1109/ICC42927.2021.9500746. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+* **Yalin Liu**,  Hong-Ning Dai,  Muhammad Imran,  and Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis," *IEEE International Conference of Communications (ICC)* **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  DOI: 10.1109/ICC42927.2021.9500746. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
-* **Yalin Liu**,  Hong-Ning Dai,  Yuyang Peng,  and Hao Wang,  "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer, " *International Conference on Embedded Wireless Systems and Networks (EWSN)*,  Beijing,  China,  February 25-27,  2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
+* **Yalin Liu**,  Hong-Ning Dai,  Yuyang Peng,  and Hao Wang,  "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer," *International Conference on Embedded Wireless Systems and Networks (EWSN)*,  Beijing,  China,  February 25-27,  2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
 ---
 
