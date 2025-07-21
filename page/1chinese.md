@@ -72,11 +72,11 @@ type: page
 
 * 王玉磊，Li Feng，**刘亚林** 和 Zhongjie Li，「蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析，」*计算机网络* **（2023 年 SCI IF=4.4，JCR Q1）**，2024 年，DOI：10.1016/j.comnet.2025.111126。[[原文]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
 
-* **刘亚林**， 戴弘宁， 王曲北剑， Om Jee Pandey， 付雅茹，Ning Zhang， Dusit Niyato， 和 李至冲， 「空天地一体化网络：基于球面随机几何的上行链路连通性分析，」 *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**， 2024， DOI： 10.1109/JSAC.2024.3365891。 [[原文]](https://ieeexplore.ieee.org/document/10438999)
+* **刘亚林**， 戴弘宁， 王曲北剑， Om Jee Pandey， 付雅茹，Ning Zhang， Dusit Niyato， 和 李至冲， 「空天地一体化网络：基于球面随机几何的上行链路连通性分析，」 *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**， 第42卷， 第5期， pp. 1387-1402， 2024年五月， DOI： 10.1109/JSAC.2024.3365891。 [[原文]](https://ieeexplore.ieee.org/document/10438999)
 
-* **刘亚林**， 王秋， 戴弘宁， 付雅茹， Ning Zhang， 和 李至冲，「无人机辅助无线回程网络：上行链路传输的连通性分析，」*IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022，JCR Q1)**， vol. 72， no. 9， pp. 12195-12207， Sept. 2023， DOI： 10.1109/TVT.2023.3268025。 [[原文]](https://ieeexplore.ieee.org/document/10104142)
+* **刘亚林**， 王秋， 戴弘宁， 付雅茹， Ning Zhang， 和 李至冲，「无人机辅助无线回程网络：上行链路传输的连通性分析，」*IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022，JCR Q1)**， 第72卷， 第9期， pp. 12195-12207， 2023年九月， DOI： 10.1109/TVT.2023.3268025。 [[原文]](https://ieeexplore.ieee.org/document/10104142)
 
-*  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，「基于无人机的无线供能式物联网：机遇和挑战（英文），」*IEEE Network* **(SCI IF=9.3 in 2022，JCR Q1)**，第36卷，第2期，pp. 146-152，2022年三月/四月， DOI： 10.1109/MNET.013.2000385。 [[原文]](https://ieeexplore.ieee.org/document/9762455)
+*  **刘亚林**，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，「基于无人机的无线供能式物联网：机遇和挑战（英文），」*IEEE Network* **(SCI IF=9.3 in 2022，JCR Q1)**，第36卷，第2期，pp. 146-152， 2022年三月/四月， DOI： 10.1109/MNET.013.2000385。 [[原文]](https://ieeexplore.ieee.org/document/9762455)
 
 * 车奥林， **刘亚林**， Hong Xiao， 王皓， Ke Zhang， 和 戴弘宁，「增强数据选择器发起基于文本的验证码攻击（英文），」*Security and Communication Networks*， 卷 2021，2021年， DOI：10.1155/2021/9930608。 [[原文]](https://www.hindawi.com/journals/scn/2021/9930608/)
 
