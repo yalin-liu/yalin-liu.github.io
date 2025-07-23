@@ -68,9 +68,11 @@ type: page
 ### 学术论文
 
 #### 期刊 (发表)
-* 王玉磊，**刘亚林**，付雅茹 和 Zhuguo Ding，「用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析，」arXiv：2506.07771，2026 年。[[原文]](https：//arxiv.org/pdf/2506.07771)
+* 王玉磊，**刘亚林**，付雅茹 和 Zhuguo Ding，「用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析，」arXiv：2506.07771，2026年。[[原文]](https：//arxiv.org/pdf/2506.07771)
 
 * 王玉磊，Li Feng，**刘亚林** 和 Zhongjie Li，「蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析，」*计算机网络* **（2023 年 SCI IF=4.4，JCR Q1）**，2024 年，DOI：10.1016/j.comnet.2025.111126。[[原文]](https://www.sciencedirect.com/science/article/pii/S1389128625000945)
+
+* Jiahui Feng， 付雅茹， Zheng Shi， **刘亚林**， 和 熊景輝， 「考慮可靠性的行動群智感知系統聯合優化，」*IEEE Transactions on Cognitive Communications and Networking (Early Access)*， pp. 1-1，  DOI: 10.1109/TCCN.2024.3504477，2024年11月24日。 [[原文]](https://ieeexplore.ieee.org/abstract/document/10764779)
 
 * **刘亚林**， 戴弘宁， 王曲北剑， Om Jee Pandey， 付雅茹，Ning Zhang， Dusit Niyato， 和 李至冲， 「空天地一体化网络：基于球面随机几何的上行链路连通性分析，」 *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**， 第42卷， 第5期， pp. 1387-1402， 2024年五月， DOI： 10.1109/JSAC.2024.3365891。 [[原文]](https://ieeexplore.ieee.org/document/10438999)
 
@@ -89,11 +91,13 @@ type: page
 ---
 
 #### 会议文章
-* **刘亚林**，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘宁，付雅茹，陶畢生輝，歐陽兆基，「Web3 DID 的混合衛星-地面部署： 系統設計與效能分析，」accepted by *IEEE MetaCom 2025*。 [[原文]](https://arxiv.org/pdf/2507.02305)
+* **刘亚林**，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘宁，付雅茹，陶畢生輝， 和歐陽兆基，「Web3 DID 的混合衛星-地面部署： 系統設計與效能分析，」accepted by *IEEE MetaCom 2025*， 2025年7月3日。 [[原文]](https://arxiv.org/pdf/2507.02305)
 
-* 王玉磊，**刘亚林**，付雅茹，Yujie Qin，和 Zhontgjie Li，「用于飞行器中继地空卫星连接的 3D 随机几何模型，」accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*，2025。 [[原文]](https://arxiv.org/abs/2503.16202)
+* 付雅茹， Yue Zhang， Zheng Shi， Yongna Guo，和 **刘亚林**， "提高移動群智感知效率：一種覆蓋感知資源分配方法，" accepted by *IEEE Vehicular Technology Conference (VTC)*， 2025年7月27日， DOI: 10.48550/arXiv.2503.21942 [[原文]](https://arxiv.org/pdf/2503.21942)
 
-* **刘亚林**， 付雅茹， 王曲北剑，和 戴弘宁， 「天空地一体化网络中六种跨层场景的统一网络建模，」已被接收在 *IEEE国际通信会议(ICC)* **(EI and CCF C conference)**，2025年。 [[原文]](https://arxiv.org/abs/2504.21284)
+* 王玉磊，**刘亚林**，付雅茹，Yujie Qin，和 Zhontgjie Li，「用于飞行器中继地空卫星连接的 3D 随机几何模型，」accepted by *IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*， 2025年3月20日。 [[原文]](https://arxiv.org/abs/2503.16202)
+
+* **刘亚林**， 付雅茹， 王曲北剑，和 戴弘宁， 「天空地一体化网络中六种跨层场景的统一网络建模，」已被接收在 *IEEE国际通信会议(ICC)* **(EI and CCF C conference)**， 2025年4月30日。 [[原文]](https://arxiv.org/abs/2504.21284)
 
 * 付雅茹，Yue Zhang，Zheng Shi，Hong Wang，和 **刘亚林**，「下一代移动群智感知网络的子带和感知任务分配：最优框架，」*IEEE 无线通信和网络会议 (WCNC)* **(EI and CCF C conference)**， 康莱德酒店，迪拜， 2024年4月21日至24日。
 
