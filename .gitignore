@@ -1,0 +1,28 @@
+# Jekyll build artifacts
+_site/
+_site/*.*
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Environment and dependency files
+node_modules/
+vendor/bundle/
+Gemfile.lock
+.bundle/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Optional: Ignore images and uploads if they shouldn't be tracked
+# assets/images/
+# uploads/
