@@ -1,26 +1,94 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/autofilter.js"></script>
 
-  {% include head.html %}
+    {% if page.language == "zh-CN" or page.language == "zh-TW" %}
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main-zh.css">
+    {% endif %}
+    <style>
+        .language-switcher {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            display: flex;
+            /* gap: 10px; */
+        }
+        .language-switcher a {
+            color: #000;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.2s;
+        }
+        .language-switcher a:hover {
+            background-color: #e6f0fa;
+            text-decoration: none;
+        }
+        @media (max-width: 768px) {
+            .language-switcher {
+                top: 10px;
+                right: 10px;
+                gap: 5px;
+            }
+            .language-switcher a {
+                font-size: 16px;
+                padding: 3px 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <label for="menu-toggle" class="menu-icon">☰</label>
+    <label for="menu-toggle" class="overlay"></label>
+    <div class="sidebar">
+        <label for="menu-toggle" class="close-icon">×</label>
+        {% if page.language == "en" %}
+            {% include sidebar.html %}
+        {% elsif page.language == "zh-TW" %}
+            {% include sidebar-zh-tw.html %}
+        {% else %}
+            {% include sidebar-zh-cn.html %}
+        {% endif %}
+    </div>
 
-  <body>
-
-    {% include header.html %}
-
-        {{ content }}
-
-    {% include footer.html %}
-    {% include backToTop.html %}
-    <script src="{{ " /js/main.js " | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script src="{{ " /js/smooth-scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script>
-    <script type="text/javascript">
-      smoothScroll.init({
-        speed: 500, // Integer. How fast to complete the scroll in milliseconds
-        easing: 'easeInOutCubic', // Easing pattern to use
-        offset: 20, // Integer. How far to offset the scrolling anchor location in pixels
-      });
-    </script>
-    <!-- <script src="{{ " /js/scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
-  </body>
-
+    <nav class="language-switcher">
+        {% if page.name contains "index" %}
+            <a href="{{ site.baseurl }}/">EN</a>
+            <a href="{{ site.baseurl | append: '/zh-TW' }}">繁</a>
+            <a href="{{ site.baseurl | append: '/zh-CN' }}">简</a>
+        {% else %}
+            <a href="{{ site.baseurl | append: page.handle }}">EN</a>
+            <a href="{{ site.baseurl | append: '/zh-TW' | append: page.handle }}">繁</a>
+            <a href="{{ site.baseurl | append: '/zh-CN' | append: page.handle }}">简</a>
+        {% endif %}
+    </nav>
+    
+    <div class="container-fluid">
+        <div class="content">
+            {{ content }}
+        </div>
+        <div>
+            {% if page.language == "en" %}
+                <p class="p-3">Copyright Notice: Copyright and all rights therein are retained by the authors or by the respective copyright holders (including Springer Verlag, Elsevier, ACM, IEEE Press, Wiley, etc.). You can download them only if you follow their restrictions (e.g., for private use or academic use). The online version may be slightly different from the final version. They are put online just for the convenience of academic sharing.</p>
+            {% elsif page.language == "zh-TW" %}
+                <p class="p-3">版權聲明：版權及相關權利由作者或各自的版權持有人（包括Springer Verlag、Elsevier、ACM、IEEE Press、Wiley等）保留。僅在遵守其限制條件（例如僅限個人使用或學術用途）的情況下，您才能下載這些內容。在線版本可能與最終版本略有不同。這些內容在線提供僅為方便學術分享。</p>
+            {% else %}
+                <p class="p-3">版权声明：版权及相关权利由作者或各自的版权持有人（包括Springer Verlag、Elsevier、ACM、IEEE Press、Wiley等）保留。仅在遵守其限制条件（例如仅限个人使用或学术用途）的情况下，您才能下载这些内容。在线版本可能与最终版本略有不同。这些内容在线提供仅为方便学术分享。</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
 </html>
