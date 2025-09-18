@@ -23,7 +23,7 @@ language: zh-TW
       </h2>
       <div id="collapseFaceToFace" class="accordion-collapse collapse show" aria-labelledby="headingFaceToFace" data-bs-parent="#teachingAccordion">
         <div class="accordion-body">
-          <p><strong>The table below summarizes the course evaluation results of all F2F courses I was/am responsible for.</strong></p>
+          <p><strong>The table below summarizes the information of all F2F courses I was/am responsible for.</strong></p>
           <div class="table-responsive">
             <table class="table table-striped">
               <!-- <caption>Summary of Course Evaluations</caption> -->
