@@ -77,17 +77,19 @@
     </nav>
     
     <div class="container-fluid">
-        <div class="content">
-            {{ content }}
-        </div>
-        <div>
-            {% if page.language == "en" %}
-                <p class="p-3">Copyright Notice: Copyright and all rights therein are retained by the authors or by the respective copyright holders (including Springer Verlag, Elsevier, ACM, IEEE Press, Wiley, etc.). You can download them only if you follow their restrictions (e.g., for private use or academic use). The online version may be slightly different from the final version. They are put online just for the convenience of academic sharing.</p>
-            {% elsif page.language == "zh-TW" %}
-                <p class="p-3">版權聲明：版權及相關權利由作者或各自的版權持有人（包括Springer Verlag、Elsevier、ACM、IEEE Press、Wiley等）保留。僅在遵守其限制條件（例如僅限個人使用或學術用途）的情況下，您才能下載這些內容。在線版本可能與最終版本略有不同。這些內容在線提供僅為方便學術分享。</p>
-            {% else %}
-                <p class="p-3">版权声明：版权及相关权利由作者或各自的版权持有人（包括Springer Verlag、Elsevier、ACM、IEEE Press、Wiley等）保留。仅在遵守其限制条件（例如仅限个人使用或学术用途）的情况下，您才能下载这些内容。在线版本可能与最终版本略有不同。这些内容在线提供仅为方便学术分享。</p>
-            {% endif %}
+        <div class="wrapper">
+            <div class="content">
+                {{ content }}
+            </div>
+            <div class="copyright">
+                {% if page.language == "en" %}
+                    <p class="p-3">Copyright Notice: Copyright and all rights therein are retained by the authors or by the respective copyright holders (including Springer Verlag, Elsevier, ACM, IEEE Press, Wiley, etc.). You can download them only if you follow their restrictions (e.g., for private use or academic use). The online version may be slightly different from the final version. They are put online just for the convenience of academic sharing.</p>
+                {% elsif page.language == "zh-TW" %}
+                    <p class="p-3">版權聲明：版權及相關權利由作者或各自的版權持有人（包括Springer Verlag、Elsevier、ACM、IEEE Press、Wiley等）保留。僅在遵守其限制條件（例如僅限個人使用或學術用途）的情況下，您才能下載這些內容。在線版本可能與最終版本略有不同。這些內容在線提供僅為方便學術分享。</p>
+                {% else %}
+                    <p class="p-3">版权声明：版权及相关权利由作者或各自的版权持有人（包括Springer Verlag、Elsevier、ACM、IEEE Press、Wiley等）保留。仅在遵守其限制条件（例如仅限个人使用或学术用途）的情况下，您才能下载这些内容。在线版本可能与最终版本略有不同。这些内容在线提供仅为方便学术分享。</p>
+                {% endif %}
+            </div>
         </div>
     </div>
 </body>

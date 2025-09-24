@@ -15,7 +15,7 @@ body {
     min-height: 100vh;
     padding-left: 0; /* Remove Bootstrap's default padding */
     padding-right: 0;
-    margin-left: 250px; /* Match sidebar width */
+    /* margin-left: 250px; */
 }
 
 h2 {
@@ -127,8 +127,10 @@ a:hover {
 }
 
 .content {
-    width: calc(100vw - 250px); /* Dynamic width based on viewport minus sidebar */
+    /* Dynamic width based on viewport minus sidebar */
+    /*width: calc(100vw - 250px);*/
     overflow-x: hidden; /* Prevent horizontal scroll */
+    margin-left: 250px;
 }
 
 .content-wrapper {
@@ -381,7 +383,9 @@ a:hover {
 
 .bg-research-img {
     background-image: url('../images/research_bg.png');
-    height: 400px;
+    /* height: 400px; */
+    height: 200px;
+    background: url(../images/research_bg.png) no-repeat center top / cover;
 }
 
 .callout {
@@ -459,6 +463,10 @@ a:hover {
     font-size: 40px;
 }
 
+.copyright {
+    margin-left: 250px;
+}
+
 @media (max-width: 767px) {
     .container-fluid {
         margin-left: 0; /* Remove margin for mobile */
@@ -467,6 +475,7 @@ a:hover {
     .content {
         width: 100%; /* Full width on mobile */
         margin-top: 50px;
+        margin-left: 0;
     }
 
     .sidebar {
@@ -523,6 +532,9 @@ a:hover {
     .bg-mask {
         /* padding: 10px; */
     }
+    .copyright {
+        margin-left: 0;
+    }    
 }
 
 @media (max-width: 480px) {
