@@ -467,6 +467,40 @@ a:hover {
     margin-left: 250px;
 }
 
+.language-switcher {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    display: flex;
+    /* gap: 10px; */
+    background: rgba(222, 226, 230, 0.8);
+    border-radius: 10px;
+}
+.language-switcher a {
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+}
+.language-switcher a:hover {
+    background-color: #e6f0fa;
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .language-switcher {
+        top: 10px;
+        right: 10px;
+        gap: 5px;
+    }
+    .language-switcher a {
+        font-size: 16px;
+        padding: 3px 8px;
+    }
+}
+
 @media (max-width: 767px) {
     .container-fluid {
         margin-left: 0; /* Remove margin for mobile */
