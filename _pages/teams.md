@@ -96,7 +96,7 @@ language: en
                 </div>
                 <h3>Mr.WANG MINGYANG</h3>
                 <p class="member-title">Research Assistant</p>
-                <p class="member-bio">Mar 2025 – Sep 2025</p>
+                <p class="member-bio">Mar 2025 – Present</p>
                 <div class="member-bio">
                     <span class="badge text-bg-secondary">Sound detection</span>
                     <span class="badge text-bg-secondary">Artificial intelligence (AI)</span>
@@ -122,7 +122,7 @@ language: en
                 </div>
                 <h3>Ms.DENG QI</h3>
                 <p class="member-title">Research Assistant</p>
-                <p class="member-bio">Jul 2025 – Sep 2025</p>
+                <p class="member-bio">Jul 2025 – Present</p>
                 <div class="member-bio">
                     <span class="badge text-bg-secondary">Cloud-edge computing</span>
                     <span class="badge text-bg-secondary">Federated learning</span>
