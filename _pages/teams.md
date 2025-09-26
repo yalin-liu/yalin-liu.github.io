@@ -67,15 +67,6 @@ language: en
                     <span class="badge text-bg-secondary">Game theory based resource allocation</span>
                 </div>
             </div>
-            <!-- <div class="team-member">
-                <div class="member-photo">
-                    <img src="https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop" alt="Mr.LUO BINGYUAN">
-                </div>
-                <h3>Mr.LUO BINGYUAN</h3>
-                <p class="member-title">Research Assistant</p>
-                <p class="member-bio">Working period</p>
-                <p class="member-bio">research area</p>
-            </div> -->
             <div class="team-member">
                 <div class="member-photo">
                     <img src="{{ site.baseurl }}/assets/images/XU_XIAOCHI.jpg" alt="Mr.XU XIAOCHI">
@@ -127,6 +118,20 @@ language: en
                     <span class="badge text-bg-secondary">Cloud-edge computing</span>
                     <span class="badge text-bg-secondary">Federated learning</span>
                     <span class="badge text-bg-secondary">Facial image classification and communications networks</span>
+                </div>
+            </div>
+        </div>
+        <div class="team-grid mb-3" style="justify-items: start;">
+            <div class="team-member">
+                <div class="member-photo">
+                    <img src="{{ site.baseurl }}/assets/images/luo_bingyuan.jpg" alt="Mr.Luo Bingyuan">
+                </div>
+                <h3>Mr.Luo Bingyuan</h3>
+                <p class="member-title">Research Assistant</p>
+                <p class="member-bio">Oct 2024 — Mar 2025</p>
+                <div class="member-bio">
+                    <span class="badge text-bg-secondary">Blockchain Consensus</span>
+                    <span class="badge text-bg-secondary">Satellite Communication</span>
                 </div>
             </div>
         </div>
