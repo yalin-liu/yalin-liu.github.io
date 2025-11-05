@@ -102,6 +102,12 @@ language: zh-CN
     <h4>会议文章</h4>
     <ul>
         <li>
+            傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶毕生辉，Junhong Ruan，「面向顺序MIoT工作流程的云-雾-边协同运算：基于双层DDPG的调度框架，」（最佳论文奖）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]
+        </li>
+        <li>
+            邓琪, Yinghao Zhang, <span class="highlight">劉亞林</span>，陶毕生辉，「基于置信度约束的云边协作框架用于自闭症谱系障碍诊断，」<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21130" target="_blank">原文</a>]
+        </li>
+        <li>
             <span class="highlight">刘亚林</span>，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘宁，付雅茹，陶畢生輝，和歐陽兆基，「Web3 DID 的混合衛星-地面部署：系统设计与效能分析，」<em>The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025), Sejong University, Seoul,</em> 2025年8月27-29日。[<a href="https://arxiv.org/pdf/2507.02305" target="_blank">原文</a>]
         </li>
         <li>

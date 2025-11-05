@@ -139,6 +139,17 @@ language: en
     <h4>Conference Papers</h4>
     <ul>
         <li>
+            Yuhao Fu, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Bishenghui Tao, and Junhong Ruan, 
+            "Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework", (Best paper award),  
+            <em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 17-19 October 2025. 
+            [<a href="https://arxiv.org/pdf/2510.21135" target="_blank">PDF</a>]
+        </li>
+        <li>
+            Qi Deng, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Bishenghui Tao, 
+            "A Confidence-Constrained Cloud-Edge Collaborative Framework for Autism Spectrum Disorder Diagnosis", <em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China,</em> 17-19 October 2025. 
+            [<a href="https://arxiv.org/pdf/2510.21130" target="_blank">PDF</a>]
+        </li>
+        <li>
             <span class="highlight">Yalin Liu</span>, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, Hong-Ning Dai, Yaru Fu, Bishenghui Tao and Siu-Kei Au Yeung, 
             "Hybrid Satellite-Ground Deployments for Web3 DID: System Design and Performance Analysis," 
             <em>The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025), Sejong University, Seoul,</em> 27-29 August 2025. 

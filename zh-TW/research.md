@@ -85,6 +85,8 @@ $(document).ready(function() {
     { title: "無人機輔助的物聯網通信技術及其應用", type: "journal", authors: "劉亞林, 戴弘寧, 王曲北劍", source: "物聯網學報（中國）", year: "2019", link: "https://www.henrylab.net/wp-content/uploads/2020/02/UEeIoT-CIoTJ19.pdf" },
     
     // conference
+    { title: "面向順序MIoT工作流程的雲-霧-邊協同運算：基於雙層DDPG的調度框架（最佳論文獎）", type: "conference", authors: "傅宇浩, Yinghao Zhang, 劉亞林, 陶畢生輝, Junhong Ruan", source: "International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China", year: "2025", link: "https://arxiv.org/pdf/2510.21135" },
+    { title: "基於置信度約束的雲邊協作框架用於自閉症譜系障礙診斷", type: "conference", authors: "鄧琪, Yinghao Zhang, 劉亞林, 陶畢生輝", source: "International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China", year: "2025", link: "https://arxiv.org/pdf/2510.21130" },
     { title: "Web3 DID 的混合衛星-地面部署：系統設計與效能分析", type: "conference", authors: "劉亞林, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, 戴弘寧, 付雅茹, 陶畢生輝, 歐陽兆基", source: "IEEE MetaCom 2025", year: "2025", link: "https://arxiv.org/pdf/2507.02305" },
     { title: "提高移動群智感知效率：一種覆蓋感知資源分配方法", type: "conference", authors: "付雅茹, Yue Zhang, Zheng Shi, Yongna Guo, 劉亞林", source: "The 2025 101st IEEE Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway", year: "2025", link: "https://arxiv.org/pdf/2503.21942" },
     { title: "用於飛行器中繼地空衛星連接的 3D 隨機幾何模型", type: "conference", authors: "王玉磊, 劉亞林, 付雅茹, Yujie Qin, Zhontgjie Li", source: "The 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway", year: "2025", link: "https://arxiv.org/pdf/2503.16202" },
