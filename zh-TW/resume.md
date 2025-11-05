@@ -102,6 +102,12 @@ language: zh-TW
     <h4>會議文章</h4>
     <ul>
         <li>
+            傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶畢生輝，Junhong Ruan，「面向順序MIoT工作流程的雲-霧-邊協同運算：基於雙層DDPG的調度框架，」（最佳論文獎）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]
+        </li>
+        <li>
+            鄧琪, Yinghao Zhang, <span class="highlight">劉亞林</span>，陶畢生輝，「基於置信度約束的雲邊協作框架用於自閉症譜系障礙診斷，」<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21130" target="_blank">原文</a>]
+        </li>
+        <li>
             <span class="highlight">劉亞林</span>，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘寧，付雅茹，陶畢生輝，和歐陽兆基，「Web3 DID 的混合衛星-地面部署：系統設計與效能分析，」<em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 2025年8月27-29日。[<a href="https://arxiv.org/pdf/2507.02305" target="_blank">原文</a>]
         </li>
         <li>
