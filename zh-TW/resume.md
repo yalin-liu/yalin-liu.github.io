@@ -17,13 +17,13 @@ language: zh-TW
     <h3 class="callout">教育背景</h3>
     <ul>
         <li>
-            09/2019-10/2022：理學博士，澳門科技大學，電子資訊科技專業（導師：<a href="https://www.henrylab.net/" target="_blank">戴宏寧教授</a>）；畢業論文：無人機輔助遠程物聯網的通信。
+            2019.09 - 2022.10：理學博士，澳門科技大學，電子資訊科技專業（導師：<a href="https://www.henrylab.net/" target="_blank">戴宏寧教授</a>）；畢業論文：無人機輔助遠程物聯網的通信。
         </li>
         <li>
-            09/2017-06/2019：理學碩士，澳門科技大學，資訊科技專業（導師：<a href="https://www.henrylab.net/" target="_blank">戴宏寧教授</a>）；畢業論文：無人機賦能物聯網（UeIoT）。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf" target="_blank">原文</a>]
+            2017.09 - 2019.06：理學碩士，澳門科技大學，資訊科技專業（導師：<a href="https://www.henrylab.net/" target="_blank">戴宏寧教授</a>）；畢業論文：無人機賦能物聯網（UeIoT）。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf" target="_blank">原文</a>]
         </li>
         <li>
-            09/2013-06/2017：工學學士，重慶郵電大學通信工程專業；畢業論文：關於投影仿射自適應濾波算法的設計和應用研究。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf" target="_blank">原文</a>]
+            2013.09 - 2017.06：工學學士，重慶郵電大學通信工程專業；畢業論文：關於投影仿射自適應濾波算法的設計和應用研究。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf" target="_blank">原文</a>]
         </li>
     </ul>
     <h3 class="callout">工作經驗</h3>
@@ -40,6 +40,9 @@ language: zh-TW
     </ul>
     <h3 class="callout">研究項目</h3>
     <ul>
+        <li>
+            2025.12.1 - 2026.11.30，<span class="highlight">項目負責人</span>，「區塊鏈在衛星星座中的部署與效能建模，」香港大學教育資助委員會（HKUGC）資助（先導研究），港幣200,000元，項目編號：PFDS/2025/34。
+        </li>
         <li>
             2025.1 - 2027.12，<span class="highlight">項目負責人</span>，「空地一體化網絡：系統建模與性能優化，」香港本地自資院校研究資助計劃，HK$ 776,810，項目編號：UGC/FDS16/E15/24。
         </li>
