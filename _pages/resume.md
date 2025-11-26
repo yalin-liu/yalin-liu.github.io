@@ -41,6 +41,9 @@ language: en
     <h3 class="callout">Research Projects</h3>
     <ul>
         <li>
+            1/12/2025-30/11/2026, <span class="highlight">PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34.
+        </li>
+        <li>
             1/1/2025-31/12/2027, <span class="highlight">PI</span>, "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund, HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24.
         </li>
         <li>

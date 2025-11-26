@@ -17,13 +17,13 @@ language: zh-CN
     <h3 class="callout">教育背景</h3>
     <ul>
         <li>
-            09/2019-10/2022：理学博士，澳门科技大学，电子资讯科技专业（导师：<a href="https://www.henrylab.net/" target="_blank">戴宏宁教授</a>）；毕业论文：无人机辅助远程物联网的通信。
+            2019.09 - 2022.10：理学博士，澳门科技大学，电子资讯科技专业（导师：<a href="https://www.henrylab.net/" target="_blank">戴宏宁教授</a>）；毕业论文：无人机辅助远程物联网的通信。
         </li>
         <li>
-            09/2017-06/2019：理学硕士，澳门科技大学，资讯科技专业（导师：<a href="https://www.henrylab.net/" target="_blank">戴宏宁教授</a>）；毕业论文：无人机赋能物联网（UeIoT）。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf" target="_blank">原文</a>]
+            2017.09 - 2019.06：理学硕士，澳门科技大学，资讯科技专业（导师：<a href="https://www.henrylab.net/" target="_blank">戴宏宁教授</a>）；毕业论文：无人机赋能物联网（UeIoT）。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf" target="_blank">原文</a>]
         </li>
         <li>
-            09/2013-06/2017：工学学士，重庆邮电大学通信工程专业；毕业论文：关于投影仿射自适应滤波算法的设计和应用研究。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf" target="_blank">原文</a>]
+            2013.09 - 2017.06：工学学士，重庆邮电大学通信工程专业；毕业论文：关于投影仿射自适应滤波算法的设计和应用研究。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf" target="_blank">原文</a>]
         </li>
     </ul>
     <h3 class="callout">工作经验</h3>
@@ -40,6 +40,9 @@ language: zh-CN
     </ul>
     <h3 class="callout">研究项目</h3>
     <ul>
+        <li>
+            2025.12.1 - 2026.11.30，<span class="highlight">项目负责人</span>，「区块链在卫星星座中的部署与性能建模，」香港大学教育资助委员会（HKUGC）资助（前期研究），港币200,000元，项目编号：PFDS/2025/34。
+        </li>
         <li>
             2025.1 - 2027.12，<span class="highlight">项目负责人</span>，「空地一体化网络：系统建模与性能优化，」香港本地自资院校研究资助计划，HK$ 776,810，项目编号：UGC/FDS16/E15/24。
         </li>
