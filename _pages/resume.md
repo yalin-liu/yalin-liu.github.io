@@ -41,16 +41,16 @@ language: en
     <h3 class="callout">Research Projects</h3>
     <ul>
         <li>
-            1/12/2025-30/11/2026, <span class="highlight">PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34.
+            1/12/2025-30/11/2026, <span class="highlight">Sole PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34.
         </li>
         <li>
-            1/1/2025-31/12/2027, <span class="highlight">PI</span>, "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund, HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24.
+            1/1/2025-31/12/2027, <span class="highlight">Sole PI</span>, "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund, HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24.
         </li>
         <li>
             1/12/2024-31/11/2027, <span class="highlight">Co-I</span>, "Multi-layer intelligent medical network system," In-kind donation to HKMU, HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003.
         </li>
         <li>
-            12/2023-04/2025, <span class="highlight">PI</span>, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/2.22.
+            12/2023-04/2025, <span class="highlight">Sole PI</span>, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/2.22.
         </li>
         <li>
             10/2023-03/2025, <span class="highlight">Co-I</span>, "Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/1.8.
@@ -122,14 +122,14 @@ language: en
         <li>
             <span class="highlight">Yalin Liu</span>, Hong-Ning Dai, Qubeijian Wang, Mahendra K. Shukla, and Muhammad Imran, 
             "Unmanned aerial vehicle for internet of everything: Opportunities and challenges," 
-            <em>Computer Communications</em> <span class="journal-meta"><strong>(SCI IF=4.3 in 2024, JCR Q1)</strong></span>, vol. 155, pp. 66-83, March 2020. 
+            <em>Computer Communications</em> <span class="journal-meta"><strong>(SCI IF=4.3 in 2024, JCR Q2)</strong></span>, vol. 155, pp. 66-83, March 2020. 
             [<a href="https://www.sciencedirect.com/science/article/pii/S0140366419318754" target="_blank">Link</a>]
         </li>
         <li>
             <span class="highlight">Yalin Liu</span>, Hong-Ning Dai, Hao Wang, Muhammad Imran, Xiaofen Wang, and Muhammad Shoaib, 
             "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things," 
-            <em>Computer Communications</em> <span class="journal-meta"><strong>(SCI IF=4.3 in 2024, JCR Q1)</strong></span>, vol. 155, pp. 184-196, March 2020, 
-            DOI: 10.1016/j.comcom.2020.03.020. 
+            <em>Computer Communications</em> <span class="journal-meta"><strong>(SCI IF=4.3 in 2024, JCR Q2)</strong></span>, vol. 155, pp. 184-196, March 2020, 
+            DOI: 10.1016/j.comcom.2020.03.020 (Google scholar citations: 293).
             [<a href="https://www.sciencedirect.com/science/article/pii/S0140366419304852" target="_blank">Link</a>]
         </li>
         <li>
@@ -227,35 +227,29 @@ language: en
     <h4>Reviewing Activities for International Journals</h4>
     <ul>
         <li>
-            2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
+            2020 ~ present, Reviewer for other Journals: ICN (Tsinghua University Press), Ad Hoc Netw. (Elsevier), J. Frank. Inst. (Elsevier), Inf. Process. Manage. (Elsevier), IJMLC (Springer).
         </li>
         <li>
-            2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
-        </li>
-        <li>
-            2018 ~ now Reviewer for IEEE Magazines: Communications Magazine
-        </li>
-        <li>
-            2019 ~ now Reviewer for IEEE Journals: Transactions on Green Communications and Networking, Transactions on Cognitive Communications and Networking, Internet of Things Journal, Transactions on Intelligent Transportation Systems, Transactions on Communications, Transactions on Network and Service Management, Access
+            2018 ~ present, Reviewer for IEEE journals: OJCOMS, TSC, TGCN, TCCN, TNSM, TCOM, TITS, IoTJ, WCL, NL, COMMAG.
         </li>
     </ul>
     <h4>Reviewing Activities for International Conferences</h4>
     <ul>
         <li>
-            2025 Workshop Chair for <a href="https://www.icncic.org/workshops/" target="_blank">NCIC</a>
+            2025, Chairing session/workshop for ICC, <a href="https://www.icncic.org/workshops/" target="_blank">NCIC</a>, and <a href="https://wocc.org/wocc2025/special-session/" target="_blank">WOCC</a>
         </li>
         <li>
-            2025 Session chair for <a href="https://wocc.org/wocc2025/special-session/" target="_blank">WOCC 2025</a>
+            2021 ~ present, TPC member for IEEE VTC, WCNC, and CAMAD
         </li>
         <li>
-            2021 ~ now TPC member for Conferences: IEEE Vehicular Technology Conference (VTC), IEEE Wireless Communications and Networking Conference (WCNC), IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD)
-        </li>
-        <li>
-            2019 ~ 2022 Reviewer for Conferences: The 9th International Conference on Behavioural and Social Computing, IEEE Wireless Communications and Networking Conference (WCNC), IEEE Vehicular Technology Conference (VTC), IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN)
+            2019 ~ present, Reviewer for IEEE MSN, VTC, WCNC, BESC, and AAAI
         </li>
     </ul>
     <h3 class="callout">Awards and Honors</h3>
     <ul>
+        <li>
+            Best paper award, "Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework", NCIC 2025
+        </li>
         <li>
             <a href="https://www.hkmu.edu.hk/news/hkmu-holds-annual-award-presentation-ceremony-to-recognise-staffs-outstanding-achievements-and-long-service/" target="_blank">The Katie Shu Sui Pui Charitable Trust – Outstanding Research Publication Award in 2025</a>
         </li>
