@@ -39,14 +39,14 @@ language: zh-TW
                 <td>COMP S362F (5-credit)</td>
                 <td>Concurrent and Network Programming</td>
                 <td>47</td>
-                <td>CC & lecturer (with 1 TA) (new)</td>
+                <td>CC &amp; lecturer (with 1 TA) (new)</td>
               </tr>
               <tr>
                 <td>Aut-2022</td>
                 <td>COMP S381F (5-credit)</td>
                 <td>Server-side Technologies and Cloud Computing</td>
                 <td>147</td>
-                <td>CC & lecturer (with 1 TA) (new)</td>
+                <td>CC &amp; lecturer (with 1 TA) (new)</td>
               </tr>
               <tr>
                 <td>Aut-2022</td>
@@ -60,7 +60,7 @@ language: zh-TW
                 <td>COMP S382F (5-credit)</td>
                 <td>Data Mining and Analytics</td>
                 <td>95</td>
-                <td>CC & lecturer & tutor (new)</td>
+                <td>CC &amp; lecturer &amp; tutor (new)</td>
               </tr>
               <tr>
                 <td>Spr-2023</td>
@@ -74,14 +74,14 @@ language: zh-TW
                 <td>COMP S381F (5-credit)</td>
                 <td>Server-side Technologies and Cloud Computing</td>
                 <td>195</td>
-                <td>CC & lecturer (with 1 TA) (new)</td>
+                <td>CC &amp; lecturer (with 1 TA) (new)</td>
               </tr>
               <tr>
                 <td>Spr-2024</td>
                 <td>COMP S382F (5-credit)</td>
                 <td>Data Mining and Analytics</td>
                 <td>119</td>
-                <td>CC & lecturer & tutor</td>
+                <td>CC &amp; lecturer &amp; tutor</td>
               </tr>
               <tr>
                 <td>Aut-2024</td>
@@ -95,28 +95,28 @@ language: zh-TW
                 <td>COMP S381F (5-credit)</td>
                 <td>Server-side Technologies and Cloud Computing</td>
                 <td>220</td>
-                <td>CC & lecturer & tutor (with 2 TAs)</td>
+                <td>CC &amp; lecturer &amp; tutor (with 2 TAs)</td>
               </tr>
               <tr>
                 <td>Aut-2024</td>
                 <td>COMP S381W (5-credit)</td>
                 <td>Server-side Technologies and Cloud Computing</td>
                 <td>17</td>
-                <td>CC & lecturer & tutor (with 2 TAs)</td>
+                <td>CC &amp; lecturer &amp; tutor (with 2 TAs)</td>
               </tr>
               <tr>
                 <td>Aut-2024</td>
                 <td>COMP S81SEF (3-credit)</td>
                 <td>Server-side Technologies and Cloud Computing</td>
                 <td>52</td>
-                <td>CC & lecturer & tutor (with 1 TA)</td>
+                <td>CC &amp; lecturer &amp; tutor (with 1 TA)</td>
               </tr>
               <tr>
                 <td>Aut-2024</td>
                 <td>COMP S460F (5-credit)</td>
                 <td>Advanced Topics in Data Mining</td>
                 <td>52</td>
-                <td>CC & lecturer (with 2 TAs) (new)</td>
+                <td>CC &amp; lecturer (with 2 TAs) (new)</td>
               </tr>
               <tr>
                 <td>Aut-2024</td>
@@ -130,35 +130,35 @@ language: zh-TW
                 <td>COMP S382F (5-credit)</td>
                 <td>Data Mining and Analytics</td>
                 <td>128</td>
-                <td>CC & lecturer & tutor</td>
+                <td>CC &amp; lecturer &amp; tutor</td>
               </tr>
               <tr>
                 <td>Spr-2025</td>
                 <td>COMP S382W (5-credit)</td>
                 <td>Data Mining and Analytics</td>
                 <td>2</td>
-                <td>CC & lecturer & tutor</td>
+                <td>CC &amp; lecturer &amp; tutor</td>
               </tr>
               <tr>
                 <td>Aut-2025</td>
                 <td>COMP S456F (10-credit)</td>
                 <td>Software System Development Project</td>
                 <td>-</td>
-                <td>Supervisor of FYP (? groups)</td>
+                <td>Supervisor of FYP (5 groups)</td>
               </tr>
               <tr>
                 <td>Aut-2025</td>
                 <td>COMP S381F (5-credit)</td>
                 <td>Server-side Technologies and Cloud Computing</td>
-                <td>-</td>
+                <td>84</td>
                 <td>tutor</td>
               </tr>
               <tr>
                 <td>Aut-2025</td>
                 <td>COMP S460F (5-credit)</td>
                 <td>Advanced Topics in Data Mining</td>
-                <td>-</td>
-                <td>CC & lecturer & tutor (with ? TAs)</td>
+                <td>58</td>
+                <td>CC &amp; lecturer &amp; tutor (with 1 TAs)</td>
               </tr>
             </table>
             <p class="text-italic">* CC: Course coordinator, TA: Teaching assistant</p>
@@ -202,6 +202,7 @@ language: zh-TW
             <p class="mb-0 ml-2">- 2025: Group 2 aims to develop an AI-powered mobility app in HK.</p>
             <p class="mb-0 ml-2">- 2025: Group 3 aims to develop a video-based drone behavior detection and monitoring system.</p>
             <p class="mb-0 ml-2">- 2025: Group 4 aims to develop a Web3.0 app to enhance cybersecurity.</p>
+            <p class="mb-0 ml-2">- 2025: Group 5 aims to develop a VR app for route navigation.</p>
           </div>
         </div>
       </div>

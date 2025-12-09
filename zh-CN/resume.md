@@ -93,10 +93,10 @@ language: zh-CN
             车奥林，<span class="highlight">刘亚林</span>，Hong Xiao，王皓，Ke Zhang，和 戴弘宁，「增强数据选择器发起基于文本的验证码攻击，」<em>Security and Communication Networks</em> <span class="journal-meta"><strong>(SCI IF=1.968 in 2021, JCR Q3)</strong></span>，卷 2021，2021年，DOI：10.1155/2021/9930608。[<a href="https://www.hindawi.com/journals/scn/2021/9930608/" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，「无人机赋能万物互联：机遇和挑战，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q1）</strong></span>，第155卷，pp. 66-83，2020年3月。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419318754" target="_blank">原文</a>]
+            <span class="highlight">刘亚林</span>，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，「无人机赋能万物互联：机遇和挑战，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 66-83，2020年3月。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419318754" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，王皓，Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，「面对物联网场景下基于无人机的无线供能式数据采集方案，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q1）</strong></span>，第155卷，pp. 184-196，2020年3月，DOI：10.1016/j.comcom.2020.03.020。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419304852" target="_blank">原文</a>]
+            <span class="highlight">刘亚林</span>，戴弘宁，王皓，Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，「面对物联网场景下基于无人机的无线供能式数据采集方案，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 184-196，2020年3月，DOI：10.1016/j.comcom.2020.03.020（Google scholar citations: 293）。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419304852" target="_blank">原文</a>]
         </li>
         <li>
             <span class="highlight">刘亚林</span>，戴弘宁，和 王曲北剑，「无人机辅助的物联网通信技术及其应用，」<em>物联网学报（中国）</em>，第3卷，第四期，pp. 48-55，2019年12月。[<a href="https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf" target="_blank">原文</a>]
@@ -148,44 +148,38 @@ language: zh-CN
     <h4>国际期刊编辑</h4>
     <ul>
         <li>
-            2025 ~ now 特刊联合客座编辑，<a href="https://www.mdpi.com/journal/network/special_issues/DCLNS956JH" target="_blank">MDPI Network</a>
+            2025 ~ 现在 特刊联合客座编辑，<a href="https://www.mdpi.com/journal/network/special_issues/DCLNS956JH" target="_blank">MDPI Network</a>
         </li>
         <li>
-            2023 ~ now 特刊联合客座编辑，<a href="https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34" target="_blank">MDPI Electronics</a>
+            2023 ~ 现在 特刊联合客座编辑，<a href="https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34" target="_blank">MDPI Electronics</a>
         </li>
     </ul>
     <h4>国际期刊审稿</h4>
     <ul>
         <li>
-            2022 ~ now Reviewer for IEEE Letters: Networking Letters, Wireless Communications Letters
+            2020 ~ present, Reviewer for other Journals: ICN (Tsinghua University Press), Ad Hoc Netw. (Elsevier), J. Frank. Inst. (Elsevier), Inf. Process. Manage. (Elsevier), IJMLC (Springer).
         </li>
         <li>
-            2020 ~ now Reviewer for Elsevier Journals: Ad Hoc Networks, The Journal of the Franklin Institute, Information Processing and Management
-        </li>
-        <li>
-            2018 ~ now Reviewer for IEEE Magazines: Communications Magazine
-        </li>
-        <li>
-            2019 ~ now Reviewer for IEEE Journals: Transactions on Green Communications and Networking, Transactions on Cognitive Communications and Networking, Internet of Things Journal, Transactions on Intelligent Transportation Systems, Transactions on Communications, Transactions on Network and Service Management, Access
+            2018 ~ present, Reviewer for IEEE journals: OJCOMS, TSC, TGCN, TCCN, TNSM, TCOM, TITS, IoTJ, WCL, NL, COMMAG.
         </li>
     </ul>
     <h4>国际会议审稿</h4>
     <ul>
         <li>
-            2025 Workshop Chair for <a href="https://www.icncic.org/workshops/" target="_blank">NCIC</a>
+            2025, Chairing session/workshop for ICC, <a href="https://www.icncic.org/workshops/" target="_blank">NCIC</a>, and <a href="https://wocc.org/wocc2025/special-session/" target="_blank">WOCC</a>
         </li>
         <li>
-            2025 Session Chair for <a href="https://wocc.org/wocc2025/special-session/" target="_blank">WOCC 2025</a>
+            2021 ~ present, TPC member for IEEE VTC, WCNC, and CAMAD
         </li>
         <li>
-            2021 ~ now TPC member for Conferences: IEEE Vehicular Technology Conference (VTC), IEEE Wireless Communications and Networking Conference (WCNC), IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD)
-        </li>
-        <li>
-            2019 ~ 2022 Reviewer for Conferences: The 9th International Conference on Behavioural and Social Computing, IEEE Wireless Communications and Networking Conference (WCNC), IEEE Vehicular Technology Conference (VTC), IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN)
+            2019 ~ present, Reviewer for IEEE MSN, VTC, WCNC, BESC, and AAAI
         </li>
     </ul>
     <h3 class="callout">荣誉获奖</h3>
     <ul>
+        <li>
+            最佳论文奖，「面向顺序MIoT工作流的云-雾-边协同计算：基于双层DDPG的调度框架，」NCIC 2025
+        </li>
         <li>
             <a href="https://www.hkmu.edu.hk/news/hkmu-holds-annual-award-presentation-ceremony-to-recognise-staffs-outstanding-achievements-and-long-service/" target="_blank">舒小佩慈善基金 - 2025年杰出研究出版奖</a>
         </li>

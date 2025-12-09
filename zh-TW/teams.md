@@ -60,7 +60,7 @@ language: zh-TW
                 </div>
                 <h3>Dr.WEN XITING</h3>
                 <p class="member-title">Postdoc</p>
-                <p class="member-bio">Feb 2025 - Jan 2026</p>
+                <p class="member-bio">Feb 2025 - Dec 2025</p>
                 <div class="member-bio">
                     <span class="badge text-bg-secondary">Satellite-terrestrial networks</span>
                     <span class="badge text-bg-secondary">Game theory based resource allocation</span>
