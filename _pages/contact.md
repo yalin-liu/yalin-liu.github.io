@@ -18,12 +18,12 @@ language: en
 
     <p>
         <i class="fa fa-phone mr-2"></i>
-        Tel: <a href="tel:+852-31202622" title="Telephone" target="_blank">+852-31202622</a>
+        Tel: <a href="tel:+852-27686811" title="Telephone" target="_blank">+852-27686811</a>
     </p>
 
     <p>
     <i class="fa fa-fax mr-2"></i>
-    Fax: <a href="tel:+852-27891170" title="Fax" target="_blank">+852-27891170</a>
+    Fax: <a href="tel:+852-24062376" title="Fax" target="_blank">+852-24062376</a>
     </p>
 
     <p>
@@ -33,7 +33,7 @@ language: en
 
     <p>
     <i class="fa fa-map mr-2"></i>
-    Address: D1126, Department of Electronic Engineering and Computer Science, School of Science and Technology, Hong Kong Metropolitan University, Ho Man Tin, Kowloon, Hong Kong
+    Address: A0336, Department of Electronic Engineering and Computer Science, School of Science and Technology, Hong Kong Metropolitan University, Ho Man Tin, Kowloon, Hong Kong
     </p>
 
 </div>
