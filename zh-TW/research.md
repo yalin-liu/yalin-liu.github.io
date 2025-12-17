@@ -73,6 +73,7 @@ $(document).ready(function() {
 
   // JavaScript array to store publications
   let publications = [
+    { title: "針對夾持天線輔助隱蔽反向散射通訊的上行鏈路速率最大化", type: "journal", authors: "王玉磊, 劉亞林, 付雅茹, Yuanwei Liu", source: "arXiv preprint: 2512.10970", year: "2026", link: "https://arxiv.org/pdf/2512.10970" },
     { title: "用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析", type: "preprint", authors: "王玉磊, 劉亞林, 付雅茹, Zhuguo Ding", source: "arXiv preprint arXiv:2506.07771", year: "2026", link: "https://arxiv.org/pdf/2506.07771" },
     { title: "蜂巢和基於 D2D 的異構物聯網中資訊整合和通信的隨機幾何分析", type: "journal", authors: "王玉磊, Li Feng, 劉亞林, Zhongjie Li", source: "計算機網絡", year: "2024", link: "https://www.sciencedirect.com/science/article/pii/S1389128625000945" },
     { title: "考慮可靠性的行動群智感知系統聯合優化", type: "journal", authors: "Jiahui Feng, 付雅茹, Zheng Shi, 劉亞林, 熊景輝", source: "IEEE Transactions on Cognitive Communications and Networking", year: "2024", link: "https://ieeexplore.ieee.org/abstract/document/10764779" },
