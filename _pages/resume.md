@@ -72,9 +72,16 @@ language: en
     <h4>Journal Articles</h4>
     <ul>
         <li>
+            Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Yuanwei Liu, 
+            "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication," 
+            arXiv preprint: 2512.10970, 2026
+            [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">Link</a>]
+        </li>
+        <li>
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Zhuguo Ding, 
-            "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis," 
-            arXiv preprint arXiv:2506.07771, 2026. 
+            "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis (Accepted)," 
+            <em>IEEE Wireless Communications Letters</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>, 2026
+            DOI: 10.48550/arXiv.2506.07771
             [<a href="https://arxiv.org/pdf/2506.07771" target="_blank">Link</a>]
         </li>
         <li>

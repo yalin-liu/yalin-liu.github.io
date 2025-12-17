@@ -73,6 +73,7 @@ $(document).ready(function() {
 
   // JavaScript array to store publications
   let publications = [
+    { title: "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication", type: "journal", authors: "Yulei Wang, Yalin Liu, Yaru Fu, Yuanwei Liu", source: "arXiv preprint: 2512.10970", year: "2026", link: "https://arxiv.org/pdf/2512.10970" },
     { title: "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis", type: "preprint", authors: "Yulei Wang, Yalin Liu, Yaru Fu, Zhuguo Ding", source: "arXiv preprint arXiv:2506.07771", year: "2026", link: "https://arxiv.org/pdf/2506.07771" },
     { title: "Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT", type: "journal", authors: "Yulei Wang, Li Feng, Yalin Liu, Zhongjie Li", source: "Computer Networks", year: "2024", link: "https://www.sciencedirect.com/science/article/pii/S1389128625000945" },
     { title: "Joint Optimization for Mobile Crowdsensing Systems With Reliability Consideration", type: "journal", authors: "Jiahui Feng, Yaru Fu, Zheng Shi, Yalin Liu, Kevin Hung", source: "IEEE Transactions on Cognitive Communications and Networking", year: "2024", link: "https://ieeexplore.ieee.org/abstract/document/10764779" },

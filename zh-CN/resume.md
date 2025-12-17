@@ -72,7 +72,10 @@ language: zh-CN
     <h4>期刊（发表）</h4>
     <ul>
         <li>
-            王玉磊，<span class="highlight">刘亚林</span>，付雅茹 和 Zhuguo Ding，「用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析，」arXiv：2506.07771，2026年。[<a href="https://arxiv.org/pdf/2506.07771" target="_blank">原文</a>]
+            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化，」 arXiv preprint: 2512.10970, 2026 [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>]
+        </li>
+        <li>
+            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Zhuguo Ding，「用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析 （已接受），」 <em>IEEE無線通訊快報</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>，2026年，DOI: 10.48550/arXiv.2506.07771。[<a href="https://arxiv.org/pdf/2506.07771" target="_blank">原文</a>]
         </li>
         <li>
             王玉磊，Li Feng，<span class="highlight">刘亚林</span> 和 Zhongjie Li，「蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析，」<em>计算机网络</em> <span class="journal-meta"><strong>（SCI IF=4.6 in 2024，JCR Q1）</strong></span>，第261卷，pp. 111126，2025年4月，DOI：10.1016/j.comnet.2025.111126。[<a href="https://www.sciencedirect.com/science/article/pii/S1389128625000945" target="_blank">原文</a>]
