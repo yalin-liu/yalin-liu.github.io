@@ -16,11 +16,11 @@ language: zh-TW
 <div class="content-wrapper">
   <p>
     <i class="fa fa-phone mr-2"></i>
-    電話：<a href="tel:+852-31202622" title="Telephone" target="_blank">+852-31202622</a>
+    電話：<a href="tel:+852-27686811" title="Telephone" target="_blank">+852-27686811</a>
   </p>
   <p>
     <i class="fa fa-fax mr-2"></i>
-    傳真：<a href="tel:+852-27891170" title="Fax" target="_blank">+852-27891170</a>
+    傳真：<a href="tel:+852-24062376" title="Fax" target="_blank">+852-24062376</a>
   </p>
   <p>
     <i class="fa fa-envelope mr-2"></i>
@@ -28,6 +28,6 @@ language: zh-TW
   </p>
   <p>
     <i class="fa fa-map mr-2"></i>
-    地址：香港九龍何文田香港都會大學科技學院電子工程及電腦科學系D1126
+    地址：香港九龍何文田香港都會大學科技學院電子工程及電腦科學系A0336
   </p>
 </div>
