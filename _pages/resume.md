@@ -81,7 +81,7 @@ language: en
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Zhuguo Ding, 
             "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis (Accepted)," 
             <em>IEEE Wireless Communications Letters</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>, 2026
-            DOI: 10.48550/arXiv.2506.07771
+            DOI: 10.1109/LWC.2025.3647030
             [<a href="https://arxiv.org/pdf/2506.07771" target="_blank">Link</a>]
         </li>
         <li>
