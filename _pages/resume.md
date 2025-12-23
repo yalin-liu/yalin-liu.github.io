@@ -72,9 +72,21 @@ language: en
     <h4>Journal Articles</h4>
     <ul>
         <li>
+            Yue Zhang, Yaru Fu, Pei Liu, <span class="highlight">Yalin Liu</span> and Kevin Hung, 
+            "Multi-Waveguide Pinching Antenna Placement Optimization for Rate Maximization," 
+            arXiv preprint: 2512.18711, 2026.
+            [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">Link</a>]
+        </li>
+        <li>
+            Yu Hua, Yaru Fu, <span class="highlight">Yalin Liu</span>, Zheng Shi and Kevin Hung, 
+            "Content-Aware RSMA-Enabled Pinching-Antenna Systems for Latency Optimization in 6G Networks," 
+            arXiv preprint: 2512.17332, 2026.
+            [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">Link</a>]
+        </li>
+        <li>
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Yuanwei Liu, 
             "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication," 
-            arXiv preprint: 2512.10970, 2026
+            arXiv preprint: 2512.10970, 2026.
             [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">Link</a>]
         </li>
         <li>

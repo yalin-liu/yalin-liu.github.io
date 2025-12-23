@@ -72,6 +72,12 @@ language: zh-CN
     <h4>期刊（发表）</h4>
     <ul>
         <li>
+            Yue Zhang，付雅茹，Pei Liu，<span class="highlight">刘亚林</span> 和 熊景辉，「针对速率最大化的多波导收缩天线布局优化，」 arXiv preprint: 2512.18711, 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
+        </li>
+        <li>
+            Yu Hua，付雅茹，<span class="highlight">刘亚林</span>，Zheng Shi 和 熊景辉，「面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
+        </li>
+        <li>
             王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化，」 arXiv preprint: 2512.10970, 2026 [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>]
         </li>
         <li>
