@@ -73,6 +73,8 @@ $(document).ready(function() {
 
   // JavaScript array to store publications
   let publications = [
+    { title: "Multi-Waveguide Pinching Antenna Placement Optimization for Rate Maximization", type: "journal", authors: "Yue Zhang, Yaru Fu, Pei Liu, Yalin Liu, Kevin Hung", source: "arXiv preprint: 2512.18711, 2026", year: "2026", link: "https://arxiv.org/abs/2512.18711" },
+    { title: "Content-Aware RSMA-Enabled Pinching-Antenna Systems for Latency Optimization in 6G Networks", type: "journal", authors: "Yu Hua, Yaru Fu, Yalin Liu, Zheng Shi, Kevin Hung", source: "arXiv preprint: 2512.17332, 2026", year: "2026", link: "https://arxiv.org/abs/2512.17332" },
     { title: "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication", type: "journal", authors: "Yulei Wang, Yalin Liu, Yaru Fu, Yuanwei Liu", source: "arXiv preprint: 2512.10970", year: "2026", link: "https://arxiv.org/pdf/2512.10970" },
     { title: "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis", type: "preprint", authors: "Yulei Wang, Yalin Liu, Yaru Fu, Zhuguo Ding", source: "arXiv preprint arXiv:2506.07771", year: "2026", link: "https://arxiv.org/pdf/2506.07771" },
     { title: "Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT", type: "journal", authors: "Yulei Wang, Li Feng, Yalin Liu, Zhongjie Li", source: "Computer Networks", year: "2024", link: "https://www.sciencedirect.com/science/article/pii/S1389128625000945" },
