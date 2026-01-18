@@ -133,6 +133,33 @@ language: zh-TW
                     <span class="badge text-bg-secondary">Satellite Communication</span>
                 </div>
             </div>
+            <div class="team-member">
+                <div class="member-photo">
+                    <img src="{{ site.baseurl }}/assets/images/yinghao_zhang.jpg" alt="Mr.Zhang Yinghao">
+                </div>
+                <h3>Mr.ZHANG YINGHAO</h3>
+                <p class="member-title">MPhil Student</p>
+                <p class="member-bio">Jan 2026 - present</p>
+                <div class="member-bio">
+                    <span class="badge text-bg-secondary">Federated Learning</span>
+                    <span class="badge text-bg-secondary">Edge Intelligence</span>
+                    <span class="badge text-bg-secondary">AI for Healthcare</span>
+                </div>
+                <a href="https://1643204431.github.io/" target="_blank" class="stretched-link"></a>
+            </div>
+            <div class="team-member">
+                <div class="member-photo">
+                    <img src="{{ site.baseurl }}/assets/images/yi_hong.jpg" alt="YI HONG">
+                </div>
+                <h3>YI HONG</h3>
+                <p class="member-title">Research Assistant</p>
+                <p class="member-bio">Feb 2026 - present</p>
+                <div class="member-bio">
+                    <span class="badge text-bg-secondary">Cyber-Physical-Social Intelligence</span>
+                    <span class="badge text-bg-secondary">Edge Intelligence</span>
+                    <span class="badge text-bg-secondary">Multimodal Integrated Sensing and Communication</span>
+                </div>
+            </div>
         </div>
     </section>
 </div>

@@ -331,6 +331,7 @@ a:hover {
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     transition: all 0.3s ease;
+    position: relative;
 }
 
 .team-member:hover {
@@ -368,7 +369,11 @@ a:hover {
 
 .member-bio {
     color: #6b7280;
-    line-height: 1.6;
+    line-height: 1.6;    
+}
+
+.member-bio > span{
+    white-space: normal;
 }
 
 .text-left {
