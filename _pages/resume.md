@@ -73,8 +73,8 @@ language: en
     <ul>
         <li>
             Yue Zhang, Yaru Fu, Pei Liu, <span class="highlight">Yalin Liu</span> and Kevin Hung, 
-            "Multi-Waveguide Pinching Antenna Placement Optimization for Rate Maximization," 
-            arXiv preprint: 2512.18711, 2026.
+            "Multi-Waveguide Pinching Antenna Placement Optimization for Rate Maximization (accepted)," 
+            <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. 
             [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">Link</a>]
         </li>
         <li>
@@ -160,6 +160,12 @@ language: en
     </ul>
     <h4>Conference Papers</h4>
     <ul>
+        <li>
+            Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, and <span class="highlight">Yalin Liu</span>, 
+            "Deception Against Reactive Jammer: Deep Reinforcement Learning for Adaptive Anti-Jamming (accepted)," 
+            <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. 
+            <!-- [<a href="https://ieee-icc.org/" target="_blank">Link</a>] -->
+        </li>
         <li>
             Yuhao Fu, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Bishenghui Tao, and Junhong Ruan, 
             "Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework", (Best paper award),  

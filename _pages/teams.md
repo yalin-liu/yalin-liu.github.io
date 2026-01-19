@@ -150,15 +150,29 @@ language: en
             </div>
             <div class="team-member">
                 <div class="member-photo">
-                    <img src="{{ site.baseurl }}/assets/images/yi_hong.jpg" alt="YI HONG">
+                    <img src="{{ site.baseurl }}/assets/images/yi_hong.jpg" alt="Mr.YI HONG">
                 </div>
-                <h3>YI HONG</h3>
+                <h3>Mr.YI HONG</h3>
                 <p class="member-title">Research Assistant</p>
                 <p class="member-bio">Feb 2026 - present</p>
                 <div class="member-bio">
                     <span class="badge text-bg-secondary">Cyber-Physical-Social Intelligence</span>
                     <span class="badge text-bg-secondary">Edge Intelligence</span>
                     <span class="badge text-bg-secondary">Multimodal Integrated Sensing and Communication</span>
+                </div>
+            </div>
+            <div class="team-member">
+                <div class="member-photo">
+                    <img src="{{ site.baseurl }}/assets/images/zepeng_zhan.jpg" alt="Mr.Zepeng ZHAN">
+                </div>
+                <h3>Mr.Zepeng ZHAN</h3>
+                <p class="member-title">Research Assistant</p>
+                <p class="member-bio">Feb 2026 - present</p>
+                <div class="member-bio">
+                    <span class="badge text-bg-secondary">AI for Healthcare</span>
+                    <span class="badge text-bg-secondary">Cybersecurity</span>
+                    <span class="badge text-bg-secondary">Edge caching</span>
+                    <span class="badge text-bg-secondary">Edge computing</span>
                 </div>
             </div>
         </div>
