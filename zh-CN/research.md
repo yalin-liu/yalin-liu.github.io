@@ -73,7 +73,7 @@ $(document).ready(function() {
 
   // JavaScript array to store publications
   let publications = [
-    { title: "针对速率最大化的多波导收缩天线布局优化", type: "journal", authors: "Yue Zhang, 付雅茹，Pei Liu, 刘亚林, 熊景辉", source: "arXiv preprint: 2512.18711, 2026", year: "2026", link: "https://arxiv.org/pdf/2512.18711" },
+    { title: "针对速率最大化的多波导收缩天线布局优化（已录用）", type: "journal", authors: "Yue Zhang, 付雅茹，Pei Liu, 刘亚林, 熊景辉", source: "IEEE International Conference on Communications (ICC) (EI and CCF C conference)", year: "2026", link: "https://arxiv.org/pdf/2512.18711" },
     { title: "面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统", type: "journal", authors: "Yu Hua, 付雅茹, 刘亚林, Zheng Shi, 熊景辉", source: "arXiv preprint: 2512.17332, 2026", year: "2026", link: "https://arxiv.org/pdf/2512.17332" },
     { title: "针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化", type: "journal", authors: "王玉磊, 刘亚林, 付雅茹, Yuanwei Liu", source: "arXiv preprint: 2512.10970", year: "2026", link: "https://arxiv.org/pdf/2512.10970" },
     { title: "用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析", type: "preprint", authors: "王玉磊, 刘亚林, 付雅茹, Zhuguo Ding", source: "arXiv preprint arXiv:2506.07771", year: "2026", link: "https://arxiv.org/pdf/2506.07771" },
