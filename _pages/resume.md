@@ -72,12 +72,6 @@ language: en
     <h4>Journal Articles</h4>
     <ul>
         <li>
-            Yue Zhang, Yaru Fu, Pei Liu, <span class="highlight">Yalin Liu</span> and Kevin Hung, 
-            "Multi-Waveguide Pinching Antenna Placement Optimization for Rate Maximization (accepted)," 
-            <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. 
-            [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">Link</a>]
-        </li>
-        <li>
             Yu Hua, Yaru Fu, <span class="highlight">Yalin Liu</span>, Zheng Shi and Kevin Hung, 
             "Content-Aware RSMA-Enabled Pinching-Antenna Systems for Latency Optimization in 6G Networks," 
             arXiv preprint: 2512.17332, 2026.
@@ -165,6 +159,12 @@ language: en
             "Deception Against Reactive Jammer: Deep Reinforcement Learning for Adaptive Anti-Jamming (accepted)," 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. 
             <!-- [<a href="https://ieee-icc.org/" target="_blank">Link</a>] -->
+        </li>
+        <li>
+            Yue Zhang, Yaru Fu, Pei Liu, <span class="highlight">Yalin Liu</span> and Kevin Hung, 
+            "Multi-Waveguide Pinching Antenna Placement Optimization for Rate Maximization (accepted)," 
+            <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. 
+            [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">Link</a>]
         </li>
         <li>
             Yuhao Fu, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Bishenghui Tao, and Junhong Ruan, 

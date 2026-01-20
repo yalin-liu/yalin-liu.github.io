@@ -73,7 +73,6 @@ $(document).ready(function() {
 
   // JavaScript array to store publications
   let publications = [
-    { title: "針對速率最大化的多波導收縮天線佈局優化（已錄用）", type: "journal", authors: "Yue Zhang, 付雅茹，Pei Liu, 劉亞林, 熊景輝", source: "IEEE International Conference on Communications (ICC) (EI and CCF C conference)", year: "2026", link: "https://arxiv.org/pdf/2512.18711" },
     { title: "面向內容感知、支援 RSMA 的 6G 網路延遲優化縮減天線系統", type: "journal", authors: "Yu Hua, 付雅茹, 劉亞林, Zheng Shi, 熊景輝", source: "arXiv preprint: 2512.17332, 2026", year: "2026", link: "https://arxiv.org/pdf/2512.17332" },
     { title: "針對夾持天線輔助隱蔽反向散射通訊的上行鏈路速率最大化", type: "journal", authors: "王玉磊, 劉亞林, 付雅茹, Yuanwei Liu", source: "arXiv preprint: 2512.10970", year: "2026", link: "https://arxiv.org/pdf/2512.10970" },
     { title: "用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析", type: "preprint", authors: "王玉磊, 劉亞林, 付雅茹, Zhuguo Ding", source: "arXiv preprint arXiv:2506.07771", year: "2026", link: "https://arxiv.org/pdf/2506.07771" },
@@ -88,6 +87,8 @@ $(document).ready(function() {
     { title: "無人機輔助的物聯網通信技術及其應用", type: "journal", authors: "劉亞林, 戴弘寧, 王曲北劍", source: "物聯網學報（中國）", year: "2019", link: "https://www.henrylab.net/wp-content/uploads/2020/02/UEeIoT-CIoTJ19.pdf" },
     
     // conference
+    { title: "針對反應式干擾器的欺騙：用深度強化學習實現自適應抗干擾（已錄用）", type: "conference", authors: "Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, 劉亞林", source: "IEEE International Conference on Communications (ICC) (EI and CCF C conference)", year: "2026", link: "#" },
+    { title: "針對速率最大化的多波導收縮天線佈局優化（已錄用）", type: "conference", authors: "Yue Zhang, 付雅茹，Pei Liu, 劉亞林, 熊景輝", source: "IEEE International Conference on Communications (ICC) (EI and CCF C conference)", year: "2026", link: "https://arxiv.org/pdf/2512.18711" },
     { title: "面向順序MIoT工作流程的雲-霧-邊協同運算：基於雙層DDPG的調度框架（最佳論文獎）", type: "conference", authors: "傅宇浩, Yinghao Zhang, 劉亞林, 陶畢生輝, Junhong Ruan", source: "International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China", year: "2025", link: "https://arxiv.org/pdf/2510.21135" },
     { title: "基於置信度約束的雲邊協作框架用於自閉症譜系障礙診斷", type: "conference", authors: "鄧琪, Yinghao Zhang, 劉亞林, 陶畢生輝", source: "International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China", year: "2025", link: "https://arxiv.org/pdf/2510.21130" },
     { title: "Web3 DID 的混合衛星-地面部署：系統設計與效能分析", type: "conference", authors: "劉亞林, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, 戴弘寧, 付雅茹, 陶畢生輝, 歐陽兆基", source: "IEEE MetaCom 2025", year: "2025", link: "https://arxiv.org/pdf/2507.02305" },

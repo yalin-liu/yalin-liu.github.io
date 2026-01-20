@@ -72,9 +72,6 @@ language: zh-CN
     <h4>期刊（发表）</h4>
     <ul>
         <li>
-            Yue Zhang，付雅茹，Pei Liu，<span class="highlight">刘亚林</span> 和 熊景辉，「针对速率最大化的多波导收缩天线布局优化（已录用），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
-        </li>
-        <li>
             Yu Hua，付雅茹，<span class="highlight">刘亚林</span>，Zheng Shi 和 熊景辉，「面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
         </li>
         <li>
@@ -117,6 +114,9 @@ language: zh-CN
             Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun，和 <span class="highlight">刘亚林</span>， 
             「针对反应式干扰器的欺骗：用深度强化学习实现自适应抗干扰（已录用），」 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference) Glasgow, Scotland, UK,</em> 2026年5月24–28日。 
+        </li>
+        <li>
+            Yue Zhang，付雅茹，Pei Liu，<span class="highlight">刘亚林</span> 和 熊景辉，「针对速率最大化的多波导收缩天线布局优化（已录用），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
         </li>
         <li>
             傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶毕生辉，Junhong Ruan，「面向顺序MIoT工作流程的云-雾-边协同运算：基于双层DDPG的调度框架，」（最佳论文奖）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]

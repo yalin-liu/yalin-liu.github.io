@@ -72,9 +72,6 @@ language: zh-TW
     <h4>期刊（發表）</h4>
     <ul>
         <li>
-            Yue Zhang，付雅茹，Pei Liu，<span class="highlight">劉亞林</span> 和 熊景輝，「針對速率最大化的多波導收縮天線佈局優化（已錄用），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
-        </li>
-        <li>
             Yu Hua，付雅茹，<span class="highlight">劉亞林</span>，Zheng Shi 和 熊景輝，「面向內容感知、支援 RSMA 的 6G 網路延遲優化縮減天線系統，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
         </li>
         <li>
@@ -114,9 +111,12 @@ language: zh-TW
     <h4>會議文章</h4>
     <ul>
         <li>
-            Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun，和 <span class="highlight">劉亞林</span>， 
+            Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun 和 <span class="highlight">劉亞林</span>， 
             「針對反應式干擾器的欺騙：用深度強化學習實現自適應抗干擾（已錄用），」 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference) Glasgow, Scotland, UK,</em> 2026月5月24–28日。
+        </li>
+        <li>
+            Yue Zhang，付雅茹，Pei Liu，<span class="highlight">劉亞林</span> 和 熊景輝，「針對速率最大化的多波導收縮天線佈局優化（已錄用），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
         </li>
         <li>
             傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶畢生輝，Junhong Ruan，「面向順序MIoT工作流程的雲-霧-邊協同運算：基於雙層DDPG的調度框架，」（最佳論文獎）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]
