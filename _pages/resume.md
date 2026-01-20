@@ -20,10 +20,10 @@ language: en
             09/2019-10/2022: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: <a href="https://www.henrylab.net/" target="_blank">Prof. Hong-Ning Dai</a>); Thesis: Unmanned Aerial Vehicle-assisted Communications for Internet of Remote Things.
         </li>
         <li>
-            09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: <a href="https://www.henrylab.net/" target="_blank">Prof. Hong-Ning Dai</a>; Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf" target="_blank">PDF</a>]
+            09/2017-06/2019: Master of Science in Information Technology, Telecommunication Engineering, Macau University of Science and Technology, Macau, China (Supervisor: <a href="https://www.henrylab.net/" target="_blank">Prof. Hong-Ning Dai</a>; Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf" target="_blank">Link</a>]
         </li>
         <li>
-            09/2013-06/2017: Bachelor of Engineering, Telecommunication Engineering, ChongQing University of Post and Telecommunications, ChongQing, China; Thesis: Research on the Affine Projection-type Adaptive Filtering Algorithms and Applications. [<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf" target="_blank">PDF</a>]
+            09/2013-06/2017: Bachelor of Engineering, Telecommunication Engineering, ChongQing University of Post and Telecommunications, ChongQing, China; Thesis: Research on the Affine Projection-type Adaptive Filtering Algorithms and Applications. [<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf" target="_blank">Link</a>]
         </li>
     </ul>
     <h3 class="callout">Working Experience</h3>
@@ -149,7 +149,7 @@ language: en
             <span class="highlight">Yalin Liu</span>, Hong-Ning Dai, and Qubeijian Wang, 
             "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things," 
             <em>Chinese Journal on Internet of Things (Chinese)</em>, vol. 3, no. 4, pp. 48-55, December 2019. 
-            [<a href="https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf" target="_blank">PDF</a>]
+            [<a href="https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf" target="_blank">Link</a>]
         </li>
     </ul>
     <h4>Conference Papers</h4>
@@ -170,36 +170,36 @@ language: en
             Yuhao Fu, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Bishenghui Tao, and Junhong Ruan, 
             "Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework", (Best paper award),  
             <em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 17-19 October 2025. 
-            [<a href="https://arxiv.org/pdf/2510.21135" target="_blank">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2510.21135" target="_blank">Link</a>]
         </li>
         <li>
             Qi Deng, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Bishenghui Tao, 
             "A Confidence-Constrained Cloud-Edge Collaborative Framework for Autism Spectrum Disorder Diagnosis", <em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China,</em> 17-19 October 2025. 
-            [<a href="https://arxiv.org/pdf/2510.21130" target="_blank">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2510.21130" target="_blank">Link</a>]
         </li>
         <li>
             <span class="highlight">Yalin Liu</span>, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, Hong-Ning Dai, Yaru Fu, Bishenghui Tao and Siu-Kei Au Yeung, 
             "Hybrid Satellite-Ground Deployments for Web3 DID: System Design and Performance Analysis," 
             <em>The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025), Sejong University, Seoul,</em> 27-29 August 2025. 
-            [<a href="https://arxiv.org/pdf/2507.02305" target="_blank">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2507.02305" target="_blank">Link</a>]
         </li>
         <li>
             Yaru Fu, Yue Zhang, Zheng Shi, Yongna Guo and <span class="highlight">Yalin Liu</span>, 
             "Enhancing Mobile Crowdsensing Efficiency: A Coverage-aware Resource Allocation Approach," 
             <em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 17-20 June 2025.
-            [<a href="https://arxiv.org/pdf/2503.21942" target="_blank">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2503.21942" target="_blank">Link</a>]
         </li>
         <li>
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, Yujie Qin, and Zhontgjie Li, 
             "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," 
             <em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 17-20 June 2025.
-            [<a href="https://arxiv.org/pdf/2503.16202" target="_blank">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2503.16202" target="_blank">Link</a>]
         </li>
         <li>
             <span class="highlight">Yalin Liu</span>, Yaru Fu, Qubeijian Wang, and Hong-Ning Dai, 
             "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks," 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference), Montreal, Canada,</em> 8-12 June 2025.
-            [<a href="https://arxiv.org/pdf/2504.21284" target="_blank">PDF</a>]
+            [<a href="https://arxiv.org/pdf/2504.21284" target="_blank">Link</a>]
         </li>
         <li>
             Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, and <span class="highlight">Yalin Liu</span>, 
@@ -211,7 +211,7 @@ language: en
             "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks," 
             <em>IEEE Global Communications Conference (Globecom)</em> <span class="journal-meta">(EI and CCF C conference)</span>, Madrid, Spain, virtual conference, 7-11 December 2021, 
             DOI: 10.1109/GLOBECOM46510.2021.9685811. 
-            [<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf" target="_blank">PDF</a>]
+            [<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf" target="_blank">Link</a>]
         </li>
         <li>
             Qubeijian Wang, <span class="highlight">Yalin Liu</span>, Hong-Ning Dai, Muhammad Imran, and Nidal Nasser, 
@@ -224,13 +224,13 @@ language: en
             "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis," 
             <em>IEEE International Conference of Communications (ICC)</em> <span class="journal-meta">(EI and CCF C conference)</span>, Montreal, Quebec, Canada, virtual conference, June 14-23 2021, 
             DOI: 10.1109/ICC42927.2021.9500746. 
-            [<a href="https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf" target="_blank">PDF</a>]
+            [<a href="https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf" target="_blank">Link</a>]
         </li>
         <li>
             <span class="highlight">Yalin Liu</span>, Hong-Ning Dai, Yuyang Peng, and Hao Wang, 
             "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer," 
             <em>International Conference on Embedded Wireless Systems and Networks (EWSN)</em>, Beijing, China, February 25-27 2019. 
-            [<a href="https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf" target="_blank">PDF</a>]
+            [<a href="https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf" target="_blank">Link</a>]
         </li>
     </ul>
     <h3 class="callout">Patents</h3>
