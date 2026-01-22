@@ -59,13 +59,13 @@ language: en
             01/2023-06/2025, <span class="highlight">Co-I</span>, "Intelligent Data-driven Wireless Networks," HKMU R&D Fund, HK$ 1,480,566, under Project Reference No.: CP/2022/2.1.
         </li>
         <li>
-            01/2022-05/2022, <span class="highlight">RA</span>, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks," the Education University of Hong Kong, Knowledge Transfer Funds, under Project Reference No.: 2021/22.
+            01/2022-05/2022, <span class="highlight">Key researcher</span>, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks," the Education University of Hong Kong, Knowledge Transfer Funds, under Project Reference No.: 2021/22.
         </li>
         <li>
-            12/2018-12/2020, <span class="highlight">participant</span>, "Key Technologies to Enable Ultra Dense Wireless Networks," Macao Science and Technology Development Fund, under Project Reference No.: 0026/2018/A1.
+            12/2018-12/2020, <span class="highlight">Participant</span>, "Key Technologies to Enable Ultra Dense Wireless Networks," Macao Science and Technology Development Fund, under Project Reference No.: 0026/2018/A1.
         </li>
         <li>
-            09/2017-11/2017, <span class="highlight">participant</span>, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement," Macao Science and Technology Development Fund, under Project Reference No.: 0096/2013/A3.
+            09/2017-11/2017, <span class="highlight">Participant</span>, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement," Macao Science and Technology Development Fund, under Project Reference No.: 0096/2013/A3.
         </li>
     </ul>
     <h3 class="callout">Publications</h3>
