@@ -41,6 +41,12 @@ language: en
     <h3 class="callout">Research Projects</h3>
     <ul>
         <li>
+            01/09/2025-31/08/2027, <span class="highlight">Co-I</span>, "Blockchain-enabled Trustworthy Digital Twin Networks," HKMU R&D Fund, HK$ 2,196,056, under Project Reference No.: CP/2025/1.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-enabled-trustworthy-digital-twin-networks/" target="_blank">Link</a>]
+        </li>
+        <li>
+            01/01/2026-31/12/2027, <span class="highlight">Co-I</span>, "Driving Performance Analysis Assistance System for Driving Tests," Hong Kong Smart Traffic Fund (STF), HK$ 5,805,701.58, under Project Reference No.: CS/106/2412/RA. [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">Link</a>]
+        </li>
+        <li>
             1/12/2025-30/11/2026, <span class="highlight">Sole PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34.
         </li>
         <li>
