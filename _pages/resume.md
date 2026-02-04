@@ -47,31 +47,31 @@ language: en
             01/01/2026-31/12/2027, <span class="highlight">Co-I</span>, "Driving Performance Analysis Assistance System for Driving Tests," Hong Kong Smart Traffic Fund (STF), HK$ 5,805,701.58, under Project Reference No.: CS/106/2412/RA. [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">Link</a>]
         </li>
         <li>
-            1/12/2025-30/11/2026, <span class="highlight">Sole PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34.
+            1/12/2025-30/11/2026, <span class="highlight">Sole PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">Link</a>]
         </li>
         <li>
-            1/1/2025-31/12/2027, <span class="highlight">Sole PI</span>, "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund, HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24.
+            1/1/2025-31/12/2027, <span class="highlight">Sole PI</span>, "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund, HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24. [<a href="https://scholars.hkmu.edu.hk/en/projects/space-air-ground-integrated-networks-system-modeling-and-performa/" target="_blank">Link</a>]
         </li>
         <li>
-            1/12/2024-31/11/2027, <span class="highlight">Co-I</span>, "Multi-layer intelligent medical network system," In-kind donation to HKMU, HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003.
+            1/12/2024-31/11/2027, <span class="highlight">Co-I</span>, "Multi-layer intelligent medical network system," In-kind donation to HKMU, HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003. [<a href="https://scholars.hkmu.edu.hk/en/projects/multi-layer-intelligent-medical-network-system/" target="_blank">Link</a>]
         </li>
         <li>
-            12/2023-04/2025, <span class="highlight">Sole PI</span>, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/2.22.
+            12/2023-04/2025, <span class="highlight">Sole PI</span>, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/2.22. [<a href="https://scholars.hkmu.edu.hk/en/projects/sagin-empowered-web-30-scalable-decentralized-network-design/" target="_blank">Link</a>]
         </li>
         <li>
-            10/2023-03/2025, <span class="highlight">Co-I</span>, "Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/1.8.
+            10/2023-03/2025, <span class="highlight">Co-I</span>, "Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/1.8. [<a href="https://scholars.hkmu.edu.hk/en/projects/developing-real-time-intelligent-video-surveillance-systems-from--2/" target="_blank">Link</a>]
         </li>
         <li>
-            01/2023-06/2025, <span class="highlight">Co-I</span>, "Intelligent Data-driven Wireless Networks," HKMU R&D Fund, HK$ 1,480,566, under Project Reference No.: CP/2022/2.1.
+            01/2023-06/2025, <span class="highlight">Co-I</span>, "Intelligent Data-driven Wireless Networks," HKMU R&D Fund, HK$ 1,480,566, under Project Reference No.: CP/2022/2.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/intelligent-data-driven-wireless-networks-2/" target="_blank">Link</a>]
         </li>
         <li>
-            01/2022-05/2022, <span class="highlight">Key researcher</span>, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks," the Education University of Hong Kong, Knowledge Transfer Funds, under Project Reference No.: 2021/22.
+            01/2022-05/2022, <span class="highlight">Key researcher</span>, "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks," the Education University of Hong Kong, Knowledge Transfer Funds, under Project Reference No.: 2021/22. [<a href="https://www.eduhk.hk/ele/knowledge-transfer" target="_blank">Link</a>]
         </li>
         <li>
-            12/2018-12/2020, <span class="highlight">Participant</span>, "Key Technologies to Enable Ultra Dense Wireless Networks," Macao Science and Technology Development Fund, under Project Reference No.: 0026/2018/A1.
+            12/2018-12/2020, <span class="highlight">Participant</span>, "Key Technologies to Enable Ultra Dense Wireless Networks," Macao Science and Technology Development Fund, under Project Reference No.: 0026/2018/A1. [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">Link</a>]
         </li>
         <li>
-            09/2017-11/2017, <span class="highlight">Participant</span>, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement," Macao Science and Technology Development Fund, under Project Reference No.: 0096/2013/A3.
+            09/2017-11/2017, <span class="highlight">Participant</span>, "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement," Macao Science and Technology Development Fund, under Project Reference No.: 0096/2013/A3. [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">Link</a>]
         </li>
     </ul>
     <h3 class="callout">Publications</h3>
