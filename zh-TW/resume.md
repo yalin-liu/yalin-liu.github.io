@@ -47,31 +47,31 @@ language: zh-TW
             2025.01.01 - 2027.12.31，<span class="highlight">合作項目負責人</span>，「駕駛考試性能分析輔助系統，」香港智慧交通基金 (STF)，港幣5,805,701.58元，項目編號：CS/106/2412/RA。 [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">原文</a>]
         </li>
         <li>
-            2025.12.1 - 2026.11.30，<span class="highlight">項目負責人</span>，「區塊鏈在衛星星座中的部署與效能建模，」香港大學教育資助委員會（HKUGC）資助（先導研究），港幣200,000元，項目編號：PFDS/2025/34。
+            2025.12.1 - 2026.11.30，<span class="highlight">項目負責人</span>，「區塊鏈在衛星星座中的部署與效能建模，」香港大學教育資助委員會（HKUGC）資助（先導研究），港幣200,000元，項目編號：PFDS/2025/34。 [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">原文</a>]
         </li>
         <li>
-            2025.1 - 2027.12，<span class="highlight">項目負責人</span>，「空地一體化網絡：系統建模與性能優化，」香港本地自資院校研究資助計劃，HK$ 776,810，項目編號：UGC/FDS16/E15/24。
+            2025.1 - 2027.12，<span class="highlight">項目負責人</span>，「空地一體化網絡：系統建模與性能優化，」香港本地自資院校研究資助計劃，HK$ 776,810，項目編號：UGC/FDS16/E15/24。 [<a href="https://scholars.hkmu.edu.hk/en/projects/space-air-ground-integrated-networks-system-modeling-and-performa/" target="_blank">原文</a>]
         </li>
         <li>
-            2024.12 - 2027.11，<span class="highlight">合作項目負責人</span>，「多層智能醫療網絡系統，」捐贈實物 to HKMU，HK$ 6,180,000，UGC 研究配套補助金計劃，HK$ 1,545,000，項目編號：2024/3003。
+            2024.12 - 2027.11，<span class="highlight">合作項目負責人</span>，「多層智能醫療網絡系統，」捐贈實物 to HKMU，HK$ 6,180,000，UGC 研究配套補助金計劃，HK$ 1,545,000，項目編號：2024/3003。 [<a href="https://scholars.hkmu.edu.hk/en/projects/multi-layer-intelligent-medical-network-system/" target="_blank">原文</a>]
         </li>
         <li>
-            2023.12 - 2025.04，<span class="highlight">項目負責人</span>，「空地一體化網絡賦能 Web 3.0：可擴展的去中心化網絡設計，」香港都會大學研發項目，HK$ 200,000，項目編號：RD/2023/2.22。
+            2023.12 - 2025.04，<span class="highlight">項目負責人</span>，「空地一體化網絡賦能 Web 3.0：可擴展的去中心化網絡設計，」香港都會大學研發項目，HK$ 200,000，項目編號：RD/2023/2.22。 [<a href="https://scholars.hkmu.edu.hk/en/projects/sagin-empowered-web-30-scalable-decentralized-network-design/" target="_blank">原文</a>]
         </li>
         <li>
-            2023.10 - 2025.03，<span class="highlight">合作項目負責人</span>，「開發實時智能視頻監控系統：從算法設計到性能優化，」香港都會大學研發項目，HK$ 200,000，項目編號：RD/2023/1.8。
+            2023.10 - 2025.03，<span class="highlight">合作項目負責人</span>，「開發實時智能視頻監控系統：從算法設計到性能優化，」香港都會大學研發項目，HK$ 200,000，項目編號：RD/2023/1.8。 [<a href="https://scholars.hkmu.edu.hk/en/projects/developing-real-time-intelligent-video-surveillance-systems-from--2/" target="_blank">原文</a>]
         </li>
         <li>
-            2023.01 - 2025.06，<span class="highlight">合作項目負責人</span>，「智能數據驅動的無線網絡，」香港都會大學研發項目，HK$ 1,480,566，項目編號：CP/2022/2.1。
+            2023.01 - 2025.06，<span class="highlight">合作項目負責人</span>，「智能數據驅動的無線網絡，」香港都會大學研發項目，HK$ 1,480,566，項目編號：CP/2022/2.1。 [<a href="https://scholars.hkmu.edu.hk/en/projects/intelligent-data-driven-wireless-networks-2/" target="_blank">原文</a>]
         </li>
         <li>
-            2022.01 - 2022.05，<span class="highlight">主要研究人員</span>，「通過深度神經網絡促進基於非侵入式學習者的情緒分類，」香港教育大學技術轉移項目，項目編號：2021/22。
+            2022.01 - 2022.05，<span class="highlight">主要研究人員</span>，「通過深度神經網絡促進基於非侵入式學習者的情緒分類，」香港教育大學技術轉移項目，項目編號：2021/22。 [<a href="https://www.eduhk.hk/ele/knowledge-transfer" target="_blank">原文</a>]
         </li>
         <li>
-            2018.12 - 2020.12，<span class="highlight">博士研究生</span>，「實現超密集無線網絡的關鍵技術，」澳門科技發展基金項目，項目編號：0026/2018/A1。
+            2018.12 - 2020.12，<span class="highlight">博士研究生</span>，「實現超密集無線網絡的關鍵技術，」澳門科技發展基金項目，項目編號：0026/2018/A1。 [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">原文</a>]
         </li>
         <li>
-            2017.09 - 2017.11，<span class="highlight">碩士研究生</span>，「大型無線自組網：性能分析與性能改進，」澳門科技發展基金項目，項目編號：0096/2013/A3。
+            2017.09 - 2017.11，<span class="highlight">碩士研究生</span>，「大型無線自組網：性能分析與性能改進，」澳門科技發展基金項目，項目編號：0096/2013/A3。 [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">原文</a>]
         </li>
     </ul>
     <h3 class="callout">學術論文</h3>
