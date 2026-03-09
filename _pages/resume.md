@@ -41,19 +41,19 @@ language: en
     <h3 class="callout">Research Projects</h3>
     <ul>
         <li>
-            01/09/2025-31/08/2027, <span class="highlight">Co-I</span>, "Blockchain-enabled Trustworthy Digital Twin Networks," HKMU R&D Fund, HK$ 2,196,056, under Project Reference No.: CP/2025/1.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-enabled-trustworthy-digital-twin-networks/" target="_blank">Link</a>]
+            09/2025-08/2027, <span class="highlight">Co-I</span>, "Blockchain-enabled Trustworthy Digital Twin Networks," HKMU R&D Fund, HK$ 2,196,056, under Project Reference No.: CP/2025/1.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-enabled-trustworthy-digital-twin-networks/" target="_blank">Link</a>]
         </li>
         <li>
-            01/01/2026-31/12/2027, <span class="highlight">Co-I</span>, "Driving Performance Analysis Assistance System for Driving Tests," Hong Kong Smart Traffic Fund (STF), HK$ 5,805,701.58, under Project Reference No.: CS/106/2412/RA. [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">Link</a>]
+            01/2026-12/2027, <span class="highlight">Co-I</span>, "Driving Performance Analysis Assistance System for Driving Tests," Hong Kong Smart Traffic Fund (STF), HK$ 5,805,701.58, under Project Reference No.: CS/106/2412/RA. [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">Link</a>]
         </li>
         <li>
-            1/12/2025-30/11/2026, <span class="highlight">Sole PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">Link</a>]
+            12/2025-11/2026, <span class="highlight">Sole PI</span>, "Blockchain Deployment and Performance Modelling on Satellite Constellations," HK UGC Fund (Pilot work), HK$ 200,000, under Project Reference No.: PFDS/2025/34. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">Link</a>]
         </li>
         <li>
-            1/1/2025-31/12/2027, <span class="highlight">Sole PI</span>, "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund, HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24. [<a href="https://scholars.hkmu.edu.hk/en/projects/space-air-ground-integrated-networks-system-modeling-and-performa/" target="_blank">Link</a>]
+            1/2025-12/2027, <span class="highlight">Sole PI</span>, "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization," HK FDS Fund, HK$ 776,810, under Project Reference No.: UGC/FDS16/E15/24. [<a href="https://scholars.hkmu.edu.hk/en/projects/space-air-ground-integrated-networks-system-modeling-and-performa/" target="_blank">Link</a>]
         </li>
         <li>
-            1/12/2024-31/11/2027, <span class="highlight">Co-I</span>, "Multi-layer intelligent medical network system," In-kind donation to HKMU, HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003. [<a href="https://scholars.hkmu.edu.hk/en/projects/multi-layer-intelligent-medical-network-system/" target="_blank">Link</a>]
+            12/2024-11/2027, <span class="highlight">Co-I</span>, "Multi-layer intelligent medical network system," In-kind donation to HKMU, HK$ 6,180,000, UGC Research Matching Grant Scheme, HK$ 1,545,000, under Project Reference No.: 2024/3003. [<a href="https://scholars.hkmu.edu.hk/en/projects/multi-layer-intelligent-medical-network-system/" target="_blank">Link</a>]
         </li>
         <li>
             12/2023-04/2025, <span class="highlight">Sole PI</span>, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund, HK$ 200,000, under Project Reference No.: RD/2023/2.22. [<a href="https://scholars.hkmu.edu.hk/en/projects/sagin-empowered-web-30-scalable-decentralized-network-design/" target="_blank">Link</a>]

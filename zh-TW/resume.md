@@ -41,13 +41,13 @@ language: zh-TW
     <h3 class="callout">研究項目</h3>
     <ul>
         <li>
-            2025.12.1 - 2026.11.30，<span class="highlight">合作項目負責人</span>，「基於區塊鏈的可信賴數位孿生網絡，」香港都会大学研发基金，港幣2,196,056元，項目編號：CP/2025/1.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-enabled-trustworthy-digital-twin-networks/" target="_blank">原文</a>]
+            2025.12 - 2026.11，<span class="highlight">合作項目負責人</span>，「基於區塊鏈的可信賴數位孿生網絡，」香港都会大学研发基金，港幣2,196,056元，項目編號：CP/2025/1.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-enabled-trustworthy-digital-twin-networks/" target="_blank">原文</a>]
         </li>
         <li>
-            2025.01.01 - 2027.12.31，<span class="highlight">合作項目負責人</span>，「駕駛考試性能分析輔助系統，」香港智慧交通基金 (STF)，港幣5,805,701.58元，項目編號：CS/106/2412/RA。 [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">原文</a>]
+            2025.01 - 2027.12，<span class="highlight">合作項目負責人</span>，「駕駛考試性能分析輔助系統，」香港智慧交通基金 (STF)，港幣5,805,701.58元，項目編號：CS/106/2412/RA。 [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">原文</a>]
         </li>
         <li>
-            2025.12.1 - 2026.11.30，<span class="highlight">項目負責人</span>，「區塊鏈在衛星星座中的部署與效能建模，」香港大學教育資助委員會（HKUGC）資助（先導研究），港幣200,000元，項目編號：PFDS/2025/34。 [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">原文</a>]
+            2025.12 - 2026.11，<span class="highlight">項目負責人</span>，「區塊鏈在衛星星座中的部署與效能建模，」香港大學教育資助委員會（HKUGC）資助（先導研究），港幣200,000元，項目編號：PFDS/2025/34。 [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">原文</a>]
         </li>
         <li>
             2025.1 - 2027.12，<span class="highlight">項目負責人</span>，「空地一體化網絡：系統建模與性能優化，」香港本地自資院校研究資助計劃，HK$ 776,810，項目編號：UGC/FDS16/E15/24。 [<a href="https://scholars.hkmu.edu.hk/en/projects/space-air-ground-integrated-networks-system-modeling-and-performa/" target="_blank">原文</a>]
