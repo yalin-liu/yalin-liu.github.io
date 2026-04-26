@@ -81,7 +81,7 @@ language: zh-TW
             Yu Hua，付雅茹，<span class="highlight">劉亞林</span>，Zheng Shi 和 熊景輝，「面向內容感知、支援 RSMA 的 6G 網路延遲優化縮減天線系統，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
         </li>
         <li>
-            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「針對夾持天線輔助隱蔽反向散射通訊的上行鏈路速率最大化，」 <em>IEEE Transactions on Vehicular Technology</em>, 2026. [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>]
+            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「針對夾持天線輔助隱蔽反向散射通訊的上行鏈路速率最大化（已接受），」 <em>IEEE Transactions on Vehicular Technology</em>, 2026. [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>]
         </li>
         <li>
             王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Zhuguo Ding，「用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析 （已接受），」 <em>IEEE Wireless Communications Letters</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>，2026年，DOI: 10.1109/LWC.2025.3647030。[<a href="https://arxiv.org/pdf/2506.07771" target="_blank">原文</a>]
