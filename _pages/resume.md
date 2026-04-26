@@ -85,8 +85,8 @@ language: en
         </li>
         <li>
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Yuanwei Liu, 
-            "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication," 
-            arXiv preprint: 2512.10970, 2026.
+            "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication(Accepted)," 
+            <em>IEEE Transactions on Vehicular Technology</em>, 2026.
             [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">Link</a>]
         </li>
         <li>
@@ -160,6 +160,12 @@ language: en
     </ul>
     <h4>Conference Papers</h4>
     <ul>
+        <li>
+            Yi Hong, Mingyang Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Kevin Hung,
+            "Sky-Ear: An Unmanned Aerial Vehicle-Enabled Victim Sound Detection and Localization System," 
+            arXiv preprint: 2604.12455, 2026.
+            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">Link</a>]
+        </li>
         <li>
             Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, and <span class="highlight">Yalin Liu</span>, 
             "Deception Against Reactive Jammer: Deep Reinforcement Learning for Adaptive Anti-Jamming (accepted)," 
