@@ -85,7 +85,7 @@ language: en
         </li>
         <li>
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Yuanwei Liu, 
-            "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication(Accepted)," 
+            "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication (Accepted)," 
             <em>IEEE Transactions on Vehicular Technology</em>, 2026.
             [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">Link</a>]
         </li>
