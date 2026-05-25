@@ -78,6 +78,12 @@ language: en
     <h4>Journal Articles</h4>
     <ul>
         <li>
+            Qubeijian Wang, Shaojie Bai, Wen Sun, Wei Hu <span class="highlight">Yalin Liu</span>, Hong-Ning Dai and Zheng Yan,
+            "Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Accepted)," 
+            <em>IEEE Transactions on Information Forensics and Security</em> 
+            <span class="journal-meta"><strong>(SCI IF=8.5 in 2024, JCR Q1)</strong>, 2026</span>
+        </li>
+        <li>
             Yu Hua, Yaru Fu, <span class="highlight">Yalin Liu</span>, Zheng Shi and Kevin Hung, 
             "Content-Aware RSMA-Enabled Pinching-Antenna Systems for Latency Optimization in 6G Networks," 
             arXiv preprint: 2512.17332, 2026.
@@ -85,9 +91,11 @@ language: en
         </li>
         <li>
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Yuanwei Liu, 
-            "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication (Accepted)," 
-            <em>IEEE Transactions on Vehicular Technology</em>, 2026.
-            [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">Link</a>]
+            "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication (Published)," 
+            <em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>(SCI IF=7.1 in 2024, JCR Q1)</strong></span>, pp. 1-6, 27 April 2026, 
+            DOI: 10.1109/TVT.2026.3687627.
+            <!-- [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">Link</a>] -->
+            [<a href="https://ieeexplore.ieee.org/document/11494673" target="_blank">Link</a>]
         </li>
         <li>
             Yulei Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Zhuguo Ding, 

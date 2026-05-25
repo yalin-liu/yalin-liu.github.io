@@ -78,10 +78,17 @@ language: zh-CN
     <h4>期刊（发表）</h4>
     <ul>
         <li>
+            王曲北剑，Shaojie Bai，Wen Sun，Wei Hu，<span class="highlight">劉亞林</span>，戴弘宁 和 Zheng Yan，「Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Accepted)，」 <em>IEEE Transactions on Information Forensics and Security</em> 
+            <span class="journal-meta"><strong>(SCI IF=8.5 in 2024, JCR Q1)</strong>，2026年</span>
+        </li>
+        <li>
             Yu Hua，付雅茹，<span class="highlight">刘亚林</span>，Zheng Shi 和 熊景辉，「面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
         </li>
         <li>
-            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化（已接受），」 <em>IEEE Transactions on Vehicular Technology</em>, 2026 [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>]
+            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化（已发布），」 <em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>(SCI IF=7.1 in 2024, JCR Q1)</strong></span>，pp. 1-6，2026年4月27日，
+            DOI: 10.1109/TVT.2026.3687627。
+            <!-- [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>] -->
+            [<a href="https://ieeexplore.ieee.org/document/11494673" target="_blank">原文</a>]
         </li>
         <li>
             王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Zhuguo Ding，「用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析 （已接受），」 <em>IEEE Wireless Communications Letters</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>，2026年，DOI: 10.1109/LWC.2025.3647030。[<a href="https://arxiv.org/pdf/2506.07771" target="_blank">原文</a>]
@@ -123,7 +130,7 @@ language: zh-CN
             [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">Link</a>]
         </li>
         <li>
-            Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun，和 <span class="highlight">刘亚林</span>， 
+            Xintai Cao, 王曲北剑, Xiuping Li, Wen Sun，和 <span class="highlight">刘亚林</span>， 
             「针对反应式干扰器的欺骗：用深度强化学习实现自适应抗干扰（已接受），」 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference) Glasgow, Scotland, UK,</em> 2026年5月24–28日。 
         </li>
