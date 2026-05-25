@@ -74,7 +74,7 @@ $(document).ready(function() {
   // JavaScript array to store publications
   let publications = [
     { title: "面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统", type: "journal", authors: "Yu Hua, 付雅茹, 刘亚林, Zheng Shi, 熊景辉", source: "arXiv preprint: 2512.17332, 2026", year: "2026", link: "https://arxiv.org/pdf/2512.17332" },
-    { title: "针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化", type: "journal", authors: "王玉磊, 刘亚林, 付雅茹, Yuanwei Liu", source: "arXiv preprint: 2512.10970", year: "2026", link: "https://arxiv.org/pdf/2512.10970" },
+    { title: "针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化", type: "journal", authors: "王玉磊, 刘亚林, 付雅茹, Yuanwei Liu", source: "IEEE Transactions on Vehicular Technology", year: "2026", link: "https://ieeexplore.ieee.org/document/11494673" },
     { title: "用于室内沉浸式通信的夹持天线系统：基于 3D 模型的性能分析", type: "preprint", authors: "王玉磊, 刘亚林, 付雅茹, Zhuguo Ding", source: "arXiv preprint arXiv:2506.07771", year: "2026", link: "https://arxiv.org/pdf/2506.07771" },
     { title: "蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析", type: "journal", authors: "王玉磊, Li Feng, 刘亚林, Zhongjie Li", source: "计算机网络", year: "2024", link: "https://www.sciencedirect.com/science/article/pii/S1389128625000945" },
     { title: "考慮可靠性的行動群智感知系統聯合優化", type: "journal", authors: "Jiahui Feng, 付雅茹, Zheng Shi, 刘亚林, 熊景輝", source: "IEEE Transactions on Cognitive Communications and Networking", year: "2024", link: "https://ieeexplore.ieee.org/abstract/document/10764779" },
@@ -87,6 +87,7 @@ $(document).ready(function() {
     { title: "无人机辅助的物联网通信技术及其应用", type: "journal", authors: "刘亚林, 戴弘宁, 王曲北剑", source: "物联网学报（中国）", year: "2019", link: "https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf" },
 
     // Conference
+    { title: "Sky-Ear：一种基于无人机的受害者声音侦测与定位系统", type: "conference", authors: "Yi Hong, Mingyang Wang, 刘亚林, 付雅茹, 熊景辉", source: "arXiv", year: "2026", link: "https://arxiv.org/pdf/2604.12455" },
     { title: "针对反应式干扰器的欺骗：用深度强化学习实现自适应抗干扰（已录用）", type: "conference", authors: "Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, 刘亚林", source: "IEEE International Conference on Communications (ICC) (EI and CCF C conference)", year: "2026", link: "#" },
     { title: "针对速率最大化的多波导收缩天线布局优化（已录用）", type: "conference", authors: "Yue Zhang, 付雅茹，Pei Liu, 刘亚林, 熊景辉", source: "IEEE International Conference on Communications (ICC) (EI and CCF C conference)", year: "2026", link: "https://arxiv.org/pdf/2512.18711" },
     { title: "面向顺序MIoT工作流程的云-雾-边协同运算：基于双层DDPG的调度框架（最佳论文奖）", type: "conference", authors: "傅宇浩, Yinghao Zhang, 刘亚林, 陶毕生辉, Junhong Ruan", source: "International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China", year: "2025", link: "https://arxiv.org/pdf/2510.21135" },
