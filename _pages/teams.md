@@ -73,7 +73,7 @@ language: en
                 </div>
                 <h3>Mr.XU XIAOCHI</h3>
                 <p class="member-title">Research Assistant</p>
-                <p class="member-bio">Mar 2025 - Present</p>
+                <p class="member-bio">Mar 2025 – Apr 2026</p>
                 <div class="member-bio">
                     <span class="badge text-bg-secondary">Media Mining</span>
                     <span class="badge text-bg-secondary">Satellite Communication</span>

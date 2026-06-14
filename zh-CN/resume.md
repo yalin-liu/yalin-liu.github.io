@@ -41,134 +41,139 @@ language: zh-CN
     <h3 class="callout">研究项目</h3>
     <ul>
         <li>
-            2026.04 - 2028.01，<span class="highlight">合作项目负责人</span>，「驾驶考试性能分析辅助系统，」香港智慧交通基金 (STF)，港币5,805,701.58元，项目编号：CS/106/2412/RA。 [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">原文</a>]
+            [G11] 2026.04 - 2028.01，<span class="highlight">合作项目负责人</span>，「驾驶考试性能分析辅助系统，」香港智慧交通基金 (STF)，港币5,805,701.58元，项目编号：CS/106/2412/RA。 [<a href="https://stf.hkpc.org/cs-106-2412-ra/" target="_blank">原文</a>]
         </li>
         <li>
-            2025.09 - 2027.08，<span class="highlight">合作项目负责人</span>，「基於區塊鏈的可信賴數位孿生網絡，」香港都会大学研发基金，港币 2,196,056，项目编号：CP/2025/1.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-enabled-trustworthy-digital-twin-networks/" target="_blank">原文</a>]
+            [G10] 2025.09 - 2027.08，<span class="highlight">合作项目负责人</span>，「基於區塊鏈的可信賴數位孿生網絡，」香港都会大学研发基金，港币 2,196,056，项目编号：CP/2025/1.1. [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-enabled-trustworthy-digital-twin-networks/" target="_blank">原文</a>]
         </li>
         <li>
-            2025.12 - 2026.11，<span class="highlight">项目负责人</span>，「区块链在卫星星座中的部署与性能建模，」香港大学教育资助委员会（HKUGC）资助（前期研究），港币200,000元，项目编号：PFDS/2025/34。 [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">原文</a>]
+            [G09] 2025.12 - 2026.11，<span class="highlight">项目负责人</span>，「区块链在卫星星座中的部署与性能建模，」香港大学教育资助委员会（HKUGC）资助（前期研究），港币200,000元，项目编号：PFDS/2025/34。 [<a href="https://scholars.hkmu.edu.hk/en/projects/blockchain-deployment-and-performance-modelling-on-satellite-cons/" target="_blank">原文</a>]
         </li>
         <li>
-            2025.1 - 2027.12，<span class="highlight">项目负责人</span>，「空地一体化网络：系统建模与性能优化，」香港本地自资院校研究资助计划，HK$ 776,810，项目编号：UGC/FDS16/E15/24。 [<a href="https://scholars.hkmu.edu.hk/en/projects/space-air-ground-integrated-networks-system-modeling-and-performa/" target="_blank">原文</a>]
+            [G08] 2025.1 - 2027.12，<span class="highlight">项目负责人</span>，「空地一体化网络：系统建模与性能优化，」香港本地自资院校研究资助计划，HK$ 776,810，项目编号：UGC/FDS16/E15/24。 [<a href="https://scholars.hkmu.edu.hk/en/projects/space-air-ground-integrated-networks-system-modeling-and-performa/" target="_blank">原文</a>]
         </li>
         <li>
-            2024.12 - 2027.11，<span class="highlight">合作项目负责人</span>，「多层智能医疗网络系统，」捐赠实物 to HKMU，HK$ 6,180,000，UGC 研究配套补助金计划，HK$ 1,545,000，项目编号：2024/3003。 [<a href="https://scholars.hkmu.edu.hk/en/projects/multi-layer-intelligent-medical-network-system/" target="_blank">原文</a>]
+            [G07] 2024.12 - 2027.11，<span class="highlight">合作项目负责人</span>，「多层智能医疗网络系统，」捐赠实物 to HKMU，HK$ 6,180,000，UGC 研究配套补助金计划，HK$ 1,545,000，项目编号：2024/3003。 [<a href="https://scholars.hkmu.edu.hk/en/projects/multi-layer-intelligent-medical-network-system/" target="_blank">原文</a>]
         </li>
         <li>
-            2023.12 - 2025.04，<span class="highlight">项目负责人</span>，「空地一体化网络赋能 Web 3.0：可扩展的去中心化网络设计，」香港都会大学研发项目，HK$ 200,000，项目编号：RD/2023/2.22。 [<a href="https://scholars.hkmu.edu.hk/en/projects/sagin-empowered-web-30-scalable-decentralized-network-design/" target="_blank">原文</a>]
+            [G06] 2023.12 - 2025.04，<span class="highlight">项目负责人</span>，「空地一体化网络赋能 Web 3.0：可扩展的去中心化网络设计，」香港都会大学研发项目，HK$ 200,000，项目编号：RD/2023/2.22。 [<a href="https://scholars.hkmu.edu.hk/en/projects/sagin-empowered-web-30-scalable-decentralized-network-design/" target="_blank">原文</a>]
         </li>
         <li>
-            2023.10 - 2025.03，<span class="highlight">合作项目负责人</span>，「开发实时智能视频监控系统：从算法设计到性能优化，」香港都会大学研发项目，HK$ 200,000，项目编号：RD/2023/1.8。 [<a href="https://scholars.hkmu.edu.hk/en/projects/developing-real-time-intelligent-video-surveillance-systems-from--2/" target="_blank">原文</a>]
+            [G05] 2023.10 - 2025.03，<span class="highlight">合作项目负责人</span>，「开发实时智能视频监控系统：从算法设计到性能优化，」香港都会大学研发项目，HK$ 200,000，项目编号：RD/2023/1.8。 [<a href="https://scholars.hkmu.edu.hk/en/projects/developing-real-time-intelligent-video-surveillance-systems-from--2/" target="_blank">原文</a>]
         </li>
         <li>
-            2023.01 - 2025.06，<span class="highlight">合作项目负责人</span>，「智能数据驱动的无线网络，」香港都会大学研发项目，HK$ 1,480,566，项目编号：CP/2022/2.1。 [<a href="https://scholars.hkmu.edu.hk/en/projects/intelligent-data-driven-wireless-networks-2/" target="_blank">原文</a>]
+            [G04] 2023.01 - 2025.06，<span class="highlight">合作项目负责人</span>，「智能数据驱动的无线网络，」香港都会大学研发项目，HK$ 1,480,566，项目编号：CP/2022/2.1。 [<a href="https://scholars.hkmu.edu.hk/en/projects/intelligent-data-driven-wireless-networks-2/" target="_blank">原文</a>]
         </li>
         <li>
-            2022.01 - 2022.05，<span class="highlight">主要研究人员</span>，「通过深度神经网络促进基于非侵入式学习器的情绪分类，」香港教育大学技术转移项目，项目编号：2021/22。 [<a href="https://www.eduhk.hk/ele/knowledge-transfer" target="_blank">原文</a>]
+            [G03] 2022.01 - 2022.05，<span class="highlight">主要研究人员</span>，「通过深度神经网络促进基于非侵入式学习器的情绪分类，」香港教育大学技术转移项目，项目编号：2021/22。 [<a href="https://www.eduhk.hk/ele/knowledge-transfer" target="_blank">原文</a>]
         </li>
         <li>
-            2018.12 - 2020.12，<span class="highlight">博士研究生</span>，「实现超密集无线网络的关键技术，」澳门科技发展基金项目，项目编号：0026/2018/A1。 [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">原文</a>]
+            [G02] 2018.12 - 2020.12，<span class="highlight">博士研究生</span>，「实现超密集无线网络的关键技术，」澳门科技发展基金项目，项目编号：0026/2018/A1。 [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">原文</a>]
         </li>
         <li>
-            2017.09 - 2017.11，<span class="highlight">硕士研究生</span>，「大型无线自组网：性能分析与性能改进，」澳门科技发展基金项目，项目编号：0096/2013/A3。 [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">原文</a>]
+            [G01] 2017.09 - 2017.11，<span class="highlight">硕士研究生</span>，「大型无线自组网：性能分析与性能改进，」澳门科技发展基金项目，项目编号：0096/2013/A3。 [<a href="https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e" target="_blank">原文</a>]
         </li>
     </ul>
     <h3 class="callout">学术论文</h3>
+    <h4>arXiv论文</h4>
+    <ul>
+        <li>
+            [a02] Yu Hua，付雅茹，<span class="highlight">刘亚林</span>，Zheng Shi 和 熊景辉，「面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
+        </li>
+        <li>
+            [a01] Yi Hong, Mingyang Wang, <span class="highlight">刘亚林</span>, 付雅茹, 和 熊景辉,
+            "Sky-Ear：一种基于无人机的受害者声音侦测与定位系统," 
+            arXiv preprint: 2604.12455, 2026年4月14日。
+            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">原文</a>]
+        </li>
+    </ul>
     <h4>期刊（发表）</h4>
     <ul>
         <li>
-            王曲北剑，Shaojie Bai，Wen Sun，Wei Hu，<span class="highlight">劉亞林</span>，戴弘宁 和 Zheng Yan，「Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Accepted)，」 <em>IEEE Transactions on Information Forensics and Security</em> 
-            <span class="journal-meta"><strong>(SCI IF=8.5 in 2024, JCR Q1)</strong>，2026年</span>
+            [J12] 王曲北剑，Shaojie Bai，Wen Sun，Wei Hu，<span class="highlight">劉亞林</span>，戴弘宁 和 Zheng Yan，「Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Early access)，」 <em>IEEE Transactions on Information Forensics and Security</em> 
+            <span class="journal-meta"><strong>(SCI IF=8.5 in 2024, JCR Q1)</strong></span>，2026年5月，
+            DOI: 10.1109/TIFS.2026.3696571。
+            [<a href="https://ieeexplore.ieee.org/document/11534870" target="_blank">原文</a>]
         </li>
         <li>
-            Yu Hua，付雅茹，<span class="highlight">刘亚林</span>，Zheng Shi 和 熊景辉，「面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
-        </li>
-        <li>
-            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化（已发布），」 <em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>(SCI IF=7.1 in 2024, JCR Q1)</strong></span>，pp. 1-6，2026年4月27日，
+            [J11] 王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化，」 <em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>(SCI IF=7.1 in 2024, JCR Q1)</strong></span>，pp. 1-6，2026年4月27日，
             DOI: 10.1109/TVT.2026.3687627。
             <!-- [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>] -->
             [<a href="https://ieeexplore.ieee.org/document/11494673" target="_blank">原文</a>]
         </li>
         <li>
-            王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Zhuguo Ding，「用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析 （已接受），」 <em>IEEE Wireless Communications Letters</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>，2026年，DOI: 10.1109/LWC.2025.3647030。[<a href="https://arxiv.org/pdf/2506.07771" target="_blank">原文</a>]
+            [J10] 王玉磊，<span class="highlight">劉亞林</span>，<span class="highlight">付雅茹</span> 和 Zhuguo Ding，「用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析（已录用），」 <em>IEEE Wireless Communications Letters</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>，2026年12月，DOI: 10.1109/LWC.2025.3647030。[<a href="https://ieeexplore.ieee.org/document/11311547" target="_blank">原文</a>]
         </li>
         <li>
-            王玉磊，Li Feng，<span class="highlight">刘亚林</span> 和 Zhongjie Li，「蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析，」<em>计算机网络</em> <span class="journal-meta"><strong>（SCI IF=4.6 in 2024，JCR Q1）</strong></span>，第261卷，pp. 111126，2025年4月，DOI：10.1016/j.comnet.2025.111126。[<a href="https://www.sciencedirect.com/science/article/pii/S1389128625000945" target="_blank">原文</a>]
+            [J09] 王玉磊，Li Feng，<span class="highlight">刘亚林</span> 和 Zhongjie Li，「蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析，」<em>计算机网络</em> <span class="journal-meta"><strong>（SCI IF=4.6 in 2024，JCR Q1）</strong></span>，第261卷，pp. 111126，2025年4月，DOI：10.1016/j.comnet.2025.111126。[<a href="https://www.sciencedirect.com/science/article/pii/S1389128625000945" target="_blank">原文</a>]
         </li>
         <li>
-            Jiahui Feng，付雅茹，Zheng Shi，<span class="highlight">刘亚林</span>，和 熊景輝，「考慮可靠性的行動群智感知系統聯合優化，」<em>IEEE Transactions on Cognitive Communications and Networking,</em> <span class="journal-meta"><strong>(SCI IF=7 in 2024, JCR Q1)</strong></span>，第11卷，第4期，pp. 2289-2302，2025年8月4日，DOI：10.1109/TCCN.2024.3504477。[<a href="https://ieeexplore.ieee.org/abstract/document/10764779" target="_blank">原文</a>]
+            [J08] Jiahui Feng，付雅茹，Zheng Shi，<span class="highlight">刘亚林</span>，和 熊景輝，「考慮可靠性的行動群智感知系統聯合優化，」<em>IEEE Transactions on Cognitive Communications and Networking,</em> <span class="journal-meta"><strong>(SCI IF=7 in 2024, JCR Q1)</strong></span>，第11卷，第4期，pp. 2289-2302，2025年8月4日，DOI：10.1109/TCCN.2024.3504477。[<a href="https://ieeexplore.ieee.org/abstract/document/10764779" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，王曲北剑，Om Jee Pandey，付雅茹，Ning Zhang，Dusit Niyato，和 李至冲，「空天地一体化网络：基于球面随机几何的上行链路连通性分析，」<em>IEEE Journal on Selected Areas in Communications</em> <span class="journal-meta"><strong>（SCI IF=17.2 in 2024, JCR Q1）</strong></span>，第42卷，第5期，pp. 1387-1402，2024年5月，DOI：10.1109/JSAC.2024.3365891。[<a href="https://ieeexplore.ieee.org/document/10438999" target="_blank">原文</a>]
+            [J07] <span class="highlight">刘亚林</span>，戴弘宁，王曲北剑，Om Jee Pandey，付雅茹，Ning Zhang，Dusit Niyato，和 李至冲，「空天地一体化网络：基于球面随机几何的上行链路连通性分析，」<em>IEEE Journal on Selected Areas in Communications</em> <span class="journal-meta"><strong>（SCI IF=17.2 in 2024, JCR Q1）</strong></span>，第42卷，第5期，pp. 1387-1402，2024年5月，DOI：10.1109/JSAC.2024.3365891。[<a href="https://ieeexplore.ieee.org/document/10438999" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，王秋，戴弘宁，付雅茹，Ning Zhang，和 李至冲，「无人机辅助无线回程网络：上行链路传输的连通性分析，」<em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>（SCI IF=7.1 in 2024，JCR Q1）</strong></span>，第72卷，第9期，pp. 12195-12207，2023年9月，DOI：10.1109/TVT.2023.3268025。[<a href="https://ieeexplore.ieee.org/document/10104142" target="_blank">原文</a>]
+            [J06] <span class="highlight">刘亚林</span>，王秋，戴弘宁，付雅茹，Ning Zhang，和 李至冲，「无人机辅助无线回程网络：上行链路传输的连通性分析，」<em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>（SCI IF=7.1 in 2024，JCR Q1）</strong></span>，第72卷，第9期，pp. 12195-12207，2023年9月，DOI：10.1109/TVT.2023.3268025。[<a href="https://ieeexplore.ieee.org/document/10104142" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，「基于无人机的无线供能式物联网：机遇和挑战，」<em>IEEE Network</em> <span class="journal-meta"><strong>（SCI IF=6.3 in 2024，JCR Q1）</strong></span>，第36卷，第2期，pp. 146-152，2022年3月/4月，DOI：10.1109/MNET.013.2000385。[<a href="https://ieeexplore.ieee.org/document/9762455" target="_blank">原文</a>]
+            [J05] <span class="highlight">刘亚林</span>，戴弘宁，王皓，Muhammad Imran，和 Nadra Guizani，「基于无人机的无线供能式物联网：机遇和挑战，」<em>IEEE Network</em> <span class="journal-meta"><strong>（SCI IF=6.3 in 2024，JCR Q1）</strong></span>，第36卷，第2期，pp. 146-152，2022年3月/4月，DOI：10.1109/MNET.013.2000385。[<a href="https://ieeexplore.ieee.org/document/9762455" target="_blank">原文</a>]
         </li>
         <li>
-            车奥林，<span class="highlight">刘亚林</span>，Hong Xiao，王皓，Ke Zhang，和 戴弘宁，「增强数据选择器发起基于文本的验证码攻击，」<em>Security and Communication Networks</em> <span class="journal-meta"><strong>(SCI IF=1.968 in 2021, JCR Q3)</strong></span>，卷 2021，2021年，DOI：10.1155/2021/9930608。[<a href="https://www.hindawi.com/journals/scn/2021/9930608/" target="_blank">原文</a>]
+            [J04] 车奥林，<span class="highlight">刘亚林</span>，Hong Xiao，王皓，Ke Zhang，和 戴弘宁，「增强数据选择器发起基于文本的验证码攻击，」<em>Security and Communication Networks</em> <span class="journal-meta"><strong>(SCI IF=1.968 in 2021, JCR Q3)</strong></span>，卷 2021，2021年，DOI：10.1155/2021/9930608。[<a href="https://www.hindawi.com/journals/scn/2021/9930608/" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，「无人机赋能万物互联：机遇和挑战，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 66-83，2020年3月。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419318754" target="_blank">原文</a>]
+            [J03] <span class="highlight">刘亚林</span>，戴弘宁，王曲北剑，Mahendra K. Shukla，和 Muhammad Imran，「无人机赋能万物互联：机遇和挑战，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 66-83，2020年3月。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419318754" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，王皓，Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，「面对物联网场景下基于无人机的无线供能式数据采集方案，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 184-196，2020年3月，DOI：10.1016/j.comcom.2020.03.020（Google scholar citations: 293）。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419304852" target="_blank">原文</a>]
+            [J02] <span class="highlight">刘亚林</span>，戴弘宁，王皓，Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，「面对物联网场景下基于无人机的无线供能式数据采集方案，」<em>计算机通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 184-196，2020年3月，DOI：10.1016/j.comcom.2020.03.020（Google scholar citations: 293）。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419304852" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，和 王曲北剑，「无人机辅助的物联网通信技术及其应用，」<em>物联网学报（中国）</em>，第3卷，第四期，pp. 48-55，2019年12月。[<a href="https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf" target="_blank">原文</a>]
+            [J01] <span class="highlight">刘亚林</span>，戴弘宁，和 王曲北剑，「无人机辅助的物联网通信技术及其应用，」<em>物联网学报（中国）</em>，第3卷，第四期，pp. 48-55，2019年12月。[<a href="https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf" target="_blank">原文</a>]
         </li>
     </ul>
     <h4>会议文章</h4>
     <ul>
         <li>
-            Yi Hong, Mingyang Wang, <span class="highlight">刘亚林</span>, 付雅茹, 和 熊景辉,
-            "Sky-Ear：一种基于无人机的受害者声音侦测与定位系统," 
-            arXiv preprint: 2604.12455, 2026.
-            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">Link</a>]
-        </li>
-        <li>
-            Xintai Cao, 王曲北剑, Xiuping Li, Wen Sun，和 <span class="highlight">刘亚林</span>， 
+            [C13] Xintai Cao, 王曲北剑, Xiuping Li, Wen Sun，和 <span class="highlight">刘亚林</span>， 
             「针对反应式干扰器的欺骗：用深度强化学习实现自适应抗干扰（已接受），」 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference) Glasgow, Scotland, UK,</em> 2026年5月24–28日。 
         </li>
         <li>
-            Yue Zhang，付雅茹，Pei Liu，<span class="highlight">刘亚林</span> 和 熊景辉，「针对速率最大化的多波导收缩天线布局优化（已接受），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
+            [C12] Yue Zhang，付雅茹，Pei Liu，<span class="highlight">刘亚林</span> 和 熊景辉，「针对速率最大化的多波导收缩天线布局优化（已接受），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
         </li>
         <li>
-            傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶毕生辉，Junhong Ruan，「面向顺序MIoT工作流程的云-雾-边协同运算：基于双层DDPG的调度框架，」（最佳论文奖）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]
+            [C11] 傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶毕生辉，Junhong Ruan，「面向顺序MIoT工作流程的云-雾-边协同运算：基于双层DDPG的调度框架，」（最佳论文奖）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]
         </li>
         <li>
-            邓琪, Yinghao Zhang, <span class="highlight">劉亞林</span>，陶毕生辉，「基于置信度约束的云边协作框架用于自闭症谱系障碍诊断，」<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21130" target="_blank">原文</a>]
+            [C10] 邓琪, Yinghao Zhang, <span class="highlight">劉亞林</span>，陶毕生辉，「基于置信度约束的云边协作框架用于自闭症谱系障碍诊断，」<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21130" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘宁，付雅茹，陶畢生輝，和歐陽兆基，「Web3 DID 的混合衛星-地面部署：系统设计与效能分析，」<em>The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025), Sejong University, Seoul,</em> 2025年8月27-29日。[<a href="https://arxiv.org/pdf/2507.02305" target="_blank">原文</a>]
+            [C09] <span class="highlight">刘亚林</span>，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘宁，付雅茹，陶畢生輝，和歐陽兆基，「Web3 DID 的混合衛星-地面部署：系统设计与效能分析，」<em>The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025), Sejong University, Seoul,</em> 2025年8月27-29日。[<a href="https://arxiv.org/pdf/2507.02305" target="_blank">原文</a>]
         </li>
         <li>
-            付雅茹，Yue Zhang，Zheng Shi，Yongna Guo，和 <span class="highlight">刘亚林</span>，「提高移动群智感知效率：一种覆盖感知资源分配方法，」<em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 2025年6月17-20日。[<a href="https://arxiv.org/pdf/2503.21942" target="_blank">原文</a>]
+            [C08] 付雅茹，Yue Zhang，Zheng Shi，Yongna Guo，和 <span class="highlight">刘亚林</span>，「提高移动群智感知效率：一种覆盖感知资源分配方法，」<em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 2025年6月17-20日。[<a href="https://arxiv.org/pdf/2503.21942" target="_blank">原文</a>]
         </li>
         <li>
-            王玉磊，<span class="highlight">刘亚林</span>，付雅茹，Yujie Qin，和 Zhontgjie Li，「用于飞行器中继地空卫星连接的 3D 随机几何模型，」<em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 2025年6月17-20日。[<a href="https://arxiv.org/pdf/2503.16202" target="_blank">原文</a>]
+            [C07] 王玉磊，<span class="highlight">刘亚林</span>，付雅茹，Yujie Qin，和 Zhontgjie Li，「用于飞行器中继地空卫星连接的 3D 随机几何模型，」<em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 2025年6月17-20日。[<a href="https://arxiv.org/pdf/2503.16202" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，付雅茹，王曲北剑，和 戴弘宁，「天空地一体化网络中六种跨层场景的统一网络建模，」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference), Montreal, Canada,</em> 2025年6月8-12日。[<a href="https://arxiv.org/pdf/2504.21284" target="_blank">原文</a>]
+            [C06] <span class="highlight">刘亚林</span>，付雅茹，王曲北剑，和 戴弘宁，「天空地一体化网络中六种跨层场景的统一网络建模，」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference), Montreal, Canada,</em> 2025年6月8-12日。[<a href="https://arxiv.org/pdf/2504.21284" target="_blank">原文</a>]
         </li>
         <li>
-            付雅茹，Yue Zhang，Zheng Shi，Hong Wang，和 <span class="highlight">刘亚林</span>，「下一代移动群智感知网络的子带和感知任务分配：最优框架，」<em>IEEE 无线通信和网络会议 (WCNC)</em> <span class="journal-meta">（EI and CCF C conference）</span>，康莱德酒店，迪拜，2024年4月21日至24日。
+            [C05] 付雅茹，Yue Zhang，Zheng Shi，Hong Wang，和 <span class="highlight">刘亚林</span>，「下一代移动群智感知网络的子带和感知任务分配：最优框架，」<em>IEEE 无线通信和网络会议 (WCNC)</em> <span class="journal-meta">（EI and CCF C conference）</span>，康莱德酒店，迪拜，2024年4月21日至24日。
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，和 Ning Zhang，「非地面网络中无人机对卫星通信的连接性分析（英文版），」<em>IEEE全球通信会议(GLEBECOM)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙马德里，在线会议，2021年12月7日至11日，DOI：10.1109/GLOBECOM46510.2021.9685811。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf" target="_blank">原文</a>]
+            [C04] <span class="highlight">刘亚林</span>，戴弘宁，和 Ning Zhang，「非地面网络中无人机对卫星通信的连接性分析（英文版），」<em>IEEE全球通信会议(GLEBECOM)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙马德里，在线会议，2021年12月7日至11日，DOI：10.1109/GLOBECOM46510.2021.9685811。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf" target="_blank">原文</a>]
         </li>
         <li>
-            王曲北剑，<span class="highlight">刘亚林</span>，戴弘宁，Muhammad Imran，和 Nidal Nasser，「空中之耳：防止空中窃听的地面移动干扰（英文版），」<em>IEEE全球通信会议(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙马德里，在线会议，2021年12月7日至11日，DOI：10.1109/GLOBE-COM46510.2021.9685471。
+            [C03] 王曲北剑，<span class="highlight">刘亚林</span>，戴弘宁，Muhammad Imran，和 Nidal Nasser，「空中之耳：防止空中窃听的地面移动干扰（英文版），」<em>IEEE全球通信会议(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙马德里，在线会议，2021年12月7日至11日，DOI：10.1109/GLOBE-COM46510.2021.9685471。
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，Muhammad Imran，和 Nidal Nasser，「地对无人机通信网络：基于随机几何的性能分析（英文版），」<em>IEEE国际通信会议(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，加拿大魁北克蒙特利尔，在线会议，2021年6月14日至23日，DOI：10.1109/ICC42927.2021.9500746。[<a href="https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf" target="_blank">原文</a>]
+            [C02] <span class="highlight">刘亚林</span>，戴弘宁，Muhammad Imran，和 Nidal Nasser，「地对无人机通信网络：基于随机几何的性能分析（英文版），」<em>IEEE国际通信会议(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，加拿大魁北克蒙特利尔，在线会议，2021年6月14日至23日，DOI：10.1109/ICC42927.2021.9500746。[<a href="https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf" target="_blank">原文</a>]
         </li>
         <li>
-            <span class="highlight">刘亚林</span>，戴弘宁，彭宇阳，和 王皓，「海报：带定向无线能量传输的支持无人机的数据采集方案，」<em>嵌入式无线系统和网络国际会议（EWSN）</em>，中国北京，2019年2月25日至27日。[<a href="https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf" target="_blank">原文</a>]
+            [C01] <span class="highlight">刘亚林</span>，戴弘宁，彭宇阳，和 王皓，「海报：带定向无线能量传输的支持无人机的数据采集方案，」<em>嵌入式无线系统和网络国际会议（EWSN）</em>，中国北京，2019年2月25日至27日。[<a href="https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf" target="_blank">原文</a>]
         </li>
     </ul>
     <h3 class="callout">专利</h3>
