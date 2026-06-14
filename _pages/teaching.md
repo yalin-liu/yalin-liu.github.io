@@ -160,6 +160,20 @@ language: en
                 <td>58</td>
                 <td>CC &amp; lecturer &amp; tutor (with 1 TAs)</td>
               </tr>
+              <tr>
+                <td>Spr-2026</td>
+                <td>COMP S382F (5-credit)</td>
+                <td>Data Mining and Analytics</td>
+                <td>98</td>
+                <td>CC &amp; lecturer &amp; tutor</td>
+              </tr>
+              <tr>
+                <td>Spr-2026</td>
+                <td>COMP 4820SEF (3-credit)</td>
+                <td>Data Mining and Analytics</td>
+                <td>142</td>
+                <td>CC &amp; lecturer</td>
+              </tr>
             </table>
             <p class="text-italic">* CC: Course coordinator, TA: Teaching assistant</p>
           </div>
@@ -186,23 +200,23 @@ language: en
           </div>
           <div class="callout">
             <strong>COMP S456F</strong><br>
-            <p class="mb-0 ml-2">- 2022: Group 1 developed a scanning enabled personalized calendar (UI, database and function design).</p>
-            <p class="mb-0 ml-2">- 2022: Group 2 developed a personalized calendar for travelers (UI, database and function design).</p>
-            <p class="mb-0 ml-2">- 2022: Group 3 developed a waste classification and detection system (including data collection, model training, and system integration).</p>
-            <p class="mb-0 ml-2">- 2022: Group 4 developed a video content searching and management system (system integrated with AI).</p>
-            <p class="mb-0 ml-2">- 2023: Group 1 developed a toilet finder app in Hong Kong (UI, database and function design).</p>
-            <p class="mb-0 ml-2">- 2023: Group 2 developed an AI-powered daily event calendar (system integrated with AI).</p>
-            <p class="mb-0 ml-2">- 2023: Group 3 developed an AI waste classification application (system integrated with AI).</p>
-            <p class="mb-0 ml-2">- 2023: Group 4 developed an Android calender app tailor-made for students (UI, database and function design).</p>
-            <p class="mb-0 ml-2">- 2024: Group 1 developed a computer interaction system for the disabled using EEG headsets and eyetrackers.</p>
-            <p class="mb-0 ml-2">- 2024: Group 2 developed a web3 platform for Electronic Health Record Sharing.</p>
-            <p class="mb-0 ml-2">- 2024: Group 3 developed a web3 social media platform.</p>
-            <p class="mb-0 ml-2">- 2024: Group 4 developed a mobile mobility app that integrates multiple mobility methods in HK.</p>
-            <p class="mb-0 ml-2">- 2025: Group 1 aims to develop a UAV-based mountain search and rescue system.</p>
-            <p class="mb-0 ml-2">- 2025: Group 2 aims to develop an AI-powered mobility app in HK.</p>
-            <p class="mb-0 ml-2">- 2025: Group 3 aims to develop a video-based drone behavior detection and monitoring system.</p>
-            <p class="mb-0 ml-2">- 2025: Group 4 aims to develop a Web3.0 app to enhance cybersecurity.</p>
-            <p class="mb-0 ml-2">- 2025: Group 5 aims to develop a VR app for route navigation.</p>
+            <p class="mb-0 ml-2">- 2022~2023: Group 1 developed a scanning enabled personalized calendar (UI, database and function design).</p>
+            <p class="mb-0 ml-2">- 2022~2023: Group 2 developed a personalized calendar for travelers (UI, database and function design).</p>
+            <p class="mb-0 ml-2">- <a href="https://www.hkmu.edu.hk/st/computing/fyp/greenstar/" target="_blank">2022~2023</a>: Group 3 developed a waste classification and detection system (including data collection, model training, and system integration).</p>
+            <p class="mb-0 ml-2">- 2022~2023: Group 4 developed a video content searching and management system (system integrated with AI).</p>
+            <p class="mb-0 ml-2">- 2023~2024: Group 1 developed a toilet finder app in Hong Kong (UI, database and function design).</p>
+            <p class="mb-0 ml-2">- 2023~2024: Group 2 developed an AI-powered daily event calendar (system integrated with AI).</p>
+            <p class="mb-0 ml-2">- 2023~2024: Group 3 developed an AI waste classification application (system integrated with AI).</p>
+            <p class="mb-0 ml-2">- 2023~2024: Group 4 developed an Android calender app tailor-made for students (UI, database and function design).</p>
+            <p class="mb-0 ml-2">- 2024~2025: Group 1 developed a computer interaction system for the disabled using EEG headsets and eyetrackers.</p>
+            <p class="mb-0 ml-2">- 2024~2025: Group 2 developed a web3 platform for Electronic Health Record Sharing.</p>
+            <p class="mb-0 ml-2">- <a href="https://www.hkmu.edu.hk/st/uncategorized/best-classico-mockup/" target="_blank">2024~2025</a>: Group 3 developed a web3 social media platform.</p>
+            <p class="mb-0 ml-2">- 2024~2025: Group 4 developed a mobile mobility app that integrates multiple mobility methods in HK.</p>
+            <p class="mb-0 ml-2">- 2025~2026: Group 1 aims to develop a UAV-based mountain search and rescue system.</p>
+            <p class="mb-0 ml-2">- 2025~2026: Group 2 aims to develop an AI-powered mobility app in HK.</p>
+            <p class="mb-0 ml-2">- 2025~2026: Group 3 aims to develop a video-based drone behavior detection and monitoring system.</p>
+            <p class="mb-0 ml-2">- 2025~2026: Group 4 aims to develop a Web3.0 app to enhance cybersecurity.</p>
+            <p class="mb-0 ml-2">- 2025~2026: Group 5 aims to develop a VR app for route navigation.</p>
           </div>
         </div>
       </div>
@@ -264,14 +278,14 @@ language: en
                 <td>Aut-2025</td>
                 <td>IT S101 (10-credit)</td>
                 <td>Introduction to Information and Communications Technology</td>
-                <td>-</td>
+                <td>11</td>
                 <td>CC</td>
               </tr>
               <tr>
                 <td>Aut-2025</td>
                 <td>IT 1010SED (6-credit)</td>
                 <td>Introduction to Information and Communications Technology</td>
-                <td>-</td>
+                <td>13</td>
                 <td>CC</td>
               </tr>
             </table>
