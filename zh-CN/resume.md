@@ -135,6 +135,12 @@ language: zh-CN
     <h4>会议文章</h4>
     <ul>
         <li>
+            [C14] Yuexuan Xia, Yinghao Zhang, <span class="highlight">刘亚林</span>, 戴弘宁 和 Yong Xia
+            "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (已接受)," 
+            <em>International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys'2026), Chengdu, China</em>, 2026月7月29-31日。 
+            [<a href="https://arxiv.org/abs/2601.01901" target="_blank">原文</a>]
+        </li>
+        <li>
             [C13] Xintai Cao, 王曲北剑, Xiuping Li, Wen Sun，和 <span class="highlight">刘亚林</span>， 
             「针对反应式干扰器的欺骗：用深度强化学习实现自适应抗干扰（已接受），」 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference) Glasgow, Scotland, UK,</em> 2026年5月24–28日。 
