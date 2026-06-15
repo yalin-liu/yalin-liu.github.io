@@ -180,6 +180,12 @@ language: en
     <h4>Conference Papers</h4>
     <ul>
         <li>
+            [C14] Yuexuan Xia, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Hong-Ning Dai and Yong Xia
+            "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (accepted)," 
+            <em>International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys'2026)</em>, 29-31 July, 2026, Chengdu, China.
+            [<a href="https://arxiv.org/abs/2601.01901" target="_blank">Link</a>]
+        </li>
+        <li>
             [C13] Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, and <span class="highlight">Yalin Liu</span>, 
             "Deception Against Reactive Jammer: Deep Reinforcement Learning for Adaptive Anti-Jamming (accepted)," 
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. 
