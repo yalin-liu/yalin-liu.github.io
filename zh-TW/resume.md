@@ -78,13 +78,7 @@ language: zh-TW
     <h4>arXiv論文</h4>
     <ul>
         <li>
-            [a02] Yu Hua，付雅茹，<span class="highlight">劉亞林</span>，Zheng Shi 和 熊景輝，「面向內容感知、支援 RSMA 的 6G 網路延遲優化縮減天線系統，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
-        </li>
-        <li>
-            [a01] Yi Hong, Mingyang Wang, <span class="highlight">劉亞林</span>, 付雅茹, 和 熊景輝,
-            "Sky-Ear：一种基于無人機的受害者聲音偵測與定位系統," 
-            arXiv preprint: 2604.12455, 2026年4月14日。
-            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">原文</a>]
+            [a01] Yu Hua，付雅茹，<span class="highlight">劉亞林</span>，Zheng Shi 和 熊景輝，「面向內容感知、支援 RSMA 的 6G 網路延遲優化縮減天線系統，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
         </li>
     </ul>
     <h4>期刊（發表）</h4>
@@ -135,6 +129,12 @@ language: zh-TW
     <h4>會議文章</h4>
     <ul>
         <li>
+            [C15] Yi Hong, Mingyang Wang, <span class="highlight">劉亞林</span>, 付雅茹, 和 熊景輝,
+            "Sky-Ear：一种基于無人機的受害者聲音偵測與定位系統 (已接受)," 
+            <em>the 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)</em>, 2026年6月6-9日, Athens, Greece.
+            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">原文</a>]
+        </li>
+        <li>
             [C14] Yuexuan Xia, Yinghao Zhang, <span class="highlight">劉亞林</span>, 戴弘寧 和 Yong Xia
             "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (已接受)," 
             <em>International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys'2026), Chengdu, China</em>, 2026月7月29-31日。 
@@ -146,7 +146,7 @@ language: zh-TW
             <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference) Glasgow, Scotland, UK,</em> 2026月5月24–28日。
         </li>
         <li>
-            [C12] Yue Zhang，付雅茹，Pei Liu，<span class="highlight">劉亞林</span> 和 熊景輝，「針對速率最大化的多波導收縮天線佈局優化（已錄用），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 24–28 May 2026. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
+            [C12] Yue Zhang，付雅茹，Pei Liu，<span class="highlight">劉亞林</span> 和 熊景輝，「針對速率最大化的多波導收縮天線佈局優化（已錄用），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 2026年5月24-28日. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
         </li>
         <li>
             [C11] 傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶畢生輝，Junhong Ruan，「面向順序MIoT工作流程的雲-霧-邊協同運算：基於雙層DDPG的調度框架，」（最佳論文獎）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]
