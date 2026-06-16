@@ -78,16 +78,10 @@ language: en
     <h4>arXiv Papers</h4>
     <ul>
         <li>
-            [a02] Yu Hua, Yaru Fu, <span class="highlight">Yalin Liu</span>, Zheng Shi and Kevin Hung, 
+            [a01] Yu Hua, Yaru Fu, <span class="highlight">Yalin Liu</span>, Zheng Shi and Kevin Hung, 
             "Content-Aware RSMA-Enabled Pinching-Antenna Systems for Latency Optimization in 6G Networks," 
             arXiv preprint: 2512.17332, 2026.
             [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">Link</a>]
-        </li>
-        <li>
-            [a01] Yi Hong, Mingyang Wang, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Kevin Hung,
-            "Sky-Ear: An Unmanned Aerial Vehicle-Enabled Victim Sound Detection and Localization System," 
-            arXiv preprint: 2604.12455, 14 April 2026.
-            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">Link</a>]
         </li>
     </ul>
     <h4>Journal Articles</h4>
@@ -179,6 +173,12 @@ language: en
     </ul>
     <h4>Conference Papers</h4>
     <ul>
+        <li>
+            [C15]  <span class="highlight">Yi Hong</span>,  <span class="highlight">Mingyang Wang</span>, <span class="highlight">Yalin Liu</span>, Yaru Fu, and Kevin Hung,
+            "Sky-Ear: An Unmanned Aerial Vehicle-Enabled Victim Sound Detection and Localization System (Accepted),"  
+            <em>the 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)</em>, September 6th-9th, Athens, Greece. 
+            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">Link</a>]
+        </li>
         <li>
             [C14] Yuexuan Xia, Yinghao Zhang, <span class="highlight">Yalin Liu</span>, Hong-Ning Dai and Yong Xia
             "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (accepted)," 
