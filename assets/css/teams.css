@@ -1,0 +1,135 @@
+/*:root {
+    --primary-blue: #003366;
+    --text-dark: #333;
+    --bg-light: #f9f9f9;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    color: var(--text-dark);
+    background-color: #fff;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+*/
+h1:not(.page-title), h2 {
+    color: #003366;
+    border-bottom: 2px solid #003366;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    font-weight: 700;
+}
+
+
+.pi-card {
+    display: flex;
+    flex-direction: column; /* Mobile Default */
+    background: var(--bg-light);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.pi-image {
+    width: 100%;
+    height: 300px;
+    background: #ddd; /* Placeholder */
+    object-fit: cover;
+}
+
+.pi-content {
+    padding: 30px;
+}
+
+/* --- Team Grid (Flexbox with Wrap) --- */
+.team-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows wrapping to next line */
+    gap: 20px;
+    justify-content: flex-start;
+}
+
+.member-card {
+    /*flex: 1 1 100%; *//* Default: Take full width (100%) on mobile */
+    flex: 0 0 auto;
+    width: 100%;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    transition: transform 0.2s;
+    position: relative;
+}
+
+.member-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.member-photo {
+    width: 120px;
+    height: 120px;
+    background: #eee;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+}
+
+.role {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 10px;
+}
+
+.social-links a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: var(--primary-blue);
+    font-weight: bold;
+}
+
+.member-bio-badges > .badge {
+    word-wrap: break-word;
+    white-space: break-spaces;
+}
+
+
+
+/* Tablet (600px and up) */
+@media (min-width: 600px) {
+    .member-card {
+        /*flex: 1 1 calc(50% - 20px);*/ /* 2 columns */
+        width: calc(50% - 10px); /* 50% 減去 gap 的分配空間 */
+    }
+}
+
+/* Desktop (900px and up) */
+@media (min-width: 900px) {
+    .pi-card {
+        flex-direction: row; /* Side-by-side */
+    }
+    .pi-image {
+        width: 350px;
+        height: auto;
+    }
+    .member-card {
+        /*flex: 1 1 calc(33.333% - 20px);*/ /* 3 columns */
+        width: calc(33.333% - 13.333px);
+    }
+}
+
+/* Large Desktop (1100px and up) */
+@media (min-width: 1100px) {
+    .member-card {
+        /*flex: 1 1 calc(25% - 20px);*/ /* 4 columns */
+        width: calc(25% - 15px);
+    }
+}
