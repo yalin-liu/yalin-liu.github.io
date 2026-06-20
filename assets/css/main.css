@@ -428,6 +428,9 @@ a:hover {
     border: 1px solid #ddd;
     border-radius: 4px;
     cursor: pointer;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    transition: all 0.2s ease;
 }
 .filter-tag.active {
     background-color: #007bff;
@@ -436,6 +439,7 @@ a:hover {
 }
 .filter-tag:hover {
     background-color: #e9ecef;
+    color: #000;
 }
 .publication-list div {
     padding: 10px;
@@ -462,6 +466,19 @@ a:hover {
 
 .publication-item span {
   font-size: 14px;
+}
+
+.disabled-link { 
+    cursor: default; pointer-events: none;
+}
+
+.border-primary {
+    /*border-color: #0d6efd !important;*/
+    border-color: rgb(204, 204, 204) !important;
+}
+
+.italic { 
+    font-style: italic;
 }
 
 .page-title {

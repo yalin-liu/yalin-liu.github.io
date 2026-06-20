@@ -1,0 +1,793 @@
+{
+  "journal": [
+    {
+      "id": "pub_j01",
+      "title": {
+        "en": "Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Early Access)",
+        "zh_CN": "Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Early Access)",
+        "zh_HK": "Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Early Access)"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Qubeijian Wang, Shaojie Bai, Wen Sun, Wei Hu, Yalin Liu, Hong-Ning Dai, Zheng Yan",
+        "zh_CN": "Qubeijian Wang, Shaojie Bai, Wen Sun, Wei Hu, Yalin Liu, Hong-Ning Dai, Zheng Yan",
+        "zh_HK": "Qubeijian Wang, Shaojie Bai, Wen Sun, Wei Hu, Yalin Liu, Hong-Ning Dai, Zheng Yan"
+      },
+      "source": {
+        "en": "IEEE Transactions on Information Forensics and Security",
+        "zh_CN": "IEEE Transactions on Information Forensics and Security",
+        "zh_HK": "IEEE Transactions on Information Forensics and Security"
+      },
+      "year": "2026",
+      "month": "05",
+      "day": "01",
+      "link": "https://ieeexplore.ieee.org/document/11534870",
+      "metrics": {
+        "sci_if": "8.5",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j02",
+      "title": {
+        "en": "Uplink Rate Maximization for Pinching Antenna- Assisted Covert Backscatter Communication",
+        "zh_CN": "针对夹持天线辅助隐蔽反向散射通讯的上行链路速率最大化",
+        "zh_HK": "針對夾持天線輔助隱蔽反向散射通訊的上行鏈路速率最大化"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yulei Wang, Yalin Liu, Yaru Fu, Yuanwei Liu",
+        "zh_CN": "Yulei Wang, Yalin Liu, Yaru Fu, Yuanwei Liu",
+        "zh_HK": "Yulei Wang, Yalin Liu, Yaru Fu, Yuanwei Liu"
+      },
+      "source": {
+        "en": "IEEE Transactions on Vehicular Technology",
+        "zh_CN": "IEEE Transactions on Vehicular Technology",
+        "zh_HK": "IEEE Transactions on Vehicular Technology"
+      },
+      "year": "2026",
+      "month": "04",
+      "day": "27",
+      "link": "https://ieeexplore.ieee.org/document/11494673",
+      "metrics": {
+        "sci_if": "7.1",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j03",
+      "title": {
+        "en": "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis (Accepted)",
+        "zh_CN": "用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析（已录用）",
+        "zh_HK": "用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析（已錄用）"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yulei Wang, Yalin Liu, Yaru Fu, Zhuguo Ding",
+        "zh_CN": "Yulei Wang, Yalin Liu, Yaru Fu, Zhuguo Ding",
+        "zh_HK": "Yulei Wang, Yalin Liu, Yaru Fu, Zhuguo Ding"
+      },
+      "source": {
+        "en": "IEEE Wireless Communications Letters",
+        "zh_CN": "IEEE Wireless Communications Letters",
+        "zh_HK": "IEEE Wireless Communications Letters"
+      },
+      "year": "2026",
+      "month": "12",
+      "day": "01",
+      "link": "https://ieeexplore.ieee.org/document/11311547",
+      "metrics": {
+        "sci_if": "5.5",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j04",
+      "title": {
+        "en": "Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT",
+        "zh_CN": "蜂窝和基于 D2D 的异构物联网中信息集成和通信的随机几何分析",
+        "zh_HK": "蜂巢和基於 D2D 的異構物聯網中資訊整合和通信的隨機幾何分析"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yulei Wang, Li Feng, Yalin Liu, Zhongjie Li",
+        "zh_CN": "Yulei Wang, Li Feng, Yalin Liu, Zhongjie Li",
+        "zh_HK": "Yulei Wang, Li Feng, Yalin Liu, Zhongjie Li"
+      },
+      "source": {
+        "en": "Computer Networks",
+        "zh_CN": "Computer Networks",
+        "zh_HK": "Computer Networks"
+      },
+      "year": "2025",
+      "month": "04",
+      "day": "25",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1389128625000945",
+      "metrics": {
+        "sci_if": "4.6",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j05",
+      "title": {
+        "en": "Joint Optimization for Mobile Crowdsensing Systems With Reliability Consideration",
+        "zh_CN": "考虑可靠性的行动群智感知系统联合优化",
+        "zh_HK": "考慮可靠性的行動群智感知系統聯合優化"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Jiahui Feng, Yaru Fu, Zheng Shi, Yalin Liu, Kevin Hung",
+        "zh_CN": "Jiahui Feng, Yaru Fu, Zheng Shi, Yalin Liu, Kevin Hung",
+        "zh_HK": "Jiahui Feng, Yaru Fu, Zheng Shi, Yalin Liu, Kevin Hung"
+      },
+      "source": {
+        "en": "IEEE Transactions on Cognitive Communications and Networking",
+        "zh_CN": "IEEE Transactions on Cognitive Communications and Networking",
+        "zh_HK": "IEEE Transactions on Cognitive Communications and Networking"
+      },
+      "year": "2025",
+      "month": "08",
+      "day": "01",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10764779",
+      "metrics": {
+        "sci_if": "7.0",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j06",
+      "title": {
+        "en": "Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based Uplink Connectivity Analysis",
+        "zh_CN": "空天地一体化网络：基于球面随机几何的上行链路连通性分析",
+        "zh_HK": "空天地一體化網絡：基於球面隨機幾何的上行鏈路連通性分析"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, Chi Chung Lee",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, Chi Chung Lee",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Om Jee Pandey, Yaru Fu, Ning Zhang, Dusit Niyato, Chi Chung Lee"
+      },
+      "source": {
+        "en": "IEEE Journal on Selected Areas in Communications",
+        "zh_CN": "IEEE Journal on Selected Areas in Communications",
+        "zh_HK": "IEEE Journal on Selected Areas in Communications"
+      },
+      "year": "2024",
+      "month": "05",
+      "day": "01",
+      "link": "https://ieeexplore.ieee.org/document/10438999",
+      "metrics": {
+        "sci_if": "17.2",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j07",
+      "title": {
+        "en": "UAV-Assisted Wireless Backhaul Networks: Connectivity Analysis of Uplink Transmissions",
+        "zh_CN": "无人机辅助无线回程网络：上行链路传输的连通性分析",
+        "zh_HK": "無人機輔助無線回程網絡：上行鏈路傳輸的連通性分析"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yalin Liu, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, Chi Chung Lee",
+        "zh_CN": "Yalin Liu, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, Chi Chung Lee",
+        "zh_HK": "Yalin Liu, Qiu Wang, Hong-Ning Dai, Yaru Fu, Ning Zhang, Chi Chung Lee"
+      },
+      "source": {
+        "en": "IEEE Transactions on Vehicular Technology",
+        "zh_CN": "IEEE Transactions on Vehicular Technology",
+        "zh_HK": "IEEE Transactions on Vehicular Technology"
+      },
+      "year": "2023",
+      "month": "09",
+      "day": "01",
+      "link": "https://ieeexplore.ieee.org/document/10104142",
+      "metrics": {
+        "sci_if": "7.1",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j08",
+      "title": {
+        "en": "Wireless Powering Internet of Things with UAVs: Challenges and Opportunities",
+        "zh_CN": "基于无人机的无线供能式物联网：机遇和挑战",
+        "zh_HK": "基於無人機的無線供能式物聯網：機遇和挑戰"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Hao Wang, Muhammad Imran, Nadra Guizani",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Hao Wang, Muhammad Imran, Nadra Guizani",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Hao Wang, Muhammad Imran, Nadra Guizani"
+      },
+      "source": {
+        "en": "IEEE Network",
+        "zh_CN": "IEEE Network",
+        "zh_HK": "IEEE Network"
+      },
+      "year": "2022",
+      "month": "03",
+      "day": "01",
+      "link": "https://ieeexplore.ieee.org/document/9762455",
+      "metrics": {
+        "sci_if": "6.3",
+        "jcr": "Q1"
+      }
+    },
+    {
+      "id": "pub_j09",
+      "title": {
+        "en": "Augmented data selector to initiate text-based CAPTCHA attack",
+        "zh_CN": "增强数据选择器发起基于文本的验证码攻击",
+        "zh_HK": "增強數據選擇器發起基於文本的驗證碼攻擊"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Aolin Che, Yalin Liu, Hong Xiao, Hao Wang, Ke Zhang, Hong-Ning Dai",
+        "zh_CN": "Aolin Che, Yalin Liu, Hong Xiao, Hao Wang, Ke Zhang, Hong-Ning Dai",
+        "zh_HK": "Aolin Che, Yalin Liu, Hong Xiao, Hao Wang, Ke Zhang, Hong-Ning Dai"
+      },
+      "source": {
+        "en": "Security and Communication Networks",
+        "zh_CN": "Security and Communication Networks",
+        "zh_HK": "Security and Communication Networks"
+      },
+      "year": "2021",
+      "month": "01",
+      "day": "01",
+      "link": "https://www.hindawi.com/journals/scn/2021/9930608/",
+      "metrics": {
+        "sci_if": "1.9",
+        "jcr": "Q3"
+      }
+    },
+    {
+      "id": "pub_j10",
+      "title": {
+        "en": "Unmanned aerial vehicle for internet of everything: Opportunities and challenges",
+        "zh_CN": "无人机赋能万物互联：机遇和挑战",
+        "zh_HK": "無人機賦能萬物互聯：機遇和挑戰"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Mahendra K. Shukla, Muhammad Imran",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Mahendra K. Shukla, Muhammad Imran",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Mahendra K. Shukla, Muhammad Imran"
+      },
+      "source": {
+        "en": "Computer Communications",
+        "zh_CN": "Computer Communications",
+        "zh_HK": "Computer Communications"
+      },
+      "year": "2020",
+      "month": "03",
+      "day": "01",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0140366419318754",
+      "metrics": {
+        "sci_if": "4.3",
+        "jcr": "Q2"
+      }
+    },
+    {
+      "id": "pub_j11",
+      "title": {
+        "en": "UAV-enabled data acquisition scheme with directional wireless energy transfer for Internet of Things",
+        "zh_CN": "面对物联网场景下基于无人机的无线供能式数据采集方案",
+        "zh_HK": "面對物聯網場景下基於無人機的無線供能式數據採集方案"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Hao Wang, Muhammad Imran, Xiaofen Wang, Muhammad Shoaib",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Hao Wang, Muhammad Imran, Xiaofen Wang, Muhammad Shoaib",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Hao Wang, Muhammad Imran, Xiaofen Wang, Muhammad Shoaib"
+      },
+      "source": {
+        "en": "Computer Communications",
+        "zh_CN": "Computer Communications",
+        "zh_HK": "Computer Communications"
+      },
+      "year": "2020",
+      "month": "03",
+      "day": "01",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0140366419304852",
+      "metrics": {
+        "sci_if": "4.3",
+        "jcr": "Q2"
+      }
+    },
+    {
+      "id": "pub_j12",
+      "title": {
+        "en": "Unmanned aerial vehicle enabled communication technologies and applications for Internet of things",
+        "zh_CN": "無人機輔助的物聯網通信技術及其應用",
+        "zh_HK": "無人機輔助的物聯網通信技術及其應用"
+      },
+      "type": "journal",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Qubeijian Wang"
+      },
+      "source": {
+        "en": "Chinese Journal on Internet of Things (Chinese)",
+        "zh_CN": "物联网学报",
+        "zh_HK": "物聯網學報"
+      },
+      "year": "2019",
+      "month": "12",
+      "day": "01",
+      "link": "https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    }
+  ],
+  "conference": [
+    {
+      "id": "pub_c01",
+      "title": {
+        "en": "Sky-Ear: An Unmanned Aerial Vehicle-Enabled Victim Sound Detection and Localization System (Accepted)",
+        "zh_CN": "Sky-Ear：一种基于无人机的受害者声音侦测与定位系统 (已接受)",
+        "zh_HK": "Sky-Ear：一种基于無人機的受害者聲音偵測與定位系統 (已接受)"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yi Hong, Mingyang Wang, Yalin Liu, Yaru Fu, Kevin Hung",
+        "zh_CN": "Yi Hong, Mingyang Wang, Yalin Liu, Yaru Fu, Kevin Hung",
+        "zh_HK": "Yi Hong, Mingyang Wang, Yalin Liu, Yaru Fu, Kevin Hung"
+      },
+      "source": {
+        "en": "The 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)",
+        "zh_CN": "The 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)",
+        "zh_HK": "The 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)"
+      },
+      "year": "2026",
+      "month": "09",
+      "day": "06",
+      "link": "https://arxiv.org/pdf/2604.12455",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c02",
+      "title": {
+        "en": "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (Accepted)",
+        "zh_CN": "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (Accepted)",
+        "zh_HK": "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (Accepted)"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yuexuan Xia, Yinghao Zhang, Yalin Liu, Hong-Ning Dai, Yong Xia",
+        "zh_CN": "Yuexuan Xia, Yinghao Zhang, Yalin Liu, Hong-Ning Dai, Yong Xia",
+        "zh_HK": "Yuexuan Xia, Yinghao Zhang, Yalin Liu, Hong-Ning Dai, Yong Xia"
+      },
+      "source": {
+        "en": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys'2026)",
+        "zh_CN": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys'2026)",
+        "zh_HK": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys'2026)"
+      },
+      "year": "2026",
+      "month": "07",
+      "day": "29",
+      "link": "https://arxiv.org/abs/2601.01901",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c03",
+      "title": {
+        "en": "Deception Against Reactive Jammer: Deep Reinforcement Learning for Adaptive Anti-Jamming (Accepted)",
+        "zh_CN": "针对反应式干扰器的欺骗：用深度强化学习实现自适应抗干扰（已录用）",
+        "zh_HK": "針對反應式干擾器的欺騙：用深度強化學習實現自適應抗干擾（已錄用）"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, Yalin Liu",
+        "zh_CN": "Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, Yalin Liu",
+        "zh_HK": "Xintai Cao, Qubeijian Wang, Xiuping Li, Wen Sun, Yalin Liu"
+      },
+      "source": {
+        "en": "IEEE International Conference on Communications (ICC) (EI and CCF C conference)",
+        "zh_CN": "IEEE International Conference on Communications (ICC) (EI and CCF C conference)",
+        "zh_HK": "IEEE International Conference on Communications (ICC) (EI and CCF C conference)"
+      },
+      "year": "2026",
+      "month": "05",
+      "day": "24",
+      "link": "#",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c04",
+      "title": {
+        "en": "Multi-Waveguide Pinching Antenna Placement Optimization for Rate Maximization (Accepted)",
+        "zh_CN": "针对速率最大化的多波导收缩天线布局优化（已录用）",
+        "zh_HK": "針對速率最大化的多波導收縮天線佈局優化（已錄用）"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yue Zhang, Yaru Fu, Pei Liu, Yalin Liu, Kevin Hung",
+        "zh_CN": "Yue Zhang, Yaru Fu, Pei Liu, Yalin Liu, Kevin Hung",
+        "zh_HK": "Yue Zhang, Yaru Fu, Pei Liu, Yalin Liu, Kevin Hung"
+      },
+      "source": {
+        "en": "IEEE International Conference on Communications (ICC)",
+        "zh_CN": "IEEE International Conference on Communications (ICC)",
+        "zh_HK": "IEEE International Conference on Communications (ICC)"
+      },
+      "year": "2026",
+      "month": "05",
+      "day": "24",
+      "link": "https://arxiv.org/abs/2512.18711",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c05",
+      "title": {
+        "en": "Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework (Best paper award)",
+        "zh_CN": "面向时序医疗物联网工作流的云-雾-边协同计算：一种基于双层DDPG的调度框架（最佳论文奖）",
+        "zh_HK": "面向時序醫療互聯網工作流的雲-霧-邊協同計算：一種基於雙層DDPG的調度框架（最佳論文獎）"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yuhao Fu, Yinghao Zhang, Yalin Liu, Bishenghui Tao, Junhong Ruan",
+        "zh_CN": "Yuhao Fu, Yinghao Zhang, Yalin Liu, Bishenghui Tao, Junhong Ruan",
+        "zh_HK": "Yuhao Fu, Yinghao Zhang, Yalin Liu, Bishenghui Tao, Junhong Ruan"
+      },
+      "source": {
+        "en": "International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus)",
+        "zh_CN": "International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus)",
+        "zh_HK": "International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus)"
+      },
+      "year": "2025",
+      "month": "10",
+      "day": "01",
+      "link": "https://arxiv.org/pdf/2510.21135",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c06",
+      "title": {
+        "en": "A Confidence-Constrained Cloud-Edge Collaborative Framework for Autism Spectrum Disorder Diagnosis",
+        "zh_CN": "面向顺序MIoT工作流程的云-雾-边协同运算：基于双层DDPG的调度框架",
+        "zh_HK": "面向順序MIoT工作流程的雲-霧-邊協同運算：基於雙層DDPG的調度框架"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Qi Deng, Yinghao Zhang, Yalin Liu, Bishenghui Tao",
+        "zh_CN": "Qi Deng, Yinghao Zhang, Yalin Liu, Bishenghui Tao",
+        "zh_HK": "Qi Deng, Yinghao Zhang, Yalin Liu, Bishenghui Tao"
+      },
+      "source": {
+        "en": "International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference)",
+        "zh_CN": "International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference)",
+        "zh_HK": "International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference)"
+      },
+      "year": "2025",
+      "month": "10",
+      "day": "17",
+      "link": "https://arxiv.org/pdf/2510.21130",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c07",
+      "title": {
+        "en": "Hybrid Satellite-Ground Deployments for Web3 DID: System Design and Performance Analysis",
+        "zh_CN": "Web3 DID 的混合衛星-地面部署：系统设计与效能分析",
+        "zh_HK": "Web3 DID 的混合衛星-地面部署：系統設計與效能分析"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yalin Liu, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, Hong-Ning Dai, Yaru Fu, Bishenghui Tao, Siu-Kei Au Yeung",
+        "zh_CN": "Yalin Liu, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, Hong-Ning Dai, Yaru Fu, Bishenghui Tao, Siu-Kei Au Yeung",
+        "zh_HK": "Yalin Liu, Zhigang Yan, Bingyuan Luo, Xiaochi Xu, Hong-Ning Dai, Yaru Fu, Bishenghui Tao, Siu-Kei Au Yeung"
+      },
+      "source": {
+        "en": "The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025)",
+        "zh_CN": "The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025)",
+        "zh_HK": "The 3rd Annual IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom 2025)"
+      },
+      "year": "2025",
+      "month": "08",
+      "day": "27",
+      "link": "https://arxiv.org/pdf/2507.02305",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c08",
+      "title": {
+        "en": "Enhancing Mobile Crowdsensing Efficiency: A Coverage-aware Resource Allocation Approach",
+        "zh_CN": "提高移动群智感知效率：一种覆盖感知资源分配方法",
+        "zh_HK": "提高移動群智感知效率：一種覆蓋感知資源分配方法"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yaru Fu, Yue Zhang, Zheng Shi, Yongna Guo, Yalin Liu",
+        "zh_CN": "Yaru Fu, Yue Zhang, Zheng Shi, Yongna Guo, Yalin Liu",
+        "zh_HK": "Yaru Fu, Yue Zhang, Zheng Shi, Yongna Guo, Yalin Liu"
+      },
+      "source": {
+        "en": "IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference)",
+        "zh_CN": "IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference)",
+        "zh_HK": "IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference)"
+      },
+      "year": "2025",
+      "month": "06",
+      "day": "17",
+      "link": "https://arxiv.org/pdf/2503.21942",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c09",
+      "title": {
+        "en": "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity",
+        "zh_CN": "用于飞行器中继地空卫星连接的 3D 随机几何模型",
+        "zh_HK": "用於飛行器中繼地空衛星連接的 3D 隨機幾何模型"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yulei Wang, Yalin Liu, Yaru Fu, Yujie Qin, Zhontgjie Li",
+        "zh_CN": "Yulei Wang, Yalin Liu, Yaru Fu, Yujie Qin, Zhontgjie Li",
+        "zh_HK": "Yulei Wang, Yalin Liu, Yaru Fu, Yujie Qin, Zhontgjie Li"
+      },
+      "source": {
+        "en": "IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference)",
+        "zh_CN": "第101届IEEE车载技术会议 (VTC2025-Spring)",
+        "zh_HK": "第101屆IEEE車載技術會議 (VTC2025-Spring)"
+      },
+      "year": "2025",
+      "month": "06",
+      "day": "17",
+      "link": "https://arxiv.org/pdf/2503.16202",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c10",
+      "title": {
+        "en": "Unified Network Modeling for Six Cross-Layer Scenarios in Space-Air-Ground Integrated Networks",
+        "zh_CN": "天空地一体化网络中六种跨层场景的统一网络建模",
+        "zh_HK": "天空地一體化網絡中六種跨層場景的統一網絡建模"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yalin Liu, Yaru Fu, Qubeijian Wang, Hong-Ning Dai",
+        "zh_CN": "Yalin Liu, Yaru Fu, Qubeijian Wang, Hong-Ning Dai",
+        "zh_HK": "Yalin Liu, Yaru Fu, Qubeijian Wang, Hong-Ning Dai"
+      },
+      "source": {
+        "en": "IEEE International Conference on Communications (ICC) (EI and CCF C conference)",
+        "zh_CN": "IEEE International Conference on Communications (ICC) (EI and CCF C conference)",
+        "zh_HK": "IEEE International Conference on Communications (ICC) (EI and CCF C conference)"
+      },
+      "year": "2025",
+      "month": "06",
+      "day": "08",
+      "link": "https://arxiv.org/pdf/2504.21284",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c11",
+      "title": {
+        "en": "Subband and Sensing Task Allocation for Next-Generation Mobile Crowdsensing Networks: An Optimal Framework",
+        "zh_CN": "下一代移动群智感知网络的子带和感知任务分配：最优框架",
+        "zh_HK": "下一代移動群智感知網絡的子帶和感知任務分配：最優框架"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, Yalin Liu",
+        "zh_CN": "Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, Yalin Liu",
+        "zh_HK": "Yaru Fu, Yue Zhang, Zheng Shi, Hong Wang, Yalin Liu"
+      },
+      "source": {
+        "en": "IEEE Wireless Communications and Networking Conference (WCNC)",
+        "zh_CN": "IEEE Wireless Communications and Networking Conference (WCNC)",
+        "zh_HK": "IEEE Wireless Communications and Networking Conference (WCNC)"
+      },
+      "year": "2024",
+      "month": "04",
+      "day": "21",
+      "link": "#",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c12",
+      "title": {
+        "en": "Connectivity Analysis of UAV-To-Satellite Communications in Non-Terrestrial Networks",
+        "zh_CN": "非地面网络中无人机对卫星通信的连接性分析（英文版）",
+        "zh_HK": "非地面網絡中無人機對衛星通信的連接性分析（英文版）"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Ning Zhang",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Ning Zhang",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Ning Zhang"
+      },
+      "source": {
+        "en": "IEEE Global Communications Conference (Globecom)",
+        "zh_CN": "IEEE Global Communications Conference (Globecom)",
+        "zh_HK": "IEEE Global Communications Conference (Globecom)"
+      },
+      "year": "2021",
+      "month": "12",
+      "day": "07",
+      "link": "https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c13",
+      "title": {
+        "en": "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping",
+        "zh_CN": "空中之耳：防止空中窃听的地面移动干扰",
+        "zh_HK": "空中之耳：防止空中竊聽的地面移動干擾"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Qubeijian Wang, Yalin Liu, Hong-Ning Dai, Muhammad Imran, Nidal Nasser",
+        "zh_CN": "Qubeijian Wang, Yalin Liu, Hong-Ning Dai, Muhammad Imran, Nidal Nasser",
+        "zh_HK": "Qubeijian Wang, Yalin Liu, Hong-Ning Dai, Muhammad Imran, Nidal Nasser"
+      },
+      "source": {
+        "en": "IEEE Global Communications Conference (Globecom)",
+        "zh_CN": "IEEE Global Communications Conference (Globecom)",
+        "zh_HK": "IEEE Global Communications Conference (Globecom)"
+      },
+      "year": "2021",
+      "month": "12",
+      "day": "07",
+      "link": "#",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c14",
+      "title": {
+        "en": "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis",
+        "zh_CN": "地对无人机通信网络：基于随机几何的性能分析",
+        "zh_HK": "地對無人機通信網絡：基於隨機幾何的性能分析"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Muhammad Imran, Nidal Nasser",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Muhammad Imran, Nidal Nasser",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Muhammad Imran, Nidal Nasser"
+      },
+      "source": {
+        "en": "IEEE International Conference of Communications (ICC)",
+        "zh_CN": "IEEE International Conference of Communications (ICC)",
+        "zh_HK": "IEEE International Conference of Communications (ICC)"
+      },
+      "year": "2021",
+      "month": "06",
+      "day": "14",
+      "link": "https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    },
+    {
+      "id": "pub_c15",
+      "title": {
+        "en": "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer",
+        "zh_CN": "海报：带定向无线能量传输的支持无人机的数据采集方案",
+        "zh_HK": "海報：帶定向無線能量傳輸的支持無人機的數據採集方案"
+      },
+      "type": "conference",
+      "authors": {
+        "en": "Yalin Liu, Hong-Ning Dai, Yuyang Peng, Hao Wang",
+        "zh_CN": "Yalin Liu, Hong-Ning Dai, Yuyang Peng, Hao Wang",
+        "zh_HK": "Yalin Liu, Hong-Ning Dai, Yuyang Peng, Hao Wang"
+      },
+      "source": {
+        "en": "International Conference on Embedded Wireless Systems and Networks (EWSN)",
+        "zh_CN": "International Conference on Embedded Wireless Systems and Networks (EWSN)",
+        "zh_HK": "International Conference on Embedded Wireless Systems and Networks (EWSN)"
+      },
+      "year": "2019",
+      "month": "02",
+      "day": "25",
+      "link": "https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    }
+  ],
+  "preprint": [
+    {
+      "id": "pub_p01",
+      "title": {
+        "en": "Content-Aware RSMA-Enabled Pinching-Antenna Systems for Latency Optimization in 6G Networks",
+        "zh_CN": "面向内容感知、支援 RSMA 的 6G 网路延迟优化缩减天线系统",
+        "zh_HK": "面向內容感知、支援 RSMA 的 6G 網路延遲優化縮減天線系統"
+      },
+      "type": "preprint",
+      "authors": {
+        "en": "Yu Hua, Yaru Fu, Yalin Liu, Zheng Shi, Kevin Hung",
+        "zh_CN": "Yu Hua, Yaru Fu, Yalin Liu, Zheng Shi, Kevin Hung",
+        "zh_HK": "Yu Hua, Yaru Fu, Yalin Liu, Zheng Shi, Kevin Hung"
+      },
+      "source": {
+        "en": "arXiv preprint: 2512.17332",
+        "zh_CN": "arXiv 预印本: 2512.17332",
+        "zh_HK": "arXiv 預印本: 2512.17332"
+      },
+      "year": "2026",
+      "month": "12",
+      "day": "19",
+      "link": "https://arxiv.org/abs/2512.17332",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    }
+  ],
+  "patent": [
+    {
+      "id": "pub_pa01",
+      "title": {
+        "en": "Emotion recognition system and method",
+        "zh_CN": "情绪识别系统及方法",
+        "zh_HK": "情緒識別系統及方法"
+      },
+      "type": "patent",
+      "authors": {
+        "en": "Yalin Liu",
+        "zh_CN": "Yalin Liu",
+        "zh_HK": "Yalin Liu"
+      },
+      "source": {
+        "en": "The Education University of Hong Kong, under patent No. HK30074872",
+        "zh_CN": "香港教育大学，专利号：HK30074872",
+        "zh_HK": "香港教育大學，專利號：HK30074872"
+      },
+      "year": "2023",
+      "month": "01",
+      "day": "01",
+      "link": "#",
+      "metrics": {
+        "sci_if": "",
+        "jcr": ""
+      }
+    }
+  ]
+}
