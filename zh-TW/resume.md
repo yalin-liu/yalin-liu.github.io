@@ -173,10 +173,10 @@ language: zh-TW
             [C04] <span class="highlight">劉亞林</span>，戴弘寧，和 Ning Zhang，「非地面網絡中無人機對衛星通信的連接性分析（英文版），」<em>IEEE全球通信會議(GLEBECOM)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙馬德里，在線會議，2021年12月7日至11日，DOI：10.1109/GLOBECOM46510.2021.9685811。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf" target="_blank">原文</a>]
         </li>
         <li>
-            [C03] 王曲北劍，<span class="highlight">劉亞林</span>，戴弘寧，Muhammad Imran，和 Nidal Nasser，「空中之耳：防止空中竊聽的地面移動干擾（英文版），」<em>IEEE全球通信會議(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙馬德里，在線會議，2021年12月7日至11日，DOI：10.1109/GLOBE-COM46510.2021.9685471。
+            [C03] 王曲北劍，<span class="highlight">劉亞林</span>，戴弘寧，Muhammad Imran，和 Nidal Nasser，「空中之耳：防止空中竊聽的地面移動干擾，」<em>IEEE全球通信會議(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙馬德里，在線會議，2021年12月7日至11日，DOI：10.1109/GLOBE-COM46510.2021.9685471。
         </li>
         <li>
-            [C02] <span class="highlight">劉亞林</span>，戴弘寧，Muhammad Imran，和 Nidal Nasser，「地對無人機通信網絡：基於隨機幾何的性能分析（英文版），」<em>IEEE國際通信會議(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，加拿大魁北克蒙特利爾，在線會議，2021年6月14日至23日，DOI：10.1109/ICC42927.2021.9500746。[<a href="https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf" target="_blank">原文</a>]
+            [C02] <span class="highlight">劉亞林</span>，戴弘寧，Muhammad Imran，和 Nidal Nasser，「地對無人機通信網絡：基於隨機幾何的性能分析，」<em>IEEE國際通信會議(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，加拿大魁北克蒙特利爾，在線會議，2021年6月14日至23日，DOI：10.1109/ICC42927.2021.9500746。[<a href="https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf" target="_blank">原文</a>]
         </li>
         <li>
             [C01] <span class="highlight">劉亞林</span>，戴弘寧，彭宇陽，和 王皓，「海報：帶定向無線能量傳輸的支持無人機的數據採集方案，」<em>嵌入式無線系統和網絡國際會議（EWSN）</em>，中國北京，2019年2月25日至27日。[<a href="https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf" target="_blank">原文</a>]

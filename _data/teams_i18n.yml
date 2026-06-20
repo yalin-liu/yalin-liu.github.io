@@ -1,0 +1,32 @@
+en:
+  labels:
+    journal: "Journal"
+    conference: "Conference"
+    preprint: "Preprint"
+    patent: "Patent"
+  pubYear: "Publication year: "
+  sciIf: "SCI IF"
+  jcr: "JCR"
+  month: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+zh_CN:
+  labels:
+    journal: "期刊论文"
+    conference: "会议论文"
+    preprint: "预印本"
+    patent: "专利"
+  pubYear: "发表年份: "
+  sciIf: "影响因子"
+  jcr: "分区"
+  month: ["1月", "2月", "3月", "4月", "5月", "6月", "7月", '8月', "9月", "10月", "11月", "12月"]
+
+zh_HK:
+  labels:
+    journal: "期刊論文"
+    conference: "會議論文"
+    preprint: "預印本"
+    patent: "專利"
+  pubYear: "發表年份: "
+  sciIf: "影響因子"
+  jcr: "分區"
+  month: ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"]
