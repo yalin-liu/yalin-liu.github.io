@@ -13,21 +13,39 @@ language: zh-TW
   </div>
 </div>
 
-<div class="content-wrapper">
-  <p>
-    <i class="fa fa-phone mr-2"></i>
-    電話：<a href="tel:+852-27686811" title="Telephone" target="_blank">+852-27686811</a>
-  </p>
-  <p>
-    <i class="fa fa-fax mr-2"></i>
-    傳真：<a href="tel:+852-24062376" title="Fax" target="_blank">+852-24062376</a>
-  </p>
-  <p>
-    <i class="fa fa-envelope mr-2"></i>
-    電子郵件：<a href="mailto:ylliu@hkmu.edu.hk" title="Email" target="_blank">ylliu@hkmu.edu.hk</a>
-  </p>
-  <p>
-    <i class="fa fa-map mr-2"></i>
-    地址：香港九龍何文田香港都會大學科技學院電子工程及電腦科學系A0336
-  </p>
-</div>
+<div class="content-wrapper" id="contact-container"></div>
+
+<script>
+$(document).ready(function() {
+  const currentLang = "{{ page.language }}" || "en"; 
+  const contactData = {{ site.data.contact | jsonify }};
+  const $container = $('#contact-container');
+  $container.empty();
+
+  contactData.forEach(item => {
+    const localizedLabel = item.label[currentLang] || item.label['en'];
+
+    let localizedValue = "";
+    if (typeof item.value === 'object') {
+      localizedValue = item.value[currentLang] || item.value['en'];
+    } else {
+      localizedValue = item.value;
+    }
+    
+    let contentHtml = '';
+    if (item.link) {
+      contentHtml = `<a href="${item.link}" title="${item.title}" target="_blank">${localizedValue}</a>`;
+    } else {
+      contentHtml = localizedValue;
+    }
+
+    const $p = $('<p></p>').append(
+      `<i class="fa ${item.icon} mr-2"></i>\n`,
+      `${localizedLabel}：`,
+      contentHtml
+    );
+
+    $container.append($p);
+  });
+});
+</script>

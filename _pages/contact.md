@@ -13,27 +13,39 @@ language: en
     </div>
 </div>
 
-<div class="content-wrapper">
-    <!-- <h1>Contact</h1> -->
+<div class="content-wrapper" id="contact-container"></div>
 
-    <p>
-        <i class="fa fa-phone mr-2"></i>
-        Tel: <a href="tel:+852-27686811" title="Telephone" target="_blank">+852-27686811</a>
-    </p>
+<script>
+$(document).ready(function() {
+  const currentLang = "{{ page.language }}" || "en"; 
+  const contactData = {{ site.data.contact | jsonify }};
+  const $container = $('#contact-container');
+  $container.empty();
 
-    <p>
-    <i class="fa fa-fax mr-2"></i>
-    Fax: <a href="tel:+852-24062376" title="Fax" target="_blank">+852-24062376</a>
-    </p>
+  contactData.forEach(item => {
+    const localizedLabel = item.label[currentLang] || item.label['en'];
 
-    <p>
-    <i class="fa fa-envelope mr-2"></i>
-    Email: <a href="mailto:ylliu@hkmu.edu.hk" title="Email" target="_blank">{{site.email}}</a>
-    </p>
+    let localizedValue = "";
+    if (typeof item.value === 'object') {
+      localizedValue = item.value[currentLang] || item.value['en'];
+    } else {
+      localizedValue = item.value;
+    }
+    
+    let contentHtml = '';
+    if (item.link) {
+      contentHtml = `<a href="${item.link}" title="${item.title}" target="_blank">${localizedValue}</a>`;
+    } else {
+      contentHtml = localizedValue;
+    }
 
-    <p>
-    <i class="fa fa-map mr-2"></i>
-    Address: A0336, Department of Electronic Engineering and Computer Science, School of Science and Technology, Hong Kong Metropolitan University, Ho Man Tin, Kowloon, Hong Kong
-    </p>
+    const $p = $('<p></p>').append(
+      `<i class="fa ${item.icon} mr-2"></i>\n`,
+      `${localizedLabel}：`,
+      contentHtml
+    );
 
-</div>
+    $container.append($p);
+  });
+});
+</script>
