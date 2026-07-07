@@ -1,0 +1,11 @@
+<nav class="language-switcher">
+    {% if page.name contains "index" %}
+        <a href="{{ site.baseurl }}/">EN</a>
+        <a href="{{ site.baseurl | append: '/zh-TW' }}">繁</a>
+        <a href="{{ site.baseurl | append: '/zh-CN' }}">简</a>
+    {% else %}
+        <a href="{{ site.baseurl | append: page.handle }}">EN</a>
+        <a href="{{ site.baseurl | append: '/zh-TW' | append: page.handle }}">繁</a>
+        <a href="{{ site.baseurl | append: '/zh-CN' | append: page.handle }}">简</a>
+    {% endif %}
+</nav>

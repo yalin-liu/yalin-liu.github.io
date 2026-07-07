@@ -1,0 +1,54 @@
+[
+    {
+      "id": "phone",
+      "icon": "fa-phone",
+      "link": "tel:+852-27686811",
+      "title": "Telephone",
+      "label": {
+        "en": "Phone",
+        "zh_TW": "電話",
+        "zh_CN": "电话"
+      },
+      "value": "+852-27686811"
+    },
+    {
+      "id": "fax",
+      "icon": "fa-fax",
+      "link": "tel:+852-24062376",
+      "title": "Fax",
+      "label": {
+        "en": "Fax",
+        "zh_TW": "傳真",
+        "zh_CN": "传真"
+      },
+      "value": "+852-24062376"
+    },
+    {
+      "id": "email",
+      "icon": "fa-envelope",
+      "link": "mailto:ylliu@hkmu.edu.hk",
+      "title": "Email",
+      "label": {
+        "en": "Email",
+        "zh_TW": "電子郵件",
+        "zh_CN": "电子邮件"
+      },
+      "value": "ylliu@hkmu.edu.hk"
+    },
+    {
+      "id": "address",
+      "icon": "fa-map",
+      "link": null,
+      "title": "",
+      "label": {
+        "en": "Address",
+        "zh_TW": "地址",
+        "zh_CN": "地址"
+      },
+      "value": {
+        "en": "A0336, Department of Electronic Engineering and Computer Science, School of Science and Technology, Hong Kong Metropolitan University, Ho Man Tin, Kowloon, Hong Kong",
+        "zh_TW": "香港九龍何文田香港都會大學科技學院電子工程及計算機科學系A0336",
+        "zh_CN": "香港九龙何文田香港都会大学科技学院电子工程及计算机科学系A0336"
+      }
+    }
+  ]
