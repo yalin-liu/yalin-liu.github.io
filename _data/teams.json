@@ -1,0 +1,446 @@
+{
+    "en": {
+      "ui": {
+        "wanted": "Wanted:",
+        "wanted_desc": "You are desired/interested in doing research related to",
+        "contact_desc": "Those interested can contact me via email",
+        "admission_link_text": "Click for admission application procedures of HKMU.",
+        "postdoc_title": "Postdoctoral Researchers",
+        "ra_title": "Research Assistants",
+        "grad_title": "Graduate Students"
+      },
+      "recruitment": {
+        "research_interests": [
+          "AI-enabled networks",
+          "6G",
+          "Blockchain",
+          "Web3",
+          "SAGIN"
+        ],
+        "positions": [
+          {
+            "type": "PhD and MPhil students",
+            "requirements": [
+              "You need to pass the TOEFL test or IELTS test."
+            ],
+            "benefits": "The excellent students may get PGS: HK$18,500 per month.",
+            "application_link": "https://admissions.hkmu.edu.hk/rpg/submit-application/"
+          },
+          {
+            "type": "Research Assistants (RA)",
+            "requirements": [
+              "You are familiar with the basic academic tools, including Latex, Overleaf, MATLAB, etc.",
+              "You are familiar with basic knowledge of information theory, federated learning, reinforcement learning, etc."
+            ],
+            "preferences": "Those with a master's degree or above and published journal papers are preferred."
+          }
+        ],
+        "contact_email": "ylliu@hkmu.edu.hk"
+      },
+      "team_members": {
+        "postdoctoral_researchers": [
+          {
+            "name": "Dr. WANG YULEI",
+            "photo": "/assets/images/wang_ye.jpg",
+            "period": "Jul 2024 - Dec 2024",
+            "research_interests": [
+              "Wireless networking",
+              "Pinching antenna",
+              "Space-air-ground integrated networks",
+              "Stochastic geometry modeling and analysis"
+            ]
+          },
+          {
+            "name": "Dr. WEN XITING",
+            "photo": "/assets/images/wen_xiting.jpg",
+            "period": "Feb 2025 - Dec 2025",
+            "research_interests": [
+              "Satellite-terrestrial networks",
+              "Game theory based resource allocation"
+            ]
+          }
+        ],
+        "research_assistants": [
+          {
+            "name": "Mr. XU XIAOCHI",
+            "photo": "/assets/images/XU_XIAOCHI.jpg",
+            "period": "Mar 2025 – Apr 2026",
+            "research_interests": [
+              "Media Mining",
+              "Satellite Communication"
+            ]
+          },
+          {
+            "name": "Mr. WANG MINGYANG",
+            "photo": "/assets/images/WANG_MINGYANG.jpg",
+            "period": "Mar 2025 – Present",
+            "research_interests": [
+              "Sound detection",
+              "Artificial intelligence (AI)",
+              "Unmanned aerial vehicles (UAV)"
+            ]
+          },
+          {
+            "name": "Mr. FU YUHAO",
+            "photo": "/assets/images/colin.jpg",
+            "role": "Research Assistant",
+            "period": "Jul 2025 – Sep 2025",
+            "research_interests": [
+              "MLP actor–critic design",
+              "EFT/CT-based system modeling",
+              "Reinforcement learning scheduling for edge–fog–cloud Architecture"
+            ]
+          },
+          {
+            "name": "Ms. DENG QI",
+            "photo": "/assets/images/cecilia.jpg",
+            "period": "Jul 2025 – Present",
+            "research_interests": [
+              "Cloud-edge computing",
+              "Federated learning",
+              "Facial image classification and communications networks"
+            ]
+          },
+          {
+            "name": "Mr. Luo Bingyuan",
+            "photo": "/assets/images/luo_bingyuan.jpg",
+            "period": "Oct 2024 — Mar 2025",
+            "research_interests": [
+              "Blockchain Consensus",
+              "Satellite Communication"
+            ]
+          },
+          {
+            "name": "Mr. YI HONG",
+            "photo": "/assets/images/yi_hong.jpg",
+            "period": "Feb 2026 - present",
+            "research_interests": [
+              "Cyber-Physical-Social Intelligence",
+              "Edge Intelligence",
+              "Multimodal Integrated Sensing and Communication"
+            ]
+          },
+          {
+            "name": "Mr. Zepeng ZHAN",
+            "photo": "/assets/images/zepeng_zhan.jpg",
+            "period": "Feb 2026 - present",
+            "research_interests": [
+              "AI for Healthcare",
+              "Cybersecurity",
+              "Edge caching",
+              "Edge computing"
+            ]
+          }
+        ],
+        "graduate_students": [
+          {
+            "name": "Mr. ZHANG YINGHAO",
+            "photo": "/assets/images/yinghao_zhang.jpg",
+            "period": "Jan 2026 - present",
+            "research_interests": [
+              "Federated Learning",
+              "Edge Intelligence",
+              "AI for Healthcare"
+            ],
+            "personal_website": "https://1643204431.github.io/"
+          }
+        ]
+      }
+    },
+    "zh_CN": {
+      "ui": {
+        "wanted": "招聘:",
+        "wanted_desc": "有意/希望从事与",
+        "contact_desc": "有意者请通过电子邮件与我联系",
+        "admission_link_text": "点击查看香港都会大学申请流程",
+        "postdoc_title": "Postdoctoral Researchers",
+        "ra_title": "Research Assistants",
+        "grad_title": "Graduate Students"
+      },
+      "recruitment": {
+        "research_interests": [
+          "AI-enabled networks",
+          "6G",
+          "区块链",
+          "Web3",
+          "SAGIN"
+        ],
+        "positions": [
+          {
+            "type": "博士和硕士研究生",
+            "requirements": [
+              "需要通过托福(TOEFL)或雅思(IELTS)考试。"
+            ],
+            "benefits": "优秀学生可获得研究生奖学金(PGS)：每月 18,500 港元。",
+            "application_link": "https://admissions.hkmu.edu.hk/rpg/submit-application/"
+          },
+          {
+            "type": "研究助理 (RA)",
+            "requirements": [
+              "熟悉基本学术工具，包括 Latex, Overleaf, MATLAB 等。",
+              "熟悉信息论、联邦学习、强化学习等基础知识。"
+            ],
+            "preferences": "拥有硕士或以上学位并发表过期刊论文者优先。"
+          }
+        ],
+        "contact_email": "ylliu@hkmu.edu.hk"
+      },
+      "team_members": {
+        "postdoctoral_researchers": [
+          {
+            "name": "Dr. WANG YULEI",
+            "photo": "/assets/images/wang_ye.jpg",
+            "period": "Jul 2024 - Dec 2024",
+            "research_interests": [
+              "Wireless networking",
+              "Pinching antenna",
+              "Space-air-ground integrated networks",
+              "Stochastic geometry modeling and analysis"
+            ]
+          },
+          {
+            "name": "Dr. WEN XITING",
+            "photo": "/assets/images/wen_xiting.jpg",
+            "period": "Feb 2025 - Dec 2025",
+            "research_interests": [
+              "Satellite-terrestrial networks",
+              "Game theory based resource allocation"
+            ]
+          }
+        ],
+        "research_assistants": [
+          {
+            "name": "Mr. XU XIAOCHI",
+            "photo": "/assets/images/XU_XIAOCHI.jpg",
+            "period": "Mar 2025 – Apr 2026",
+            "research_interests": [
+              "Media Mining",
+              "Satellite Communication"
+            ]
+          },
+          {
+            "name": "Mr. WANG MINGYANG",
+            "photo": "/assets/images/WANG_MINGYANG.jpg",
+            "period": "Mar 2025 – Present",
+            "research_interests": [
+              "Sound detection",
+              "Artificial intelligence (AI)",
+              "Unmanned aerial vehicles (UAV)"
+            ]
+          },
+          {
+            "name": "Mr. FU YUHAO",
+            "photo": "/assets/images/colin.jpg",
+            "role": "Research Assistant",
+            "period": "Jul 2025 – Sep 2025",
+            "research_interests": [
+              "MLP actor–critic design",
+              "EFT/CT-based system modeling",
+              "Reinforcement learning scheduling for edge–fog–cloud Architecture"
+            ]
+          },
+          {
+            "name": "Ms. DENG QI",
+            "photo": "/assets/images/cecilia.jpg",
+            "period": "Jul 2025 – Present",
+            "research_interests": [
+              "Cloud-edge computing",
+              "Federated learning",
+              "Facial image classification and communications networks"
+            ]
+          },
+          {
+            "name": "Mr. Luo Bingyuan",
+            "photo": "/assets/images/luo_bingyuan.jpg",
+            "period": "Oct 2024 — Mar 2025",
+            "research_interests": [
+              "Blockchain Consensus",
+              "Satellite Communication"
+            ]
+          },
+          {
+            "name": "Mr. YI HONG",
+            "photo": "/assets/images/yi_hong.jpg",
+            "period": "Feb 2026 - present",
+            "research_interests": [
+              "Cyber-Physical-Social Intelligence",
+              "Edge Intelligence",
+              "Multimodal Integrated Sensing and Communication"
+            ]
+          },
+          {
+            "name": "Mr. Zepeng ZHAN",
+            "photo": "/assets/images/zepeng_zhan.jpg",
+            "period": "Feb 2026 - present",
+            "research_interests": [
+              "AI for Healthcare",
+              "Cybersecurity",
+              "Edge caching",
+              "Edge computing"
+            ]
+          }
+        ],
+        "graduate_students": [
+          {
+            "name": "Mr. ZHANG YINGHAO",
+            "photo": "/assets/images/yinghao_zhang.jpg",
+            "period": "Jan 2026 - present",
+            "research_interests": [
+              "Federated Learning",
+              "Edge Intelligence",
+              "AI for Healthcare"
+            ],
+            "personal_website": "https://1643204431.github.io/"
+          }
+        ]
+      }
+    },
+    "zh_TW": {
+      "ui": {
+        "wanted": "招聘:",
+        "wanted_desc": "有意/希望從事與",
+        "contact_desc": "有意者請透過電子郵件與我聯絡",
+        "admission_link_text": "點擊查看香港都會大學申請流程",
+        "postdoc_title": "Postdoctoral Researchers",
+        "ra_title": "Research Assistants",
+        "grad_title": "Graduate Students"
+      },
+      "recruitment": {
+        "research_interests": [
+          "AI賦能網絡",
+          "6G",
+          "區塊鏈",
+          "Web3",
+          "SAGIN"
+        ],
+        "positions": [
+          {
+            "type": "博士和碩士研究生",
+            "requirements": [
+              "需要通過托福(TOEFL)或雅思(IELTS)考試。"
+            ],
+            "benefits": "優秀學生可獲得研究生獎學金(PGS)：每月 18,500 港元。",
+            "application_link": "https://admissions.hkmu.edu.hk/rpg/submit-application/"
+          },
+          {
+            "type": "研究助理 (RA)",
+            "requirements": [
+              "熟悉基本學術工具，包括 Latex, Overleaf, MATLAB 等。",
+              "熟悉資訊理論、聯邦學習、強化學習等基礎知識。"
+            ],
+            "preferences": "擁有碩士或以上學位並發表過期刊論文者優先。"
+          }
+        ],
+        "contact_email": "ylliu@hkmu.edu.hk"
+      },
+      "team_members": {
+        "postdoctoral_researchers": [
+          {
+            "name": "Dr. WANG YULEI",
+            "photo": "/assets/images/wang_ye.jpg",
+            "period": "Jul 2024 - Dec 2024",
+            "research_interests": [
+              "Wireless networking",
+              "Pinching antenna",
+              "Space-air-ground integrated networks",
+              "Stochastic geometry modeling and analysis"
+            ]
+          },
+          {
+            "name": "Dr. WEN XITING",
+            "photo": "/assets/images/wen_xiting.jpg",
+            "period": "Feb 2025 - Dec 2025",
+            "research_interests": [
+              "Satellite-terrestrial networks",
+              "Game theory based resource allocation"
+            ]
+          }
+        ],
+        "research_assistants": [
+          {
+            "name": "Mr. XU XIAOCHI",
+            "photo": "/assets/images/XU_XIAOCHI.jpg",
+            "period": "Mar 2025 – Apr 2026",
+            "research_interests": [
+              "Media Mining",
+              "Satellite Communication"
+            ]
+          },
+          {
+            "name": "Mr. WANG MINGYANG",
+            "photo": "/assets/images/WANG_MINGYANG.jpg",
+            "period": "Mar 2025 – Present",
+            "research_interests": [
+              "Sound detection",
+              "Artificial intelligence (AI)",
+              "Unmanned aerial vehicles (UAV)"
+            ]
+          },
+          {
+            "name": "Mr. FU YUHAO",
+            "photo": "/assets/images/colin.jpg",
+            "role": "Research Assistant",
+            "period": "Jul 2025 – Sep 2025",
+            "research_interests": [
+              "MLP actor–critic design",
+              "EFT/CT-based system modeling",
+              "Reinforcement learning scheduling for edge–fog–cloud Architecture"
+            ]
+          },
+          {
+            "name": "Ms. DENG QI",
+            "photo": "/assets/images/cecilia.jpg",
+            "period": "Jul 2025 – Present",
+            "research_interests": [
+              "Cloud-edge computing",
+              "Federated learning",
+              "Facial image classification and communications networks"
+            ]
+          },
+          {
+            "name": "Mr. Luo Bingyuan",
+            "photo": "/assets/images/luo_bingyuan.jpg",
+            "period": "Oct 2024 — Mar 2025",
+            "research_interests": [
+              "Blockchain Consensus",
+              "Satellite Communication"
+            ]
+          },
+          {
+            "name": "Mr. YI HONG",
+            "photo": "/assets/images/yi_hong.jpg",
+            "period": "Feb 2026 - present",
+            "research_interests": [
+              "Cyber-Physical-Social Intelligence",
+              "Edge Intelligence",
+              "Multimodal Integrated Sensing and Communication"
+            ]
+          },
+          {
+            "name": "Mr. Zepeng ZHAN",
+            "photo": "/assets/images/zepeng_zhan.jpg",
+            "period": "Feb 2026 - present",
+            "research_interests": [
+              "AI for Healthcare",
+              "Cybersecurity",
+              "Edge caching",
+              "Edge computing"
+            ]
+          }
+        ],
+        "graduate_students": [
+          {
+            "name": "Mr. ZHANG YINGHAO",
+            "photo": "/assets/images/yinghao_zhang.jpg",
+            "period": "Jan 2026 - present",
+            "research_interests": [
+              "Federated Learning",
+              "Edge Intelligence",
+              "AI for Healthcare"
+            ],
+            "personal_website": "https://1643204431.github.io/"
+          }
+        ]
+      }
+    }
+  }
