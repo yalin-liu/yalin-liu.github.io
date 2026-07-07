@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/autofilter.js"></script>
+
+    {% if page.language == "zh-CN" or page.language == "zh-TW" %}
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main-zh.css">
+    {% endif %}
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/teams.css">
+</head>
+<body>
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <label for="menu-toggle" class="menu-icon">☰</label>
+    <label for="menu-toggle" class="overlay"></label>
+    <div class="sidebar">
+        <label for="menu-toggle" class="close-icon">×</label>
+        {% if page.language == "en" %}
+            {% include sidebar.html %}
+        {% elsif page.language == "zh-TW" %}
+            {% include sidebar-zh-tw.html %}
+        {% else %}
+            {% include sidebar-zh-cn.html %}
+        {% endif %}
+    </div>
+
+    {% include language-switcher.html %}
+    
+    {% include loading.html %}
+
+    <div class="container-fluid">
+        <div class="wrapper">
+            <div class="content">
+                {{ content }}
+                
+                <!-- <div class="content-wrapper"> -->
+                <div id="main-content" class="content-wrapper dynamic-content-hidden">
+                    <!-- 招募區塊 (Recruitment Alert) -->
+                    <div class="alert alert-warning" role="alert">
+                        <p>
+                            <span class="highlight" id="wanted-text"></span> 
+                            <span id="wanted-desc"></span>
+                        </p>
+                        <ul id="positions-list">
+                            <!-- JS 將會動態插入博士、RA等職位與要求 -->
+                        </ul>
+                        <p>
+                            <span id="contact-desc"></span> (<a id="contact-email" href=""></a>).
+                        </p>
+                    </div>
+                
+                    <!-- 團隊成員區塊 (Team Members) -->
+                    <div class="container-team">
+                        <h2 id="postdoc-title"></h2>
+                        <div class="team-container" id="postdocs-container"></div>
+                
+                        <h2 id="ra-title"></h2>
+                        <div class="team-container" id="ra-container"></div>
+                
+                        <h2 id="grad-title"></h2>
+                        <div class="team-container" id="grad-container"></div>
+                    </div>
+                </div>
+            </div>
+            {% include copyright.html %}
+        </div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            var currentLang = "{{ page.language | default: 'en' }}";
+            var teamData = {{ site.data.teams | jsonify }};
+            var langData = teamData[currentLang] || teamData['en'];
+    
+            // ==========================================
+            // 渲染招募資訊 (Recruitment)
+            // ==========================================
+            $('#wanted-text').text(langData.ui.wanted);
+            
+            // 組合研究興趣標籤 (例如：AI-enabled networks, 6G...)
+            var interestsString = langData.recruitment.research_interests.join('、 ');
+            $('#wanted-desc').text(langData.ui.wanted_desc + ' ' + interestsString);
+    
+            // 遍歷所有招募職位
+            var positionsHtml = '';
+            $.each(langData.recruitment.positions, function(index, pos) {
+                positionsHtml += '<li><span class="highlight">' + pos.type + '</span><br>';
+                
+                // 條件要求
+                if (pos.requirements) {
+                    $.each(pos.requirements, function(i, req) {
+                        positionsHtml += req + '<br>';
+                    });
+                }
+                // 薪資/獎學金福利
+                if (pos.benefits) {
+                    positionsHtml += pos.benefits + '<br>';
+                }
+                // 偏好條件
+                if (pos.preferences) {
+                    positionsHtml += pos.preferences + '<br>';
+                }
+                // 申請連結
+                if (pos.application_link) {
+                    positionsHtml += '[<a href="' + pos.application_link + '" target="_blank">' + langData.ui.admission_link_text + '</a>]';
+                }
+                positionsHtml += '</li>';
+            });
+            $('#positions-list').html(positionsHtml);
+            $('#contact-desc').text(langData.ui.contact_desc);
+            $('#contact-email').attr('href', 'mailto:' + langData.recruitment.contact_email)
+                               .text(langData.recruitment.contact_email);
+    
+    
+            // ==========================================
+            // 渲染團隊成員 (Team Members)
+            // ==========================================
+            
+            // 設定各區塊標題 (Postdoc, RA, Grad)
+            $('#postdoc-title').text(langData.ui.postdoc_title);
+            $('#ra-title').text(langData.ui.ra_title);
+            $('#grad-title').text(langData.ui.grad_title);
+    
+            // 共用的渲染成員卡片函數
+            function renderMembers(membersArray, containerId) {
+                var html = '';
+                if (membersArray && membersArray.length > 0) {
+                    $.each(membersArray, function(index, member) {
+                        html += '<div class="member-card">';
+                        html += '  <div class="member-photo"><img src="{{ site.baseurl }}' + member.photo + '" alt="' + member.name + '"></div>';
+                        html += '  <h3>' + member.name + '</h3>';
+                        
+                        if (member.role) {
+                            html += '  <p class="role">' + member.role + '</p>';
+                        }
+                        html += '  <p class="member-period">' + member.period + '</p>';
+                        
+                        html += '  <div class="member-bio-badges">';
+                        if (member.research_interests) {
+                            $.each(member.research_interests, function(i, interest) {
+                                html += '    <span class="badge text-bg-secondary">' + interest + '</span>';
+                            });
+                        }
+                        html += '  </div>';
+                        
+                        if (member.personal_website) {
+                            html += '  <a href="' + member.personal_website + '" target="_blank" class="stretched-link"></a>';
+                        }
+                        html += '</div>';
+                    });
+                }
+                $('#' + containerId).html(html);
+            }
+    
+            // 執行渲染
+            renderMembers(langData.team_members.postdoctoral_researchers, 'postdocs-container');
+            renderMembers(langData.team_members.research_assistants, 'ra-container');
+            renderMembers(langData.team_members.graduate_students, 'grad-container');
+
+            window.hideLoadingScreen('#main-content');
+        });
+    </script>
+</body>
+</html>
