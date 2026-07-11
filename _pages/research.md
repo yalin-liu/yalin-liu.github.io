@@ -35,7 +35,7 @@ language: en
 
 <script>
 $(document).ready(function() {
-  
+
   // 1. 直接從 _data/teams_i18n.yml 靜態編譯注入多語言配置
   const i18nConfig = {{ site.data.teams_i18n | jsonify }};
 
@@ -49,15 +49,12 @@ $(document).ready(function() {
   // 2. 從改版後的 _data/publications.json 載入 Object 數據
   const rawPublicationsObj = {{ site.data.publications | jsonify }};
 
-  // 將 4 個分組陣列合併展平成單一陣列，利於篩選和分頁
-  const unsortedPublications = Object.values(rawPublicationsObj).flat();
+  // 將分組陣列合併展平成單一陣列
+  const unsortedPublications = Object.values(rawPublicationsObj).flatMap(group => group.dataset || []);
 
-  // 【核心時間排序邏輯】利用 year、month、day 拼裝成精準的 YYYY-MM-DD 進行字串倒序比對 (由近至遠)
+  // 【核心時間排序邏輯】利用 date_of_publication 轉換成 Date 物件進行比對 (由近至遠)
   const publications = unsortedPublications.sort(function(a, b) {
-    const pad = (str) => (str && str.length === 1) ? '0' + str : (str || '01');
-    const dateA = (a.year || '0000') + '-' + pad(a.month) + '-' + pad(a.day);
-    const dateB = (b.year || '0000') + '-' + pad(b.month) + '-' + pad(b.day);
-    return dateB.localeCompare(dateA);
+    return new Date(b.date_of_publication) - new Date(a.date_of_publication);
   });
 
   function countPublicationsByType() {
@@ -108,7 +105,8 @@ $(document).ready(function() {
     }
 
     paginatedPublications.forEach(pub => {
-      const { type, link, metrics, year, month } = pub;
+      // 不再依賴 year 和 month，直接提取 date_of_publication
+      const { type, link, sci_if, jcr, date_of_publication } = pub;
       const isDisabled = (link === '#') ? 'disabled-link text-decoration-none text-dark' : '';
       
       const localizedTitle = pub.title[currentLang] || pub.title['en'];
@@ -119,18 +117,29 @@ $(document).ready(function() {
       const highlightRegExp = new RegExp('(Yalin Liu)', 'gi');
       const highlightedAuthors = localizedAuthors.replace(highlightRegExp, '<strong>$1</strong>');
 
-      // 格式化出版日期顯示為 Month Year
-      let dateString = year;
-      if (month && parseInt(month, 10) > 0) {
-        dateString = lang.month[parseInt(month, 10) - 1] + ' ' + year;
+      // 從 date_of_publication 解析年份與月份，供多語系顯示使用
+      const pubDate = new Date(date_of_publication);
+      const pubYear = pubDate.getFullYear();
+      const pubMonthIndex = pubDate.getMonth(); // 0-11
+      
+      let dateString = '';
+      if (!isNaN(pubYear)) {
+        dateString = pubYear.toString();
+        // 如果解析出有效的月份，則套用多語系陣列
+        if (!isNaN(pubMonthIndex)) {
+          dateString = lang.month[pubMonthIndex] + ' ' + pubYear;
+        }
+      } else {
+        // 如果 date_of_publication 解析失敗，直接顯示原始字串作為 fallback
+        dateString = date_of_publication;
       }
 
       let metricBadge = '';
-      if(metrics && metrics.sci_if) {
-        metricBadge += ` <span class="badge bg-warning text-dark">${lang.sciIf}: ${metrics.sci_if}</span>`;
+      if(sci_if) {
+        metricBadge += ` <span class="badge bg-warning text-dark">${lang.sciIf}: ${sci_if}</span>`;
       }
-      if(metrics && metrics.jcr) {
-        metricBadge += ` <span class="badge bg-dark">${lang.jcr}: ${metrics.jcr}</span>`;
+      if(jcr) {
+        metricBadge += ` <span class="badge bg-dark">${lang.jcr}: ${jcr}</span>`;
       }
 
       const $item = $('<div class="card mb-3 shadow-sm border-start border-4 border-primary">')

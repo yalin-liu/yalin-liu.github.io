@@ -1,8 +1,8 @@
 ---
 title: 履歷
-layout: default
+layout: resume
 handle: /resume
-language: zh-TW
+language: zh_TW
 ---
 
 <div class="p-5 text-center bg-image bg-research-img">
@@ -76,118 +76,13 @@ language: zh-TW
     </ul>
     <h3 class="callout">學術論文</h3>
     <h4>arXiv論文</h4>
-    <ul>
-        <li>
-            [a01] Yu Hua，付雅茹，<span class="highlight">劉亞林</span>，Zheng Shi 和 熊景輝，「面向內容感知、支援 RSMA 的 6G 網路延遲優化縮減天線系統，」 arXiv preprint: 2512.17332, 2026. [<a href="https://arxiv.org/pdf/2512.17332" target="_blank">原文</a>]
-        </li>
-    </ul>
+    <ul class="preprint-list"></ul>
     <h4>期刊（發表）</h4>
-    <ul>
-        <li>
-            [J12] 王曲北劍，Shaojie Bai，Wen Sun，Wei Hu，<span class="highlight">劉亞林</span>，戴弘寧 和 Zheng Yan，「Stealth in Motion: A Doppler Shift Induced Secret Key for Securing Air-Ground Communications (Early Access)，」 <em>IEEE Transactions on Information Forensics and Security</em> 
-            <span class="journal-meta"><strong>(SCI IF=8.5 in 2024, JCR Q1)</strong>，2026年5月</span>
-            DOI: 10.1109/TIFS.2026.3696571。
-            [<a href="https://ieeexplore.ieee.org/document/11534870" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J11] 王玉磊，<span class="highlight">劉亞林</span>，付雅茹 和 Yuanwei Liu，「針對夾持天線輔助隱蔽反向散射通訊的上行鏈路速率最大化，」 <em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>(SCI IF=7.1 in 2024, JCR Q1)</strong></span>，pp. 1-6，2026年4月27日，
-            DOI: 10.1109/TVT.2026.3687627。
-            <!-- [<a href="https://arxiv.org/pdf/2512.10970" target="_blank">原文</a>] -->
-            [<a href="https://ieeexplore.ieee.org/document/11494673" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J10] 王玉磊，<span class="highlight">劉亞林</span>，<span class="highlight">付雅茹</span> 和 Zhuguo Ding，「用於室內沉浸式通信的夾持天線系統：基於 3D 模型的性能分析（已錄用），」 <em>IEEE Wireless Communications Letters</em> <span class="journal-meta"><strong>(SCI IF=5.5 in 2024, JCR Q1)</strong></span>，2026年12月，DOI: 10.1109/LWC.2025.3647030。[<a href="https://ieeexplore.ieee.org/document/11311547" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J09] 王玉磊，Li Feng，<span class="highlight">劉亞林</span> 和 Zhongjie Li，「蜂巢和基於 D2D 的異構物聯網中資訊整合和通信的隨機幾何分析，」<em>計算機網絡</em> <span class="journal-meta"><strong>（SCI IF=4.6 in 2024，JCR Q1）</strong></span>，第261卷，pp. 111126，2025年4月，DOI：10.1016/j.comnet.2025.111126。[<a href="https://www.sciencedirect.com/science/article/pii/S1389128625000945" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J08] Jiahui Feng，付雅茹，Zheng Shi，<span class="highlight">劉亞林</span>，和 熊景輝，「考慮可靠性的行動群智感知系統聯合優化，」<em>IEEE Transactions on Cognitive Communications and Networking,</em> <span class="journal-meta"><strong>(SCI IF=7 in 2024, JCR Q1)</strong></span>，第11卷，第4期，pp. 2289-2302，2025年8月4日，DOI：10.1109/TCCN.2024.3504477。[<a href="https://ieeexplore.ieee.org/abstract/document/10764779" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J07] <span class="highlight">劉亞林</span>，戴弘寧，王曲北劍，Om Jee Pandey，付雅茹，Ning Zhang，Dusit Niyato，和 李至沖，「空天地一體化網絡：基於球面隨機幾何的上行鏈路連通性分析，」<em>IEEE Journal on Selected Areas in Communications</em> <span class="journal-meta"><strong>(SCI IF IF=17.2 in 2024, JCR Q1）</strong></span>，第42卷，第5期，pp. 1387-1402，2024年5月，DOI：10.1109/JSAC.2024.3365891。[<a href="https://ieeexplore.ieee.org/document/10438999" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J06] <span class="highlight">劉亞林</span>，王秋，戴弘寧，付雅茹，Ning Zhang，和 李至沖，「無人機輔助無線回程網絡：上行鏈路傳輸的連通性分析，」<em>IEEE Transactions on Vehicular Technology</em> <span class="journal-meta"><strong>（SCI IF=7.1 in 2024，JCR Q1）</strong></span>，第72卷，第9期，pp. 12195-12207，2023年9月，DOI：10.1109/TVT.2023.3268025。[<a href="https://ieeexplore.ieee.org/document/10104142" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J05] <span class="highlight">劉亞林</span>，戴弘寧，王皓，Muhammad Imran，和 Nadra Guizani，「基於無人機的無線供能式物聯網：機遇和挑戰，」<em>IEEE Network</em> <span class="journal-meta"><strong>（SCI IF=6.3 in 2024，JCR Q1）</strong></span>，第36卷，第2期，pp. 146-152，2022年3月/4月，DOI：10.1109/MNET.013.2000385。[<a href="https://ieeexplore.ieee.org/document/9762455" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J04] 車奧林，<span class="highlight">劉亞林</span>，Hong Xiao，王皓，Ke Zhang，和 戴弘寧，「增強數據選擇器發起基於文本的驗證碼攻擊，」<em>Security and Communication Networks</em> <span class="journal-meta"><strong>(SCI IF IF=1.968 in 2021, JCR Q3)</strong></span>，卷 2021，2021年，DOI：10.1155/2021/9930608。[<a href="https://www.hindawi.com/journals/scn/2021/9930608/" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J03] <span class="highlight">劉亞林</span>，戴弘寧，王曲北劍，Mahendra K. Shukla，和 Muhammad Imran，「無人機賦能萬物互聯：機遇和挑戰，」<em>計算機通信</em> <span class="journal-meta"> <strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 66-83，2020年3月。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419318754" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J02] <span class="highlight">劉亞林</span>，戴弘寧，王皓，Muhammad Imran，Xiaofen Wang，和 Muhammad Shoaib，「面對物聯網場景下基於無人機的無線供能式數據採集方案，」<em>計算機通信</em> <span class="journal-meta"><strong>（SCI IF=4.3 in 2024，JCR Q2）</strong></span>，第155卷，pp. 184-196，2020年3月，DOI：10.1016/j.comcom.2020.03.020（Google scholar citations: 293）。[<a href="https://www.sciencedirect.com/science/article/pii/S0140366419304852" target="_blank">原文</a>]
-        </li>
-        <li>
-            [J01] <span class="highlight">劉亞林</span>，戴弘寧，和 王曲北劍，「無人機輔助的物聯網通信技術及其應用，」<em>物聯網學報（中國）</em>，第3卷，第四期，pp. 48-55，2019年12月。[<a href="https://www.henrylab.net/wp-content/uploads/2020/02/UEeIoT-CIoTJ19.pdf" target="_blank">原文</a>]
-        </li>
-    </ul>
+    <ul class="journal-list"></ul>
     <h4>會議文章</h4>
-    <ul>
-        <li>
-            [C15] Yi Hong, Mingyang Wang, <span class="highlight">劉亞林</span>, 付雅茹, 和 熊景輝,
-            "Sky-Ear：一种基于無人機的受害者聲音偵測與定位系統 (已接受)," 
-            <em>the 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)</em>, 2026年6月6-9日, Athens, Greece.
-            [<a href="https://arxiv.org/pdf/2604.12455" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C14] Yuexuan Xia, Yinghao Zhang, <span class="highlight">劉亞林</span>, 戴弘寧 和 Yong Xia
-            "FedBiCross: Personalized One-Shot Federated Learning on Medical Images (已接受)," 
-            <em>International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys'2026), Chengdu, China</em>, 2026月7月29-31日。 
-            [<a href="https://arxiv.org/abs/2601.01901" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C13] Xintai Cao, 王曲北劍, Xiuping Li, Wen Sun 和 <span class="highlight">劉亞林</span>， 
-            「針對反應式干擾器的欺騙：用深度強化學習實現自適應抗干擾（已錄用），」 
-            <em>IEEE International Conference on Communications (ICC) (EI and CCF C conference) Glasgow, Scotland, UK,</em> 2026月5月24–28日。
-        </li>
-        <li>
-            [C12] Yue Zhang，付雅茹，Pei Liu，<span class="highlight">劉亞林</span> 和 熊景輝，「針對速率最大化的多波導收縮天線佈局優化（已錄用），」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference)</em>, Glasgow, Scotland, UK, 2026年5月24-28日. [<a href="https://arxiv.org/pdf/2512.18711" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C11] 傅宇浩，Yinghao Zhang，<span class="highlight">劉亞林</span>，陶畢生輝，Junhong Ruan，「面向順序MIoT工作流程的雲-霧-邊協同運算：基於雙層DDPG的調度框架，」（最佳論文獎）<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (Ei Compendex and Scopus), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21135" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C10] 鄧琪, Yinghao Zhang, <span class="highlight">劉亞林</span>，陶畢生輝，「基於置信度約束的雲邊協作框架用於自閉症譜系障礙診斷，」<em>International Conference on Networks, Communications and Intelligent Computing (NCIC) (EI conference), Jiaozuo, China,</em> 2025年10月17-19日。[<a href="https://arxiv.org/pdf/2510.21130" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C09] <span class="highlight">劉亞林</span>，Zhigang Yan，Bingyuan Luo，Xiaochi Xu，戴弘寧，付雅茹，陶畢生輝，和歐陽兆基，「Web3 DID 的混合衛星-地面部署：系統設計與效能分析，」<em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 2025年8月27-29日。[<a href="https://arxiv.org/pdf/2507.02305" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C08] 付雅茹，Yue Zhang，Zheng Shi，Yongna Guo，和 <span class="highlight">劉亞林</span>，「提高移動群智感知效率：一種覆蓋感知資源分配方法，」<em>The 2025 101st IEEE Vehicular Technology Conference (VTC2025-Spring)，Oslo，Norway</em>，2025年6月17-20日。[<a href="https://arxiv.org/pdf/2503.21942" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C07] 王玉磊，<span class="highlight">劉亞林</span>，付雅茹，Yujie Qin，和 Zhontgjie Li，「用於飛行器中繼地空衛星連接的 3D 隨機幾何模型，」<em>IEEE 101st Vehicular Technology Conference (VTC2025-Spring) (EI conference), Oslo, Norway,</em> 2025年6月17-20日。[<a href="https://arxiv.org/pdf/2503.16202" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C06] <span class="highlight">劉亞林</span>，付雅茹，王曲北劍，和 戴弘寧，「天空地一體化網絡中六種跨層場景的統一網絡建模，」<em>IEEE International Conference on Communications (ICC) (EI and CCF C conference), Montreal, Canada,</em> 2025年6月8-12日。[<a href="https://arxiv.org/pdf/2504.21284" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C05] 付雅茹，Yue Zhang，Zheng Shi，Hong Wang，和 <span class="highlight">劉亞林</span>，「下一代移動群智感知網絡的子帶和感知任務分配：最優框架，」<em>IEEE 無線通信和網絡會議 (WCNC)</em> <span class="journal-meta">（EI and CCF C conference）</span>，康萊德酒店，迪拜，2024年4月21日至24日。
-        </li>
-        <li>
-            [C04] <span class="highlight">劉亞林</span>，戴弘寧，和 Ning Zhang，「非地面網絡中無人機對衛星通信的連接性分析（英文版），」<em>IEEE全球通信會議(GLEBECOM)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙馬德里，在線會議，2021年12月7日至11日，DOI：10.1109/GLOBECOM46510.2021.9685811。[<a href="https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C03] 王曲北劍，<span class="highlight">劉亞林</span>，戴弘寧，Muhammad Imran，和 Nidal Nasser，「空中之耳：防止空中竊聽的地面移動干擾，」<em>IEEE全球通信會議(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，西班牙馬德里，在線會議，2021年12月7日至11日，DOI：10.1109/GLOBE-COM46510.2021.9685471。
-        </li>
-        <li>
-            [C02] <span class="highlight">劉亞林</span>，戴弘寧，Muhammad Imran，和 Nidal Nasser，「地對無人機通信網絡：基於隨機幾何的性能分析，」<em>IEEE國際通信會議(Globecom)</em> <span class="journal-meta">（EI and CCF C conference）</span>，加拿大魁北克蒙特利爾，在線會議，2021年6月14日至23日，DOI：10.1109/ICC42927.2021.9500746。[<a href="https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf" target="_blank">原文</a>]
-        </li>
-        <li>
-            [C01] <span class="highlight">劉亞林</span>，戴弘寧，彭宇陽，和 王皓，「海報：帶定向無線能量傳輸的支持無人機的數據採集方案，」<em>嵌入式無線系統和網絡國際會議（EWSN）</em>，中國北京，2019年2月25日至27日。[<a href="https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf" target="_blank">原文</a>]
-        </li>
-    </ul>
+    <ul class="conference-list"></ul>
     <h3 class="callout">專利</h3>
-    <ul>
-        <li>
-            2023，「情緒識別系統及方法，」香港教育大學，專利號：HK30074872
-        </li>
-    </ul>
+    <ul class="patent-list"></ul>
     <h3 class="callout">學術活動</h3>
     <h4>國際期刊編輯</h4>
     <ul>
