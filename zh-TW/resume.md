@@ -87,19 +87,19 @@ language: zh_TW
     <h4>國際期刊編輯</h4>
     <ul>
         <li>
-            2025 ~ present 特刊聯合客座編輯，<a href="https://www.mdpi.com/journal/network/special_issues/DCLNS956JH" target="_blank">MDPI Network</a>
+            2025 ~ 現在 特刊聯合客座編輯，<a href="https://www.mdpi.com/journal/network/special_issues/DCLNS956JH" target="_blank">MDPI Network</a>
         </li>
         <li>
-            2023 ~ present 特刊聯合客座編輯，<a href="https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34" target="_blank">MDPI Electronics</a>
+            2023 ~ 現在 特刊聯合客座編輯，<a href="https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34" target="_blank">MDPI Electronics</a>
         </li>
     </ul>
     <h4>國際期刊審稿</h4>
     <ul>
         <li>
-            2020 ~ present, Reviewer for other Journals: ICN (Tsinghua University Press), Ad Hoc Netw. (Elsevier), J. Frank. Inst. (Elsevier), Inf. Process. Manage. (Elsevier), IJMLC (Springer).
+            2020 ~ 現在, Reviewer for other Journals: ICN (Tsinghua University Press), Ad Hoc Netw. (Elsevier), J. Frank. Inst. (Elsevier), Inf. Process. Manage. (Elsevier), IJMLC (Springer).
         </li>
         <li>
-            2018 ~ present, Reviewer for IEEE journals: OJCOMS, TSC, TGCN, TCCN, TNSM, TCOM, TITS, IoTJ, WCL, NL, COMMAG.
+            2018 ~ 現在, Reviewer for IEEE journals: OJCOMS, TSC, TGCN, TCCN, TNSM, TCOM, TITS, IoTJ, WCL, NL, COMMAG.
         </li>
     </ul>
     <h4>國際會議審稿</h4>
@@ -108,10 +108,10 @@ language: zh_TW
             2025, Chairing session/workshop for ICC, <a href="https://www.icncic.org/workshops/" target="_blank">NCIC</a>, and <a href="https://wocc.org/wocc2025/special-session/" target="_blank">WOCC</a>
         </li>
         <li>
-            2021 ~ present, TPC member for IEEE VTC, WCNC, and CAMAD
+            2021 ~ 現在, TPC member for IEEE VTC, WCNC, and CAMAD
         </li>
         <li>
-            2019 ~ present, Reviewer for IEEE MSN, VTC, WCNC, BESC, and AAAI
+            2019 ~ 現在, Reviewer for IEEE MSN, VTC, WCNC, BESC, and AAAI
         </li>
     </ul>
     <h3 class="callout">榮譽獲獎</h3>
