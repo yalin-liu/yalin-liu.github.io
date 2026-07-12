@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include sidebar-container.html %}
+    {% include language-switcher.html %}
+    
+    <div class="container-fluid">
+        <div class="wrapper">
+            <div class="content">
+                {{ content }}
+            </div>
+            {% include copyright.html %}
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+          const rawPublicationsObj = {{ site.data.publications | jsonify }};
+          const currentLang = "{{ page.language }}" || "en"; 
+        
+          if (rawPublicationsObj) {
+            renderPublications(rawPublicationsObj.journal, currentLang, '.journal-list');
+            renderConference(rawPublicationsObj.conference, currentLang, '.conference-list');
+            renderPrepaint(rawPublicationsObj.preprint, currentLang, '.preprint-list');
+            renderPatents(rawPublicationsObj.patent, currentLang, '.patent-list');
+          }
+        });
+
+        function renderConference(sectionObj, lang, selector) {
+            if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
+        
+            const typePrefix = (sectionObj.prefix || 'C').toUpperCase(); 
+            const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+        
+            let htmlContent = "";
+            const totalRecords = sortedData.length;
+        
+            sortedData.forEach((item, index) => {
+            const formattedNum = String(totalRecords - index).padStart(2, '0');
+            const prefix = `[${typePrefix}${formattedNum}]`;
+        
+            const title = item.title[lang] || item.title.en;
+            const source = item.source[lang] || item.source.en;
+            let authors = item.authors[lang] || item.authors.en;
+            
+            authors = authors.replace(/(Yalin Liu|劉亞林|刘亚林)/g, '<span class="highlight">$1</span>');
+        
+            let conferenceDate = item.date_of_conference || ""
+            let place = item.place || ""
+        
+            htmlContent += `
+                <li>
+                    ${prefix} ${authors}, "${title}," <em>${source}</em>, ${conferenceDate}, ${place}. [<a href="${item.link}" target="_blank">Link</a>]
+                </li>
+            `;
+            });
+        
+            $(selector).html(htmlContent);
+        }
+
+        function renderPatents(sectionObj, lang, selector) {
+            if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
+
+            const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+            
+            let htmlContent = "";
+            const totalRecords = sortedData.length;
+
+            sortedData.forEach((item, index) => {
+                const title = (lang === 'en')? `"${item.title[lang]},"` : `「${item.title[lang]}，」"`;
+                const source = item.source[lang] || item.source.en;
+                const patentYear = new Date(item.date_of_publication).getFullYear();
+
+                htmlContent += `<li>${patentYear} ~ ${title} ${source}</li>`;
+            });
+        
+          $(selector).html(htmlContent);
+        }
+
+        function renderPrepaint(sectionObj, lang, selector) {
+            if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
+
+            const typePrefix = (sectionObj.prefix || 'A').toUpperCase(); 
+            const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+            
+            let htmlContent = "";
+            const totalRecords = sortedData.length;
+
+            sortedData.forEach((item, index) => {
+                const formattedNum = String(totalRecords - index).padStart(2, '0');
+                const prefix = `[${typePrefix}${formattedNum}]`;
+            
+                const title = item.title[lang] || item.title.en;
+                const source = item.source[lang] || item.source.en;
+                let authors = item.authors[lang] || item.authors.en;
+                
+                authors = authors.replace(/(Yalin Liu|劉亞林|刘亚林)/g, '<span class="highlight">$1</span>');
+
+                let pub = `, ${item.date_of_publication}` || "";
+            
+                htmlContent += `<li>${prefix} ${authors}, "${title}," ${source}${pub}. [<a href="${item.link}" target="_blank">Link</a>]</li>`;
+            });
+        
+          $(selector).html(htmlContent);
+        }
+        
+        function renderPublications(sectionObj, lang, selector) {
+          if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
+        
+          const typePrefix = (sectionObj.prefix || 'J').toUpperCase(); 
+          const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+        
+          let htmlContent = "";
+          const totalRecords = sortedData.length;
+        
+          sortedData.forEach((item, index) => {
+            const formattedNum = String(totalRecords - index).padStart(2, '0');
+            const prefix = `[${typePrefix}${formattedNum}]`;
+        
+            const title = item.title[lang] || item.title.en;
+            const source = item.source[lang] || item.source.en;
+            let authors = item.authors[lang] || item.authors.en;
+            
+            authors = authors.replace(/(Yalin Liu|劉亞林|刘亚林)/g, '<span class="highlight">$1</span>');
+        
+            // 處理元數據
+            let metaHtml = "";
+            if (item.sci_if || item.jcr) {
+              let metaText = "";
+              if (item.sci_if) metaText += `SCI IF=${item.sci_if}`;
+              if (item.jcr) metaText += metaText ? `, JCR ${item.jcr}` : ` JCR ${item.jcr}`;
+              metaHtml = ` <span class="journal-meta"><strong>(${metaText})</strong></span>`;
+            }
+        
+            // 處理頁碼或描述
+            let detailStr = item.citation_detail ? `, ${item.citation_detail}` : "";
+            let doiStr = item.doi ? `, DOI: ${item.doi}` : "";
+            let extraStr = item.extra ? ` ${item.extra}` : "";
+        
+            htmlContent += `
+                <li>
+                    ${prefix} ${authors}, "${title}," <em>${source}</em>${metaHtml}${detailStr}, ${item.date_of_publication}${doiStr}${extraStr}. [<a href="${item.link}" target="_blank">Link</a>]
+                </li>
+            `;
+          });
+        
+          $(selector).html(htmlContent);
+        }
+    </script>
+</body>
+</html>
