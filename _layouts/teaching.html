@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include sidebar-container.html %}
+    {% include language-switcher.html %}
+    
+    <div class="container-fluid">
+        <div class="wrapper">
+            <div class="content">
+                {{ content }}
+            </div>
+            {% include copyright.html %}
+        </div>
+    </div>
+    <script>
+        // 1. 從 Jekyll 讀取並賦值
+        const data = {{ site.data.teaching | jsonify }};
+        
+        // 2. 解構賦值（Destructuring Assignment）獲取兩個部分
+        const { collapseFaceToFace, collapseDistanceLearning } = data;
+      
+        // 3. 渲染 A. Face-to-Face 表格
+        const f2fTableBody = document.getElementById('f2f-table-body');
+        f2fTableBody.innerHTML = collapseFaceToFace.courses.map(course => `
+          <tr>
+            <td>${course.term}</td>
+            <td>${course.code} (${course.credits}-credit)</td>
+            <td>${course.title}</td>
+            <td>${course.size !== null ? course.size : '-'}</td>
+            <td>${course.roles}</td>
+          </tr>
+        `).join('');
+
+        // 4. 渲染 FYP 畢業設計項目（處理帶有超連結的項目）
+        let courseDetailContainer = document.getElementById('course-detail-container');
+        courseDetailContainer = collapseFaceToFace.course_details.map(course => {
+            if (course.code.includes("S456")) {
+                const fypListHTML = course.fyp_projects.map(fyp => {
+                    const yearHTML = fyp.url 
+                    ? `<a href="${fyp.url}" target="_blank">${fyp.academic_year}</a>`
+                    : fyp.academic_year;
+                    return `<p class="mb-0 ml-2">- ${yearHTML}: ${fyp.description}</p>`;
+                }).join('');
+
+                return `
+                    <div class="callout">
+                        <strong>${course.code}</strong><br>
+                        ${fypListHTML}
+                    </div>
+                `;
+            }
+
+            return `
+                <div class="callout">
+                <strong>${course.code}</strong><br>
+                <p class="mb-0 ml-2">- ${course.contents}</p>
+                <p class="mb-0 ml-2">- ${course.outcomes}</p>
+                </div>
+            `;
+        });
+        $('#course-detail-container').html(courseDetailContainer);
+      
+        // 5. 渲染 B. Distance Learning 表格
+        const dlTableBody = document.getElementById('dl-table-body');
+        dlTableBody.innerHTML = collapseDistanceLearning.courses.map(course => `
+          <tr>
+            <td>${course.term}</td>
+            <td>${course.code} (${course.credits}-credit)</td>
+            <td>${course.title}</td>
+            <td>${course.size !== null ? course.size : '-'}</td>
+            <td>${course.roles}</td>
+          </tr>
+        `).join('');
+        const workLoads = document.getElementById('work-loads');
+        workLoads.innerHTML = collapseDistanceLearning.workloads.map(workLoadItem => `
+          <div class="callout">- ${workLoadItem}</div>
+        `).join('');
+    </script>
+</body>
+</html>
