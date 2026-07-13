@@ -1,7 +1,7 @@
 ---
 title: 专业简介
 layout: biography
-language: zh-CN
+language: zh_CN
 ---
 
 <div class="p-5 text-center bg-image bg-research-img">
