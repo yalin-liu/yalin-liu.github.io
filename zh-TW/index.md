@@ -1,7 +1,7 @@
 ---
 title: 專業簡介
 layout: biography
-language: zh-TW
+language: zh_TW
 ---
 
 <div class="p-5 text-center bg-image bg-research-img">

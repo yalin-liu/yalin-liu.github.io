@@ -2,7 +2,7 @@
 title: 教学
 layout: teaching
 handle: /teaching
-language: zh-CN
+language: zh_CN
 ---
 
 <div class="p-5 text-center bg-image bg-research-img">
