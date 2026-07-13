@@ -50,7 +50,7 @@
         var selector = targetSelector || '.dynamic-content-hidden';
         
         if (window.jQuery) {
-            $('#loading-screen').fadeOut(300, function() {
+            $('#loading-screen').fadeOut(1000, function() {
                 $(selector).fadeIn(400);
             });
         } else {
