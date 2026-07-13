@@ -26,3 +26,10 @@ collections:
 # parallel_localization: true
 # lang_from_path: true
 # permalink: pretty
+social_links:
+  hkmu_scholar: "https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/"
+  google_scholar: "https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN"
+  research_gate: "https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act"
+  linkedin: "https://www.linkedin.com/in/alin-yalin-liu"
+  orcid: "https://orcid.org/0000-0003-2870-4598"
+  github: https://github.com/yalin-liu

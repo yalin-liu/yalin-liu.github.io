@@ -17,10 +17,12 @@
     </div>
     <script>
         // 1. 從 Jekyll 讀取並賦值
-        const data = {{ site.data.teaching | jsonify }};
+        let currentLang = "{{ page.language | default: 'en' }}";
+        let teachingJson = {{ site.data.teaching | jsonify }};
+        let teachingData = teachingJson[currentLang] || teachingJson['en'];
         
         // 2. 解構賦值（Destructuring Assignment）獲取兩個部分
-        const { collapseFaceToFace, collapseDistanceLearning } = data;
+        const { collapseFaceToFace, collapseDistanceLearning } = teachingData;
       
         // 3. 渲染 A. Face-to-Face 表格
         const f2fTableBody = document.getElementById('f2f-table-body');

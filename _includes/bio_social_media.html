@@ -1,0 +1,16 @@
+{% if page.language == "en" %}
+  {% assign follow_text = "Follow me:" %}
+{% elsif page.language == "zh-TW" %}
+  {% assign follow_text = "關注我：" %}
+{% else %}
+  {% assign follow_text = "关注我：" %}
+{% endif %}
+
+<div>
+    <span class="highlight">{{ follow_text }}</span> 
+    <a href="{{ site.social_links.hkmu_scholar }}" target="_blank">HKMU Scholar</a>,
+    <a href="{{ site.social_links.google_scholar }}" target="_blank">Google Scholar</a>,
+    <a href="{{ site.social_links.research_gate }}" target="_blank">Research Gate</a>,
+    <a href="{{ site.social_links.linkedin }}" target="_blank">LinkedIn</a>,
+    <a href="{{ site.social_links.orcid }}" target="_blank">ORCID</a>
+</div>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include sidebar-container.html %}
+    {% include language-switcher.html %}
+    
+    <div class="container-fluid">
+        <div class="wrapper">
+            <div class="content">
+                {{ content }}
+            </div>
+            {% include copyright.html %}
+        </div>
+    </div>
+    <script>
+        // 1. 透過 Jekyll 讀取 _data/biography.json 並轉成 JS 物件
+        let currentLang = "{{ page.language | default: 'en' }}";
+        let bioJson = {{ site.data.biography | jsonify }};
+        let bioData = bioJson[currentLang] || bioJson['en'];
+    
+        // 2. 將 Array 中的 3 個段落渲染到網頁上
+        const container = document.getElementById('bio-content');
+        
+        bioData.forEach(paragraphText => {
+            const p = document.createElement('p');
+            paragraphText = paragraphText.replace(/(Dr. Liu|劉博士|刘博士)/g, '<span class="highlight">$1</span>');
+            paragraphText = paragraphText.replace(/(a senior lecturer|高級講師|高级讲师)/g, '<a href="https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N" target="_blank">$1</a>');
+            paragraphText = paragraphText.replace(/(MDPI Electronics)/g, '<a href="https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34" target="_blank">$1</a>');
+            paragraphText = paragraphText.replace(/(MDPI Network)/g, '<a href="https://www.mdpi.com/journal/network/special_issues/DCLNS956JH" target="_blank">$1</a>');
+            p.innerHTML = paragraphText;
+            container.appendChild(p);
+        });
+    </script>
+</body>
+</html>
