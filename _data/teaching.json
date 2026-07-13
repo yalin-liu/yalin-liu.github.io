@@ -1,6 +1,6 @@
 {
+  "en": {
     "collapseFaceToFace": {
-      "section_title": "A. Face-to-Face Teaching (lecturing / tutoring)",
       "courses": [
         { "term": "Aut-2022", "code": "COMP S362F", "credits": 5, "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
         { "term": "Aut-2022", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
@@ -69,7 +69,178 @@
       ]
     },
     "collapseDistanceLearning": {
-      "section_title": "B. Distance Learning Course Coordination",
+      "courses": [
+        { "term": "Aut-2022", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
+        { "term": "Aut-2023", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
+        { "term": "Aut-2023", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
+      ],
+      "workloads": [
+        "Making presentation schedule for both courses in a whole academic year.",
+        "Coordinate the course contents, timetables, assignments, and exams with tutors in a whole academic year.",
+        "Check and update the course materials. Address students learning issues."
+      ]
+    }
+  },
+  "zh_CN": {
+    "collapseFaceToFace": {
+      "courses": [
+        { "term": "Aut-2022", "code": "COMP S362F", "credits": 5, "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
+        { "term": "Spr-2023", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
+        { "term": "Spr-2023", "code": "COMP S209F", "credits": 5, "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
+        { "term": "Aut-2023", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Spr-2024", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Aut-2024", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S381W", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": 3, "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
+        { "term": "Aut-2024", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Spr-2025", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2025", "code": "COMP S382W", "credits": 5, "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2025", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
+        { "term": "Aut-2025", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
+        { "term": "Aut-2025", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
+        { "term": "Spr-2026", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": 3, "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
+      ],
+      "course_details": [
+        {
+          "code": "COMP S381F",
+          "contents": ["Contents: Cloud server concepts and technologies including Node.js, NoSQL, MongoDB, MVC, Express.js, EJS, Docker, Oauth, Cloud platform, and Virtual Machine."],
+          "outcomes": ["Outcomes: Students understand and learn cloud server development technologies and complete a cloud server project."]
+        },
+        {
+          "code": "COMP S362F",
+          "contents": ["Contents: Concurrent network concepts and programming technologies including livelock, message passing, asynchronous communications, packet switching, Diango, Flack, Python, Programming testing and development tools."],
+          "outcomes": ["Outcomes: Students understand, learn and implement a concurrent network server project using Python."]
+        },
+        {
+          "code": "COMP S382F",
+          "contents": ["Contents: Fundamental data mining technologies including data preprocessing and machine learning algorithms."],
+          "outcomes": ["Outcomes: Students understand, learn and implement data preparation, processing, and mining processes (RapidMiner)."]
+        },
+        {
+          "code": "COMP S460F",
+          "contents": ["Contents: Advanced data mining technologies including curve fitting, dimension reduction, kernel trick, regularization, and model assessment techniques."],
+          "outcomes": ["Outcomes: Students understand, learn and implement the learned technologies for solving a real problem."]
+        },
+        {
+          "code": "COMP S456F",
+          "fyp_projects": [
+            { "academic_year": "2022~2023", "group": 1, "description": "Group 1 developed a scanning enabled personalized calendar (UI, database and function design).", "url": null },
+            { "academic_year": "2022~2023", "group": 2, "description": "Group 2 developed a personalized calendar for travelers (UI, database and function design).", "url": null },
+            { "academic_year": "2022~2023", "group": 3, "description": "Group 3 developed a waste classification and detection system (including data collection, model training, and system integration).", "url": "https://www.hkmu.edu.hk/st/computing/fyp/greenstar/" },
+            { "academic_year": "2022~2023", "group": 4, "description": "Group 4 developed a video content searching and management system (system integrated with AI).", "url": null },
+            { "academic_year": "2023~2024", "group": 1, "description": "Group 1 developed a toilet finder app in Hong Kong (UI, database and function design).", "url": null },
+            { "academic_year": "2023~2024", "group": 2, "description": "Group 2 developed an AI-powered daily event calendar (system integrated with AI).", "url": null },
+            { "academic_year": "2023~2024", "group": 3, "description": "Group 3 developed an AI waste classification application (system integrated with AI).", "url": null },
+            { "academic_year": "2023~2024", "group": 4, "description": "Group 4 developed an Android calender app tailor-made for students (UI, database and function design).", "url": null },
+            { "academic_year": "2024~2025", "group": 1, "description": "Group 1 developed a computer interaction system for the disabled using EEG headsets and eyetrackers.", "url": null },
+            { "academic_year": "2024~2025", "group": 2, "description": "Group 2 developed a web3 platform for Electronic Health Record Sharing.", "url": null },
+            { "academic_year": "2024~2025", "group": 3, "description": "Group 3 developed a web3 social media platform.", "url": "https://www.hkmu.edu.hk/st/uncategorized/best-classico-mockup/" },
+            { "academic_year": "2024~2025", "group": 4, "description": "Group 4 developed a mobile mobility app that integrates multiple mobility methods in HK.", "url": null },
+            { "academic_year": "2025~2026", "group": 1, "description": "Group 1 aims to develop a UAV-based mountain search and rescue system.", "url": null },
+            { "academic_year": "2025~2026", "group": 2, "description": "Group 2 aims to develop an AI-powered mobility app in HK.", "url": null },
+            { "academic_year": "2025~2026", "group": 3, "description": "Group 3 aims to develop a video-based drone behavior detection and monitoring system.", "url": null },
+            { "academic_year": "2025~2026", "group": 4, "description": "Group 4 aims to develop a Web3.0 app to enhance cybersecurity.", "url": null },
+            { "academic_year": "2025~2026", "group": 5, "description": "Group 5 aims to develop a VR app for route navigation.", "url": null }
+          ]
+        }
+      ]
+    },
+    "collapseDistanceLearning": {
+      "courses": [
+        { "term": "Aut-2022", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
+        { "term": "Aut-2023", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
+        { "term": "Aut-2023", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
+      ],
+      "workloads": [
+        "Making presentation schedule for both courses in a whole academic year.",
+        "Coordinate the course contents, timetables, assignments, and exams with tutors in a whole academic year.",
+        "Check and update the course materials. Address students learning issues."
+      ]
+    }
+  },
+  "ZH_TW": {
+    "collapseFaceToFace": {
+      "courses": [
+        { "term": "Aut-2022", "code": "COMP S362F", "credits": 5, "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
+        { "term": "Spr-2023", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
+        { "term": "Spr-2023", "code": "COMP S209F", "credits": 5, "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
+        { "term": "Aut-2023", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Spr-2024", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Aut-2024", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S381W", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": 3, "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
+        { "term": "Aut-2024", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Spr-2025", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2025", "code": "COMP S382W", "credits": 5, "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2025", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
+        { "term": "Aut-2025", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
+        { "term": "Aut-2025", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
+        { "term": "Spr-2026", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": 3, "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
+      ],
+      "course_details": [
+        {
+          "code": "COMP S381F",
+          "contents": ["Contents: Cloud server concepts and technologies including Node.js, NoSQL, MongoDB, MVC, Express.js, EJS, Docker, Oauth, Cloud platform, and Virtual Machine."],
+          "outcomes": ["Outcomes: Students understand and learn cloud server development technologies and complete a cloud server project."]
+        },
+        {
+          "code": "COMP S362F",
+          "contents": ["Contents: Concurrent network concepts and programming technologies including livelock, message passing, asynchronous communications, packet switching, Diango, Flack, Python, Programming testing and development tools."],
+          "outcomes": ["Outcomes: Students understand, learn and implement a concurrent network server project using Python."]
+        },
+        {
+          "code": "COMP S382F",
+          "contents": ["Contents: Fundamental data mining technologies including data preprocessing and machine learning algorithms."],
+          "outcomes": ["Outcomes: Students understand, learn and implement data preparation, processing, and mining processes (RapidMiner)."]
+        },
+        {
+          "code": "COMP S460F",
+          "contents": ["Contents: Advanced data mining technologies including curve fitting, dimension reduction, kernel trick, regularization, and model assessment techniques."],
+          "outcomes": ["Outcomes: Students understand, learn and implement the learned technologies for solving a real problem."]
+        },
+        {
+          "code": "COMP S456F",
+          "fyp_projects": [
+            { "academic_year": "2022~2023", "group": 1, "description": "Group 1 developed a scanning enabled personalized calendar (UI, database and function design).", "url": null },
+            { "academic_year": "2022~2023", "group": 2, "description": "Group 2 developed a personalized calendar for travelers (UI, database and function design).", "url": null },
+            { "academic_year": "2022~2023", "group": 3, "description": "Group 3 developed a waste classification and detection system (including data collection, model training, and system integration).", "url": "https://www.hkmu.edu.hk/st/computing/fyp/greenstar/" },
+            { "academic_year": "2022~2023", "group": 4, "description": "Group 4 developed a video content searching and management system (system integrated with AI).", "url": null },
+            { "academic_year": "2023~2024", "group": 1, "description": "Group 1 developed a toilet finder app in Hong Kong (UI, database and function design).", "url": null },
+            { "academic_year": "2023~2024", "group": 2, "description": "Group 2 developed an AI-powered daily event calendar (system integrated with AI).", "url": null },
+            { "academic_year": "2023~2024", "group": 3, "description": "Group 3 developed an AI waste classification application (system integrated with AI).", "url": null },
+            { "academic_year": "2023~2024", "group": 4, "description": "Group 4 developed an Android calender app tailor-made for students (UI, database and function design).", "url": null },
+            { "academic_year": "2024~2025", "group": 1, "description": "Group 1 developed a computer interaction system for the disabled using EEG headsets and eyetrackers.", "url": null },
+            { "academic_year": "2024~2025", "group": 2, "description": "Group 2 developed a web3 platform for Electronic Health Record Sharing.", "url": null },
+            { "academic_year": "2024~2025", "group": 3, "description": "Group 3 developed a web3 social media platform.", "url": "https://www.hkmu.edu.hk/st/uncategorized/best-classico-mockup/" },
+            { "academic_year": "2024~2025", "group": 4, "description": "Group 4 developed a mobile mobility app that integrates multiple mobility methods in HK.", "url": null },
+            { "academic_year": "2025~2026", "group": 1, "description": "Group 1 aims to develop a UAV-based mountain search and rescue system.", "url": null },
+            { "academic_year": "2025~2026", "group": 2, "description": "Group 2 aims to develop an AI-powered mobility app in HK.", "url": null },
+            { "academic_year": "2025~2026", "group": 3, "description": "Group 3 aims to develop a video-based drone behavior detection and monitoring system.", "url": null },
+            { "academic_year": "2025~2026", "group": 4, "description": "Group 4 aims to develop a Web3.0 app to enhance cybersecurity.", "url": null },
+            { "academic_year": "2025~2026", "group": 5, "description": "Group 5 aims to develop a VR app for route navigation.", "url": null }
+          ]
+        }
+      ]
+    },
+    "collapseDistanceLearning": {
       "courses": [
         { "term": "Aut-2022", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
         { "term": "Aut-2023", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
@@ -86,3 +257,4 @@
       ]
     }
   }
+}
