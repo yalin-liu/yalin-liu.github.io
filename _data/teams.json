@@ -35,7 +35,7 @@
             "preferences": "Those with a master's degree or above and published journal papers are preferred."
           }
         ],
-        "contact_email": "ylliu@hkmu.edu.hk"
+        "contact_email": "%EMAIL%"
       },
       "team_members": {
         "postdoctoral_researchers": [
@@ -183,7 +183,7 @@
             "preferences": "拥有硕士或以上学位并发表过期刊论文者优先。"
           }
         ],
-        "contact_email": "ylliu@hkmu.edu.hk"
+        "contact_email": "%EMAIL%"
       },
       "team_members": {
         "postdoctoral_researchers": [
@@ -331,7 +331,7 @@
             "preferences": "擁有碩士或以上學位並發表過期刊論文者優先。"
           }
         ],
-        "contact_email": "ylliu@hkmu.edu.hk"
+        "contact_email": "%EMAIL%"
       },
       "team_members": {
         "postdoctoral_researchers": [

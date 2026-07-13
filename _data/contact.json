@@ -26,14 +26,14 @@
     {
       "id": "email",
       "icon": "fa-envelope",
-      "link": "mailto:ylliu@hkmu.edu.hk",
+      "link": "mailto:%EMAIL%",
       "title": "Email",
       "label": {
         "en": "Email",
         "zh_TW": "電子郵件",
         "zh_CN": "电子邮件"
       },
-      "value": "ylliu@hkmu.edu.hk"
+      "value": "%EMAIL%"
     },
     {
       "id": "address",
