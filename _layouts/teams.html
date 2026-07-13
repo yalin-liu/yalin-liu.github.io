@@ -89,8 +89,11 @@
             });
             $('#positions-list').html(positionsHtml);
             $('#contact-desc').text(langData.ui.contact_desc);
-            $('#contact-email').attr('href', 'mailto:' + langData.recruitment.contact_email)
-                               .text(langData.recruitment.contact_email);
+
+            const CONTACT_EMAIL = "{{ site.email }}";
+            rsEmail = langData.recruitment.contact_email.replace(/%EMAIL%/g, CONTACT_EMAIL);
+            $('#contact-email').attr('href', 'mailto:' + rsEmail)
+                               .text(rsEmail);
     
     
             // ==========================================

@@ -22,6 +22,7 @@
           const $container = $('#contact-container');
           $container.empty();
         
+          const CONTACT_EMAIL = "{{ site.email }}";
           contactData.forEach(item => {
             const localizedLabel = item.label[currentLang] || item.label['en'];
         
@@ -29,12 +30,13 @@
             if (typeof item.value === 'object') {
               localizedValue = item.value[currentLang] || item.value['en'];
             } else {
-              localizedValue = item.value;
+              localizedValue = item.value.replace(/%EMAIL%/g, CONTACT_EMAIL);
             }
             
             let contentHtml = '';
             if (item.link) {
-              contentHtml = `<a href="${item.link}" title="${item.title}" target="_blank">${localizedValue}</a>`;
+              rsEmail = item.link.replace(/%EMAIL%/g, CONTACT_EMAIL);
+              contentHtml = `<a href="${rsEmail}" title="${item.title}" target="_blank">${localizedValue}</a>`;
             } else {
               contentHtml = localizedValue;
             }
