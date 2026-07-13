@@ -6,20 +6,31 @@
 <body>
     {% include sidebar-container.html %}
     {% include language-switcher.html %}
+
+    {% include loading.html %}
     
     <div class="container-fluid">
-        <div class="wrapper">
-            <div class="content">
-                {{ content }}
-            </div>
-            {% include copyright.html %}
+      <div class="wrapper">
+        <div class="content">
+          {{ content }}
         </div>
+        {% include copyright.html %}
+      </div>
     </div>
 
     <script>
         $(document).ready(function () {
+          const rawResumeObj = {{ site.data.resume | jsonify }};
           const rawPublicationsObj = {{ site.data.publications | jsonify }};
           const currentLang = "{{ page.language }}" || "en"; 
+
+          if (rawResumeObj) {
+            renderEducation(rawResumeObj.education, currentLang, "#education-list");
+            renderWorkingExperience(rawResumeObj.working_experience, currentLang, "#working-list");
+            renderResearchProjects(rawResumeObj.research_projects, currentLang, "#project-list");
+            renderQualifications(rawResumeObj.professional_qualifications, currentLang, "#qualification-container");
+            renderAwards(rawResumeObj.awards_and_honors, currentLang, "#award-list");
+          }
         
           if (rawPublicationsObj) {
             renderPublications(rawPublicationsObj.journal, currentLang, '.journal-list');
@@ -27,7 +38,116 @@
             renderPrepaint(rawPublicationsObj.preprint, currentLang, '.preprint-list');
             renderPatents(rawPublicationsObj.patent, currentLang, '.patent-list');
           }
+
+          window.hideLoadingScreen('#main-content');
         });
+
+        function renderEducation(section, lang, selector) {
+          if (!section || !section.dataset) return;
+          let html = "";
+          section.dataset.forEach(item => {
+            const institution = item.institution[lang] || item.institution.en;
+            const degree = item.degree[lang] || item.degree.en;
+            const supervisor = item.supervisor ? (item.supervisor[lang] || item.supervisor.en) : "";
+            const thesis = item.thesis[lang] || item.thesis.en;
+            
+            let supervisorHtml = supervisor ? `; (Supervisor: ${supervisor})` : "";
+            
+            html += `<li>
+              <span>${item.date}:</span> ${institution}; ${degree}${supervisorHtml}; 
+              Thesis: ${thesis}
+              ${item.link ? `[<a href="${item.link}" target="_blank">Link</a>]` : ''}
+            </li>`;
+          });
+          $(selector).html(html);
+        }
+
+        // B. 渲染工作經驗
+        function renderWorkingExperience(section, lang, selector) {
+          if (!section || !section.dataset) return;
+          let html = "";
+          section.dataset.forEach(item => {
+            const role = item.role[lang] || item.role.en;
+            const department = item.department[lang] || item.department.en;
+            
+            html += `<li>
+              <span>${item.date}:</span> 
+              ${item.link ? `<a href="${item.link}" target="_blank">${role}</a>` : role}, 
+              ${department}
+            </li>`;
+          });
+          $(selector).html(html);
+        }
+
+        function renderResearchProjects(section, lang, selector) {
+          if (!section || !section.dataset) return;
+          let html = "";
+          section.dataset.forEach(item => {
+            const role = item.role[lang] || item.role.en;
+            const title = item.title[lang] || item.title.en;
+            const funding = item.funding_body[lang] || item.funding_body.en;
+            
+            let amountStr = item.amount ? `, ${item.amount}` : "";
+            let refNoStr = item.project_no ? `, under Project Reference No.: ${item.project_no}` : "";
+
+            html += `<li>
+              <span>[${item.id}]</span> ${item.date}, 
+              <span class="highlight">${role}</span>, 
+              "${title}," ${funding}${amountStr}${refNoStr}. 
+              ${item.link ? `[<a href="${item.link}" target="_blank">Link</a>]` : ''}
+            </li>`;
+          });
+          $(selector).html(html);
+        }
+
+        function renderQualifications(section, lang, selector) {
+          if (!section) return;
+          let html = "";
+
+          if (section.editor_activities && section.editor_activities.length > 0) {
+            html += `<h4>Editor Activities for International Journals</h4><ul>`;
+            section.editor_activities.forEach(item => {
+              let title = item.title[lang] || item.title.en;
+              title = title.replace(/(MDPI Network|MDPI Electronics)/g, `<a href="${item.link}" target="_blank">$1</a>`);
+              html += `<li><span>${item.date}</span> ${title}</li>`;
+            });
+            html += `</ul>`;
+          }
+
+          if (section.reviewing_journals && section.reviewing_journals.length > 0) {
+            html += `<h4>Reviewing Activities for International Journals</h4><ul>`;
+            section.reviewing_journals.forEach(item => {
+              let title = item.title[lang] || item.title.en;
+              html += `<li><span>${item.date}</span> ${title}</li>`;
+            });
+            html += `</ul>`;
+          }
+
+          if (section.reviewing_conferences && section.reviewing_conferences.length > 0) {
+            html += `<h4>Reviewing Activities for International Conferences</h4><ul>`;
+            section.reviewing_conferences.forEach(item => {
+              let title = item.title[lang] || item.title.en;
+              title = title.replace(/(NCIC)/g, `<a href="${item.ncic_link}" target="_blank">$1</a>`);
+              title = title.replace(/(WOCC)/g, `<a href="${item.wocc_link}" target="_blank">$1</a>`);
+              html += `<li><span>${item.date}</span> ${title}</li>`;
+            });
+            html += `</ul>`;
+          }
+
+          $(selector).html(html);
+        }
+
+        function renderAwards(section, lang, selector) {
+          if (!section || !section.dataset) return;
+          let html = "";
+          section.dataset.forEach(item => {
+            const title = item.title[lang] || item.title.en;
+            html += `<li>
+              ${item.link ? `<a href="${item.link}" target="_blank">${title}</a>` : title}
+            </li>`;
+          });
+          $(selector).html(html);
+        }
 
         function renderConference(sectionObj, lang, selector) {
             if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
@@ -70,11 +190,11 @@
             const totalRecords = sortedData.length;
 
             sortedData.forEach((item, index) => {
-                const title = (lang === 'en')? `"${item.title[lang]},"` : `「${item.title[lang]}，」"`;
-                const source = item.source[lang] || item.source.en;
-                const patentYear = new Date(item.date_of_publication).getFullYear();
+              const title = (lang === 'en')? `"${item.title[lang]},"` : `「${item.title[lang]}，」"`;
+              const source = item.source[lang] || item.source.en;
+              const patentYear = new Date(item.date_of_publication).getFullYear();
 
-                htmlContent += `<li>${patentYear} ~ ${title} ${source}</li>`;
+              htmlContent += `<li>${patentYear} ~ ${title} ${source}</li>`;
             });
         
           $(selector).html(htmlContent);
