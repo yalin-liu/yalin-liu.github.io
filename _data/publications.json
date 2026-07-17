@@ -21,7 +21,8 @@
           "zh_TW": "IEEE Transactions on Information Forensics and Security"
         },
         "link": "https://ieeexplore.ieee.org/document/11534870",
-        "sci_if": "8.5 in 2024",
+        "ieee_link": "https://ieeexplore.ieee.org/document/11534870",
+        "sci_if": "8.7 in 2025",
         "jcr": "Q1",
         "doi": "10.1109/TIFS.2026.3696571",
         "citation_detail": "vol. 21, pp. 5848-5863",
@@ -50,7 +51,7 @@
           "zh_TW": "IEEE Transactions on Vehicular Technology"
         },
         "link": "https://ieeexplore.ieee.org/document/11494673",
-        "sci_if": "7.1 in 2024",
+        "sci_if": "7.5 in 2025",
         "jcr": "Q1",
         "doi": "10.1109/TVT.2026.3687627",
         "citation_detail": "pp. 1-6",
@@ -79,7 +80,8 @@
           "zh_TW": "IEEE Wireless Communications Letters"
         },
         "link": "https://ieeexplore.ieee.org/document/11311547",
-        "sci_if": "5.5 in 2024",
+        "ieee_link": "https://ieeexplore.ieee.org/document/11311547",
+        "sci_if": "5.1 in 2025",
         "jcr": "Q1",
         "doi": "10.1109/LWC.2025.3647030",
         "citation_detail": "vol. 15, pp. 1040-1044",
@@ -108,7 +110,8 @@
           "zh_TW": "Computer Networks"
         },
         "link": "https://www.sciencedirect.com/science/article/pii/S1389128625000945",
-        "sci_if": "4.6 in 2024",
+        "ieee_link": "https://www.sciencedirect.com/science/article/pii/S1389128625000945",
+        "sci_if": "4.7 in 2025",
         "jcr": "Q1",
         "doi": "10.1016/j.comnet.2025.111126",
         "citation_detail": "vol. 261, pp. 111126",
@@ -137,7 +140,8 @@
           "zh_TW": "IEEE Transactions on Cognitive Communications and Networking"
         },
         "link": "https://ieeexplore.ieee.org/abstract/document/10764779",
-        "sci_if": "7 in 2024",
+        "ieee_link": "https://ieeexplore.ieee.org/abstract/document/10764779",
+        "sci_if": "8 in 2025",
         "jcr": "Q1",
         "doi": "10.1109/TCCN.2024.3504477",
         "citation_detail": "vol. 11, no. 4, pp. 2289-2302",
@@ -167,7 +171,7 @@
         },
         "link": "/papers/Alin_JSAC_A minor-corrected version_.pdf",
         "ieee_link": "https://ieeexplore.ieee.org/document/10438999",
-        "sci_if": "17.2 in 2024",
+        "sci_if": "16.8 in 2025",
         "jcr": "Q1",
         "doi": "10.1109/JSAC.2024.3365891",
         "citation_detail": "vol. 42, no. 5, pp. 1387-1402",
@@ -196,7 +200,8 @@
           "zh_TW": "IEEE Transactions on Vehicular Technology"
         },
         "link": "https://ieeexplore.ieee.org/document/10104142",
-        "sci_if": "7.1 in 2024",
+        "ieee_link": "https://ieeexplore.ieee.org/document/10104142",
+        "sci_if": "7.5 in 2025",
         "jcr": "Q1",
         "doi": "10.1109/TVT.2023.3268025",
         "citation_detail": "vol. 72, no. 9, pp. 12195-12207",
@@ -225,7 +230,8 @@
           "zh_TW": "IEEE Network"
         },
         "link": "https://ieeexplore.ieee.org/document/9762455",
-        "sci_if": "6.3 in 2024",
+        "ieee_link": "https://ieeexplore.ieee.org/document/9762455",
+        "sci_if": "8.8 in 2025",
         "jcr": "Q1",
         "doi": "10.1109/MNET.013.2000385",
         "citation_detail": "vol. 36, no. 2, pp. 146-152",
@@ -254,8 +260,9 @@
           "zh_TW": "Security and Communication Networks"
         },
         "link": "https://www.hindawi.com/journals/scn/2021/9930608/",
-        "sci_if": "1.968 in 2021",
-        "jcr": "Q3",
+        "ieee_link": "https://www.hindawi.com/journals/scn/2021/9930608/",
+        "sci_if": "",
+        "jcr": "",
         "doi": "10.1155/2021/9930608",
         "citation_detail": "vol. 2021, no. 1, pp. 9930608",
         "extra": "",
@@ -283,6 +290,7 @@
           "zh_TW": "Computer Communications"
         },
         "link": "https://www.sciencedirect.com/science/article/pii/S0140366419318754",
+        "ieee_link": "https://www.sciencedirect.com/science/article/pii/S0140366419318754",
         "sci_if": "4.3 in 2024",
         "jcr": "Q2",
         "doi": "10.1016/j.comcom.2020.03.020",
@@ -312,8 +320,9 @@
           "zh_TW": "Computer Communications"
         },
         "link": "https://www.sciencedirect.com/science/article/pii/S0140366419304852",
-        "sci_if": "4.3 in 2024",
-        "jcr": "Q2",
+        "ieee_link": "https://www.sciencedirect.com/science/article/pii/S0140366419304852",
+        "sci_if": "4.2 in 2025",
+        "jcr": "Q1",
         "doi": "10.1016/j.comcom.2020.03.020",
         "citation_detail": "vol. 155, pp. 184-196",
         "extra": "(Google scholar citations: 293)",
@@ -341,6 +350,7 @@
           "zh_TW": "物聯網學報"
         },
         "link": "https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf",
+        "ieee_link": "https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf",
         "sci_if": "",
         "jcr": "",
         "doi": "10.11959/j.issn.2096−3750.2019.00131",
