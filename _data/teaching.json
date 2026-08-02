@@ -2,26 +2,26 @@
   "en": {
     "collapseFaceToFace": {
       "courses": [
-        { "term": "Aut-2022", "code": "COMP S362F", "credits": 5, "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Aut-2022", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Aut-2022", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
-        { "term": "Spr-2023", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
-        { "term": "Spr-2023", "code": "COMP S209F", "credits": 5, "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
-        { "term": "Aut-2023", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Spr-2024", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
-        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
-        { "term": "Aut-2024", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
-        { "term": "Aut-2024", "code": "COMP S381W", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
-        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": 3, "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
-        { "term": "Aut-2024", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
-        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
-        { "term": "Spr-2025", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
-        { "term": "Spr-2025", "code": "COMP S382W", "credits": 5, "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
-        { "term": "Aut-2025", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
-        { "term": "Aut-2025", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
-        { "term": "Aut-2025", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
-        { "term": "Spr-2026", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
-        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": 3, "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
+        { "term": "Aut-2022", "code": "COMP S362F", "credits": "5-credit", "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
+        { "term": "Spr-2023", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
+        { "term": "Spr-2023", "code": "COMP S209F", "credits": "5-credit", "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
+        { "term": "Aut-2023", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Spr-2024", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Aut-2024", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S381W", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": "3-credit", "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
+        { "term": "Aut-2024", "code": "COMP S460F", "credits": "5-credit", "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Spr-2025", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2025", "code": "COMP S382W", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2025", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
+        { "term": "Aut-2025", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
+        { "term": "Aut-2025", "code": "COMP S460F", "credits": "5-credit", "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
+        { "term": "Spr-2026", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": "3-credit", "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
       ],
       "course_details": [
         {
@@ -70,13 +70,13 @@
     },
     "collapseDistanceLearning": {
       "courses": [
-        { "term": "Aut-2022", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
-        { "term": "Aut-2023", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
-        { "term": "Aut-2023", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
-        { "term": "Aut-2024", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
-        { "term": "Aut-2024", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
-        { "term": "Aut-2025", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
-        { "term": "Aut-2025", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
+        { "term": "Aut-2022", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
+        { "term": "Aut-2023", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
+        { "term": "Aut-2023", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
       ],
       "workloads": [
         "Making presentation schedule for both courses in a whole academic year.",
@@ -88,26 +88,26 @@
   "zh_CN": {
     "collapseFaceToFace": {
       "courses": [
-        { "term": "Aut-2022", "code": "COMP S362F", "credits": 5, "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Aut-2022", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Aut-2022", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
-        { "term": "Spr-2023", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
-        { "term": "Spr-2023", "code": "COMP S209F", "credits": 5, "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
-        { "term": "Aut-2023", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Spr-2024", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
-        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
-        { "term": "Aut-2024", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
-        { "term": "Aut-2024", "code": "COMP S381W", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
-        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": 3, "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
-        { "term": "Aut-2024", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
-        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
-        { "term": "Spr-2025", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
-        { "term": "Spr-2025", "code": "COMP S382W", "credits": 5, "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
-        { "term": "Aut-2025", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
-        { "term": "Aut-2025", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
-        { "term": "Aut-2025", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
-        { "term": "Spr-2026", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
-        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": 3, "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
+        { "term": "Aut-2022", "code": "COMP S362F", "credits": "5-credit", "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
+        { "term": "Spr-2023", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
+        { "term": "Spr-2023", "code": "COMP S209F", "credits": "5-credit", "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
+        { "term": "Aut-2023", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Spr-2024", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Aut-2024", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S381W", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": "3-credit", "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
+        { "term": "Aut-2024", "code": "COMP S460F", "credits": "5-credit", "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Spr-2025", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2025", "code": "COMP S382W", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2025", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
+        { "term": "Aut-2025", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
+        { "term": "Aut-2025", "code": "COMP S460F", "credits": "5-credit", "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
+        { "term": "Spr-2026", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": "3-credit", "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
       ],
       "course_details": [
         {
@@ -156,13 +156,13 @@
     },
     "collapseDistanceLearning": {
       "courses": [
-        { "term": "Aut-2022", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
-        { "term": "Aut-2023", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
-        { "term": "Aut-2023", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
-        { "term": "Aut-2024", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
-        { "term": "Aut-2024", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
-        { "term": "Aut-2025", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
-        { "term": "Aut-2025", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
+        { "term": "Aut-2022", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
+        { "term": "Aut-2023", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
+        { "term": "Aut-2023", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
       ],
       "workloads": [
         "Making presentation schedule for both courses in a whole academic year.",
@@ -174,26 +174,26 @@
   "ZH_TW": {
     "collapseFaceToFace": {
       "courses": [
-        { "term": "Aut-2022", "code": "COMP S362F", "credits": 5, "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Aut-2022", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Aut-2022", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
-        { "term": "Spr-2023", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
-        { "term": "Spr-2023", "code": "COMP S209F", "credits": 5, "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
-        { "term": "Aut-2023", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
-        { "term": "Spr-2024", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
-        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
-        { "term": "Aut-2024", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
-        { "term": "Aut-2024", "code": "COMP S381W", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
-        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": 3, "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
-        { "term": "Aut-2024", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
-        { "term": "Aut-2024", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
-        { "term": "Spr-2025", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
-        { "term": "Spr-2025", "code": "COMP S382W", "credits": 5, "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
-        { "term": "Aut-2025", "code": "COMP S456F", "credits": 10, "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
-        { "term": "Aut-2025", "code": "COMP S381F", "credits": 5, "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
-        { "term": "Aut-2025", "code": "COMP S460F", "credits": 5, "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
-        { "term": "Spr-2026", "code": "COMP S382F", "credits": 5, "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
-        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": 3, "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
+        { "term": "Aut-2022", "code": "COMP S362F", "credits": "5-credit", "title": "Concurrent and Network Programming", "size": 47, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 147, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Aut-2022", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups) (new)" },
+        { "term": "Spr-2023", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 95, "roles": "CC & lecturer & tutor (new)" },
+        { "term": "Spr-2023", "code": "COMP S209F", "credits": "5-credit", "title": "Data Structures, Algorithms and Problem Solving", "size": null, "roles": "tutor (new)" },
+        { "term": "Aut-2023", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 195, "roles": "CC & lecturer (with 1 TA) (new)" },
+        { "term": "Spr-2024", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 119, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Aut-2024", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 220, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S381W", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 17, "roles": "CC & lecturer & tutor (with 2 TAs)" },
+        { "term": "Aut-2024", "code": "COMP S81SEF", "credits": "3-credit", "title": "Server-side Technologies and Cloud Computing", "size": 52, "roles": "CC & lecturer & tutor (with 1 TA)" },
+        { "term": "Aut-2024", "code": "COMP S460F", "credits": "5-credit", "title": "Advanced Topics in Data Mining", "size": 52, "roles": "CC & lecturer (with 2 TAs) (new)" },
+        { "term": "Aut-2024", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (4 groups)" },
+        { "term": "Spr-2025", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 128, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2025", "code": "COMP S382W", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 2, "roles": "CC & lecturer & tutor" },
+        { "term": "Aut-2025", "code": "COMP S456F", "credits": "10-credit", "title": "Software System Development Project", "size": null, "roles": "Supervisor of FYP (5 groups)" },
+        { "term": "Aut-2025", "code": "COMP S381F", "credits": "5-credit", "title": "Server-side Technologies and Cloud Computing", "size": 84, "roles": "tutor" },
+        { "term": "Aut-2025", "code": "COMP S460F", "credits": "5-credit", "title": "Advanced Topics in Data Mining", "size": 58, "roles": "CC & lecturer & tutor (with 1 TAs)" },
+        { "term": "Spr-2026", "code": "COMP S382F", "credits": "5-credit", "title": "Data Mining and Analytics", "size": 98, "roles": "CC & lecturer & tutor" },
+        { "term": "Spr-2026", "code": "COMP 4820SEF", "credits": "3-credit", "title": "Data Mining and Analytics", "size": 142, "roles": "CC & lecturer" }
       ],
       "course_details": [
         {
@@ -242,13 +242,13 @@
     },
     "collapseDistanceLearning": {
       "courses": [
-        { "term": "Aut-2022", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
-        { "term": "Aut-2023", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
-        { "term": "Aut-2023", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
-        { "term": "Aut-2024", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
-        { "term": "Aut-2024", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
-        { "term": "Aut-2025", "code": "IT S101", "credits": 10, "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
-        { "term": "Aut-2025", "code": "IT 1010SED", "credits": 6, "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
+        { "term": "Aut-2022", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 43, "roles": "CC (new)" },
+        { "term": "Aut-2023", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 17, "roles": "CC" },
+        { "term": "Aut-2023", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 21, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 8, "roles": "CC" },
+        { "term": "Aut-2024", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 37, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT S101", "credits": "10-credit", "title": "Introduction to Information and Communications Technology", "size": 11, "roles": "CC" },
+        { "term": "Aut-2025", "code": "IT 1010SED", "credits": "6-credit", "title": "Introduction to Information and Communications Technology", "size": 13, "roles": "CC" }
       ],
       "workloads": [
         "Making presentation schedule for both courses in a whole academic year.",
