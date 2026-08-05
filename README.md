@@ -18,3 +18,7 @@ This is [my homepage](https://yalin-liu.github.io/), which is built on Github an
 
 
 
+# Using Docker Instructions
+1. If you need to change the port, please check the `docker-compose.yml` file.
+2. Run `docker-compose up` and wait for the installation complete.
+3. Open your browser and enter URL `http://localhost:4000`
