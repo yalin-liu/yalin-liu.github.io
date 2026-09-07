@@ -367,6 +367,37 @@
     "prefix": "c", 
     "dataset": [
       {
+        "id": "pub_c16",
+        "title": {
+          "en": "Sensing-Assisted Anti-Blockage Pinching-Antenna Systems For Indoor Immersive Communications (Accepted)",
+          "zh_CN": "Sensing-Assisted Anti-Blockage Pinching-Antenna Systems For Indoor Immersive Communications (Accepted)",
+          "zh_TW": "Sensing-Assisted Anti-Blockage Pinching-Antenna Systems For Indoor Immersive Communications (Accepted)"
+        },
+        "type": "conference",
+        "authors": {
+          "en": "Yi Hong, Yalin Liu*, Yulei Wang, and Yaru Fu",
+          "zh_CN": "Yi Hong, Yalin Liu*, Yulei Wang, and Yaru Fu",
+          "zh_TW": "Yi Hong, Yalin Liu*, Yulei Wang, and Yaru Fu"
+        },
+        "source": {
+          "en": "IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)",
+          "zh_CN": "IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)",
+          "zh_TW": "IEEE 23rd International Conference on Mobile Ad Hoc and Smart Systems (MASS)"
+        },
+        "link": "https://doi.org/10.48550/arXiv.2608.21859",
+        "sci_if": "",
+        "jcr": "",
+        "doi": "",
+        "citation_detail": "",
+        "extra": "",
+        "date_of_conference": "21-23 October, 2026",
+        "place": "Hong Kong, China",
+        "date_of_publication": "",
+        "date_of_accepted": "",
+        "pages": "",
+        "volume": ""
+      },
+      {
         "id": "pub_c01",
         "title": {
           "en": "Sky-Ear: An Unmanned Aerial Vehicle-Enabled Victim Sound Detection and Localization System (Accepted)",
