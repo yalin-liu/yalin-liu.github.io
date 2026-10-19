@@ -22,12 +22,6 @@ Use the sidebar to review the six main sections and the language controls to swi
 
 The website changes described below are contained in commit [`5ab0098`](https://github.com/yalin-liu/yalin-liu.github.io/commit/5ab00986f291e76f54673d8f2af53b6463453e9c), based on production commit `b40ddf8`. Later README or branch-name updates do not change the rendered website.
 
-## Basis and scope
-
-The review used `Tips to Mingyang_2026_10_9.docx`, `website_update_guide.pdf`, the meeting transcript and detailed task list, and the supplied annotated notes. Subsequent decisions about FYP mapping, translations, official names, project dates, thesis files, team photographs, and member names are incorporated where approved. The personal profile expansion uses the supplied Mingyang Wang CV.
-
-The final acceptance scope is **desktop**; no mobile-readiness claim is made. Original materials and detailed audit evidence are retained separately; local working notes are not published as website content.
-
 ## Update summary
 
 ### 1. Teaching and FYP supervision
