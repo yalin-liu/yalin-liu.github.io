@@ -111,17 +111,7 @@ Updates to existing records:
 - Added appropriate Simplified and Traditional Chinese font fallbacks and improved word wrapping without forcing breaks inside ordinary words.
 - Added Simplified and Traditional Chinese routes for the JSAC correction and recruitment articles, with translated titles, article content and navigation, while retaining the English routes and historical recruitment facts. Replaced the JSAC article's obsolete `Coming soon` content with the corrected paper and explanation. Language switching now preserves the corresponding article or member page.
 
-### 5. Team and Mingyang Wang profile
-
-- Updated Mingyang Wang's **team-card image** to the supplied cat photograph and added a content-version query to prevent stale browser-cache images.
-- Added a separate **personal-page portrait** using the original photograph, so the team card and personal page use their individually requested images.
-- Made the team card link to the published personal homepage using its matching language URL: [mikeahhh.github.io](https://mikeahhh.github.io/).
-- Added three local member-page routes and a dedicated profile layout. Expanded the profile from the supplied CV with introduction, research interests, education, experience, projects, publications, awards, skills and contact information. The contact email is **miwang@hkmu.edu.hk**.
-- Reused checked publication records and real source links, retaining correction notes and accepted status. Unsupported CV performance figures were not imported.
-- Corrected team-card names to **Mr. HONG YI** and **Mr. ZHANG ZEPENG** in all three languages. The publication-author form **Yi Hong** remains unchanged.
-- Translated team research-interest descriptions and added accessible labels and keyboard focus styling to linked member cards.
-
-### 6. Layout, navigation and build hygiene
+### 5. Layout, navigation and build hygiene
 
 - Corrected heading hierarchy to one page-level `h1` with logical `h2`/`h3` sections, retaining the intended visual sizes.
 - Reserved desktop space beneath the fixed language switcher on article pages, preventing title overlap.
