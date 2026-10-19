@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.language | default: 'en' | replace: '_', '-' }}">
 <head>
     {% include head.html %}
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/teams.css">
@@ -126,7 +126,19 @@
                         html += '  </div>';
                         
                         if (member.personal_website) {
-                            html += '  <a href="' + member.personal_website + '" target="_blank" class="stretched-link"></a>';
+                            var websiteUrl = member.personal_website;
+                            if (websiteUrl.charAt(0) === '/' && websiteUrl.charAt(1) !== '/') {
+                                websiteUrl = {{ site.baseurl | jsonify }} + websiteUrl;
+                            }
+                            var websiteLabel = currentLang === 'zh_CN' ? '的个人主页' :
+                                (currentLang === 'zh_TW' ? '的個人主頁' : ' — personal website');
+                            html += $('<a>', {
+                                href: websiteUrl,
+                                target: '_blank',
+                                rel: 'noopener noreferrer',
+                                class: 'stretched-link',
+                                'aria-label': member.name + websiteLabel
+                            }).prop('outerHTML');
                         }
                         html += '</div>';
                     });

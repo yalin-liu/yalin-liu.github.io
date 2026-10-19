@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.language | default: 'en' | replace: '_', '-' }}">
 <head>
     {% include head.html %}
 </head>
@@ -16,6 +16,7 @@
       </div>
     </div>
 
+    <script src="{{ site.baseurl }}/assets/js/publication-display.js"></script>
     <script>
       $(document).ready(function() {
       
@@ -35,19 +36,7 @@
         // 將分組陣列合併展平成單一陣列
         const unsortedPublications = Object.values(rawPublicationsObj).flatMap(group => group.dataset || []);
       
-        // 【核心時間排序邏輯】利用 date_of_publication 轉換成 Date 物件進行比對 (由近至遠)
-        const publications = unsortedPublications.sort(function(a, b) {
-          // For conference paper
-          if (!a.date_of_publication) {
-            return new Date(b.date_of_conference) - new Date(a.date_of_conference);
-          }
-          if (!b.date_of_publication) {
-            return new Date(b.date_of_conference) - new Date(a.date_of_conference);
-          }
-          // end of for conference paper
-
-          return new Date(b.date_of_publication) - new Date(a.date_of_publication);
-        });
+        const publications = unsortedPublications.sort((a, b) => publicationDisplay.compareByDate(a, b));
         
         function countPublicationsByType() {
           return {
@@ -91,7 +80,7 @@
           const paginatedPublications = filteredPublications.slice(startIndex, endIndex);
           
           if(paginatedPublications.length === 0) {
-            $publicationList.append('<p class="text-muted text-center py-4">No records found.</p>');
+            $publicationList.append($('<p class="text-muted text-center py-4">').text(lang.empty));
             updatePagination(0, 1);
             return;
           }
@@ -108,9 +97,9 @@
             const highlightRegExp = new RegExp('(Yalin Liu)', 'gi');
             const highlightedAuthors = localizedAuthors.replace(highlightRegExp, '<strong>$1</strong>');
             
-            const pubDate = new Date(date_of_publication);
-            const pubYear = pubDate.getFullYear();
-            const pubMonthIndex = pubDate.getMonth(); // 0-11
+            const pubDate = publicationDisplay.dateParts(date_of_publication);
+            const pubYear = pubDate ? pubDate.year : NaN;
+            const pubMonthIndex = pubDate ? pubDate.month - 1 : NaN;
             
             let dateString = '';
             if (!isNaN(pubYear)) {
@@ -123,10 +112,13 @@
               // 如果 date_of_publication 解析失敗，直接顯示原始字串作為 fallback
               dateString = date_of_publication;
             }
+            if (currentLang !== 'en') {
+              dateString = publicationDisplay.date(date_of_publication, currentLang, true);
+            }
       
             let metricBadge = '';
             if(sci_if) {
-              metricBadge += ` <span class="badge bg-warning text-dark">${lang.sciIf}: ${sci_if}</span>`;
+              metricBadge += ` <span class="badge bg-warning text-dark">${lang.sciIf}: ${publicationDisplay.impactFactor(sci_if, currentLang)}</span>`;
             }
             if(jcr) {
               metricBadge += ` <span class="badge bg-dark">${lang.jcr}: ${jcr}</span>`;
@@ -136,15 +128,20 @@
             }
             
             if(type === 'conference') {
-              localizedSource += `, ${pub.place}`;
-              dateString += lang.confYear + pub.date_of_conference;
+              localizedSource += `, ${publicationDisplay.place(pub.place, currentLang)}`;
+              dateString += lang.confYear + publicationDisplay.date(pub.date_of_conference, currentLang);
+            }
+
+            const $title = $('<h2>').addClass('card-title h5');
+            if (publicationDisplay.hasLink(pub) && !pub.link_label) {
+              $title.append($('<a>').attr({href: link, target: '_blank', rel: 'noopener noreferrer'}).text(localizedTitle));
+            } else {
+              $title.text(localizedTitle);
             }
       
             const $item = $('<div class="card mb-3 shadow-sm border-start border-4 border-primary">')
               .append($('<div class="card-body">')
-                .append($('<h5>').addClass('card-title')
-                  .append($('<a>').attr({'href': link, 'target': link === '#' ? '_self' : '_blank', 'class': isDisabled}).text(localizedTitle))
-                )
+                .append($title)
                 .append($('<div class="mb-2">')
                   .append($('<span class="' + getLabelStyle(type) + ' me-2">').text(lang.labels[type] || type))
                   .append(metricBadge)
@@ -153,6 +150,11 @@
                 .append($('<p class="card-text mb-1 italic">').text(localizedSource))
                 .append($('<p class="card-text text-secondary small">').text(dateString))
               );
+
+            if (pub.link_label) {
+              $item.find('.card-body').append($('<div>').html(publicationDisplay.link(pub, currentLang)));
+            }
+            $item.find('.card-body').append(publicationDisplay.correction(pub, currentLang));
               
             $item.appendTo($publicationList);
           });
@@ -169,7 +171,7 @@
           if (totalPages <= 1) return;
       
           const $prevLi = $('<li class="page-item">').toggleClass('disabled', activePage === 1);
-          const $prevLink = $('<a class="page-link" href="#" aria-label="Previous">&laquo;</a>').on('click', function(e) {
+          const $prevLink = $('<a class="page-link" href="#">&laquo;</a>').attr('aria-label', lang.previous).on('click', function(e) {
             e.preventDefault();
             if (activePage > 1) {
               currentPage = activePage - 1;
@@ -189,7 +191,7 @@
           }
       
           const $nextLi = $('<li class="page-item">').toggleClass('disabled', activePage === totalPages);
-          const $nextLink = $('<a class="page-link" href="#" aria-label="Next">&raquo;</a>').on('click', function(e) {
+          const $nextLink = $('<a class="page-link" href="#">&raquo;</a>').attr('aria-label', lang.next).on('click', function(e) {
             e.preventDefault();
             if (activePage < totalPages) {
               currentPage = activePage + 1;

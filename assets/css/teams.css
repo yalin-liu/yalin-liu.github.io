@@ -75,6 +75,11 @@ h1:not(.page-title), h2 {
     box-shadow: 0 5px 15px rgba(0,0,0,0.05);
 }
 
+.member-card:focus-within {
+    outline: 3px solid #003366;
+    outline-offset: 3px;
+}
+
 .member-photo {
     width: 120px;
     height: 120px;

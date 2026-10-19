@@ -139,13 +139,37 @@ a:hover {
     overflow-wrap: break-word; /* Break long words or URLs */
 }
 
+@media (min-width: 768px) {
+    .post.content-wrapper {
+        padding-top: 80px; /* Reserve space below the fixed language switcher. */
+    }
+}
+
 .content-wrapper p,
 .content-wrapper a,
 .content-wrapper ul,
 .content-wrapper li {
     max-width: 100%; /* Constrain all child elements */
     overflow-wrap: break-word; /* Break long words or URLs */
-    word-break: break-all; /* Additional breaking for very long strings */
+    word-break: normal;
+}
+
+.table-scroll-hint {
+    display: none;
+    color: #536579;
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+}
+
+.table-responsive:focus-visible {
+    outline: 2px solid #00577b;
+    outline-offset: 3px;
+}
+
+@media (max-width: 991px) {
+    .table-scroll-hint {
+        display: block;
+    }
 }
 
 /* Index page styles */

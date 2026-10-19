@@ -1,0 +1,509 @@
+{
+  "name": "Mingyang Wang",
+  "email": "miwang@hkmu.edu.hk",
+  "publications": [
+    {
+      "id": "pub_c18",
+      "year": "2026",
+      "venue": {
+        "en": "TNI-Meta Workshop · IEEE MetaCom 2026",
+        "zh_CN": "TNI-Meta 研讨会 · IEEE MetaCom 2026",
+        "zh_TW": "TNI-Meta 研討會 · IEEE MetaCom 2026"
+      }
+    },
+    {
+      "id": "pub_c01",
+      "year": "2026",
+      "venue": {
+        "en": "IEEE SPAWC 2026",
+        "zh_CN": "IEEE SPAWC 2026",
+        "zh_TW": "IEEE SPAWC 2026"
+      }
+    }
+  ],
+  "translations": {
+    "en": {
+      "name": "Mingyang Wang",
+      "secondary_name": "王明洋",
+      "role": "Research Assistant",
+      "affiliation": "Hong Kong Metropolitan University",
+      "team_since": "In the research group since March 2025",
+      "description": "Mingyang Wang at Hong Kong Metropolitan University. Research in sound detection, artificial intelligence and UAV systems for search and rescue.",
+      "intro": "I work on UAV systems for search and rescue, with an interest in connecting sound perception, artificial intelligence and mission planning.",
+      "bio_before": "I am a research assistant in ",
+      "supervisor": "Dr. Yalin Liu",
+      "bio_after": "’s group at Hong Kong Metropolitan University, which I joined in March 2025. My work includes victim sound detection and localization, and user-triggered UAV dispatching for mountain search missions.",
+      "about": "About",
+      "research": "Research interests",
+      "research_nav": "Research",
+      "publications": "Publications",
+      "contact": "Contact",
+      "research_intro": "My research brings together three connected areas.",
+      "research_descriptions": [
+        "Detecting human sounds and localizing people in UAV-assisted search and rescue.",
+        "Exploring learning-based methods for sound perception and intelligent sensing.",
+        "Connecting user information, mission planning and UAV execution for mountain search."
+      ],
+      "publications_intro": "Selected collaborative work on UAV-assisted search and rescue.",
+      "accepted": "Accepted",
+      "paper_link": "Read on arXiv",
+      "corrected_link": "Read corrected version on arXiv",
+      "correction": "Version note",
+      "contact_intro": "For research discussions on UAV systems, sound perception and search and rescue, please get in touch.",
+      "email_label": "Email",
+      "team_link": "Research group",
+      "back_to_team": "Back to the team",
+      "skip": "Skip to content",
+      "language_label": "Language",
+      "navigation_label": "Page sections",
+      "avatar_alt": "Portrait of Mingyang Wang",
+      "bio_education": "I received my BSc (Honours) in Computer Science from HKMU in June 2026, following earlier studies in optoelectronics. Alongside my research, I co-founded GuTelligence, a smart-toilet health-monitoring project.",
+      "projects_label": "Projects",
+      "projects_intro": "From research ideas to integrated software and hardware prototypes.",
+      "background": "Background",
+      "education_label": "Education",
+      "experience_label": "Research & industry experience",
+      "recognition_label": "Awards & skills",
+      "awards_label": "Awards",
+      "skills_label": "Technical skills",
+      "certifications_label": "Courses & certifications",
+      "languages_label": "Languages",
+      "back_to_top": "Back to top",
+      "education": [
+        {
+          "institution": "Hong Kong Metropolitan University",
+          "period": "Sep 2023 – Jun 2026",
+          "qualification": "BSc (Honours) in Computer Science",
+          "detail": "Department of Electronic Engineering and Computer Science",
+          "score": "CGPA: 3.47 / 4.0"
+        },
+        {
+          "institution": "Shenzhen Institute of Information Technology",
+          "period": "Sep 2019 – Jun 2022",
+          "qualification": "Associate Degree in Optoelectronics",
+          "detail": "Shenzhen, China · Outstanding Graduate",
+          "score": "GPA: 3.79 / 5.0"
+        }
+      ],
+      "projects": [
+        {
+          "title": "UAV Rescue System",
+          "kind": "Final Year Project",
+          "period": "2025 – 2026",
+          "role": "Group Leader / Systems Integration Engineer",
+          "organization": "Hong Kong Metropolitan University · Supervisor: Dr. Yalin Liu",
+          "points": [
+            "Led the design and integration of three subsystems: an offline-first mobile application, a Python ground-station command-and-control platform, and an autonomous quadrotor.",
+            "Integrated ground-station search-path generation with UAV mission execution; the project included software verification and an outdoor autonomous-flight demonstration."
+          ],
+          "recognition": "HKMU’s 2025–2026 Best Final Year Projects (Computing)",
+          "link": "https://www.hkmu.edu.hk/st/computing/fyp/uav-rescue-system/",
+          "link_label": "University project showcase"
+        },
+        {
+          "title": "GuTelligence",
+          "kind": "AI health-monitoring project",
+          "period": "2025 – Present",
+          "role": "Co-Founder & Chief Technology Officer",
+          "organization": "MetroChallenge · Hong Kong Metropolitan University",
+          "points": [
+            "Led a smart-toilet health-monitoring prototype that connects an ESP32-S3 imaging module, cloud image analysis using CNN, U-Net and ViT models, and a cross-platform application.",
+            "Directed technical development and hardware–software integration toward pilot testing, with support secured through the university’s entrepreneurship programme."
+          ],
+          "recognition": "MetroChallenge 2025 · Entrepreneurial Project Award",
+          "link": "https://www.hkmu.edu.hk/sao/entrepreneurship/hkmu-entrepreneurship-day/e-day-2025-highlight/",
+          "link_label": "University award announcement"
+        }
+      ],
+      "experience": [
+        {
+          "role": "Research Assistant",
+          "organization": "Hong Kong Metropolitan University",
+          "period": "Mar 2025 – Present",
+          "context": "Supervisor: Dr. Yalin Liu",
+          "description": "Research and technical support for the Space-Air-Ground Integrated Networks project, including UAV acoustic-sensing experiments, dataset construction and model training for the Sky-Ear system."
+        },
+        {
+          "role": "Electronic Engineering Intern",
+          "organization": "Growgreen Limited",
+          "period": "Jun 2025 – Jul 2025",
+          "context": "Hong Kong Science Park, Sha Tin",
+          "description": "Developed and debugged smart-camera hardware and AI-based object-tracking and image-processing functions using OpenCV and FFmpeg for education and environmental-monitoring products."
+        }
+      ],
+      "awards": [
+        {
+          "name": "Youth Entrepreneurship Pioneer",
+          "issuer": "2026 GBA Youth Entrepreneurship Festival",
+          "date": "Jan 2026"
+        },
+        {
+          "name": "Entrepreneurial Project Award",
+          "issuer": "MetroChallenge 2025 · Hong Kong Metropolitan University",
+          "date": "Jul 2025"
+        },
+        {
+          "name": "Outstanding Graduate",
+          "issuer": "Shenzhen Institute of Information Technology",
+          "date": "Jul 2022"
+        },
+        {
+          "name": "Third Prize · Optoelectronics Competition",
+          "issuer": "Shenzhen Institute of Information Technology",
+          "date": "Jul 2021"
+        }
+      ],
+      "skills": [
+        {
+          "label": "Programming",
+          "items": "Python · Java · C / C++"
+        },
+        {
+          "label": "AI & machine learning",
+          "items": "PyTorch · TensorFlow · OpenCV"
+        },
+        {
+          "label": "Embedded systems & robotics",
+          "items": "Arduino · STM32 · ROS"
+        },
+        {
+          "label": "Development & analysis tools",
+          "items": "Git · MATLAB · FFmpeg"
+        }
+      ],
+      "certifications": [
+        "HarvardX CS109xa: Machine Learning and AI with Python",
+        "Senior Application Engineer, Computer-Aided Design (Electronic CAD)",
+        "ISO Internal Auditor"
+      ],
+      "languages": [
+        "English — fluent",
+        "Cantonese — basic",
+        "Mandarin — native"
+      ]
+    },
+    "zh_CN": {
+      "name": "王明洋",
+      "secondary_name": "Mingyang Wang",
+      "role": "研究助理",
+      "affiliation": "香港都会大学",
+      "team_since": "2025 年 3 月加入研究团队",
+      "description": "王明洋，香港都会大学研究助理，研究兴趣包括声音检测、人工智能与面向搜救任务的无人机系统。",
+      "intro": "我关注面向搜救任务的无人机系统，探索声音感知、人工智能与任务规划的结合。",
+      "bio_before": "我目前是香港都会大学",
+      "supervisor": "刘亚林博士",
+      "bio_after": "团队的研究助理，于 2025 年 3 月加入团队。研究工作涉及遇险人员声音检测与定位，以及面向山地搜索任务的用户触发式无人机调度。",
+      "about": "简介",
+      "research": "研究方向",
+      "publications": "论文",
+      "contact": "联系方式",
+      "research_intro": "我的研究兴趣围绕以下三个相互关联的方向展开。",
+      "research_descriptions": [
+        "面向无人机辅助搜救，检测人员声音并估计声源位置。",
+        "探索基于机器学习的声音感知与智能感知方法。",
+        "将用户信息、任务规划与无人机执行相结合，支持山地搜索任务。"
+      ],
+      "publications_intro": "围绕无人机辅助搜救开展的合作研究。",
+      "accepted": "已录用",
+      "paper_link": "阅读原文（arXiv）",
+      "corrected_link": "阅读修正版（arXiv）",
+      "correction": "版本说明",
+      "contact_intro": "欢迎就无人机系统、声音感知和搜救相关研究交流。",
+      "email_label": "电子邮箱",
+      "team_link": "研究团队",
+      "back_to_team": "返回团队页",
+      "skip": "跳至正文",
+      "language_label": "语言",
+      "navigation_label": "页面栏目",
+      "avatar_alt": "王明洋的个人照片",
+      "bio_education": "我于 2026 年 6 月取得香港都会大学计算机科学荣誉理学士学位，此前学习光电技术。研究之外，我还联合创办了智能坐便器健康监测项目 GuTelligence。",
+      "projects_label": "项目",
+      "projects_intro": "将研究想法落实为软硬件协同工作的系统原型。",
+      "background": "履历",
+      "education_label": "教育经历",
+      "experience_label": "研究与行业经历",
+      "recognition_label": "荣誉与技能",
+      "awards_label": "荣誉奖项",
+      "skills_label": "技术技能",
+      "certifications_label": "课程与证书",
+      "languages_label": "语言能力",
+      "back_to_top": "返回顶部",
+      "education": [
+        {
+          "institution": "香港都会大学",
+          "period": "2023 年 9 月—2026 年 6 月",
+          "qualification": "计算机科学荣誉理学士",
+          "detail": "电子工程与计算机科学系",
+          "score": "累计平均绩点（CGPA）：3.47 / 4.0"
+        },
+        {
+          "institution": "深圳信息职业技术学院",
+          "period": "2019 年 9 月—2022 年 6 月",
+          "qualification": "光电技术（专科）",
+          "detail": "中国深圳 · 优秀毕业生",
+          "score": "平均绩点（GPA）：3.79 / 5.0"
+        }
+      ],
+      "projects": [
+        {
+          "title": "无人机搜救系统",
+          "kind": "毕业设计",
+          "period": "2025—2026 年",
+          "role": "项目组长 / 系统集成工程师",
+          "organization": "香港都会大学 · 指导教师：刘亚林博士",
+          "points": [
+            "负责三个子系统的设计与集成：优先支持离线使用的移动应用、基于 Python 的地面站指挥控制平台，以及自主飞行四旋翼无人机。",
+            "将地面站搜索路径生成与无人机任务执行相衔接，并开展软件验证和户外自主飞行演示。"
+          ],
+          "recognition": "入选香港都会大学 2025—2026 学年最佳毕业设计（计算机类）",
+          "link": "https://www.hkmu.edu.hk/st/computing/fyp/uav-rescue-system/",
+          "link_label": "查看学校项目介绍"
+        },
+        {
+          "title": "GuTelligence",
+          "kind": "人工智能健康监测项目",
+          "period": "2025 年—至今",
+          "role": "联合创始人兼首席技术官",
+          "organization": "荟创点（MetroChallenge）· 香港都会大学",
+          "points": [
+            "主导智能坐便器健康监测原型开发，整合 ESP32-S3 成像模块、基于 CNN、U-Net 和 ViT 的云端图像分析，以及跨平台应用。",
+            "负责技术开发与软硬件集成，并通过学校创业计划获得支持，推进试点准备。"
+          ],
+          "recognition": "荟创点（MetroChallenge）2025 创业项目奖",
+          "link": "https://www.hkmu.edu.hk/sao/entrepreneurship/hkmu-entrepreneurship-day/e-day-2025-highlight/",
+          "link_label": "查看学校获奖报道"
+        }
+      ],
+      "experience": [
+        {
+          "role": "研究助理",
+          "organization": "香港都会大学",
+          "period": "2025 年 3 月—至今",
+          "context": "指导教师：刘亚林博士",
+          "description": "为空天地一体化网络项目提供研究和技术支持，参与无人机声学感知实验、数据集构建，以及支撑 Sky-Ear 系统的模型训练。"
+        },
+        {
+          "role": "电子工程实习生",
+          "organization": "Growgreen Limited",
+          "period": "2025 年 6—7 月",
+          "context": "香港科学园，沙田",
+          "description": "面向教育与环境监测产品，开发和调试智能摄像头硬件，并使用 OpenCV、FFmpeg 实现基于人工智能的目标跟踪与图像处理功能。"
+        }
+      ],
+      "awards": [
+        {
+          "name": "青年创业先锋",
+          "issuer": "2026 大湾区青年创业节",
+          "date": "2026 年 1 月"
+        },
+        {
+          "name": "创业项目奖",
+          "issuer": "香港都会大学 · 荟创点（MetroChallenge）2025",
+          "date": "2025 年 7 月"
+        },
+        {
+          "name": "优秀毕业生",
+          "issuer": "深圳信息职业技术学院",
+          "date": "2022 年 7 月"
+        },
+        {
+          "name": "光电竞赛三等奖",
+          "issuer": "深圳信息职业技术学院",
+          "date": "2021 年 7 月"
+        }
+      ],
+      "skills": [
+        {
+          "label": "编程语言",
+          "items": "Python · Java · C / C++"
+        },
+        {
+          "label": "人工智能与机器学习",
+          "items": "PyTorch · TensorFlow · OpenCV"
+        },
+        {
+          "label": "嵌入式系统与机器人",
+          "items": "Arduino · STM32 · ROS"
+        },
+        {
+          "label": "开发与分析工具",
+          "items": "Git · MATLAB · FFmpeg"
+        }
+      ],
+      "certifications": [
+        "HarvardX CS109xa：Python 机器学习与人工智能",
+        "计算机辅助设计（电子 CAD）高级应用工程师",
+        "ISO 内审员"
+      ],
+      "languages": [
+        "英语：流利",
+        "粤语：基础",
+        "普通话：母语"
+      ]
+    },
+    "zh_TW": {
+      "name": "王明洋",
+      "secondary_name": "Mingyang Wang",
+      "role": "研究助理",
+      "affiliation": "香港都會大學",
+      "team_since": "2025 年 3 月加入研究團隊",
+      "description": "王明洋，香港都會大學研究助理，研究興趣包括聲音檢測、人工智能與面向搜救任務的無人機系統。",
+      "intro": "我關注面向搜救任務的無人機系統，探索聲音感知、人工智能與任務規劃的結合。",
+      "bio_before": "我目前是香港都會大學",
+      "supervisor": "劉亞林博士",
+      "bio_after": "團隊的研究助理，於 2025 年 3 月加入團隊。研究工作涉及遇險人員聲音檢測與定位，以及面向山地搜索任務的用戶觸發式無人機調度。",
+      "about": "簡介",
+      "research": "研究方向",
+      "publications": "論文",
+      "contact": "聯絡方式",
+      "research_intro": "我的研究興趣圍繞以下三個相互關聯的方向展開。",
+      "research_descriptions": [
+        "面向無人機輔助搜救，檢測人員聲音並估計聲源位置。",
+        "探索基於機器學習的聲音感知與智能感知方法。",
+        "將用戶資訊、任務規劃與無人機執行相結合，支援山地搜索任務。"
+      ],
+      "publications_intro": "圍繞無人機輔助搜救開展的合作研究。",
+      "accepted": "已錄用",
+      "paper_link": "閱讀原文（arXiv）",
+      "corrected_link": "閱讀修正版（arXiv）",
+      "correction": "版本說明",
+      "contact_intro": "歡迎就無人機系統、聲音感知和搜救相關研究交流。",
+      "email_label": "電郵",
+      "team_link": "研究團隊",
+      "back_to_team": "返回團隊頁",
+      "skip": "跳至正文",
+      "language_label": "語言",
+      "navigation_label": "頁面欄目",
+      "avatar_alt": "王明洋的個人照片",
+      "bio_education": "我於 2026 年 6 月取得香港都會大學電腦科學榮譽理學士學位，此前學習光電技術。研究之外，我還聯合創辦了智能坐便器健康監測項目 GuTelligence。",
+      "projects_label": "項目",
+      "projects_intro": "將研究想法落實為軟硬件協同工作的系統原型。",
+      "background": "履歷",
+      "education_label": "教育經歷",
+      "experience_label": "研究與行業經歷",
+      "recognition_label": "榮譽與技能",
+      "awards_label": "榮譽獎項",
+      "skills_label": "技術技能",
+      "certifications_label": "課程與證書",
+      "languages_label": "語言能力",
+      "back_to_top": "返回頂部",
+      "education": [
+        {
+          "institution": "香港都會大學",
+          "period": "2023 年 9 月—2026 年 6 月",
+          "qualification": "電腦科學榮譽理學士",
+          "detail": "電子工程與電腦科學系",
+          "score": "累積平均積點（CGPA）：3.47 / 4.0"
+        },
+        {
+          "institution": "深圳信息職業技術學院",
+          "period": "2019 年 9 月—2022 年 6 月",
+          "qualification": "光電技術（專科）",
+          "detail": "中國深圳 · 優秀畢業生",
+          "score": "平均積點（GPA）：3.79 / 5.0"
+        }
+      ],
+      "projects": [
+        {
+          "title": "無人機搜救系統",
+          "kind": "畢業專題",
+          "period": "2025—2026 年",
+          "role": "項目組長 / 系統整合工程師",
+          "organization": "香港都會大學 · 指導教師：劉亞林博士",
+          "points": [
+            "負責三個子系統的設計與整合：優先支援離線使用的流動應用程式、基於 Python 的地面站指揮控制平台，以及自主飛行四旋翼無人機。",
+            "將地面站搜索路徑生成與無人機任務執行相銜接，並開展軟件驗證和戶外自主飛行示範。"
+          ],
+          "recognition": "入選香港都會大學 2025—2026 學年最佳畢業專題（電腦類）",
+          "link": "https://www.hkmu.edu.hk/st/computing/fyp/uav-rescue-system/",
+          "link_label": "查看學校項目介紹"
+        },
+        {
+          "title": "GuTelligence",
+          "kind": "人工智能健康監測項目",
+          "period": "2025 年—至今",
+          "role": "聯合創辦人兼首席技術官",
+          "organization": "薈創點（MetroChallenge）· 香港都會大學",
+          "points": [
+            "主導智能坐便器健康監測原型開發，整合 ESP32-S3 成像模組、基於 CNN、U-Net 和 ViT 的雲端圖像分析，以及跨平台應用程式。",
+            "負責技術開發與軟硬件整合，並透過學校創業計劃獲得支持，推進試點準備。"
+          ],
+          "recognition": "薈創點（MetroChallenge）2025 創業項目獎",
+          "link": "https://www.hkmu.edu.hk/sao/entrepreneurship/hkmu-entrepreneurship-day/e-day-2025-highlight/",
+          "link_label": "查看學校獲獎報道"
+        }
+      ],
+      "experience": [
+        {
+          "role": "研究助理",
+          "organization": "香港都會大學",
+          "period": "2025 年 3 月—至今",
+          "context": "指導教師：劉亞林博士",
+          "description": "為空天地一體化網絡項目提供研究和技術支持，參與無人機聲學感知實驗、數據集建構，以及支援 Sky-Ear 系統的模型訓練。"
+        },
+        {
+          "role": "電子工程實習生",
+          "organization": "Growgreen Limited",
+          "period": "2025 年 6—7 月",
+          "context": "香港科學園，沙田",
+          "description": "面向教育與環境監測產品，開發和調試智能攝像頭硬件，並使用 OpenCV、FFmpeg 實現基於人工智能的目標追蹤與圖像處理功能。"
+        }
+      ],
+      "awards": [
+        {
+          "name": "青年創業先鋒",
+          "issuer": "2026 大灣區青年創業節",
+          "date": "2026 年 1 月"
+        },
+        {
+          "name": "創業項目獎",
+          "issuer": "香港都會大學 · 薈創點（MetroChallenge）2025",
+          "date": "2025 年 7 月"
+        },
+        {
+          "name": "優秀畢業生",
+          "issuer": "深圳信息職業技術學院",
+          "date": "2022 年 7 月"
+        },
+        {
+          "name": "光電競賽三等獎",
+          "issuer": "深圳信息職業技術學院",
+          "date": "2021 年 7 月"
+        }
+      ],
+      "skills": [
+        {
+          "label": "程式語言",
+          "items": "Python · Java · C / C++"
+        },
+        {
+          "label": "人工智能與機器學習",
+          "items": "PyTorch · TensorFlow · OpenCV"
+        },
+        {
+          "label": "嵌入式系統與機械人",
+          "items": "Arduino · STM32 · ROS"
+        },
+        {
+          "label": "開發與分析工具",
+          "items": "Git · MATLAB · FFmpeg"
+        }
+      ],
+      "certifications": [
+        "HarvardX CS109xa：Python 機器學習與人工智能",
+        "電腦輔助設計（電子 CAD）高級應用工程師",
+        "ISO 內部審核員"
+      ],
+      "languages": [
+        "英語：流利",
+        "粵語：基礎",
+        "普通話：母語"
+      ]
+    }
+  },
+  "portrait": {
+    "src": "/assets/images/WANG_MINGYANG_PROFILE.jpg?v=a221af02bae3",
+    "width": 1179,
+    "height": 1159
+  }
+}

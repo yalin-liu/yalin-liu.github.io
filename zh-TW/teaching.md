@@ -14,7 +14,7 @@ language: zh_TW
 </div>
 
 <div class="content-wrapper">
-  <div class="accordion" id="teachingAccordion">
+  <div class="accordion" id="teachingAccordion" lang="en">
     <div class="accordion-item">
       <h2 class="accordion-header" id="headingFaceToFace">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFaceToFace" aria-expanded="true" aria-controls="collapseFaceToFace">
@@ -24,15 +24,16 @@ language: zh_TW
       <div id="collapseFaceToFace" class="accordion-collapse collapse show" aria-labelledby="headingFaceToFace" data-bs-parent="#teachingAccordion">
         <div class="accordion-body">
           <p><strong>The table below summarizes the information of all F2F courses I was/am responsible for.</strong></p>
-          <div class="table-responsive">
+          {% include table-scroll-hint.html %}
+          <div class="table-responsive" tabindex="0" role="region" aria-label="Course table, scroll horizontally to see all columns">
             <table class="table table-striped">
               <thead>
                 <tr>
                   <th>Term</th>
-                  <th>Code</th>
+                  <th>Code (credit)</th>
                   <th>Title</th>
-                  <th>Size</th>
-                  <th>Teaching Roles</th>
+                  <th>Class size (My teaching)</th>
+                  <th>My Roles (Remarks)</th>
                 </tr>
               </thead>
               <tbody id="f2f-table-body"></tbody>
@@ -53,7 +54,8 @@ language: zh_TW
       <div id="collapseDistanceLearning" class="accordion-collapse collapse" aria-labelledby="headingDistanceLearning" data-bs-parent="#teachingAccordion">
         <div class="accordion-body">
           <p><strong>The table below summarizes the course evaluation results of all DL courses I was/am responsible for:</strong></p>
-          <div class="table-responsive">
+          {% include table-scroll-hint.html %}
+          <div class="table-responsive" tabindex="0" role="region" aria-label="Course table, scroll horizontally to see all columns">
             <table class="table table-striped">
               <thead>
                 <tr>

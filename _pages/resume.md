@@ -14,23 +14,23 @@ language: en
 </div>
 
 <div id="main-content" class="content-wrapper dynamic-content-hidden">
-    <h3 class="callout">Education</h3>
+    <h2 class="h3 callout">Education</h2>
     <ul id="education-list"></ul>
-    <h3 class="callout">Working Experience</h3>
+    <h2 class="h3 callout">Working Experience</h2>
     <ul id="working-list"></ul>
-    <h3 class="callout">Research Projects</h3>
+    <h2 class="h3 callout">Research Projects</h2>
     <ul id="project-list"></ul>
-    <h3 class="callout">Publications</h3>
-    <h4>arXiv Papers</h4>
+    <h2 class="h3 callout">Publications</h2>
+    <h3 class="h4">arXiv Papers</h3>
     <ul class="preprint-list"></ul>
-    <h4>Journal Articles</h4>
+    <h3 class="h4">Journal Articles</h3>
     <ul class="journal-list"></ul>
-    <h4>Conference Papers</h4>
+    <h3 class="h4">Conference Papers</h3>
     <ul class="conference-list"></ul>
-    <h3 class="callout">Patents</h3>
+    <h2 class="h3 callout">Patents</h2>
     <ul class="patent-list"></ul>
-    <h3  class="callout">Professional Qualifications and Activities</h3>
+    <h2 class="h3 callout">Professional Qualifications and Activities</h2>
     <div id="qualification-container"></div>
-    <h3 class="callout">Awards and Honors</h3>
+    <h2 class="h3 callout">Awards and Honors</h2>
     <ul id="award-list"></ul>
 </div>

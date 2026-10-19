@@ -17,7 +17,7 @@ language: zh_CN
   <div class="filter-section">
     <div class="auto-filter-tags">
       <button class="filter-tag btn btn-outline-primary active" data-filter="all">所有类型 (<span class="countall">0</span>)</button>
-      <button class="filter-tag btn btn-outline-primary" data-filter="conference">會議文章 (<span class="count">0</span>)</button>
+      <button class="filter-tag btn btn-outline-primary" data-filter="conference">会议论文 (<span class="count">0</span>)</button>
       <button class="filter-tag btn btn-outline-primary" data-filter="journal">期刊 (<span class="count">0</span>)</button>
       <button class="filter-tag btn btn-outline-primary" data-filter="patent">专利 (<span class="count">0</span>)</button>
       <button class="filter-tag btn btn-outline-primary" data-filter="preprint">预印本 (<span class="count">0</span>)</button>
@@ -27,7 +27,7 @@ language: zh_CN
   <div class="publication-list mt-4" id="publicationList"></div>
   
   <div class="pagination-wrapper d-flex justify-content-center mt-4">
-    <nav aria-label="Publication pagination">
+    <nav aria-label="论文分页">
       <ul class="pagination" id="pagination"></ul>
     </nav>
   </div>

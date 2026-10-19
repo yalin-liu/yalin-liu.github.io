@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.language | default: 'en' | replace: '_', '-' }}">
 <head>
     {% include head.html %}
 </head>
@@ -18,6 +18,7 @@
       </div>
     </div>
 
+    <script src="{{ site.baseurl }}/assets/js/publication-display.js"></script>
     <script>
         $(document).ready(function () {
           const rawResumeObj = {{ site.data.resume | jsonify }};
@@ -105,7 +106,7 @@
           let html = "";
 
           if (section.editor_activities && section.editor_activities.length > 0) {
-            html += `<h4>Editor Activities for International Journals</h4><ul>`;
+            html += `<h3 class="h4">Editor Activities for International Journals</h3><ul>`;
             section.editor_activities.forEach(item => {
               let title = item.title[lang] || item.title.en;
               title = title.replace(/(MDPI Network|MDPI Electronics)/g, `<a href="${item.link}" target="_blank">$1</a>`);
@@ -115,7 +116,7 @@
           }
 
           if (section.reviewing_journals && section.reviewing_journals.length > 0) {
-            html += `<h4>Reviewing Activities for International Journals</h4><ul>`;
+            html += `<h3 class="h4">Reviewing Activities for International Journals</h3><ul>`;
             section.reviewing_journals.forEach(item => {
               let title = item.title[lang] || item.title.en;
               html += `<li><span>${item.date}</span> ${title}</li>`;
@@ -124,7 +125,7 @@
           }
 
           if (section.reviewing_conferences && section.reviewing_conferences.length > 0) {
-            html += `<h4>Reviewing Activities for International Conferences</h4><ul>`;
+            html += `<h3 class="h4">Reviewing Activities for International Conferences</h3><ul>`;
             section.reviewing_conferences.forEach(item => {
               let title = item.title[lang] || item.title.en;
               title = title.replace(/(NCIC)/g, `<a href="${item.ncic_link}" target="_blank">$1</a>`);
@@ -153,7 +154,8 @@
             if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
         
             const typePrefix = (sectionObj.prefix || 'C').toUpperCase(); 
-            const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+            // Preserve the curated conference numbering specified in the update notes.
+            const sortedData = [...sectionObj.dataset];
         
             let htmlContent = "";
             const totalRecords = sortedData.length;
@@ -168,12 +170,13 @@
             
             authors = authors.replace(/(Yalin Liu|劉亞林|刘亚林)/g, '<span class="highlight">$1</span>');
         
-            let conferenceDate = item.date_of_conference || ""
-            let place = item.place || ""
+            let conferenceDate = publicationDisplay.date(item.date_of_conference, lang);
+            let place = publicationDisplay.place(item.place, lang);
         
             htmlContent += `
                 <li>
-                    ${prefix} ${authors}, "${title}," <em>${source}</em>, ${conferenceDate}, ${place}. [<a href="${item.link}" target="_blank">Link</a>]
+                    ${prefix} ${authors}, ${publicationDisplay.quotedTitle(title, lang)} <em>${source}</em>, ${conferenceDate}, ${place}. ${publicationDisplay.link(item, lang)}
+                    ${publicationDisplay.correction(item, lang)}
                 </li>
             `;
             });
@@ -184,13 +187,13 @@
         function renderPatents(sectionObj, lang, selector) {
             if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
 
-            const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+            const sortedData = [...sectionObj.dataset].sort((a, b) => publicationDisplay.compareByDate(a, b));
             
             let htmlContent = "";
             const totalRecords = sortedData.length;
 
             sortedData.forEach((item, index) => {
-              const title = (lang === 'en')? `"${item.title[lang]},"` : `「${item.title[lang]}，」"`;
+              const title = publicationDisplay.quotedTitle(item.title[lang], lang);
               const source = item.source[lang] || item.source.en;
               const patentYear = new Date(item.date_of_publication).getFullYear();
 
@@ -204,7 +207,7 @@
             if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
 
             const typePrefix = (sectionObj.prefix || 'A').toUpperCase(); 
-            const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+            const sortedData = [...sectionObj.dataset].sort((a, b) => publicationDisplay.compareByDate(a, b));
             
             let htmlContent = "";
             const totalRecords = sortedData.length;
@@ -219,9 +222,9 @@
                 
                 authors = authors.replace(/(Yalin Liu|劉亞林|刘亚林)/g, '<span class="highlight">$1</span>');
 
-                let pub = `, ${item.date_of_publication}` || "";
+                let pub = `, ${publicationDisplay.date(item.date_of_publication, lang)}` || "";
             
-                htmlContent += `<li>${prefix} ${authors}, "${title}," ${source}${pub}. [<a href="${item.link}" target="_blank">Link</a>]</li>`;
+                htmlContent += `<li>${prefix} ${authors}, ${publicationDisplay.quotedTitle(title, lang)} ${source}${pub}. ${publicationDisplay.link(item, lang)}</li>`;
             });
         
           $(selector).html(htmlContent);
@@ -231,7 +234,7 @@
           if (!sectionObj || !Array.isArray(sectionObj.dataset) || sectionObj.dataset.length === 0) return;
         
           const typePrefix = (sectionObj.prefix || 'J').toUpperCase(); 
-          const sortedData = sectionObj.dataset.sort((a, b) => new Date(b.date_of_publication) - new Date(a.date_of_publication));
+          const sortedData = [...sectionObj.dataset].sort((a, b) => publicationDisplay.compareByDate(a, b));
         
           let htmlContent = "";
           const totalRecords = sortedData.length;
@@ -250,19 +253,20 @@
             let metaHtml = "";
             if (item.sci_if || item.jcr) {
               let metaText = "";
-              if (item.sci_if) metaText += `SCI IF=${item.sci_if}`;
+              if (item.sci_if) metaText += `${lang === 'en' ? 'SCI IF' : (lang === 'zh_TW' ? 'SCI 影響因子' : 'SCI 影响因子')}=${publicationDisplay.impactFactor(item.sci_if, lang)}`;
               if (item.jcr) metaText += metaText ? `, JCR ${item.jcr}` : ` JCR ${item.jcr}`;
               metaHtml = ` <span class="journal-meta"><strong>(${metaText})</strong></span>`;
             }
         
             // 處理頁碼或描述
-            let detailStr = item.citation_detail ? `, ${item.citation_detail}` : "";
+            let detailStr = item.citation_detail ? `, ${publicationDisplay.citation(item.citation_detail, lang, item.article_number)}` : "";
             let doiStr = item.doi ? `, DOI: ${item.doi}` : "";
-            let extraStr = item.extra ? ` ${item.extra}` : "";
+            let extraStr = item.extra ? ` ${publicationDisplay.extra(item.extra, lang)}` : "";
         
             htmlContent += `
                 <li>
-                    ${prefix} ${authors}, "${title}," <em>${source}</em>${metaHtml}${detailStr}, ${item.date_of_publication}${doiStr}${extraStr}. [<a href="${item.link}" target="_blank">Link</a>]
+                    ${prefix} ${authors}, ${publicationDisplay.quotedTitle(title, lang)} <em>${source}</em>${metaHtml}${detailStr}, ${publicationDisplay.date(item.date_of_publication, lang)}${doiStr}${extraStr}. ${publicationDisplay.link(item, lang)}
+                    ${publicationDisplay.correction(item, lang)}
                 </li>
             `;
           });

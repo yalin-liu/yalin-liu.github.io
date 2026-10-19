@@ -1,5 +1,9 @@
 body {
     margin: 0;
-    font-family: "Microsoft YaHei";
+    font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
     overflow-x: hidden; /* Prevent horizontal scroll on entire page */
+}
+
+html:lang(zh-TW) body {
+    font-family: "PingFang TC", "Microsoft JhengHei", "Noto Sans CJK TC", sans-serif;
 }

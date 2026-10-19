@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.language | default: 'en' | replace: '_', '-' }}">
 <head>
     {% include head.html %}
 </head>
@@ -23,16 +23,21 @@
         
         // 2. 解構賦值（Destructuring Assignment）獲取兩個部分
         const { collapseFaceToFace, collapseDistanceLearning } = teachingData;
+
+        function formatCourseCode(course) {
+            return [course, ...(course.additional_courses || [])]
+                .map(item => `${item.code} (${item.credits})`).join(' + ');
+        }
       
         // 3. 渲染 A. Face-to-Face 表格
         const f2fTableBody = document.getElementById('f2f-table-body');
         f2fTableBody.innerHTML = collapseFaceToFace.courses.map(course => `
           <tr>
             <td>${course.term}</td>
-            <td>${course.code} (${course.credits})</td>
+            <td>${formatCourseCode(course)}</td>
             <td>${course.title}</td>
-            <td>${course.size !== null ? course.size : '-'}</td>
-            <td>${course.roles}</td>
+            <td>${course.size !== null ? course.size : '--'}</td>
+            <td>${course.roles.replace(/;\s*/g, '<br>')}</td>
           </tr>
         `).join('');
 
@@ -41,10 +46,10 @@
         courseDetailContainer = collapseFaceToFace.course_details.map(course => {
             if (course.code.includes("S456")) {
                 const fypListHTML = course.fyp_projects.map(fyp => {
-                    const yearHTML = fyp.url 
-                    ? `<a href="${fyp.url}" target="_blank">${fyp.academic_year}</a>`
-                    : fyp.academic_year;
-                    return `<p class="mb-0 ml-2">- ${yearHTML}: ${fyp.description}</p>`;
+                    const selectedHTML = fyp.url
+                    ? ` <a href="${fyp.url}" target="_blank" rel="noopener noreferrer">(Yearly Selected FYP)</a>`
+                    : '';
+                    return `<p class="mb-0 ml-2">- ${fyp.academic_year} - Group ${fyp.group}${selectedHTML}: ${fyp.description}</p>`;
                 }).join('');
 
                 return `
@@ -72,8 +77,8 @@
             <td>${course.term}</td>
             <td>${course.code} (${course.credits})</td>
             <td>${course.title}</td>
-            <td>${course.size !== null ? course.size : '-'}</td>
-            <td>${course.roles}</td>
+            <td>${course.size !== null ? course.size : '--'}</td>
+            <td>${course.roles.replace(/;\s*/g, '<br>')}</td>
           </tr>
         `).join('');
         const workLoads = document.getElementById('work-loads');

@@ -21,8 +21,8 @@
         },
         "thesis": {
           "en": "Unmanned Aerial Vehicle-assisted Communications for Internet of Remote Things.",
-          "zh_TW": "無人機輔助的遠端物聯網通訊",
-          "zh_CN": "无人机辅助的远程物联网通讯"
+          "zh_TW": "無人機輔助遠程物聯網通信",
+          "zh_CN": "无人机辅助远程物联网通信"
         },
         "link": ""
       },
@@ -45,15 +45,15 @@
         },
         "thesis": {
           "en": "Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT).",
-          "zh_TW": "基於無人機的物聯網 (UeIoT)",
-          "zh_CN": "基于无人机的物联网 (UeIoT)"
+          "zh_TW": "無人機賦能物聯網（UeIoT）",
+          "zh_CN": "无人机赋能物联网（UeIoT）"
         },
-        "link": "https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf"
+        "link": ""
       },
       {
         "date": "09/2013-06/2017",
         "institution": {
-          "en": "ChongQing University of Post and Telecommunications",
+          "en": "Chongqing University of Posts and Telecommunications",
           "zh_TW": "重慶郵電大學",
           "zh_CN": "重庆邮电大学"
         },
@@ -64,8 +64,8 @@
         },
         "thesis": {
           "en": "Research on the Affine Projection-type Adaptive Filtering Algorithms and Applications.",
-          "zh_TW": "仿射投影型自適應濾波算法及應用研究",
-          "zh_CN": "仿射投影型自适应滤波算法及应用研究"
+          "zh_TW": "自適應投影仿射濾波算法及應用研究",
+          "zh_CN": "自适应投影仿射滤波算法及应用研究"
         },
         "link": "https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf"
       }
@@ -122,17 +122,39 @@
     "prefix": "G",
     "dataset": [
       {
+        "id": "G12",
+        "date": "01/01/2027-31/12/2029",
+        "role": {
+          "en": "Co-PI",
+          "zh_TW": "Co-PI",
+          "zh_CN": "Co-PI"
+        },
+        "title": {
+          "en": "Pinching Antenna-Driven 6G Networks: Pioneering Reconfigurable Connectivity through Modelling, Optimization, and Real-World Integration",
+          "zh_TW": "夾持天線驅動的 6G 網絡：通過建模、優化與實際場景整合開創可重構連接",
+          "zh_CN": "夹持天线驱动的 6G 网络：通过建模、优化与实际场景集成开创可重构连接"
+        },
+        "funding_body": {
+          "en": "Hong Kong Research Grants Council (RGC), Institutional Development Scheme - Collaborative Research Grant (IDS-CRG)",
+          "zh_TW": "香港研究資助局 (RGC)，院校發展計劃協作研究撥款 (IDS-CRG)",
+          "zh_CN": "香港研究资助局 (RGC)，院校发展计划协作研究拨款 (IDS-CRG)"
+        },
+        "amount": "HK$ 2,857,131",
+        "project_no": "UGC/IDS(C)16/E01/26",
+        "link": "https://www.ugc.edu.hk/eng/rgc/funding_opport/ids_crg/funded_research/ids2627.html"
+      },
+      {
         "id": "G11",
         "date": "04/2026-01/2028",
         "role": {
           "en": "Co-I",
-          "zh_TW": "共同共同研究員",
-          "zh_CN": "共同研究员"
+          "zh_TW": "Co-I",
+          "zh_CN": "Co-I"
         },
         "title": {
           "en": "Driving Performance Analysis Assistance System for Driving Tests",
-          "zh_TW": "駕駛考試駕駛表現分析輔助系統",
-          "zh_CN": "驾驶考试驾驶表现分析辅助系统"
+          "zh_TW": "面向駕駛考試的駕駛表現分析輔助系統",
+          "zh_CN": "面向驾驶考试的驾驶表现分析辅助系统"
         },
         "funding_body": {
           "en": "Hong Kong Smart Traffic Fund (STF)",
@@ -148,8 +170,8 @@
         "date": "09/2025-08/2027",
         "role": {
           "en": "Co-I",
-          "zh_TW": "共同研究員",
-          "zh_CN": "共同研究员"
+          "zh_TW": "Co-I",
+          "zh_CN": "Co-I"
         },
         "title": {
           "en": "Blockchain-enabled Trustworthy Digital Twin Networks",
@@ -170,8 +192,8 @@
         "date": "12/2025-11/2026",
         "role": {
           "en": "Sole PI",
-          "zh_TW": "獨立首席研究員",
-          "zh_CN": "独立首席研究员"
+          "zh_TW": "Sole PI",
+          "zh_CN": "Sole PI"
         },
         "title": {
           "en": "Blockchain Deployment and Performance Modelling on Satellite Constellations",
@@ -192,8 +214,8 @@
         "date": "1/2025-12/2027",
         "role": {
           "en": "Sole PI",
-          "zh_TW": "獨立首席研究員",
-          "zh_CN": "独立首席研究员"
+          "zh_TW": "Sole PI",
+          "zh_CN": "Sole PI"
         },
         "title": {
           "en": "Space-Air-Ground Integrated Networks: System Modeling and Performance Optimization",
@@ -202,8 +224,8 @@
         },
         "funding_body": {
           "en": "HK FDS Fund",
-          "zh_TW": "香港教資會教研發展基金 (FDS)",
-          "zh_CN": "香港教资会教研发展基金 (FDS)"
+          "zh_TW": "香港研究資助局教員發展計劃（FDS）",
+          "zh_CN": "香港研究资助局教员发展计划（FDS）"
         },
         "amount": "HK$ 776,810",
         "project_no": "UGC/FDS16/E15/24",
@@ -214,8 +236,8 @@
         "date": "12/2024-11/2027",
         "role": {
           "en": "Co-I",
-          "zh_TW": "共同研究員",
-          "zh_CN": "共同研究员"
+          "zh_TW": "Co-I",
+          "zh_CN": "Co-I"
         },
         "title": {
           "en": "Multi-layer intelligent medical network system",
@@ -233,16 +255,16 @@
       },
       {
         "id": "G06",
-        "date": "12/2023-04/2025",
+        "date": "12/2023-03/2025",
         "role": {
           "en": "Sole PI",
-          "zh_TW": "獨立首席研究員",
-          "zh_CN": "独立首席研究员"
+          "zh_TW": "Sole PI",
+          "zh_CN": "Sole PI"
         },
         "title": {
           "en": "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design",
-          "zh_TW": "空天地一體化網絡賦能的 Web 3.0：可擴展去中心化網絡設計",
-          "zh_CN": "空天地一体化网络赋能的 Web 3.0：可扩展去中心化网络设计"
+          "zh_TW": "空天地一體化網絡賦能 Web 3.0：可擴展的去中心化網絡設計",
+          "zh_CN": "空天地一体化网络赋能 Web 3.0：可扩展的去中心化网络设计"
         },
         "funding_body": {
           "en": "HKMU R&D Fund",
@@ -255,15 +277,15 @@
       },
       {
         "id": "G05",
-        "date": "10/2023-03/2025",
+        "date": "10/2023-09/2024",
         "role": {
           "en": "Co-I",
-          "zh_TW": "共同研究員",
-          "zh_CN": "共同研究员"
+          "zh_TW": "Co-I",
+          "zh_CN": "Co-I"
         },
         "title": {
           "en": "Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization",
-          "zh_TW": "開發實時智能視頻監控系統：從算法設計到性能優化",
+          "zh_TW": "開發實時智能視像監控系統：從算法設計到性能優化",
           "zh_CN": "开发实时智能视频监控系统：从算法设计到性能优化"
         },
         "funding_body": {
@@ -280,8 +302,8 @@
         "date": "01/2023-06/2025",
         "role": {
           "en": "Co-I",
-          "zh_TW": "共同研究員",
-          "zh_CN": "共同研究员"
+          "zh_TW": "Co-I",
+          "zh_CN": "Co-I"
         },
         "title": {
           "en": "Intelligent Data-driven Wireless Networks",
@@ -307,20 +329,20 @@
         },
         "title": {
           "en": "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks",
-          "zh_TW": "基於非侵入式學習者數據的深度神經網絡情感分類促進系統",
-          "zh_CN": "基于非侵入式学习者数据的深度神经网络情感分类促进系统"
+          "zh_TW": "通過深度神經網絡促進基於非侵入式學習者數據的情緒分類",
+          "zh_CN": "通过深度神经网络促进基于非侵入式学习者数据的情绪分类"
         },
         "funding_body": {
           "en": "The Education University of Hong Kong, Knowledge Transfer Funds",
-          "zh_TW": "香港教育大學 知識轉移基金",
-          "zh_CN": "香港教育大学 知识转移基金"
+          "zh_TW": "香港教育大學知識轉移基金",
+          "zh_CN": "香港教育大学知识转移基金"
         },
         "project_no": "2021/22",
         "link": "https://www.eduhk.hk/ele/knowledge-transfer"
       },
       {
         "id": "G02",
-        "date": "12/2018-12/2020",
+        "date": "10/2018-10/2022",
         "role": {
           "en": "Participant",
           "zh_TW": "項目參與者",
@@ -337,11 +359,11 @@
           "zh_CN": "澳门科学技术发展基金"
         },
         "project_no": "0026/2018/A1",
-        "link": "https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e"
+        "link": "https://www.henrylab.net/research/"
       },
       {
         "id": "G01",
-        "date": "09/2017-11/2017",
+        "date": "09/2017-10/2017",
         "role": {
           "en": "Participant",
           "zh_TW": "項目參與者",
@@ -349,8 +371,8 @@
         },
         "title": {
           "en": "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement",
-          "zh_TW": "大規模無線自組織網絡：性能分析與性能改進",
-          "zh_CN": "大规模无线自组织网络：性能分析与性能改进"
+          "zh_TW": "大規模無線自組網：性能分析與性能改進",
+          "zh_CN": "大规模无线自组网：性能分析与性能改进"
         },
         "funding_body": {
           "en": "Macao Science and Technology Development Fund",
@@ -358,7 +380,7 @@
           "zh_CN": "澳门科学技术发展基金"
         },
         "project_no": "0096/2013/A3",
-        "link": "https://www.must.edu.mo/en/fc/research/39-academic/fi/1808-researchpro-e"
+        "link": "https://www.henrylab.net/research/"
       }
     ]
   },
@@ -368,8 +390,8 @@
         "date": "2025 ~ now",
         "title": {
           "en": "Special Issue Editor for MDPI Network",
-          "zh_TW": "MDPI Network 期刊特刊主編",
-          "zh_CN": "MDPI Network 期刊特刊主编"
+          "zh_TW": "MDPI Network 期刊特刊聯合客座編輯",
+          "zh_CN": "MDPI Network 期刊特刊联合客座编辑"
         },
         "link": "https://www.mdpi.com/journal/network/special_issues/DCLNS956JH"
       },
@@ -377,8 +399,8 @@
         "date": "2023 ~ now",
         "title": {
           "en": "Special Issue Editor for MDPI Electronics",
-          "zh_TW": "MDPI Electronics 期刊特刊主編",
-          "zh_CN": "MDPI Electronics 期刊特刊主编"
+          "zh_TW": "MDPI Electronics 期刊特刊聯合客座編輯",
+          "zh_CN": "MDPI Electronics 期刊特刊联合客座编辑"
         },
         "link": "https://www.mdpi.com/journal/electronics/special_issues/71DW63SS34"
       }
@@ -388,16 +410,16 @@
         "date": "2020 ~ present",
         "title": {
           "en": "Reviewer for other Journals: ICN (Tsinghua University Press), Ad Hoc Netw. (Elsevier), J. Frank. Inst. (Elsevier), Inf. Process. Manage. (Elsevier), IJMLC (Springer).",
-          "zh_TW": "國際期刊審稿人：ICN (清華大學出版社), Ad Hoc Netw. (Elsevier), J. Frank. Inst. (Elsevier), Inf. Process. Manage. (Elsevier), IJMLC (Springer).",
-          "zh_CN": "国际期刊审稿人：ICN (清华大学出版社), Ad Hoc Netw. (Elsevier), J. Frank. Inst. (Elsevier), Inf. Process. Manage. (Elsevier), IJMLC (Springer)."
+          "zh_TW": "其他期刊審稿人：ICN（清華大學出版社）、Ad Hoc Netw.（Elsevier）、J. Frank. Inst.（Elsevier）、Inf. Process. Manage.（Elsevier）、IJMLC（Springer）。",
+          "zh_CN": "其他期刊审稿人：ICN（清华大学出版社）、Ad Hoc Netw.（Elsevier）、J. Frank. Inst.（Elsevier）、Inf. Process. Manage.（Elsevier）、IJMLC（Springer）。"
         }
       },
       {
         "date": "2018 ~ present",
         "title": {
           "en": "Reviewer for IEEE journals: OJCOMS, TSC, TGCN, TCCN, TNSM, TCOM, TITS, IoTJ, WCL, NL, COMMAG.",
-          "zh_TW": "IEEE 旗下系列期刊審稿人: OJCOMS, TSC, TGCN, TCCN, TNSM, TCOM, TITS, IoTJ, WCL, NL, COMMAG.",
-          "zh_CN": "IEEE 旗下系列期刊审稿人: OJCOMS, TSC, TGCN, TCCN, TNSM, TCOM, TITS, IoTJ, WCL, NL, COMMAG."
+          "zh_TW": "IEEE 期刊審稿人：OJCOMS、TSC、TGCN、TCCN、TNSM、TCOM、TITS、IoTJ、WCL、NL、COMMAG。",
+          "zh_CN": "IEEE 期刊审稿人：OJCOMS、TSC、TGCN、TCCN、TNSM、TCOM、TITS、IoTJ、WCL、NL、COMMAG。"
         }
       }
     ],
@@ -406,26 +428,26 @@
         "date": "2025,",
         "title": {
           "en": "Chairing session/workshop for ICC, NCIC, and WOCC",
-          "zh_TW": "擔任 ICC、NCIC 及 WOCC 國際會議分會場主辦/主席",
-          "zh_CN": "担任 ICC、NCIC 及 WOCC 国际会议分会场主办/主席"
+          "zh_TW": "擔任 ICC、NCIC 和 WOCC 的分會場或專題研討會主席",
+          "zh_CN": "担任 ICC、NCIC 和 WOCC 的分会场或专题研讨会主席"
         },
-        "ncic_link": "https://www.icncic.org/workshops/",
+        "ncic_link": "https://www.icncic.org/workshops-2025/",
         "wocc_link": "https://wocc.org/wocc2025/special-session/"
       },
       {
         "date": "2021 ~ present",
         "title": {
           "en": "TPC member for IEEE VTC, WCNC, and CAMAD",
-          "zh_TW": "IEEE VTC、WCNC、CAMAD 國際會議技術程序委員會 (TPC) 委員",
-          "zh_CN": "IEEE VTC、WCNC、CAMAD 国际会议技术程序委员会 (TPC) 委员"
+          "zh_TW": "IEEE VTC、WCNC 和 CAMAD 技術程序委員會（TPC）委員",
+          "zh_CN": "IEEE VTC、WCNC 和 CAMAD 技术程序委员会（TPC）委员"
         }
       },
       {
         "date": "2019 ~ present",
         "title": {
           "en": "Reviewer for IEEE MSN, VTC, WCNC, BESC, and AAAI",
-          "zh_TW": "IEEE MSN、VTC、WCNC、BESC 以及 AAAI 國際會議審稿人",
-          "zh_CN": "IEEE MSN、VTC、WCNC、BESC 以及 AAAI 国际会议审稿人"
+          "zh_TW": "IEEE MSN、VTC、WCNC、BESC 和 AAAI 會議審稿人",
+          "zh_CN": "IEEE MSN、VTC、WCNC、BESC 和 AAAI 会议审稿人"
         }
       }
     ]
@@ -436,48 +458,48 @@
       {
         "title": {
           "en": "Best paper award, 'Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework', NCIC 2025",
-          "zh_TW": "最佳論文獎，'Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework'，NCIC 2025 國際會議",
-          "zh_CN": "最佳论文奖，'Cloud-Fog-Edge Collaborative Computing for Sequential MIoT Workflow: A Two-Tier DDPG-Based Scheduling Framework'，NCIC 2025 国际会议"
+          "zh_TW": "最佳論文獎，「面向順序醫療物聯網（MIoT）工作流程的雲—霧—邊協同計算：基於雙層 DDPG 的調度框架」，NCIC 2025",
+          "zh_CN": "最佳论文奖，「面向顺序医疗物联网（MIoT）工作流的云—雾—边协同计算：基于双层 DDPG 的调度框架」，NCIC 2025"
         },
         "link": ""
       },
       {
         "title": {
           "en": "The Katie Shu Sui Pui Charitable Trust – Outstanding Research Publication Award in 2025",
-          "zh_TW": "蕭瑞貝慈善信託基金 – 2025年度傑出研究發表獎",
-          "zh_CN": "萧瑞贝慈善信托基金 – 2025年度杰出研究发表奖"
+          "zh_TW": "舒小佩慈善基金—2025年傑出研究著作獎",
+          "zh_CN": "舒小佩慈善基金—2025年杰出研究著作奖"
         },
         "link": "https://www.hkmu.edu.hk/news/hkmu-holds-annual-award-presentation-ceremony-to-recognise-staffs-outstanding-achievements-and-long-service/"
       },
       {
         "title": {
           "en": "Gold Medal/Jury’s Choice Award/Special Award, the invention 'Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks', iCAN 2022",
-          "zh_TW": "金獎 / 評審團選擇獎 / 特別獎，發明項目 '基於非侵入式學習者數據的深度神經網絡情感分類系統'，iCAN 2022",
-          "zh_CN": "金奖 / 评审团选择奖 / 特别奖，发明项目 '基于非侵入式学者数据的深度神经网络情感分类系统'，iCAN 2022"
+          "zh_TW": "金獎／評審團選擇獎／特別獎，「通過深度神經網絡促進基於非侵入式學習者數據的情緒分類」，第七屆加拿大國際發明創新大賽（iCAN 2022），2022年",
+          "zh_CN": "金奖／评审团选择奖／特别奖，「通过深度神经网络促进基于非侵入式学习者数据的情绪分类」，第七届加拿大国际发明创新大赛（iCAN 2022），2022年"
         },
         "link": ""
       },
       {
         "title": {
           "en": "Travel Award In Sensors Networks Winner, Sensors, MDPI, 2021",
-          "zh_TW": "傳感器網絡旅行獎獲得者，Sensors 期刊 (MDPI)，2021",
-          "zh_CN": "传感器网络旅行奖获得者，Sensors 期刊 (MDPI)，2021"
+          "zh_TW": "2021年 Sensors（MDPI）傳感器網絡領域差旅獎",
+          "zh_CN": "2021年 Sensors（MDPI）传感器网络领域差旅奖"
         },
         "link": ""
       },
       {
         "title": {
           "en": "Full Scholarship Grants for PhD Students, MUST, 09/2019 ~ 06/2022",
-          "zh_TW": "澳門科技大學 博士研究生全額獎學金，09/2019 ~ 06/2022",
-          "zh_CN": "澳门科技大学 博士研究生全额奖学金，09/2019 ~ 06/2022"
+          "zh_TW": "博士全額獎學金，澳門科技大學，2019年9月—2022年6月",
+          "zh_CN": "博士全额奖学金，澳门科技大学，2019年9月—2022年6月"
         },
         "link": ""
       },
       {
         "title": {
           "en": "Full Scholarship Grants for Master Students, MUST, 09/2017 ~ 06/2019",
-          "zh_TW": "澳門科技大學 碩士研究生全額獎學金，09/2017 ~ 06/2019",
-          "zh_CN": "澳门科技大学 硕士研究生全额奖学金，09/2017 ~ 06/2019"
+          "zh_TW": "碩士全額獎學金，澳門科技大學，2017年9月—2019年6月",
+          "zh_CN": "硕士全额奖学金，澳门科技大学，2017年9月—2019年6月"
         },
         "link": ""
       }

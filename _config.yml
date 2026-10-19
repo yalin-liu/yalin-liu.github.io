@@ -9,6 +9,15 @@ paginate: 5
 paginate_path: "/page:num/"
 category_dir: categories
 tag_dir: tags
+exclude:
+  - project-memory
+  - README.md
+  - note.md
+  - Dockerfile
+  - docker-compose.yml
+  - make.sh
+  - papers/Master_Thesis.pdf
+  - papers/A2S GloCom.pdf
 collections:
   pages:
     output: true

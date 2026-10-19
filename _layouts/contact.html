@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.language | default: 'en' | replace: '_', '-' }}">
 <head>
   {% include head.html %}
 </head>
@@ -36,7 +36,7 @@
             let contentHtml = '';
             if (item.link) {
               rsEmail = item.link.replace(/%EMAIL%/g, CONTACT_EMAIL);
-              contentHtml = `<a href="${rsEmail}" title="${item.title}" target="_blank">${localizedValue}</a>`;
+              contentHtml = `<a href="${rsEmail}" title="${currentLang === 'en' ? item.title : localizedLabel}" target="_blank">${localizedValue}</a>`;
             } else {
               contentHtml = localizedValue;
             }
