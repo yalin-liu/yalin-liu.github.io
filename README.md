@@ -161,7 +161,6 @@ These results describe the reviewed snapshot and stated acceptance scope. They d
 | Chinese Resume project markup | `zh-CN/resume.md`, `zh-TW/resume.md` — keep aligned with the shared project data. |
 | Publication formatting and sorting | `assets/js/publication-display.js`, `_layouts/resume.html`, `_layouts/research.html` |
 | Shared UI and language switching | `_includes/`, `_layouts/`, `assets/css/` |
-| Local Mingyang profile | `_data/mingyang_profile.json`, `_layouts/member-profile.html`, `assets/css/member-profile.css`, and three member-page routes. |
 | Public build configuration | `_config.yml` |
 
 Keep stable publication IDs when editing records; display numbers can change with ordering. Mike's separately published personal site is maintained in its own repository; the local member pages here do not automatically update that site.
