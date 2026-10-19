@@ -1,10 +1,10 @@
-# Yalin Liu's Homepage — October 2026 Review
+# Yalin Liu's Homepage — October 2026 Update
 
-This branch contains the multilingual homepage updates prepared by Mingyang Wang (Mike), incorporating the meeting instructions, supplied update documents, and subsequent review decisions. It covers the English, Simplified Chinese, and Traditional Chinese versions of Biography, Resume, Research, Teams, Teaching, and Contact, together with the associated articles and member pages.
+This repository contains the multilingual homepage updates prepared by Mingyang Wang (Mike), incorporating the meeting instructions, supplied update documents, and subsequent review decisions. It covers the English, Simplified Chinese, and Traditional Chinese versions of Biography, Resume, Research, Teams, Teaching, and Contact, together with the associated articles and member pages.
 
-**Review branch:** [`mike/homepage-refresh`](https://github.com/yalin-liu/yalin-liu.github.io/tree/mike/homepage-refresh)
+**Update branch:** [`mike/homepage-refresh`](https://github.com/yalin-liu/yalin-liu.github.io/tree/mike/homepage-refresh)
 
-**Status:** Published for review; not merged into `master`. The production website and its GitHub Pages publishing settings remain unchanged.
+**Status:** Approved for production publication on **19 October 2026**. The live website is built from `master` with the existing GitHub Pages configuration.
 
 ## Open the preview
 
@@ -16,9 +16,9 @@ This branch contains the multilingual homepage updates prepared by Mingyang Wang
 
 Use the sidebar to review the six main sections and the language controls to switch between corresponding pages. The preview is accessible without running a local server.
 
-- [Review the complete branch diff](https://github.com/yalin-liu/yalin-liu.github.io/compare/master...mike/homepage-refresh)
+- [Review the website changes](https://github.com/yalin-liu/yalin-liu.github.io/compare/b40ddf8b0865e0b5b60c2e795342e227bca6a1b8...5ab00986f291e76f54673d8f2af53b6463453e9c)
 - [Preview repository and build provenance](https://github.com/Mikeahhh/yalin-homepage-preview)
-- [Existing production website](https://yalin-liu.github.io/)
+- [Production website](https://yalin-liu.github.io/)
 
 The website changes described below are contained in commit [`5ab0098`](https://github.com/yalin-liu/yalin-liu.github.io/commit/5ab00986f291e76f54673d8f2af53b6463453e9c), based on production commit `b40ddf8`. Later README or branch-name updates do not change the rendered website.
 
@@ -164,7 +164,7 @@ Keep stable publication IDs when editing records; display numbers can change wit
 The reviewed build used Ruby **3.3.12** and Jekyll **4.4.1**. Install Ruby and Bundler, then run:
 
 ```sh
-git clone --branch mike/homepage-refresh https://github.com/yalin-liu/yalin-liu.github.io.git
+git clone --branch master https://github.com/yalin-liu/yalin-liu.github.io.git
 cd yalin-liu.github.io
 bundle install
 bundle exec jekyll serve --host 127.0.0.1 --port 4000 --disable-disk-cache
@@ -178,10 +178,10 @@ bundle exec jekyll build --disable-disk-cache
 
 The existing Docker setup is also retained (`docker compose up`); it was not the environment used for this acceptance run.
 
-### Review deployment
+### Production and preview deployment
 
-The teacher's production site continues to publish **`master` at `/`**. This review branch does not change that setting.
+The production site at [yalin-liu.github.io](https://yalin-liu.github.io/) publishes **`master` at `/`**. The approved October 2026 update uses that existing publishing configuration.
 
 The independent preview publishes prebuilt **`docs/` from `main`** in `Mikeahhh/yalin-homepage-preview`, with `.nojekyll`. Its build uses `url: https://mikeahhh.github.io` and `baseurl: /yalin-homepage-preview`; four JSAC corrected-PDF references are adapted only in the preview copy so they stay inside that subpath. The teacher's root-site source retains its original paths.
 
-The preview is a fixed snapshot, not an automatic deployment of every future commit. After a website change, rebuild and verify all three languages before updating it. Merging this branch or changing the teacher's production publishing settings requires a separate decision.
+The preview is a fixed snapshot, not an automatic deployment of every future commit. After a website change, rebuild and verify all three languages before updating it. Production updates are published from `master`; updating the independent preview does not update the production site.
